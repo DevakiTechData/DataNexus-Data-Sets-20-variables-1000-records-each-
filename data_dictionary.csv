@@ -1,0 +1,121 @@
+Table,Column,Dtype,Example
+students,Student_ID,int64,1
+students,First_Name,object,Allen
+students,Last_Name,object,Diaz
+students,SLU_Email,object,allen.diaz659@slu.edu
+students,Program,object,MS Data Science
+students,Major,object,Electrical Engineering
+students,Enrollment_Year,int64,2018
+students,Expected_Graduation_Year,int64,2019
+students,Visa_Status,object,STEM-OPT
+students,Enrollment_Status,object,Part-Time
+students,GPA,float64,3.76
+students,Credits_Earned,int64,12
+students,Advisor_Name,object,Deanna Johnson
+students,City,object,Buffalo
+students,State,object,NY
+students,Country,object,USA
+students,Current_Employer_ID,int64,234
+students,Internship_Role,object,QA Intern
+students,Internship_Start_Date,object,2018-01-14
+students,Student_Roll_Number,object,SLU146086
+alumni,Alumni_ID,int64,1
+alumni,First_Name,object,Cameron
+alumni,Last_Name,object,Barker
+alumni,SLU_Email,object,cameron.barker157@slu.edu
+alumni,Personal_Email,object,cameron.barker234@yahoo.com
+alumni,Degree,object,BS
+alumni,Major,object,Finance
+alumni,Graduation_Year,int64,2016
+alumni,Visa_Phase,object,Full-Time
+alumni,City,object,Buffalo
+alumni,State,object,NY
+alumni,Country,object,USA
+alumni,Current_Employer_ID,int64,983
+alumni,Current_Role,object,Product Manager
+alumni,Current_Technologies,object,"R, .NET"
+alumni,Employment_Type,object,Intern
+alumni,Salary_USD,int64,118191
+alumni,Job_Portal_Source,object,LinkedIn
+alumni,LinkedIn_URL,object,https://www.linkedin.com/in/cameronbarker316
+alumni,Zip_Code,int64,41972
+employers,Employer_ID,int64,1
+employers,Company_Name,object,Johnson-Parker
+employers,Industry,object,Finance
+employers,City,object,Buffalo
+employers,State,object,NY
+employers,Country,object,USA
+employers,Partnership_Level,object,Bronze
+employers,Contact_Name,object,Autumn Ramirez
+employers,Contact_Email,object,hr@consultex.com
+employers,Contact_Phone,object,+1-674-711-8018x4450
+employers,Website,object,https://johnson-parker.com
+employers,Company_Size,object,1-50
+employers,NAICS_Code,int64,785205
+employers,Address_Line1,object,610 Myers Valleys Suite 235
+employers,Address_Line2,object,Suite 571
+employers,Zip_Code,int64,69819
+employers,Partnership_Start_Date,object,2025-10-03
+employers,Active_Flag,object,No
+employers,Remote_Policy,object,Hybrid
+employers,Diversity_Program,object,No
+jobs,Job_ID,int64,1
+jobs,Alumni_ID,int64,300
+jobs,Employer_ID,int64,150
+jobs,Role,object,Salesforce Developer
+jobs,Technology,object,"React, .NET"
+jobs,Employment_Type,object,Part-Time
+jobs,Work_Auth_At_Hire,object,STEM-OPT
+jobs,Remote_Flag,object,Yes
+jobs,City,object,Austin
+jobs,State,object,TX
+jobs,Country,object,USA
+jobs,Start_Date,object,2016-03-31
+jobs,End_Date,object,2017-09-18
+jobs,Job_Portal,object,Handshake
+jobs,Salary_USD,int64,120010
+jobs,Bonus_USD,int64,4625
+jobs,Performance_Rating,int64,3
+jobs,Manager_Name,object,Molly Cole
+jobs,Team,object,QA
+jobs,Offer_Accept_Days,int64,16
+events,Event_ID,int64,1
+events,Event_Name,object,Seminar Check
+events,Event_Type,object,Seminar
+events,Organizer,object,CS Dept
+events,Event_Date,object,2016-09-18
+events,Category,object,Employer
+events,Location_City,object,San Francisco
+events,Location_State,object,CA
+events,Location_Country,object,USA
+events,Start_Time,object,11:00
+events,Duration_Minutes,int64,180
+events,Modality,object,Virtual
+events,Registration_Required,object,Yes
+events,Capacity,int64,359
+events,Attendees_Actual,int64,245
+events,Sponsor,object,SLU
+events,Cost_USD,int64,10
+events,Feedback_Average,float64,4.75
+events,Department,object,Analytics
+events,Notes,object,Tech-focused
+engagements,Engagement_ID,int64,1
+engagements,Alumni_ID,int64,300
+engagements,Event_ID,int64,150
+engagements,Participation_Score,int64,93
+engagements,Feedback_Text,object,Great networking opportunity
+engagements,Checkin_Method,object,QR
+engagements,Attendance_Status,object,Attended
+engagements,Feedback_Rating,int64,1
+engagements,Survey_Completed,object,No
+engagements,Hours_Spent,float64,0.83
+engagements,Registered_Flag,object,Yes
+engagements,RSVP_Date,object,2025-10-03
+engagements,Followup_Sent,object,No
+engagements,Followup_Response,object,No
+engagements,Badge_Earned,object,Attendee
+engagements,Certificate_Issued,object,No
+engagements,Photo_Consent,object,Yes
+engagements,Comments,object,Great panelists
+engagements,Created_At,object,2022-03-27
+engagements,Updated_At,object,2024-11-26

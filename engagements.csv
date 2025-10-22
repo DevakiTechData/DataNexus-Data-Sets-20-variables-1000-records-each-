@@ -1,0 +1,1001 @@
+Engagement_ID,Alumni_ID,Event_ID,Participation_Score,Feedback_Text,Checkin_Method,Attendance_Status,Feedback_Rating,Survey_Completed,Hours_Spent,Registered_Flag,RSVP_Date,Followup_Sent,Followup_Response,Badge_Earned,Certificate_Issued,Photo_Consent,Comments,Created_At,Updated_At
+1,300,150,93,Great networking opportunity,QR,Attended,1,No,0.83,Yes,2025-10-03,No,No,Attendee,No,Yes,Great panelists,2022-03-27,2024-11-26
+2,959,303,98,Helpful for interviews,QR,Attended,3,No,1.28,Yes,2018-04-09,Yes,Later,Attendee,No,No,Good content,2020-12-03,2024-07-27
+3,11,677,57,Helpful for interviews,QR,No-Show,5,No,1.82,Yes,2016-11-18,Yes,No,Volunteer,No,Yes,Looking for internship,2019-08-04,2022-05-04
+4,409,251,87,Helpful for interviews,Kiosk,No-Show,1,Yes,1.12,Yes,2017-07-02,No,No,Speaker,No,Yes,Looking for internship,2019-02-05,2017-09-05
+5,948,427,86,Relevant content,Manual,Attended,3,Yes,1.65,Yes,2017-10-05,No,Later,Volunteer,No,No,Good content,2020-09-04,2024-11-22
+6,856,297,78,Informative session,QR,Cancelled,4,Yes,1.2,Yes,2018-09-23,No,Later,Speaker,Yes,No,Would attend again,2024-02-01,2025-11-14
+7,234,538,60,Informative session,Manual,No-Show,1,Yes,1.76,Yes,2020-03-12,Yes,Yes,Mentor,Yes,Yes,Would attend again,2023-08-24,2022-11-02
+8,78,486,78,Good alumni connections,Kiosk,Attended,5,Yes,1.88,Yes,2022-05-15,No,Yes,Attendee,No,No,Good content,2015-10-10,2020-02-19
+9,174,313,83,Great networking opportunity,Kiosk,No-Show,1,Yes,0.93,Yes,2025-02-15,Yes,Later,Volunteer,No,Yes,Would attend again,2016-11-15,2015-07-10
+10,964,827,64,Great networking opportunity,Manual,Attended,4,No,0.25,Yes,2020-03-14,Yes,Yes,Mentor,Yes,Yes,Looking for internship,2019-11-12,2020-07-18
+11,771,884,99,Met potential employers,Manual,Cancelled,1,No,0.25,Yes,2021-10-06,No,Later,Speaker,Yes,No,Would attend again,2018-06-26,2024-02-17
+12,720,623,100,Good alumni connections,Manual,No-Show,5,No,2.86,Yes,2019-08-25,No,No,Speaker,Yes,No,Looking for internship,2022-07-24,2018-06-16
+13,165,820,74,Helpful for interviews,Manual,Attended,3,No,1.27,Yes,2025-01-31,Yes,Yes,Speaker,Yes,No,Good content,2025-11-24,2024-09-21
+14,109,201,60,Good alumni connections,Manual,Attended,3,No,0.72,Yes,2021-11-13,No,Yes,Mentor,Yes,No,Good content,2016-05-01,2018-06-10
+15,794,937,74,Average experience,Kiosk,Attended,3,Yes,1.22,Yes,2021-03-28,No,Later,Volunteer,No,Yes,Good content,2022-03-13,2023-09-22
+16,598,376,76,Average experience,Kiosk,Cancelled,4,Yes,1.47,Yes,2023-02-04,Yes,Later,Mentor,No,No,Would attend again,2019-02-09,2023-10-21
+17,543,317,52,Informative session,Manual,Attended,4,Yes,2.38,Yes,2019-12-09,No,Later,Volunteer,Yes,Yes,Looking for internship,2017-08-15,2017-06-21
+18,383,293,87,Relevant content,Kiosk,No-Show,1,No,0.25,Yes,2022-06-10,Yes,No,Speaker,Yes,Yes,Would attend again,2015-12-19,2025-07-31
+19,852,703,100,Average experience,Manual,Attended,1,No,1.79,Yes,2017-04-04,No,Yes,Mentor,Yes,No,Good content,2025-12-23,2019-02-05
+20,197,282,83,Great networking opportunity,Kiosk,Attended,1,No,1.29,Yes,2025-08-25,Yes,Yes,Attendee,No,No,Looking for internship,2018-08-18,2016-04-25
+21,254,53,76,Informative session,Kiosk,Cancelled,2,Yes,1.98,Yes,2017-08-24,No,Yes,Attendee,No,Yes,Great panelists,2018-11-02,2017-07-16
+22,344,796,91,Average experience,QR,Attended,5,No,1.21,Yes,2022-07-17,Yes,Yes,Speaker,No,Yes,Looking for internship,2021-04-06,2016-08-24
+23,215,265,68,Relevant content,Manual,Cancelled,4,No,0.35,Yes,2025-10-17,Yes,Later,Attendee,No,Yes,Looking for internship,2016-04-04,2025-08-28
+24,655,578,85,Informative session,Kiosk,Cancelled,4,Yes,0.99,Yes,2016-08-20,No,Yes,Speaker,No,Yes,Looking for internship,2020-10-02,2015-05-29
+25,471,937,94,Relevant content,Manual,No-Show,5,No,2.15,Yes,2019-10-21,Yes,Yes,Volunteer,Yes,No,Great panelists,2021-07-13,2018-12-09
+26,248,30,74,Helpful for interviews,Manual,No-Show,5,Yes,1.03,Yes,2019-04-28,No,Later,Volunteer,No,Yes,Good content,2018-02-10,2023-11-16
+27,547,324,90,Relevant content,Kiosk,Attended,3,No,1.5,Yes,2022-06-26,Yes,Later,Attendee,Yes,No,Would attend again,2015-10-28,2023-10-09
+28,554,166,95,Average experience,Manual,No-Show,4,No,1.59,Yes,2021-12-25,Yes,No,Speaker,Yes,No,Good content,2022-09-25,2022-09-29
+29,32,105,44,Informative session,Kiosk,No-Show,1,No,0.96,Yes,2018-11-27,No,Later,Volunteer,Yes,Yes,Would attend again,2025-05-04,2025-11-22
+30,497,635,62,Helpful for interviews,Manual,Attended,2,Yes,2.11,Yes,2017-03-25,Yes,Yes,Speaker,Yes,No,Looking for internship,2022-10-11,2018-09-11
+31,556,235,93,Relevant content,Manual,No-Show,1,Yes,1.06,Yes,2022-01-04,No,Yes,Attendee,Yes,Yes,Good content,2016-07-10,2018-04-05
+32,792,18,96,Good alumni connections,QR,Attended,5,Yes,1.84,Yes,2019-01-24,Yes,Yes,Attendee,No,No,Looking for internship,2022-03-09,2018-07-06
+33,986,660,74,Good alumni connections,Kiosk,Cancelled,4,Yes,1.63,Yes,2018-09-26,No,Yes,Mentor,No,No,Good content,2022-08-14,2025-12-02
+34,206,877,84,Met potential employers,Manual,Cancelled,1,No,2.37,Yes,2018-03-10,Yes,No,Speaker,Yes,Yes,Looking for internship,2024-09-10,2021-09-10
+35,496,352,75,Relevant content,Manual,Attended,1,Yes,1.92,Yes,2015-11-06,Yes,Yes,Volunteer,Yes,Yes,Good content,2024-11-15,2024-12-11
+36,859,459,57,Met potential employers,QR,No-Show,3,Yes,1.38,Yes,2019-08-13,Yes,Later,Attendee,Yes,No,Great panelists,2025-03-06,2016-04-23
+37,619,168,67,Relevant content,Manual,No-Show,4,No,0.25,Yes,2022-07-18,Yes,Yes,Mentor,No,No,Would attend again,2019-06-08,2025-05-01
+38,290,234,78,Average experience,QR,Attended,3,No,1.68,Yes,2017-05-17,Yes,No,Volunteer,Yes,Yes,Great panelists,2024-09-05,2018-03-12
+39,384,667,99,Great networking opportunity,Kiosk,Attended,5,No,1.27,Yes,2018-11-28,No,No,Attendee,No,Yes,Good content,2016-05-30,2021-03-03
+40,363,187,83,Met potential employers,Kiosk,No-Show,2,No,1.34,Yes,2015-03-14,No,No,Mentor,No,No,Looking for internship,2015-12-20,2025-06-17
+41,957,543,85,Helpful for interviews,Kiosk,Attended,4,Yes,2.81,Yes,2023-02-16,No,Later,Attendee,Yes,Yes,Looking for internship,2025-06-02,2023-02-01
+42,747,593,96,Met potential employers,Manual,Attended,4,No,3.04,Yes,2017-02-13,No,Later,Speaker,No,Yes,Would attend again,2023-06-23,2021-08-27
+43,673,993,79,Informative session,Kiosk,Cancelled,3,No,1.71,Yes,2021-12-11,No,Later,Speaker,Yes,No,Good content,2016-03-26,2016-10-03
+44,666,275,87,Good alumni connections,QR,Cancelled,5,Yes,1.72,Yes,2019-01-13,Yes,Later,Attendee,No,No,Would attend again,2023-07-21,2025-06-28
+45,295,164,63,Good alumni connections,Manual,No-Show,1,No,1.76,Yes,2020-05-14,No,Yes,Mentor,Yes,No,Great panelists,2019-07-06,2024-09-22
+46,460,815,99,Informative session,Manual,Cancelled,4,Yes,1.44,Yes,2015-09-11,Yes,No,Speaker,Yes,No,Great panelists,2022-11-23,2015-05-03
+47,723,852,81,Good alumni connections,Manual,No-Show,2,Yes,1.46,Yes,2025-05-25,Yes,No,Volunteer,Yes,Yes,Great panelists,2025-01-08,2021-11-21
+48,811,456,78,Relevant content,Kiosk,No-Show,4,Yes,0.77,Yes,2022-10-03,No,No,Attendee,Yes,Yes,Good content,2015-04-30,2025-07-22
+49,650,848,84,Great networking opportunity,Kiosk,Cancelled,5,Yes,0.95,Yes,2020-09-06,Yes,No,Mentor,Yes,No,Looking for internship,2023-08-02,2017-05-09
+50,879,602,87,Helpful for interviews,QR,Cancelled,3,No,1.48,Yes,2023-04-19,No,Yes,Volunteer,No,Yes,Good content,2025-09-14,2023-12-06
+51,145,318,84,Great networking opportunity,QR,Attended,1,No,0.25,Yes,2016-11-12,No,No,Speaker,Yes,Yes,Would attend again,2023-06-12,2018-02-24
+52,414,726,84,Average experience,QR,No-Show,4,Yes,2.19,Yes,2021-07-15,No,Yes,Volunteer,Yes,No,Great panelists,2023-03-27,2017-10-22
+53,258,832,93,Great networking opportunity,Kiosk,No-Show,2,Yes,1.33,Yes,2022-11-06,Yes,Later,Speaker,Yes,Yes,Would attend again,2015-10-02,2025-11-21
+54,967,137,80,Helpful for interviews,Manual,No-Show,2,Yes,2.0,Yes,2017-12-31,No,Yes,Speaker,Yes,No,Great panelists,2024-07-24,2018-05-01
+55,523,779,77,Relevant content,Manual,No-Show,2,Yes,1.02,Yes,2021-07-03,No,Yes,Mentor,Yes,Yes,Good content,2023-12-03,2019-04-27
+56,680,962,85,Helpful for interviews,Kiosk,No-Show,2,Yes,1.66,Yes,2021-11-16,No,No,Volunteer,Yes,Yes,Would attend again,2025-03-21,2017-09-01
+57,491,643,62,Great networking opportunity,Manual,Attended,5,No,1.16,Yes,2022-06-12,No,Later,Mentor,No,No,Great panelists,2016-01-19,2020-06-29
+58,396,890,80,Great networking opportunity,Manual,Cancelled,3,Yes,0.81,Yes,2018-11-28,No,No,Speaker,Yes,No,Looking for internship,2017-01-25,2021-12-20
+59,276,979,59,Met potential employers,QR,No-Show,3,No,2.82,Yes,2018-05-31,No,No,Attendee,No,No,Great panelists,2022-03-16,2016-06-16
+60,860,794,76,Relevant content,Manual,Cancelled,5,No,1.12,Yes,2025-03-02,No,Yes,Mentor,No,Yes,Great panelists,2018-06-18,2020-01-05
+61,408,81,75,Informative session,QR,No-Show,3,No,1.11,Yes,2022-09-29,Yes,No,Mentor,No,No,Good content,2023-06-06,2023-10-26
+62,872,529,86,Helpful for interviews,Manual,Cancelled,1,No,2.0,Yes,2019-01-06,No,No,Volunteer,Yes,Yes,Good content,2021-04-18,2021-05-05
+63,638,425,97,Relevant content,QR,No-Show,5,No,2.13,Yes,2021-10-09,No,Yes,Volunteer,Yes,Yes,Good content,2023-12-08,2017-10-22
+64,311,68,96,Helpful for interviews,QR,No-Show,5,Yes,1.69,Yes,2021-02-26,Yes,No,Mentor,No,Yes,Great panelists,2019-07-23,2023-04-25
+65,587,36,59,Helpful for interviews,Kiosk,Attended,3,No,1.46,Yes,2024-03-25,No,No,Volunteer,Yes,No,Good content,2018-10-04,2025-08-07
+66,750,244,95,Average experience,Kiosk,Cancelled,1,No,0.59,Yes,2017-03-26,No,No,Volunteer,Yes,No,Great panelists,2018-11-24,2025-07-12
+67,225,958,67,Met potential employers,Kiosk,Cancelled,3,No,1.03,Yes,2017-08-29,No,Yes,Mentor,No,No,Great panelists,2025-10-20,2019-05-28
+68,334,338,60,Good alumni connections,QR,No-Show,2,No,1.43,Yes,2025-03-04,No,Later,Attendee,Yes,Yes,Looking for internship,2022-11-14,2016-02-09
+69,271,238,58,Met potential employers,Manual,No-Show,5,Yes,1.44,Yes,2019-12-04,No,Later,Speaker,Yes,Yes,Great panelists,2016-11-18,2016-12-31
+70,947,861,45,Met potential employers,Manual,No-Show,4,Yes,3.2,Yes,2015-08-27,Yes,No,Attendee,No,No,Would attend again,2018-06-19,2022-01-02
+71,311,537,42,Good alumni connections,Kiosk,Cancelled,1,Yes,2.29,Yes,2023-02-08,No,Yes,Mentor,No,No,Looking for internship,2019-06-18,2018-07-07
+72,518,71,76,Relevant content,Manual,Attended,2,Yes,2.06,Yes,2017-12-26,No,Later,Attendee,No,Yes,Would attend again,2019-11-06,2024-01-27
+73,442,552,76,Helpful for interviews,QR,No-Show,4,No,1.04,Yes,2019-10-05,Yes,Yes,Mentor,No,Yes,Looking for internship,2021-02-01,2016-03-03
+74,70,328,62,Average experience,Kiosk,Attended,2,No,2.14,Yes,2021-04-05,Yes,No,Volunteer,No,No,Looking for internship,2016-02-11,2021-08-18
+75,815,807,100,Relevant content,Manual,Cancelled,2,Yes,1.79,Yes,2016-06-08,Yes,Yes,Speaker,No,Yes,Good content,2025-09-23,2024-02-26
+76,378,279,73,Great networking opportunity,Manual,Cancelled,1,Yes,1.4,Yes,2022-05-11,Yes,Later,Volunteer,No,Yes,Looking for internship,2024-11-27,2016-08-29
+77,263,388,63,Helpful for interviews,Manual,Cancelled,5,No,2.19,Yes,2024-09-29,No,No,Mentor,No,Yes,Great panelists,2016-03-23,2023-07-28
+78,266,588,89,Relevant content,QR,Attended,1,No,1.23,Yes,2023-08-03,No,Later,Volunteer,Yes,Yes,Good content,2018-11-08,2017-06-07
+79,547,125,74,Great networking opportunity,Kiosk,Cancelled,5,Yes,1.52,Yes,2018-07-14,Yes,No,Attendee,Yes,No,Good content,2015-04-15,2020-07-03
+80,161,157,76,Good alumni connections,Kiosk,Attended,2,No,1.44,Yes,2015-04-06,No,Yes,Speaker,Yes,Yes,Would attend again,2025-07-15,2023-03-13
+81,331,970,91,Good alumni connections,Kiosk,No-Show,2,No,1.31,Yes,2023-01-19,Yes,Later,Speaker,Yes,Yes,Great panelists,2020-02-16,2023-11-16
+82,602,716,90,Helpful for interviews,QR,Cancelled,2,Yes,1.57,Yes,2020-11-21,Yes,No,Attendee,Yes,Yes,Looking for internship,2016-10-29,2019-05-14
+83,874,868,94,Met potential employers,Kiosk,Attended,1,No,1.66,Yes,2019-04-03,Yes,No,Mentor,No,Yes,Good content,2019-02-07,2020-07-29
+84,548,593,100,Informative session,Kiosk,Attended,5,Yes,0.97,Yes,2021-01-24,No,Yes,Mentor,No,No,Good content,2016-09-06,2021-09-08
+85,551,404,52,Great networking opportunity,Manual,Attended,1,No,1.97,Yes,2024-07-04,Yes,Yes,Volunteer,No,Yes,Would attend again,2022-02-23,2017-02-07
+86,267,932,65,Informative session,Kiosk,Attended,3,No,1.74,Yes,2024-01-26,No,Later,Mentor,No,No,Good content,2023-09-08,2024-08-13
+87,883,986,95,Great networking opportunity,Manual,No-Show,5,Yes,2.33,Yes,2019-01-11,Yes,No,Volunteer,No,No,Good content,2022-04-30,2020-11-02
+88,193,163,80,Relevant content,QR,Cancelled,2,No,1.53,Yes,2021-09-02,Yes,Yes,Mentor,No,Yes,Looking for internship,2021-07-17,2021-02-02
+89,478,834,72,Good alumni connections,Manual,Cancelled,1,Yes,0.69,Yes,2025-12-19,No,Yes,Speaker,Yes,No,Looking for internship,2023-07-05,2017-08-25
+90,220,627,86,Average experience,Kiosk,Cancelled,1,Yes,1.63,Yes,2025-10-27,No,Yes,Volunteer,No,No,Great panelists,2015-05-11,2024-04-29
+91,121,341,100,Great networking opportunity,QR,Attended,5,No,2.17,Yes,2022-10-28,Yes,No,Speaker,Yes,Yes,Good content,2021-12-02,2018-12-25
+92,492,16,90,Average experience,Manual,Cancelled,3,No,2.51,Yes,2023-11-23,Yes,Later,Volunteer,Yes,No,Great panelists,2023-10-12,2022-06-23
+93,59,291,100,Great networking opportunity,Manual,Attended,3,Yes,1.45,Yes,2023-04-01,No,Yes,Volunteer,No,Yes,Looking for internship,2020-12-09,2024-09-19
+94,434,244,81,Helpful for interviews,QR,Attended,1,Yes,0.83,Yes,2019-01-09,Yes,No,Attendee,Yes,No,Looking for internship,2015-12-09,2020-06-20
+95,143,842,88,Good alumni connections,Manual,No-Show,5,No,3.21,Yes,2025-05-16,No,Yes,Volunteer,No,No,Great panelists,2021-06-14,2016-04-19
+96,762,368,94,Helpful for interviews,Manual,No-Show,1,Yes,0.25,Yes,2015-04-18,No,Yes,Speaker,No,No,Looking for internship,2016-12-28,2016-04-20
+97,415,444,97,Good alumni connections,Kiosk,Cancelled,4,No,2.76,Yes,2020-12-24,No,Later,Speaker,No,Yes,Good content,2025-06-11,2025-03-12
+98,397,709,76,Met potential employers,Manual,No-Show,5,No,2.12,Yes,2025-04-27,No,Later,Speaker,No,No,Would attend again,2016-04-04,2022-06-22
+99,385,67,97,Informative session,QR,No-Show,2,Yes,1.47,Yes,2024-06-14,No,Later,Mentor,Yes,Yes,Good content,2023-03-02,2022-01-05
+100,543,763,88,Great networking opportunity,Kiosk,Cancelled,1,No,1.02,Yes,2019-10-16,No,Later,Speaker,No,No,Would attend again,2023-06-21,2017-04-29
+101,64,685,50,Helpful for interviews,Kiosk,No-Show,2,No,1.48,Yes,2016-11-02,No,No,Volunteer,No,Yes,Would attend again,2022-10-16,2016-01-25
+102,981,99,91,Great networking opportunity,Manual,Cancelled,1,No,1.09,Yes,2024-06-30,Yes,No,Mentor,Yes,Yes,Great panelists,2024-07-21,2019-08-29
+103,548,315,89,Informative session,QR,Attended,4,Yes,1.01,Yes,2019-12-14,No,Yes,Mentor,Yes,No,Great panelists,2017-03-08,2023-01-30
+104,152,457,72,Helpful for interviews,QR,No-Show,5,Yes,0.53,Yes,2016-02-21,No,No,Speaker,Yes,No,Great panelists,2025-11-05,2024-12-20
+105,771,802,71,Met potential employers,Manual,Cancelled,3,No,1.64,Yes,2018-05-09,Yes,No,Mentor,No,No,Good content,2018-12-22,2015-09-28
+106,545,107,86,Average experience,Manual,Cancelled,4,Yes,1.45,Yes,2022-11-09,No,Later,Mentor,Yes,Yes,Good content,2020-01-06,2016-08-20
+107,976,965,77,Informative session,QR,Cancelled,2,No,0.93,Yes,2021-03-11,No,Later,Mentor,Yes,Yes,Great panelists,2016-04-11,2017-03-30
+108,901,954,92,Met potential employers,QR,No-Show,4,Yes,1.7,Yes,2024-02-18,Yes,No,Volunteer,Yes,No,Good content,2019-03-10,2019-08-21
+109,142,35,94,Good alumni connections,Manual,Cancelled,3,Yes,1.55,Yes,2020-12-25,Yes,Yes,Mentor,Yes,Yes,Looking for internship,2025-09-26,2021-02-14
+110,55,29,93,Average experience,Manual,Cancelled,2,No,0.52,Yes,2022-07-26,Yes,Later,Volunteer,Yes,No,Looking for internship,2023-10-24,2024-04-10
+111,312,236,96,Good alumni connections,Manual,No-Show,5,No,1.08,Yes,2015-04-30,No,Later,Mentor,Yes,Yes,Would attend again,2023-04-20,2017-01-31
+112,911,330,94,Met potential employers,Kiosk,No-Show,4,No,1.09,Yes,2018-07-20,Yes,Yes,Volunteer,No,No,Great panelists,2020-04-22,2018-05-23
+113,449,978,61,Average experience,Kiosk,No-Show,2,Yes,1.78,Yes,2020-04-30,Yes,No,Attendee,Yes,No,Would attend again,2020-01-22,2025-09-22
+114,279,879,90,Informative session,QR,Attended,1,No,2.53,Yes,2022-12-21,No,Later,Volunteer,Yes,No,Would attend again,2015-11-22,2021-12-28
+115,994,833,88,Great networking opportunity,Kiosk,No-Show,4,Yes,1.35,Yes,2025-07-01,No,No,Mentor,No,No,Looking for internship,2022-10-07,2015-06-07
+116,401,132,53,Good alumni connections,QR,No-Show,2,No,0.92,Yes,2023-02-08,Yes,Later,Speaker,No,Yes,Good content,2015-03-03,2015-02-27
+117,258,648,63,Helpful for interviews,QR,No-Show,3,Yes,2.06,Yes,2023-05-24,Yes,No,Speaker,No,No,Looking for internship,2016-07-23,2018-12-10
+118,335,773,65,Good alumni connections,Kiosk,Attended,1,No,1.71,Yes,2015-03-03,Yes,No,Speaker,Yes,No,Looking for internship,2016-10-27,2024-04-10
+119,508,897,89,Helpful for interviews,Manual,No-Show,4,No,1.36,Yes,2019-09-11,Yes,No,Mentor,No,No,Would attend again,2021-01-31,2019-06-21
+120,210,338,86,Relevant content,Kiosk,Attended,5,Yes,1.75,Yes,2016-02-25,No,No,Attendee,No,Yes,Looking for internship,2018-05-13,2015-10-15
+121,863,995,81,Average experience,Manual,Cancelled,5,Yes,2.29,Yes,2023-08-26,Yes,Yes,Attendee,Yes,Yes,Looking for internship,2025-04-16,2022-05-27
+122,958,551,70,Good alumni connections,Manual,Attended,4,Yes,0.86,Yes,2023-08-25,Yes,No,Attendee,No,No,Looking for internship,2021-05-08,2015-12-28
+123,27,846,100,Met potential employers,Kiosk,No-Show,2,Yes,1.04,Yes,2023-06-21,No,No,Speaker,No,Yes,Would attend again,2017-01-31,2022-04-14
+124,482,488,72,Relevant content,QR,Attended,3,No,1.99,Yes,2024-10-25,Yes,Later,Attendee,Yes,Yes,Would attend again,2023-04-05,2016-01-11
+125,814,116,99,Met potential employers,Manual,No-Show,3,Yes,0.73,Yes,2020-11-14,No,Yes,Attendee,No,Yes,Good content,2023-04-13,2018-04-07
+126,188,180,69,Informative session,Manual,Cancelled,4,Yes,1.84,Yes,2023-03-29,No,No,Mentor,No,Yes,Looking for internship,2022-06-20,2023-04-01
+127,416,442,94,Helpful for interviews,QR,Cancelled,1,No,0.69,Yes,2022-03-23,Yes,Later,Attendee,No,Yes,Great panelists,2020-11-26,2022-08-27
+128,287,201,87,Good alumni connections,QR,No-Show,5,No,1.63,Yes,2016-01-17,No,Yes,Volunteer,Yes,No,Would attend again,2024-10-20,2024-04-19
+129,948,65,76,Informative session,Kiosk,Cancelled,4,No,1.6,Yes,2025-07-29,Yes,Later,Mentor,No,Yes,Great panelists,2016-06-18,2019-08-17
+130,177,124,69,Average experience,QR,No-Show,4,No,1.33,Yes,2017-11-23,No,No,Mentor,Yes,Yes,Would attend again,2019-05-09,2016-11-18
+131,953,990,88,Met potential employers,QR,Attended,4,No,1.11,Yes,2016-01-07,No,Yes,Volunteer,Yes,No,Looking for internship,2018-09-07,2022-05-31
+132,170,628,57,Average experience,QR,No-Show,3,No,1.5,Yes,2024-03-12,Yes,No,Volunteer,Yes,No,Great panelists,2023-12-01,2015-06-04
+133,383,886,89,Helpful for interviews,Manual,No-Show,2,Yes,2.14,Yes,2024-02-06,No,Yes,Volunteer,Yes,No,Would attend again,2019-07-01,2016-09-04
+134,582,653,68,Helpful for interviews,Kiosk,Cancelled,2,No,1.49,Yes,2018-12-08,Yes,Later,Volunteer,No,Yes,Good content,2017-05-04,2020-08-19
+135,771,716,100,Met potential employers,Manual,Cancelled,5,No,1.87,Yes,2015-09-17,No,No,Mentor,Yes,No,Would attend again,2015-07-18,2023-09-03
+136,613,546,74,Informative session,Manual,Attended,5,Yes,1.51,Yes,2017-11-14,No,No,Attendee,No,Yes,Good content,2025-06-19,2018-10-02
+137,474,58,74,Informative session,Kiosk,Attended,3,No,1.6,Yes,2023-07-17,Yes,Later,Attendee,Yes,No,Looking for internship,2025-04-10,2024-05-24
+138,809,47,80,Relevant content,Manual,No-Show,1,Yes,1.38,Yes,2022-10-27,No,No,Speaker,No,No,Good content,2016-11-14,2017-07-08
+139,678,430,68,Met potential employers,Manual,No-Show,1,Yes,1.85,Yes,2023-07-15,Yes,Yes,Attendee,No,No,Great panelists,2016-11-04,2022-05-29
+140,539,618,85,Met potential employers,QR,Attended,2,No,1.48,Yes,2020-10-26,Yes,Yes,Mentor,No,Yes,Great panelists,2018-08-28,2025-04-19
+141,360,503,66,Good alumni connections,Kiosk,No-Show,2,No,0.68,Yes,2022-06-20,No,Yes,Attendee,No,Yes,Looking for internship,2021-01-08,2020-06-13
+142,46,463,83,Great networking opportunity,Kiosk,Attended,5,No,1.29,Yes,2020-04-20,Yes,Yes,Attendee,No,Yes,Good content,2025-01-21,2019-07-06
+143,489,56,78,Good alumni connections,Manual,Cancelled,1,Yes,0.56,Yes,2018-04-03,No,Later,Mentor,No,Yes,Good content,2021-01-21,2021-09-21
+144,765,298,80,Helpful for interviews,Manual,Attended,5,Yes,0.8,Yes,2024-01-13,Yes,Yes,Volunteer,Yes,No,Looking for internship,2016-11-17,2016-09-03
+145,786,20,75,Informative session,QR,Cancelled,5,No,2.39,Yes,2025-06-13,No,Yes,Mentor,Yes,No,Good content,2017-06-05,2024-09-10
+146,892,553,54,Relevant content,QR,Cancelled,5,No,1.18,Yes,2016-03-17,No,Later,Volunteer,Yes,Yes,Great panelists,2021-06-19,2023-04-17
+147,550,80,76,Great networking opportunity,Manual,No-Show,4,Yes,1.89,Yes,2015-12-26,No,No,Volunteer,Yes,No,Would attend again,2018-02-27,2020-11-21
+148,116,168,64,Great networking opportunity,Manual,Cancelled,4,No,1.62,Yes,2018-05-31,No,No,Attendee,No,No,Great panelists,2021-05-30,2015-11-07
+149,623,757,100,Informative session,Kiosk,Cancelled,3,No,1.66,Yes,2021-09-03,Yes,Later,Volunteer,No,No,Great panelists,2023-10-04,2023-08-19
+150,600,561,69,Relevant content,Manual,Cancelled,2,Yes,1.91,Yes,2017-04-19,No,Later,Speaker,Yes,No,Looking for internship,2018-12-08,2017-10-24
+151,830,79,74,Good alumni connections,Kiosk,No-Show,5,No,1.32,Yes,2021-01-04,No,No,Mentor,Yes,Yes,Would attend again,2017-12-05,2025-04-30
+152,952,717,74,Met potential employers,Manual,Attended,1,No,1.98,Yes,2025-11-06,No,Later,Speaker,Yes,No,Great panelists,2024-04-12,2018-01-06
+153,412,283,77,Good alumni connections,Manual,Cancelled,1,Yes,1.4,Yes,2016-04-06,Yes,No,Attendee,Yes,No,Looking for internship,2025-07-13,2015-03-25
+154,595,121,93,Good alumni connections,Kiosk,Attended,2,Yes,1.56,Yes,2019-07-09,No,No,Attendee,Yes,Yes,Would attend again,2022-04-05,2019-06-13
+155,207,801,100,Good alumni connections,Manual,Cancelled,5,No,1.04,Yes,2024-01-05,No,Later,Mentor,Yes,Yes,Looking for internship,2021-11-10,2024-09-25
+156,134,88,73,Good alumni connections,Manual,No-Show,4,No,1.91,Yes,2018-01-21,No,Yes,Speaker,Yes,Yes,Looking for internship,2015-03-14,2025-10-08
+157,106,316,88,Good alumni connections,Kiosk,Cancelled,4,Yes,1.54,Yes,2023-11-20,No,Yes,Volunteer,No,No,Would attend again,2019-10-25,2018-12-12
+158,161,504,100,Relevant content,Kiosk,No-Show,1,No,2.31,Yes,2024-10-13,Yes,Yes,Mentor,No,Yes,Looking for internship,2018-11-30,2019-04-23
+159,873,692,100,Informative session,QR,No-Show,2,Yes,1.69,Yes,2024-05-18,No,Yes,Attendee,Yes,Yes,Looking for internship,2016-09-27,2017-12-19
+160,420,351,93,Informative session,Manual,Attended,5,Yes,1.95,Yes,2016-04-18,No,No,Speaker,No,Yes,Looking for internship,2018-11-26,2023-10-15
+161,6,570,46,Met potential employers,Manual,No-Show,5,No,1.69,Yes,2024-02-26,Yes,Later,Speaker,No,Yes,Great panelists,2025-09-27,2024-07-30
+162,916,642,75,Great networking opportunity,Kiosk,Attended,2,No,1.9,Yes,2021-04-15,Yes,Yes,Attendee,No,Yes,Great panelists,2017-04-06,2023-08-02
+163,466,698,74,Relevant content,QR,Cancelled,5,No,1.61,Yes,2016-10-21,No,Yes,Mentor,No,No,Good content,2017-04-26,2024-10-26
+164,188,545,100,Great networking opportunity,QR,Cancelled,5,Yes,2.16,Yes,2024-06-02,Yes,No,Mentor,Yes,No,Would attend again,2016-06-20,2024-05-24
+165,800,88,92,Great networking opportunity,Manual,Cancelled,2,No,1.72,Yes,2015-08-15,No,No,Attendee,No,No,Good content,2021-04-06,2024-12-28
+166,605,650,67,Relevant content,Manual,Cancelled,1,Yes,1.57,Yes,2015-07-05,No,No,Volunteer,Yes,Yes,Good content,2018-08-22,2020-03-24
+167,146,388,77,Good alumni connections,QR,Attended,5,Yes,2.23,Yes,2022-10-06,No,Later,Speaker,No,No,Good content,2016-12-01,2023-08-09
+168,909,700,71,Informative session,QR,No-Show,5,Yes,1.04,Yes,2016-08-25,Yes,Later,Speaker,Yes,Yes,Good content,2024-04-09,2018-11-21
+169,933,972,68,Average experience,Kiosk,Cancelled,4,Yes,1.91,Yes,2016-05-07,No,Later,Mentor,Yes,No,Looking for internship,2020-10-28,2021-05-30
+170,654,493,75,Good alumni connections,Manual,No-Show,2,No,2.87,Yes,2022-10-01,Yes,Yes,Volunteer,Yes,Yes,Great panelists,2025-04-27,2020-01-18
+171,932,508,97,Average experience,Manual,Cancelled,1,Yes,0.97,Yes,2016-05-02,Yes,Yes,Speaker,No,Yes,Great panelists,2018-12-24,2025-05-17
+172,470,243,76,Average experience,Manual,Cancelled,1,No,1.86,Yes,2016-01-25,No,Later,Mentor,Yes,Yes,Would attend again,2015-04-09,2021-11-13
+173,173,96,97,Good alumni connections,Kiosk,Attended,1,Yes,1.98,Yes,2016-04-08,No,No,Attendee,No,No,Would attend again,2017-05-10,2016-08-07
+174,453,305,99,Informative session,QR,Attended,5,Yes,1.37,Yes,2019-08-07,Yes,No,Mentor,No,Yes,Looking for internship,2015-09-11,2025-06-28
+175,171,764,81,Informative session,Manual,No-Show,4,Yes,2.1,Yes,2025-02-03,No,Later,Mentor,Yes,Yes,Would attend again,2023-08-01,2017-01-14
+176,636,595,60,Good alumni connections,Kiosk,Attended,5,No,0.6,Yes,2021-01-25,No,Yes,Volunteer,Yes,Yes,Good content,2022-08-17,2022-09-15
+177,57,517,66,Helpful for interviews,Manual,Attended,2,Yes,0.25,Yes,2020-10-10,Yes,Yes,Volunteer,Yes,Yes,Looking for internship,2025-05-31,2021-02-20
+178,392,317,92,Informative session,Manual,No-Show,5,No,1.35,Yes,2022-09-07,Yes,No,Speaker,No,Yes,Great panelists,2017-08-25,2022-05-28
+179,505,676,100,Informative session,QR,Cancelled,5,No,1.59,Yes,2024-01-27,Yes,Later,Speaker,No,Yes,Great panelists,2020-12-01,2020-06-19
+180,821,955,80,Average experience,QR,No-Show,4,No,1.29,Yes,2018-04-24,Yes,Later,Volunteer,No,Yes,Good content,2016-07-05,2024-05-11
+181,452,792,86,Informative session,Manual,Cancelled,5,Yes,0.83,Yes,2023-01-27,Yes,Yes,Attendee,No,No,Good content,2016-10-15,2018-08-01
+182,303,811,82,Average experience,QR,Attended,3,Yes,2.74,Yes,2019-01-12,No,No,Attendee,No,No,Great panelists,2025-11-25,2023-01-02
+183,354,548,89,Good alumni connections,QR,Cancelled,5,No,0.82,Yes,2022-10-26,Yes,No,Volunteer,Yes,No,Great panelists,2024-10-29,2025-09-09
+184,652,587,87,Good alumni connections,Kiosk,No-Show,5,No,1.2,Yes,2020-03-31,Yes,Later,Volunteer,Yes,No,Great panelists,2019-03-03,2018-05-19
+185,439,688,88,Great networking opportunity,Kiosk,Cancelled,1,No,0.93,Yes,2021-05-15,No,Yes,Speaker,No,No,Great panelists,2019-03-01,2025-06-14
+186,667,435,73,Met potential employers,Manual,No-Show,5,Yes,1.15,Yes,2020-08-13,Yes,No,Speaker,Yes,Yes,Looking for internship,2021-12-07,2017-05-12
+187,615,157,73,Great networking opportunity,QR,Cancelled,3,Yes,3.03,Yes,2023-02-17,No,Yes,Speaker,Yes,No,Looking for internship,2020-06-14,2022-11-11
+188,817,595,82,Average experience,Kiosk,Cancelled,1,No,1.79,Yes,2024-10-01,Yes,No,Mentor,Yes,No,Would attend again,2019-03-09,2020-01-30
+189,40,826,81,Average experience,QR,Attended,3,No,1.84,Yes,2023-06-24,No,Yes,Speaker,Yes,Yes,Great panelists,2018-12-18,2015-12-24
+190,747,415,79,Met potential employers,Manual,Attended,1,No,0.93,Yes,2018-03-17,Yes,No,Attendee,No,No,Looking for internship,2022-04-24,2016-04-23
+191,326,711,54,Average experience,QR,Attended,3,No,1.01,Yes,2017-05-23,Yes,Yes,Mentor,No,No,Great panelists,2021-09-15,2023-03-14
+192,418,618,92,Helpful for interviews,Manual,Cancelled,4,No,1.03,Yes,2015-06-16,No,Later,Mentor,No,No,Good content,2023-06-30,2024-05-11
+193,547,282,67,Helpful for interviews,Kiosk,Cancelled,4,Yes,2.23,Yes,2017-08-01,Yes,No,Volunteer,No,Yes,Good content,2024-01-27,2025-01-13
+194,780,766,72,Great networking opportunity,Kiosk,Attended,5,Yes,1.42,Yes,2025-07-01,No,No,Volunteer,Yes,No,Would attend again,2018-04-30,2018-02-12
+195,2,80,100,Informative session,Manual,No-Show,5,Yes,2.1,Yes,2016-07-22,No,Yes,Mentor,No,No,Good content,2022-02-22,2021-09-09
+196,852,653,66,Good alumni connections,QR,Attended,2,No,2.18,Yes,2021-04-04,Yes,No,Mentor,No,Yes,Great panelists,2022-06-19,2025-07-07
+197,228,416,92,Average experience,Manual,No-Show,3,Yes,1.63,Yes,2025-12-18,No,Yes,Speaker,No,Yes,Great panelists,2025-04-22,2024-03-16
+198,483,187,76,Relevant content,QR,Attended,2,Yes,2.1,Yes,2022-12-14,No,No,Mentor,No,No,Great panelists,2023-12-10,2016-03-02
+199,950,605,89,Helpful for interviews,Kiosk,Cancelled,2,No,2.27,Yes,2019-04-19,Yes,No,Attendee,No,No,Good content,2024-05-10,2016-04-16
+200,34,380,97,Informative session,Manual,No-Show,3,No,0.57,Yes,2018-09-02,No,Later,Attendee,No,No,Would attend again,2021-10-25,2021-09-27
+201,645,248,82,Met potential employers,Kiosk,Attended,4,Yes,0.92,Yes,2025-03-20,Yes,No,Mentor,Yes,Yes,Would attend again,2017-10-22,2020-06-19
+202,790,363,85,Average experience,QR,Attended,2,No,1.72,Yes,2024-03-07,Yes,No,Attendee,No,Yes,Great panelists,2023-03-21,2025-06-27
+203,614,268,73,Met potential employers,QR,Cancelled,4,Yes,1.23,Yes,2017-11-09,Yes,No,Mentor,Yes,No,Looking for internship,2021-01-02,2024-04-09
+204,981,878,82,Informative session,Kiosk,Attended,5,Yes,2.59,Yes,2017-10-12,No,Later,Volunteer,Yes,No,Would attend again,2016-05-12,2023-11-17
+205,795,809,93,Good alumni connections,QR,Attended,3,No,1.69,Yes,2016-01-19,Yes,No,Attendee,Yes,No,Good content,2025-06-13,2018-01-23
+206,938,719,86,Informative session,Manual,Attended,5,Yes,2.45,Yes,2020-05-15,No,No,Attendee,Yes,Yes,Great panelists,2021-04-07,2019-08-25
+207,648,500,75,Helpful for interviews,Manual,Cancelled,1,No,1.67,Yes,2015-03-02,Yes,No,Attendee,No,Yes,Looking for internship,2020-05-27,2020-07-31
+208,81,532,82,Good alumni connections,Manual,Cancelled,3,No,1.86,Yes,2023-05-04,Yes,No,Volunteer,No,Yes,Looking for internship,2019-08-25,2023-05-14
+209,478,971,84,Average experience,Manual,Attended,4,Yes,2.64,Yes,2017-11-05,Yes,No,Attendee,No,Yes,Good content,2016-02-01,2017-12-15
+210,876,714,100,Relevant content,QR,Attended,1,No,0.85,Yes,2018-06-08,Yes,Later,Speaker,No,No,Good content,2022-01-25,2023-05-05
+211,202,323,88,Great networking opportunity,QR,Cancelled,2,Yes,1.95,Yes,2017-09-26,Yes,Yes,Volunteer,No,Yes,Great panelists,2017-04-27,2021-09-25
+212,194,570,82,Met potential employers,Manual,Cancelled,3,No,1.33,Yes,2025-04-05,Yes,No,Volunteer,No,No,Great panelists,2018-02-10,2022-03-21
+213,509,276,66,Great networking opportunity,Manual,No-Show,4,Yes,0.82,Yes,2020-04-23,No,Later,Speaker,Yes,No,Great panelists,2022-07-02,2016-10-30
+214,728,764,67,Good alumni connections,Manual,No-Show,3,Yes,1.08,Yes,2017-02-21,No,No,Volunteer,No,No,Great panelists,2024-02-23,2020-05-11
+215,223,270,56,Good alumni connections,QR,Cancelled,2,Yes,2.14,Yes,2020-11-04,Yes,No,Speaker,No,Yes,Good content,2017-05-26,2016-02-26
+216,479,423,100,Great networking opportunity,Kiosk,Attended,2,Yes,1.88,Yes,2018-11-26,Yes,Later,Speaker,Yes,No,Looking for internship,2024-12-02,2020-02-06
+217,231,792,96,Great networking opportunity,Manual,Cancelled,2,Yes,2.27,Yes,2023-09-15,Yes,No,Mentor,No,Yes,Looking for internship,2015-07-01,2017-06-25
+218,70,276,68,Good alumni connections,Kiosk,No-Show,5,No,2.39,Yes,2016-07-15,No,Later,Mentor,Yes,No,Good content,2020-01-04,2019-10-11
+219,680,699,82,Good alumni connections,QR,No-Show,5,Yes,2.51,Yes,2020-11-08,Yes,Later,Attendee,Yes,No,Great panelists,2019-05-12,2024-11-12
+220,71,542,99,Informative session,Manual,Cancelled,5,Yes,1.97,Yes,2022-11-05,No,No,Speaker,Yes,Yes,Would attend again,2018-08-01,2018-10-30
+221,606,509,89,Met potential employers,Kiosk,Attended,3,Yes,1.93,Yes,2024-07-11,Yes,Later,Mentor,Yes,No,Good content,2023-11-07,2023-06-13
+222,257,440,82,Relevant content,Kiosk,Cancelled,3,No,1.5,Yes,2016-06-03,No,Later,Volunteer,No,Yes,Would attend again,2025-08-26,2024-10-30
+223,461,499,100,Helpful for interviews,Manual,No-Show,5,No,1.73,Yes,2016-08-07,Yes,No,Speaker,Yes,No,Good content,2025-09-30,2019-10-15
+224,866,132,75,Relevant content,QR,Attended,2,Yes,2.09,Yes,2025-09-13,No,Yes,Attendee,No,No,Great panelists,2025-05-23,2015-08-15
+225,76,345,89,Relevant content,Manual,Attended,1,No,0.56,Yes,2022-01-21,No,No,Speaker,No,No,Would attend again,2018-02-14,2020-11-22
+226,480,427,94,Average experience,Manual,Cancelled,4,Yes,1.56,Yes,2019-09-27,No,No,Mentor,No,No,Would attend again,2021-07-19,2023-11-04
+227,391,637,100,Good alumni connections,QR,No-Show,2,Yes,2.07,Yes,2022-04-20,Yes,Later,Speaker,No,Yes,Good content,2025-12-15,2017-06-03
+228,684,745,85,Relevant content,QR,Cancelled,2,No,0.62,Yes,2015-08-23,No,Later,Volunteer,No,No,Great panelists,2022-10-27,2022-07-07
+229,104,678,45,Met potential employers,Kiosk,Cancelled,3,No,1.88,Yes,2023-12-06,Yes,Yes,Speaker,Yes,Yes,Looking for internship,2023-10-15,2022-11-10
+230,785,470,69,Great networking opportunity,QR,Cancelled,3,No,0.73,Yes,2021-06-21,Yes,Yes,Attendee,Yes,No,Looking for internship,2016-11-26,2016-06-13
+231,860,771,94,Relevant content,QR,Cancelled,1,No,1.51,Yes,2016-12-05,Yes,Later,Volunteer,Yes,No,Good content,2019-03-27,2016-10-01
+232,587,630,79,Good alumni connections,QR,Attended,5,Yes,1.17,Yes,2025-08-05,Yes,No,Speaker,Yes,Yes,Looking for internship,2023-05-12,2016-06-21
+233,376,33,72,Met potential employers,QR,No-Show,5,No,0.88,Yes,2020-12-15,No,Yes,Attendee,No,Yes,Good content,2024-03-24,2025-10-14
+234,79,127,64,Great networking opportunity,Kiosk,Attended,4,No,1.33,Yes,2019-11-15,Yes,No,Speaker,Yes,Yes,Good content,2019-03-13,2024-02-17
+235,192,159,55,Relevant content,Kiosk,Attended,3,No,0.85,Yes,2021-03-12,Yes,No,Speaker,No,No,Great panelists,2019-06-16,2023-12-13
+236,965,22,100,Good alumni connections,Manual,No-Show,4,Yes,1.62,Yes,2019-07-14,Yes,Later,Mentor,Yes,No,Great panelists,2023-12-31,2020-08-19
+237,660,7,100,Great networking opportunity,Kiosk,No-Show,2,Yes,1.3,Yes,2022-05-21,No,Yes,Volunteer,Yes,No,Great panelists,2021-03-12,2016-07-26
+238,47,108,85,Average experience,QR,Cancelled,2,No,1.97,Yes,2025-01-11,Yes,Yes,Speaker,Yes,Yes,Looking for internship,2019-11-09,2024-04-26
+239,228,829,77,Met potential employers,Manual,No-Show,5,Yes,1.62,Yes,2018-03-20,No,No,Mentor,Yes,No,Great panelists,2018-07-10,2016-01-29
+240,571,660,64,Met potential employers,Manual,Attended,3,Yes,1.67,Yes,2025-12-31,No,No,Speaker,No,No,Looking for internship,2018-10-28,2018-02-28
+241,687,429,89,Great networking opportunity,QR,Attended,3,No,1.23,Yes,2017-02-10,Yes,Later,Mentor,Yes,Yes,Great panelists,2015-07-20,2023-01-16
+242,402,806,70,Good alumni connections,Kiosk,No-Show,2,Yes,0.87,Yes,2016-08-14,No,No,Mentor,No,Yes,Looking for internship,2020-07-08,2019-04-04
+243,314,192,96,Met potential employers,Kiosk,Attended,2,Yes,1.8,Yes,2015-05-20,No,Yes,Mentor,No,Yes,Good content,2017-03-20,2022-03-08
+244,184,126,100,Relevant content,Kiosk,Attended,5,No,2.73,Yes,2024-05-21,Yes,No,Attendee,No,No,Good content,2017-08-24,2023-07-10
+245,830,473,63,Average experience,Manual,Attended,4,No,1.4,Yes,2024-07-11,No,Later,Mentor,Yes,Yes,Good content,2018-05-30,2015-08-16
+246,332,827,91,Great networking opportunity,QR,Attended,5,No,2.47,Yes,2022-12-12,No,Yes,Volunteer,Yes,No,Great panelists,2019-09-15,2018-09-27
+247,758,327,74,Average experience,QR,Cancelled,3,No,0.25,Yes,2015-02-23,Yes,Later,Mentor,No,Yes,Would attend again,2024-12-26,2019-10-22
+248,792,1000,58,Great networking opportunity,QR,No-Show,1,Yes,1.3,Yes,2022-12-27,Yes,Later,Volunteer,No,No,Looking for internship,2019-02-20,2021-04-20
+249,13,111,92,Relevant content,Kiosk,Attended,4,No,1.37,Yes,2022-02-16,Yes,Later,Speaker,No,Yes,Good content,2017-05-14,2021-02-25
+250,424,419,69,Relevant content,Kiosk,Attended,2,Yes,2.6,Yes,2021-10-30,No,Yes,Speaker,Yes,No,Would attend again,2015-10-15,2019-02-01
+251,520,44,71,Average experience,Manual,Cancelled,3,No,2.57,Yes,2018-02-01,Yes,Yes,Attendee,Yes,No,Would attend again,2016-09-23,2022-05-05
+252,498,811,61,Relevant content,Manual,No-Show,5,No,1.54,Yes,2016-06-23,No,No,Mentor,Yes,Yes,Would attend again,2015-11-17,2022-06-01
+253,223,968,78,Relevant content,QR,Cancelled,5,Yes,2.11,Yes,2025-05-08,No,No,Volunteer,No,Yes,Looking for internship,2015-06-18,2022-09-08
+254,112,878,86,Great networking opportunity,Manual,Cancelled,2,Yes,2.19,Yes,2025-03-17,No,No,Mentor,No,Yes,Would attend again,2023-03-06,2017-10-15
+255,337,720,63,Average experience,Kiosk,Cancelled,4,Yes,1.25,Yes,2021-05-06,No,No,Attendee,No,No,Great panelists,2024-11-12,2025-06-24
+256,618,181,100,Average experience,QR,Attended,4,Yes,2.08,Yes,2022-12-05,Yes,Later,Volunteer,No,Yes,Looking for internship,2025-05-18,2021-11-27
+257,247,910,80,Relevant content,QR,Attended,2,Yes,1.51,Yes,2016-03-29,No,Yes,Speaker,No,Yes,Would attend again,2024-11-06,2019-05-22
+258,800,546,67,Relevant content,QR,Attended,5,No,0.64,Yes,2022-10-06,Yes,No,Attendee,No,No,Great panelists,2021-09-24,2016-09-18
+259,652,527,66,Met potential employers,QR,No-Show,2,Yes,2.02,Yes,2015-11-06,Yes,Yes,Mentor,No,Yes,Would attend again,2017-03-12,2018-02-01
+260,704,304,69,Good alumni connections,Kiosk,Cancelled,2,No,0.25,Yes,2021-06-29,No,No,Volunteer,No,Yes,Good content,2018-11-28,2022-07-19
+261,150,589,83,Good alumni connections,QR,Cancelled,2,No,1.71,Yes,2025-09-20,No,Later,Volunteer,Yes,Yes,Would attend again,2020-05-01,2020-06-14
+262,810,37,81,Good alumni connections,Kiosk,Attended,3,Yes,0.5,Yes,2018-07-05,Yes,Later,Speaker,No,Yes,Good content,2021-08-22,2018-02-15
+263,169,925,59,Informative session,Manual,Cancelled,2,Yes,1.62,Yes,2023-04-09,No,No,Mentor,No,Yes,Would attend again,2021-07-25,2024-05-16
+264,738,744,96,Helpful for interviews,Manual,No-Show,1,No,0.79,Yes,2019-06-11,Yes,No,Mentor,No,No,Good content,2018-08-08,2015-09-23
+265,891,662,85,Average experience,Kiosk,Cancelled,5,No,0.62,Yes,2020-04-24,No,Later,Speaker,No,No,Looking for internship,2025-08-02,2018-06-15
+266,515,181,80,Great networking opportunity,Manual,No-Show,2,Yes,1.76,Yes,2017-01-11,No,Later,Speaker,Yes,No,Looking for internship,2020-03-05,2024-09-13
+267,377,710,84,Great networking opportunity,Kiosk,No-Show,2,Yes,1.55,Yes,2019-07-01,No,Later,Speaker,No,No,Great panelists,2021-01-22,2015-11-01
+268,778,148,55,Average experience,QR,Attended,4,No,1.62,Yes,2020-04-04,No,No,Volunteer,Yes,Yes,Good content,2015-12-21,2021-12-28
+269,378,339,98,Informative session,Manual,No-Show,4,Yes,1.62,Yes,2016-12-04,Yes,Later,Attendee,Yes,No,Great panelists,2024-07-28,2019-04-01
+270,955,897,63,Informative session,Manual,No-Show,5,No,1.19,Yes,2017-09-10,Yes,Yes,Speaker,No,Yes,Great panelists,2019-08-10,2015-10-26
+271,22,741,100,Informative session,Manual,Attended,5,No,2.39,Yes,2018-03-06,No,Yes,Volunteer,No,Yes,Great panelists,2023-04-29,2023-12-27
+272,212,705,66,Great networking opportunity,Manual,Cancelled,5,Yes,1.54,Yes,2024-03-30,Yes,Yes,Mentor,Yes,Yes,Good content,2022-02-12,2024-01-29
+273,782,646,85,Met potential employers,QR,Cancelled,1,No,1.17,Yes,2024-08-11,Yes,Later,Speaker,Yes,No,Would attend again,2024-11-22,2023-08-05
+274,908,399,100,Good alumni connections,QR,No-Show,5,No,1.27,Yes,2024-12-09,No,Yes,Mentor,Yes,No,Would attend again,2025-03-01,2017-08-13
+275,606,764,78,Informative session,Manual,Cancelled,3,No,0.83,Yes,2017-01-24,Yes,Yes,Attendee,No,No,Good content,2025-08-18,2024-01-11
+276,484,878,66,Good alumni connections,Kiosk,No-Show,3,No,1.77,Yes,2021-01-05,No,Yes,Attendee,No,No,Would attend again,2020-06-29,2025-11-08
+277,658,990,65,Good alumni connections,Manual,Attended,2,Yes,2.45,Yes,2024-01-08,No,Yes,Volunteer,No,Yes,Good content,2016-04-04,2017-06-29
+278,805,965,89,Helpful for interviews,QR,Cancelled,4,No,1.45,Yes,2025-03-17,No,Later,Mentor,Yes,Yes,Great panelists,2025-12-09,2021-03-16
+279,966,57,70,Informative session,QR,Attended,4,No,1.91,Yes,2025-07-13,No,Later,Volunteer,Yes,Yes,Great panelists,2015-04-06,2016-10-09
+280,609,207,77,Relevant content,Kiosk,Cancelled,2,No,2.19,Yes,2024-11-23,Yes,Yes,Speaker,Yes,No,Looking for internship,2019-07-02,2015-05-26
+281,843,114,82,Informative session,Manual,Cancelled,2,No,0.72,Yes,2025-04-14,No,Yes,Attendee,No,Yes,Would attend again,2021-11-20,2019-01-12
+282,865,280,45,Relevant content,Kiosk,Cancelled,3,Yes,1.47,Yes,2020-11-12,Yes,Later,Speaker,Yes,Yes,Would attend again,2024-03-20,2018-08-06
+283,2,596,78,Met potential employers,Manual,Cancelled,5,No,1.52,Yes,2025-05-02,Yes,Yes,Speaker,No,No,Looking for internship,2017-01-16,2018-10-10
+284,174,834,54,Great networking opportunity,Manual,Cancelled,3,Yes,0.84,Yes,2020-09-25,No,No,Volunteer,No,Yes,Looking for internship,2024-12-12,2017-01-09
+285,541,127,70,Relevant content,Manual,Attended,1,Yes,0.95,Yes,2018-07-19,No,Later,Attendee,Yes,No,Looking for internship,2019-02-08,2023-09-07
+286,608,840,59,Helpful for interviews,QR,Attended,5,Yes,2.5,Yes,2020-01-03,No,No,Volunteer,Yes,Yes,Good content,2019-06-25,2018-04-18
+287,952,444,82,Average experience,Kiosk,No-Show,5,Yes,1.41,Yes,2015-02-21,No,Later,Volunteer,No,No,Would attend again,2017-10-13,2015-02-25
+288,808,387,81,Met potential employers,QR,No-Show,5,Yes,1.06,Yes,2020-09-21,Yes,No,Attendee,No,No,Would attend again,2024-02-10,2020-07-10
+289,936,412,100,Relevant content,QR,No-Show,3,Yes,1.92,Yes,2022-04-18,Yes,No,Speaker,Yes,Yes,Would attend again,2022-02-21,2015-09-05
+290,131,780,70,Average experience,Manual,Attended,4,Yes,1.21,Yes,2025-05-26,Yes,No,Volunteer,No,No,Great panelists,2021-01-20,2023-08-15
+291,415,314,78,Good alumni connections,Kiosk,No-Show,5,Yes,3.36,Yes,2017-05-27,No,Later,Mentor,Yes,No,Good content,2024-01-12,2017-06-17
+292,72,481,67,Helpful for interviews,Manual,Cancelled,5,Yes,0.73,Yes,2017-10-28,No,No,Speaker,Yes,Yes,Would attend again,2015-04-03,2020-04-17
+293,275,354,56,Relevant content,QR,Attended,3,Yes,1.17,Yes,2025-02-08,No,No,Volunteer,No,Yes,Great panelists,2016-02-26,2020-08-09
+294,675,88,78,Relevant content,Kiosk,Attended,2,No,2.13,Yes,2025-04-11,No,Later,Attendee,No,Yes,Would attend again,2021-04-06,2015-03-15
+295,79,775,83,Average experience,Kiosk,No-Show,2,No,1.18,Yes,2022-01-13,Yes,Yes,Attendee,Yes,Yes,Looking for internship,2024-06-12,2024-04-13
+296,587,837,71,Good alumni connections,Kiosk,No-Show,3,No,1.85,Yes,2016-12-30,No,Later,Speaker,Yes,No,Looking for internship,2021-11-05,2017-12-24
+297,15,338,65,Great networking opportunity,QR,No-Show,4,Yes,1.88,Yes,2025-08-20,Yes,No,Mentor,No,No,Looking for internship,2024-09-25,2019-08-24
+298,524,744,81,Average experience,Manual,Cancelled,2,No,1.69,Yes,2020-04-11,No,No,Speaker,Yes,No,Good content,2022-08-27,2018-08-27
+299,191,985,66,Informative session,Kiosk,Attended,1,Yes,1.02,Yes,2015-08-22,No,Yes,Volunteer,No,Yes,Good content,2020-01-24,2022-03-21
+300,488,232,87,Informative session,QR,No-Show,4,Yes,2.54,Yes,2019-08-20,Yes,No,Speaker,No,Yes,Would attend again,2019-10-05,2017-10-18
+301,737,56,92,Average experience,Manual,Attended,4,Yes,0.57,Yes,2024-05-09,No,No,Volunteer,No,Yes,Would attend again,2025-03-15,2025-02-03
+302,891,485,66,Helpful for interviews,Kiosk,Attended,4,Yes,1.64,Yes,2018-10-29,Yes,Yes,Mentor,No,No,Great panelists,2017-03-07,2025-11-08
+303,529,991,69,Good alumni connections,Manual,Cancelled,5,No,1.4,Yes,2025-06-14,No,No,Speaker,No,Yes,Looking for internship,2022-07-21,2021-07-31
+304,198,630,81,Great networking opportunity,Manual,No-Show,2,Yes,1.92,Yes,2017-10-11,Yes,No,Mentor,No,No,Good content,2025-11-06,2024-08-30
+305,907,855,94,Average experience,Kiosk,Cancelled,3,No,1.43,Yes,2018-04-02,Yes,Later,Attendee,No,No,Great panelists,2019-12-29,2015-10-22
+306,226,886,72,Average experience,Kiosk,No-Show,1,No,2.24,Yes,2015-01-16,Yes,No,Volunteer,Yes,Yes,Would attend again,2016-01-08,2025-08-18
+307,612,997,79,Relevant content,Manual,Attended,5,No,0.25,Yes,2019-12-27,No,Later,Attendee,No,Yes,Great panelists,2016-02-12,2020-01-31
+308,264,80,57,Average experience,QR,No-Show,3,No,0.25,Yes,2019-06-02,No,Yes,Speaker,No,No,Would attend again,2018-10-27,2022-11-25
+309,818,319,92,Met potential employers,Kiosk,Cancelled,2,No,1.54,Yes,2016-10-18,Yes,Later,Attendee,No,Yes,Great panelists,2018-12-01,2023-04-27
+310,36,385,100,Informative session,QR,No-Show,3,No,1.19,Yes,2017-07-27,Yes,Later,Speaker,Yes,Yes,Good content,2015-04-27,2024-03-20
+311,153,199,67,Met potential employers,Manual,Cancelled,4,Yes,0.67,Yes,2022-05-15,No,Later,Speaker,Yes,No,Would attend again,2021-02-23,2018-12-29
+312,59,41,89,Great networking opportunity,Kiosk,No-Show,1,No,2.15,Yes,2023-09-24,No,No,Attendee,No,Yes,Good content,2020-07-15,2019-04-02
+313,155,875,72,Relevant content,Kiosk,No-Show,2,Yes,0.96,Yes,2017-06-14,No,Yes,Mentor,Yes,No,Looking for internship,2019-05-17,2015-06-05
+314,549,878,93,Met potential employers,QR,No-Show,5,Yes,1.8,Yes,2021-07-01,No,Later,Speaker,Yes,Yes,Great panelists,2022-09-28,2018-09-10
+315,491,279,89,Average experience,Manual,Attended,1,Yes,2.36,Yes,2019-02-02,No,No,Speaker,No,Yes,Would attend again,2022-05-15,2015-04-09
+316,707,432,91,Great networking opportunity,Manual,Cancelled,1,Yes,1.09,Yes,2019-07-17,No,No,Mentor,No,Yes,Great panelists,2015-11-12,2017-03-13
+317,592,257,65,Average experience,Kiosk,No-Show,1,Yes,0.33,Yes,2024-09-02,Yes,Yes,Volunteer,No,Yes,Would attend again,2020-07-03,2018-12-02
+318,905,692,80,Great networking opportunity,Manual,Attended,5,No,2.16,Yes,2022-02-02,No,No,Volunteer,Yes,No,Great panelists,2025-12-10,2023-02-22
+319,300,644,62,Met potential employers,Kiosk,Attended,4,Yes,1.88,Yes,2015-07-26,No,Yes,Attendee,No,No,Would attend again,2024-06-25,2019-07-26
+320,993,796,78,Helpful for interviews,Kiosk,No-Show,4,No,2.24,Yes,2024-02-19,No,No,Mentor,No,No,Great panelists,2020-01-21,2023-11-22
+321,228,125,92,Great networking opportunity,Kiosk,No-Show,3,No,1.47,Yes,2021-07-01,Yes,No,Attendee,No,No,Looking for internship,2017-05-10,2017-11-22
+322,799,154,94,Average experience,Manual,No-Show,2,Yes,1.66,Yes,2024-11-06,No,No,Volunteer,Yes,Yes,Would attend again,2016-05-30,2020-07-08
+323,91,458,68,Helpful for interviews,QR,Cancelled,4,Yes,1.66,Yes,2019-10-01,Yes,Yes,Mentor,No,Yes,Good content,2023-11-02,2021-03-31
+324,855,13,70,Informative session,QR,Attended,1,Yes,1.45,Yes,2022-09-29,Yes,Later,Mentor,Yes,Yes,Would attend again,2019-03-17,2024-09-08
+325,659,141,51,Average experience,Kiosk,Attended,2,No,0.33,Yes,2025-10-08,Yes,Yes,Speaker,No,Yes,Looking for internship,2018-06-11,2018-10-22
+326,369,202,68,Great networking opportunity,Manual,Cancelled,5,No,1.21,Yes,2015-09-04,No,Later,Volunteer,No,No,Looking for internship,2017-05-20,2015-05-02
+327,374,661,100,Informative session,QR,Attended,2,No,1.62,Yes,2025-04-20,Yes,No,Speaker,Yes,Yes,Great panelists,2015-04-07,2017-12-17
+328,462,480,89,Average experience,QR,Cancelled,5,Yes,0.66,Yes,2021-07-26,Yes,Later,Mentor,Yes,No,Good content,2016-04-08,2016-03-17
+329,203,98,83,Helpful for interviews,QR,Cancelled,2,Yes,2.07,Yes,2021-07-20,No,Yes,Speaker,No,No,Looking for internship,2017-08-25,2020-08-09
+330,563,951,55,Helpful for interviews,Kiosk,No-Show,2,No,2.57,Yes,2015-09-01,No,Later,Attendee,Yes,Yes,Looking for internship,2024-06-14,2025-09-14
+331,530,940,70,Great networking opportunity,Manual,No-Show,4,Yes,1.13,Yes,2021-09-13,Yes,No,Mentor,No,Yes,Would attend again,2022-09-16,2022-04-10
+332,9,93,89,Average experience,Manual,Cancelled,3,Yes,0.91,Yes,2024-10-12,No,Yes,Speaker,No,No,Good content,2025-08-30,2020-06-02
+333,87,268,73,Helpful for interviews,QR,Cancelled,5,Yes,0.55,Yes,2021-07-24,No,No,Volunteer,Yes,No,Looking for internship,2016-07-02,2020-05-17
+334,289,641,87,Informative session,QR,Attended,5,Yes,1.72,Yes,2018-08-10,Yes,Later,Attendee,Yes,No,Looking for internship,2023-01-22,2019-05-10
+335,47,450,78,Great networking opportunity,Manual,No-Show,1,No,1.21,Yes,2020-06-12,Yes,Later,Speaker,No,Yes,Good content,2018-09-07,2016-11-25
+336,795,754,78,Informative session,Kiosk,No-Show,4,Yes,0.82,Yes,2024-05-15,Yes,No,Mentor,No,No,Would attend again,2025-08-27,2020-09-25
+337,749,158,83,Helpful for interviews,Kiosk,No-Show,3,No,1.46,Yes,2025-12-04,No,Later,Speaker,No,No,Looking for internship,2019-09-06,2018-06-18
+338,329,134,60,Helpful for interviews,Manual,No-Show,1,Yes,1.09,Yes,2018-12-06,No,Yes,Mentor,No,No,Good content,2017-09-25,2021-07-20
+339,248,896,58,Good alumni connections,QR,No-Show,5,No,1.96,Yes,2025-03-01,Yes,Later,Attendee,No,Yes,Good content,2017-02-08,2020-12-09
+340,34,671,100,Relevant content,Manual,No-Show,3,No,2.43,Yes,2017-12-26,Yes,Later,Attendee,No,Yes,Good content,2015-06-10,2025-03-17
+341,763,530,94,Average experience,Manual,Attended,1,No,1.27,Yes,2016-10-09,No,Yes,Volunteer,No,No,Great panelists,2020-05-30,2022-11-04
+342,36,354,69,Average experience,QR,Attended,1,Yes,1.53,Yes,2021-02-25,No,Later,Attendee,Yes,Yes,Great panelists,2018-11-28,2025-10-15
+343,488,850,73,Helpful for interviews,Manual,Cancelled,4,Yes,2.1,Yes,2020-06-14,Yes,Later,Speaker,No,No,Great panelists,2025-09-25,2024-10-15
+344,5,458,100,Good alumni connections,QR,Cancelled,5,No,1.33,Yes,2016-08-27,No,Yes,Speaker,No,Yes,Great panelists,2024-12-28,2020-01-15
+345,32,255,94,Average experience,QR,Attended,5,Yes,1.39,Yes,2024-01-23,Yes,Later,Mentor,No,Yes,Good content,2020-06-17,2025-06-27
+346,524,2,66,Informative session,Manual,No-Show,2,Yes,0.25,Yes,2024-05-19,Yes,No,Speaker,Yes,No,Great panelists,2023-07-09,2022-04-14
+347,349,986,70,Average experience,Kiosk,Attended,1,Yes,1.62,Yes,2018-09-10,No,Yes,Volunteer,Yes,Yes,Good content,2019-03-03,2021-01-18
+348,150,735,92,Informative session,Kiosk,No-Show,3,No,1.83,Yes,2019-11-18,No,Yes,Attendee,Yes,Yes,Great panelists,2025-10-19,2025-08-07
+349,975,849,78,Great networking opportunity,Kiosk,Cancelled,4,No,1.25,Yes,2023-02-06,Yes,Later,Volunteer,Yes,Yes,Would attend again,2020-12-10,2015-01-08
+350,549,235,71,Informative session,QR,No-Show,2,No,1.37,Yes,2018-11-16,No,Later,Mentor,Yes,No,Great panelists,2023-10-06,2015-12-28
+351,510,277,76,Met potential employers,Kiosk,Attended,5,Yes,1.58,Yes,2023-08-23,Yes,Later,Mentor,No,No,Would attend again,2025-08-24,2017-05-17
+352,701,642,86,Met potential employers,Manual,Cancelled,1,No,1.03,Yes,2016-11-01,No,No,Volunteer,Yes,No,Looking for internship,2015-10-11,2017-02-17
+353,960,886,63,Average experience,QR,Cancelled,4,Yes,1.84,Yes,2016-09-15,Yes,Later,Attendee,Yes,No,Would attend again,2016-10-12,2017-05-20
+354,168,761,64,Average experience,QR,Cancelled,3,Yes,2.2,Yes,2024-04-21,Yes,Yes,Speaker,No,Yes,Good content,2021-01-06,2020-02-12
+355,436,318,100,Great networking opportunity,Manual,Attended,3,No,2.04,Yes,2023-12-31,No,No,Attendee,No,Yes,Would attend again,2016-03-25,2019-03-31
+356,789,955,90,Good alumni connections,QR,Cancelled,1,Yes,1.49,Yes,2017-08-02,Yes,No,Volunteer,Yes,Yes,Great panelists,2016-04-09,2018-05-07
+357,2,358,76,Average experience,Kiosk,No-Show,5,No,0.25,Yes,2022-07-22,Yes,Later,Speaker,Yes,No,Looking for internship,2025-07-28,2022-05-24
+358,285,493,65,Average experience,Manual,Attended,2,No,1.85,Yes,2017-11-01,No,No,Attendee,Yes,No,Looking for internship,2019-10-07,2024-06-30
+359,919,575,87,Relevant content,QR,No-Show,4,No,1.43,Yes,2015-09-05,No,Later,Speaker,No,No,Would attend again,2021-01-05,2021-01-04
+360,881,741,86,Good alumni connections,QR,Cancelled,4,No,2.0,Yes,2016-05-19,No,Yes,Speaker,No,Yes,Great panelists,2023-05-08,2015-12-08
+361,397,536,92,Great networking opportunity,Manual,Attended,1,No,0.88,Yes,2025-04-01,No,Later,Speaker,No,Yes,Good content,2016-06-24,2018-09-01
+362,832,176,62,Average experience,Manual,No-Show,1,No,2.06,Yes,2025-01-25,Yes,Later,Mentor,No,Yes,Would attend again,2021-08-08,2020-01-12
+363,301,572,71,Helpful for interviews,Manual,Cancelled,3,Yes,1.68,Yes,2015-03-18,Yes,Later,Speaker,No,Yes,Good content,2021-11-11,2016-10-13
+364,179,494,82,Informative session,Kiosk,Cancelled,5,No,2.94,Yes,2022-01-11,Yes,Later,Attendee,Yes,Yes,Would attend again,2021-08-21,2022-07-22
+365,84,510,82,Great networking opportunity,Manual,Attended,3,Yes,1.05,Yes,2019-07-21,Yes,Yes,Mentor,No,Yes,Looking for internship,2021-04-13,2015-09-27
+366,416,70,73,Met potential employers,QR,Cancelled,4,No,2.61,Yes,2022-09-09,No,No,Volunteer,Yes,No,Good content,2021-01-01,2018-10-13
+367,51,644,54,Helpful for interviews,Kiosk,No-Show,3,No,2.79,Yes,2021-11-01,No,No,Speaker,No,No,Would attend again,2019-10-22,2019-11-08
+368,877,627,96,Average experience,QR,Attended,2,No,1.81,Yes,2015-12-21,Yes,Later,Volunteer,No,Yes,Great panelists,2021-10-16,2022-05-30
+369,607,586,100,Met potential employers,QR,No-Show,5,No,1.44,Yes,2015-07-12,No,Later,Volunteer,No,No,Looking for internship,2023-01-05,2020-07-09
+370,604,311,70,Relevant content,QR,Attended,3,Yes,1.09,Yes,2023-07-16,Yes,No,Speaker,No,No,Good content,2023-01-27,2020-01-15
+371,186,848,59,Great networking opportunity,QR,Cancelled,1,No,1.95,Yes,2023-11-23,Yes,Later,Attendee,No,Yes,Looking for internship,2021-03-17,2018-01-23
+372,612,904,99,Relevant content,Kiosk,Cancelled,5,No,0.25,Yes,2015-06-01,Yes,Yes,Speaker,Yes,Yes,Would attend again,2021-09-29,2021-12-12
+373,783,976,97,Great networking opportunity,Manual,Attended,1,Yes,1.79,Yes,2018-07-31,No,No,Attendee,Yes,Yes,Looking for internship,2016-02-22,2020-03-12
+374,197,163,71,Relevant content,Kiosk,No-Show,2,Yes,1.49,Yes,2016-01-15,No,Yes,Mentor,No,No,Good content,2020-11-05,2023-03-22
+375,461,58,89,Informative session,Kiosk,Attended,3,Yes,2.26,Yes,2017-04-11,No,No,Volunteer,No,No,Great panelists,2019-03-23,2023-12-11
+376,334,95,95,Great networking opportunity,Kiosk,Attended,1,Yes,1.53,Yes,2025-06-16,Yes,No,Attendee,Yes,No,Looking for internship,2016-07-14,2025-02-20
+377,106,117,92,Relevant content,Manual,Cancelled,3,No,0.25,Yes,2021-02-22,Yes,Later,Attendee,No,No,Would attend again,2018-07-19,2015-02-09
+378,733,853,100,Met potential employers,QR,Attended,4,Yes,1.83,Yes,2019-02-07,Yes,Later,Speaker,No,No,Would attend again,2021-09-08,2022-06-13
+379,671,641,88,Helpful for interviews,Kiosk,Attended,1,No,1.48,Yes,2025-10-31,Yes,Later,Volunteer,Yes,Yes,Great panelists,2025-01-03,2016-10-07
+380,168,84,92,Great networking opportunity,Kiosk,No-Show,2,No,0.89,Yes,2016-09-24,No,No,Volunteer,No,Yes,Great panelists,2023-10-14,2019-11-15
+381,399,565,59,Met potential employers,Kiosk,No-Show,2,No,0.88,Yes,2017-02-23,No,No,Speaker,Yes,No,Looking for internship,2016-01-17,2018-12-26
+382,636,897,99,Average experience,Manual,Attended,3,Yes,1.48,Yes,2024-05-07,Yes,Later,Speaker,Yes,No,Great panelists,2018-06-19,2023-12-03
+383,41,903,46,Met potential employers,QR,No-Show,3,Yes,0.3,Yes,2022-07-02,No,Later,Attendee,Yes,Yes,Good content,2025-04-15,2015-05-14
+384,652,320,100,Relevant content,Manual,No-Show,1,Yes,1.33,Yes,2018-04-08,Yes,No,Attendee,No,No,Would attend again,2020-05-25,2019-07-10
+385,92,50,81,Helpful for interviews,QR,Attended,2,No,1.75,Yes,2019-07-05,No,Yes,Volunteer,Yes,No,Would attend again,2020-10-12,2018-07-15
+386,49,80,77,Average experience,Manual,No-Show,5,No,1.76,Yes,2018-10-14,No,Later,Mentor,Yes,No,Great panelists,2021-08-08,2024-10-10
+387,434,729,69,Great networking opportunity,Manual,Cancelled,2,Yes,0.77,Yes,2019-10-12,No,Yes,Speaker,No,Yes,Good content,2019-06-20,2016-02-14
+388,766,943,48,Average experience,Manual,No-Show,2,No,0.25,Yes,2025-01-09,No,Later,Attendee,No,Yes,Great panelists,2021-01-29,2025-03-29
+389,829,990,69,Informative session,Manual,No-Show,1,No,1.61,Yes,2017-03-06,No,Later,Volunteer,Yes,Yes,Great panelists,2015-08-28,2025-04-11
+390,352,71,69,Met potential employers,Manual,Attended,5,Yes,2.01,Yes,2019-10-23,Yes,No,Volunteer,No,Yes,Great panelists,2018-06-11,2017-05-07
+391,298,945,61,Great networking opportunity,QR,Attended,2,No,1.58,Yes,2015-11-19,Yes,Yes,Speaker,Yes,No,Looking for internship,2025-06-12,2018-11-06
+392,899,692,84,Average experience,Kiosk,Cancelled,1,Yes,0.25,Yes,2019-08-23,Yes,Later,Attendee,No,No,Good content,2021-07-17,2019-03-30
+393,40,295,56,Met potential employers,Manual,Cancelled,3,Yes,1.62,Yes,2020-02-07,No,Later,Attendee,Yes,No,Would attend again,2021-03-27,2017-07-20
+394,372,151,100,Met potential employers,Kiosk,No-Show,5,No,2.0,Yes,2016-08-31,Yes,Later,Mentor,No,No,Would attend again,2022-02-09,2021-07-08
+395,459,876,71,Good alumni connections,Manual,No-Show,3,No,2.4,Yes,2015-04-29,Yes,Yes,Attendee,No,No,Great panelists,2024-07-22,2024-05-02
+396,352,829,79,Helpful for interviews,Manual,Attended,1,Yes,1.88,Yes,2016-10-19,No,Later,Volunteer,Yes,Yes,Good content,2021-10-11,2024-05-26
+397,899,532,45,Relevant content,Manual,Cancelled,5,Yes,2.81,Yes,2025-09-25,No,Later,Attendee,Yes,Yes,Great panelists,2022-03-21,2015-02-19
+398,841,915,57,Good alumni connections,QR,No-Show,5,Yes,0.44,Yes,2018-02-22,No,No,Attendee,Yes,Yes,Great panelists,2021-07-27,2016-08-08
+399,24,185,59,Relevant content,QR,Cancelled,5,No,1.54,Yes,2019-07-22,Yes,No,Attendee,No,Yes,Would attend again,2021-01-19,2015-01-10
+400,534,65,89,Great networking opportunity,QR,Cancelled,3,Yes,0.77,Yes,2020-09-24,Yes,Later,Mentor,Yes,Yes,Great panelists,2022-12-04,2015-05-31
+401,567,823,87,Met potential employers,Kiosk,Attended,5,Yes,1.47,Yes,2016-02-06,Yes,Later,Speaker,Yes,No,Good content,2022-08-28,2016-05-04
+402,534,310,96,Great networking opportunity,QR,Cancelled,2,No,1.37,Yes,2021-04-14,No,No,Attendee,Yes,No,Great panelists,2023-04-25,2021-07-28
+403,450,596,68,Met potential employers,QR,Attended,3,Yes,2.22,Yes,2025-06-15,Yes,Yes,Mentor,No,No,Looking for internship,2021-12-21,2016-02-28
+404,357,907,57,Met potential employers,Kiosk,Cancelled,1,Yes,2.29,Yes,2025-03-23,No,No,Speaker,Yes,Yes,Great panelists,2023-10-26,2018-04-02
+405,101,168,88,Great networking opportunity,Kiosk,Attended,3,No,1.47,Yes,2015-11-28,No,Yes,Volunteer,No,No,Looking for internship,2021-09-11,2016-08-08
+406,72,687,79,Met potential employers,QR,Cancelled,2,Yes,1.75,Yes,2016-11-04,No,Later,Speaker,Yes,Yes,Great panelists,2019-09-28,2024-05-11
+407,381,910,66,Great networking opportunity,Manual,Cancelled,5,Yes,1.11,Yes,2015-09-01,Yes,Yes,Speaker,Yes,No,Would attend again,2025-10-22,2018-04-12
+408,375,784,81,Great networking opportunity,QR,Attended,1,No,1.05,Yes,2021-08-07,No,Yes,Attendee,Yes,Yes,Good content,2024-10-01,2016-09-25
+409,409,449,49,Relevant content,QR,No-Show,1,No,2.13,Yes,2019-04-06,No,Later,Speaker,Yes,No,Would attend again,2015-05-15,2020-12-17
+410,80,385,76,Informative session,Manual,Attended,5,No,0.38,Yes,2017-02-23,No,Later,Mentor,Yes,No,Great panelists,2022-04-25,2017-03-03
+411,204,516,100,Informative session,Manual,Attended,5,Yes,1.98,Yes,2021-01-07,No,Later,Attendee,Yes,No,Good content,2024-02-07,2021-07-23
+412,421,428,97,Helpful for interviews,Manual,Cancelled,5,No,1.72,Yes,2015-05-22,No,No,Volunteer,No,No,Would attend again,2021-10-26,2025-05-05
+413,1000,589,73,Good alumni connections,Manual,No-Show,3,Yes,1.05,Yes,2017-10-05,No,No,Attendee,No,Yes,Would attend again,2024-12-10,2025-01-18
+414,617,868,84,Average experience,Manual,No-Show,1,No,1.95,Yes,2019-03-04,No,Later,Speaker,Yes,Yes,Would attend again,2020-12-28,2021-08-30
+415,468,442,68,Great networking opportunity,Manual,Cancelled,5,Yes,2.57,Yes,2022-03-07,No,No,Volunteer,Yes,No,Looking for internship,2019-05-29,2021-06-15
+416,731,840,66,Helpful for interviews,Kiosk,Cancelled,5,Yes,0.25,Yes,2018-10-17,Yes,Yes,Speaker,No,Yes,Looking for internship,2025-07-02,2017-01-21
+417,834,736,80,Met potential employers,Kiosk,Cancelled,1,Yes,2.66,Yes,2015-07-08,Yes,Yes,Attendee,No,No,Good content,2022-07-23,2018-08-16
+418,40,638,62,Average experience,Manual,No-Show,2,Yes,1.15,Yes,2020-01-09,Yes,Later,Volunteer,No,No,Good content,2019-11-02,2015-04-28
+419,62,306,82,Average experience,Manual,Cancelled,1,Yes,3.11,Yes,2016-03-03,Yes,No,Speaker,Yes,Yes,Good content,2021-07-30,2025-07-03
+420,155,592,83,Helpful for interviews,Kiosk,Cancelled,2,No,0.25,Yes,2015-11-02,No,Yes,Volunteer,No,No,Great panelists,2018-02-13,2025-07-22
+421,743,706,58,Informative session,QR,Attended,3,No,1.16,Yes,2024-04-02,Yes,Yes,Mentor,No,No,Looking for internship,2018-07-10,2016-07-09
+422,192,65,92,Great networking opportunity,Kiosk,Attended,3,Yes,1.23,Yes,2024-11-19,Yes,Later,Mentor,No,No,Would attend again,2025-12-06,2017-03-25
+423,986,986,83,Average experience,QR,Attended,1,Yes,2.95,Yes,2021-12-14,No,Later,Speaker,No,Yes,Great panelists,2023-02-20,2021-06-02
+424,792,92,50,Average experience,QR,Attended,2,No,2.37,Yes,2023-02-10,Yes,No,Speaker,Yes,No,Would attend again,2016-11-16,2015-10-05
+425,438,706,63,Average experience,Kiosk,Attended,4,No,1.93,Yes,2015-04-11,Yes,Later,Attendee,No,Yes,Would attend again,2021-05-31,2024-01-29
+426,175,765,67,Relevant content,Kiosk,Cancelled,5,Yes,1.0,Yes,2018-02-04,Yes,Later,Attendee,Yes,Yes,Would attend again,2021-01-12,2020-02-11
+427,501,297,83,Helpful for interviews,Manual,Cancelled,5,No,0.74,Yes,2019-11-13,Yes,Yes,Volunteer,Yes,Yes,Good content,2020-12-09,2025-07-24
+428,655,248,85,Great networking opportunity,Kiosk,Attended,3,No,0.25,Yes,2024-08-08,No,No,Volunteer,Yes,No,Great panelists,2021-11-09,2020-11-08
+429,289,608,76,Helpful for interviews,QR,Attended,3,No,2.07,Yes,2021-09-19,No,Later,Volunteer,Yes,No,Great panelists,2025-05-21,2017-02-04
+430,836,628,88,Met potential employers,QR,Attended,1,Yes,0.83,Yes,2022-10-01,No,Yes,Attendee,No,Yes,Would attend again,2020-03-12,2020-11-24
+431,549,529,98,Great networking opportunity,QR,Attended,3,No,2.43,Yes,2023-04-12,Yes,Later,Mentor,No,No,Looking for internship,2022-08-15,2015-07-24
+432,75,821,83,Helpful for interviews,Manual,No-Show,5,No,0.67,Yes,2019-12-20,No,No,Attendee,Yes,Yes,Good content,2018-04-08,2021-06-25
+433,839,733,72,Average experience,Kiosk,Cancelled,2,No,2.39,Yes,2017-01-15,Yes,No,Speaker,Yes,No,Good content,2019-03-01,2024-10-15
+434,209,730,51,Relevant content,Kiosk,Attended,3,Yes,2.07,Yes,2024-06-16,Yes,No,Volunteer,No,Yes,Great panelists,2023-04-14,2024-05-15
+435,3,220,74,Informative session,Kiosk,Attended,2,No,1.32,Yes,2022-11-01,Yes,No,Speaker,Yes,Yes,Great panelists,2023-08-22,2018-04-09
+436,2,371,57,Average experience,Kiosk,Attended,2,No,1.72,Yes,2025-09-13,Yes,Yes,Speaker,No,No,Good content,2019-04-19,2021-11-07
+437,226,494,100,Informative session,Manual,Cancelled,2,Yes,1.71,Yes,2015-09-30,No,No,Volunteer,No,Yes,Great panelists,2023-06-25,2017-06-11
+438,644,768,86,Relevant content,QR,Attended,4,Yes,0.94,Yes,2017-10-18,No,Later,Speaker,Yes,Yes,Looking for internship,2021-12-31,2016-04-04
+439,358,85,51,Great networking opportunity,QR,Cancelled,4,No,1.81,Yes,2024-02-25,No,No,Attendee,No,Yes,Good content,2020-11-21,2023-07-09
+440,768,579,70,Good alumni connections,Manual,Attended,5,Yes,0.44,Yes,2021-08-26,Yes,Yes,Speaker,Yes,No,Looking for internship,2024-05-29,2016-05-17
+441,48,285,96,Informative session,Kiosk,No-Show,5,Yes,2.81,Yes,2018-04-03,Yes,No,Attendee,No,No,Good content,2020-08-12,2016-10-23
+442,617,997,97,Relevant content,Manual,No-Show,4,Yes,1.43,Yes,2020-11-22,Yes,Later,Mentor,No,No,Good content,2020-09-29,2019-10-20
+443,388,303,69,Informative session,Manual,Attended,1,No,1.54,Yes,2017-08-17,Yes,Later,Mentor,No,Yes,Good content,2022-02-04,2017-08-13
+444,5,805,69,Average experience,QR,Attended,5,No,2.18,Yes,2022-05-04,Yes,Later,Attendee,Yes,No,Would attend again,2016-08-09,2021-03-11
+445,917,511,66,Average experience,QR,Cancelled,2,No,0.86,Yes,2022-09-11,Yes,Later,Volunteer,Yes,Yes,Good content,2017-05-15,2025-06-12
+446,935,79,73,Met potential employers,QR,Cancelled,3,Yes,1.25,Yes,2022-11-21,Yes,No,Mentor,Yes,No,Looking for internship,2018-03-04,2021-06-14
+447,756,937,80,Great networking opportunity,Kiosk,Cancelled,2,Yes,2.36,Yes,2018-01-29,Yes,Yes,Attendee,No,No,Good content,2025-04-02,2016-04-12
+448,518,89,64,Great networking opportunity,QR,Cancelled,5,Yes,1.06,Yes,2020-04-29,Yes,No,Speaker,Yes,No,Looking for internship,2024-08-11,2019-07-29
+449,845,463,42,Great networking opportunity,QR,Attended,4,No,0.25,Yes,2017-02-02,No,Yes,Speaker,Yes,Yes,Great panelists,2024-11-12,2017-12-08
+450,28,816,86,Relevant content,Kiosk,Cancelled,5,Yes,1.95,Yes,2019-08-18,No,Yes,Attendee,Yes,No,Great panelists,2017-02-10,2015-01-06
+451,32,835,63,Good alumni connections,QR,Cancelled,2,Yes,1.09,Yes,2019-02-14,No,Yes,Volunteer,No,Yes,Good content,2016-07-18,2024-10-15
+452,237,575,95,Great networking opportunity,Manual,Attended,5,Yes,1.65,Yes,2024-01-11,Yes,Yes,Attendee,Yes,Yes,Great panelists,2018-02-05,2021-07-23
+453,431,45,70,Relevant content,QR,Cancelled,5,Yes,1.13,Yes,2025-08-10,Yes,No,Speaker,No,No,Looking for internship,2022-08-26,2019-06-17
+454,420,221,63,Great networking opportunity,Manual,No-Show,5,No,1.01,Yes,2022-12-29,Yes,No,Speaker,Yes,No,Would attend again,2016-02-09,2019-02-07
+455,349,990,85,Helpful for interviews,QR,No-Show,4,Yes,1.03,Yes,2022-07-09,No,Yes,Mentor,No,No,Would attend again,2016-12-17,2019-07-21
+456,611,253,81,Helpful for interviews,QR,No-Show,4,Yes,1.52,Yes,2015-01-06,No,Later,Speaker,No,No,Looking for internship,2020-08-07,2019-05-31
+457,644,140,100,Good alumni connections,Manual,Cancelled,5,No,1.08,Yes,2022-06-10,Yes,No,Attendee,No,Yes,Looking for internship,2025-11-19,2020-07-07
+458,648,200,63,Met potential employers,Kiosk,Attended,1,No,0.51,Yes,2023-11-21,Yes,Later,Volunteer,No,No,Would attend again,2021-05-09,2023-10-27
+459,166,104,77,Relevant content,Manual,Cancelled,2,Yes,0.68,Yes,2023-03-05,No,Later,Volunteer,Yes,Yes,Good content,2020-11-01,2016-11-28
+460,203,773,89,Average experience,Kiosk,No-Show,3,Yes,1.94,Yes,2024-06-30,No,Yes,Attendee,No,Yes,Great panelists,2021-05-04,2025-07-17
+461,254,778,79,Informative session,Kiosk,No-Show,3,No,2.72,Yes,2022-04-19,No,No,Mentor,No,No,Good content,2020-02-19,2024-06-20
+462,342,492,100,Helpful for interviews,Kiosk,No-Show,5,Yes,1.44,Yes,2020-02-25,No,No,Attendee,No,No,Would attend again,2021-07-11,2017-08-05
+463,799,139,76,Relevant content,Kiosk,Attended,4,Yes,1.24,Yes,2018-10-11,No,No,Speaker,No,No,Great panelists,2020-05-02,2018-03-16
+464,445,886,68,Met potential employers,Kiosk,No-Show,4,No,1.55,Yes,2015-08-09,No,Yes,Attendee,Yes,No,Great panelists,2020-10-08,2024-07-19
+465,149,992,84,Informative session,Manual,Attended,1,Yes,0.7,Yes,2023-01-08,Yes,Yes,Mentor,No,Yes,Would attend again,2022-05-17,2021-04-26
+466,14,223,81,Relevant content,Manual,Cancelled,1,No,0.99,Yes,2023-03-29,Yes,Later,Attendee,No,Yes,Great panelists,2025-07-13,2023-01-12
+467,103,170,95,Average experience,Manual,No-Show,4,No,0.25,Yes,2015-12-08,No,No,Mentor,No,No,Great panelists,2016-03-12,2021-03-29
+468,425,220,73,Helpful for interviews,QR,Cancelled,4,No,1.31,Yes,2015-09-21,No,Yes,Volunteer,No,No,Would attend again,2015-10-17,2019-11-14
+469,822,980,94,Relevant content,QR,No-Show,4,No,1.64,Yes,2024-10-13,No,Later,Volunteer,No,Yes,Looking for internship,2015-01-15,2015-12-29
+470,193,951,77,Relevant content,Kiosk,Attended,3,No,2.46,Yes,2025-08-29,No,Later,Attendee,No,Yes,Looking for internship,2020-06-05,2023-02-24
+471,725,370,62,Informative session,QR,Cancelled,2,Yes,1.69,Yes,2023-03-25,No,No,Mentor,No,Yes,Looking for internship,2018-10-30,2022-08-07
+472,300,63,63,Great networking opportunity,Kiosk,Cancelled,1,No,1.11,Yes,2016-12-29,No,No,Volunteer,Yes,No,Looking for internship,2019-11-13,2023-07-12
+473,317,404,63,Good alumni connections,QR,No-Show,1,Yes,1.2,Yes,2023-12-31,Yes,Yes,Attendee,No,No,Great panelists,2018-03-05,2016-07-22
+474,443,68,77,Good alumni connections,QR,No-Show,4,No,0.84,Yes,2016-04-10,Yes,Yes,Speaker,No,No,Good content,2016-05-30,2023-01-09
+475,603,571,65,Great networking opportunity,Kiosk,Attended,5,Yes,2.58,Yes,2016-04-15,Yes,Later,Speaker,No,Yes,Good content,2023-01-12,2025-04-15
+476,608,217,56,Informative session,Manual,Attended,1,No,1.54,Yes,2020-11-29,Yes,No,Attendee,No,No,Looking for internship,2018-11-25,2017-02-01
+477,261,325,66,Met potential employers,Manual,No-Show,3,No,2.84,Yes,2022-08-13,Yes,No,Speaker,Yes,Yes,Would attend again,2019-06-06,2023-12-03
+478,97,611,92,Relevant content,Manual,Attended,3,Yes,1.62,Yes,2024-03-23,No,Yes,Attendee,Yes,Yes,Good content,2018-07-17,2024-11-04
+479,484,273,67,Average experience,QR,Attended,5,No,0.83,Yes,2025-08-29,Yes,No,Speaker,Yes,Yes,Great panelists,2018-06-05,2018-03-08
+480,913,242,90,Informative session,Kiosk,Cancelled,1,Yes,2.48,Yes,2021-05-11,Yes,Later,Mentor,Yes,No,Great panelists,2019-05-29,2015-09-08
+481,621,242,88,Met potential employers,QR,No-Show,1,Yes,2.57,Yes,2015-02-06,No,Later,Attendee,No,No,Would attend again,2016-08-18,2019-03-03
+482,753,942,93,Good alumni connections,QR,Cancelled,1,Yes,1.16,Yes,2019-05-13,Yes,No,Mentor,No,Yes,Looking for internship,2015-02-21,2018-06-21
+483,382,569,71,Great networking opportunity,Manual,Attended,2,Yes,1.5,Yes,2020-10-11,No,Yes,Attendee,No,Yes,Would attend again,2019-08-08,2020-01-14
+484,997,290,100,Good alumni connections,Manual,Cancelled,3,No,2.1,Yes,2024-12-23,No,Yes,Attendee,No,No,Good content,2019-04-08,2021-08-27
+485,797,719,65,Great networking opportunity,Manual,No-Show,1,No,1.81,Yes,2025-04-05,Yes,No,Mentor,No,No,Looking for internship,2022-02-19,2024-08-07
+486,838,360,85,Relevant content,Kiosk,No-Show,1,Yes,3.09,Yes,2018-06-28,No,Later,Speaker,No,No,Good content,2025-06-17,2023-08-21
+487,300,486,64,Relevant content,QR,Cancelled,4,No,1.08,Yes,2024-03-10,Yes,No,Volunteer,No,No,Good content,2023-12-13,2023-04-01
+488,120,190,100,Average experience,QR,Attended,3,No,0.83,Yes,2018-12-24,No,No,Mentor,No,No,Good content,2017-06-07,2020-11-07
+489,290,770,85,Good alumni connections,Manual,No-Show,4,Yes,0.39,Yes,2020-10-19,No,Yes,Speaker,No,Yes,Good content,2018-07-04,2023-07-05
+490,761,781,82,Informative session,Manual,No-Show,4,No,1.66,Yes,2021-10-11,Yes,No,Attendee,No,No,Good content,2017-08-20,2018-06-01
+491,994,230,75,Good alumni connections,Manual,Attended,1,No,0.54,Yes,2023-01-07,Yes,Later,Speaker,Yes,No,Great panelists,2018-11-27,2024-09-10
+492,657,29,80,Great networking opportunity,Manual,No-Show,1,Yes,1.48,Yes,2025-04-22,No,Later,Attendee,No,Yes,Good content,2022-03-29,2016-02-21
+493,704,83,72,Helpful for interviews,Manual,Attended,1,Yes,1.15,Yes,2023-01-29,No,Yes,Speaker,Yes,Yes,Good content,2025-09-27,2019-08-19
+494,168,245,74,Great networking opportunity,Kiosk,Cancelled,2,Yes,1.4,Yes,2015-07-29,No,Yes,Attendee,No,No,Would attend again,2020-06-06,2021-09-17
+495,156,208,82,Met potential employers,Kiosk,Cancelled,3,No,2.83,Yes,2018-06-02,Yes,No,Attendee,Yes,No,Great panelists,2025-04-07,2017-05-01
+496,869,728,76,Relevant content,QR,Cancelled,5,No,0.25,Yes,2020-11-02,No,Later,Speaker,No,No,Great panelists,2021-10-15,2019-11-18
+497,77,458,61,Average experience,Kiosk,Attended,1,Yes,2.06,Yes,2018-06-10,Yes,No,Speaker,No,Yes,Looking for internship,2017-05-14,2021-01-17
+498,711,844,76,Good alumni connections,QR,Cancelled,1,Yes,1.86,Yes,2024-12-11,No,Yes,Mentor,Yes,No,Good content,2024-09-29,2023-11-28
+499,606,434,74,Met potential employers,QR,Cancelled,5,No,2.43,Yes,2018-02-10,Yes,Yes,Mentor,Yes,No,Good content,2015-03-27,2023-12-08
+500,500,353,56,Met potential employers,QR,No-Show,3,Yes,1.81,Yes,2016-06-13,No,Later,Volunteer,No,No,Would attend again,2016-07-31,2019-10-07
+501,479,62,79,Informative session,Kiosk,Attended,2,No,2.26,Yes,2016-06-23,No,Later,Mentor,No,Yes,Looking for internship,2019-03-31,2022-03-06
+502,713,570,97,Great networking opportunity,Kiosk,Attended,3,No,2.12,Yes,2024-03-30,No,Yes,Mentor,No,No,Great panelists,2021-09-03,2023-03-01
+503,780,707,84,Helpful for interviews,Kiosk,Cancelled,2,No,2.64,Yes,2020-12-07,Yes,No,Mentor,No,No,Looking for internship,2015-12-07,2019-12-27
+504,975,788,68,Great networking opportunity,QR,No-Show,2,Yes,1.02,Yes,2025-05-17,Yes,No,Attendee,Yes,No,Looking for internship,2022-10-10,2023-01-03
+505,749,522,53,Informative session,Kiosk,Cancelled,5,No,0.25,Yes,2017-02-22,Yes,Later,Mentor,No,No,Looking for internship,2020-12-11,2020-10-05
+506,260,370,74,Relevant content,Manual,Cancelled,2,Yes,0.25,Yes,2024-03-22,Yes,No,Speaker,Yes,No,Good content,2024-09-18,2021-04-23
+507,508,937,98,Great networking opportunity,QR,Attended,1,No,2.19,Yes,2020-10-09,No,No,Volunteer,No,No,Would attend again,2022-01-16,2016-01-09
+508,496,804,82,Great networking opportunity,Kiosk,Cancelled,2,No,0.95,Yes,2015-02-03,No,No,Speaker,No,Yes,Good content,2023-04-17,2017-12-21
+509,452,854,94,Met potential employers,Manual,Attended,1,No,1.92,Yes,2017-08-25,Yes,Yes,Volunteer,No,No,Looking for internship,2022-01-23,2020-12-16
+510,678,436,45,Good alumni connections,QR,Attended,5,No,1.22,Yes,2023-02-06,Yes,No,Speaker,No,Yes,Good content,2020-03-05,2024-03-05
+511,86,178,83,Helpful for interviews,QR,Attended,1,Yes,2.09,Yes,2019-05-16,No,Later,Mentor,No,Yes,Good content,2021-04-07,2021-03-02
+512,292,633,73,Relevant content,Manual,Attended,1,Yes,1.09,Yes,2025-08-20,Yes,No,Volunteer,Yes,Yes,Looking for internship,2024-12-14,2018-08-18
+513,869,281,56,Great networking opportunity,Manual,No-Show,3,Yes,3.33,Yes,2021-01-02,Yes,Later,Volunteer,Yes,No,Would attend again,2025-12-22,2016-03-23
+514,96,333,98,Relevant content,Manual,Cancelled,1,Yes,2.36,Yes,2018-12-19,Yes,Later,Volunteer,No,Yes,Looking for internship,2015-01-13,2023-03-14
+515,235,765,66,Average experience,Manual,Attended,5,No,1.71,Yes,2015-04-21,No,Later,Mentor,No,Yes,Would attend again,2017-09-11,2017-04-10
+516,217,249,72,Great networking opportunity,QR,Attended,3,Yes,1.26,Yes,2016-05-22,No,Yes,Mentor,No,No,Great panelists,2021-01-09,2024-04-21
+517,678,541,39,Met potential employers,QR,Cancelled,3,No,1.65,Yes,2023-06-24,Yes,No,Attendee,No,No,Good content,2023-10-03,2023-09-05
+518,34,298,86,Helpful for interviews,Kiosk,No-Show,5,No,0.88,Yes,2018-03-28,No,Later,Volunteer,No,No,Would attend again,2017-03-11,2025-09-28
+519,760,917,96,Relevant content,QR,Cancelled,3,Yes,1.29,Yes,2015-03-18,Yes,Yes,Attendee,No,No,Great panelists,2016-04-29,2018-08-10
+520,201,211,90,Relevant content,Manual,Cancelled,2,No,2.03,Yes,2019-06-24,Yes,Later,Speaker,No,Yes,Looking for internship,2023-09-22,2023-01-11
+521,455,322,71,Met potential employers,Kiosk,Attended,2,No,0.25,Yes,2021-04-28,No,Yes,Attendee,Yes,No,Good content,2016-05-21,2022-12-25
+522,814,610,100,Great networking opportunity,Kiosk,Cancelled,2,No,1.87,Yes,2020-04-05,No,Yes,Speaker,Yes,No,Good content,2020-12-14,2016-06-21
+523,709,623,62,Great networking opportunity,Kiosk,No-Show,3,No,2.36,Yes,2024-05-02,No,Yes,Speaker,No,No,Looking for internship,2025-10-09,2017-08-15
+524,247,691,53,Relevant content,Kiosk,Attended,5,Yes,2.37,Yes,2023-12-05,No,Later,Mentor,No,Yes,Great panelists,2025-10-15,2025-04-07
+525,738,38,72,Great networking opportunity,QR,Attended,3,No,2.97,Yes,2015-12-13,Yes,Later,Attendee,No,Yes,Looking for internship,2018-10-01,2016-03-31
+526,83,312,91,Informative session,Kiosk,No-Show,4,No,2.09,Yes,2017-10-03,No,Later,Volunteer,Yes,No,Great panelists,2023-10-30,2021-08-17
+527,308,205,71,Great networking opportunity,QR,Attended,5,Yes,1.1,Yes,2025-01-09,Yes,Yes,Volunteer,No,Yes,Would attend again,2025-12-29,2020-06-30
+528,517,854,66,Met potential employers,Kiosk,Cancelled,3,No,1.61,Yes,2023-12-25,No,Later,Attendee,Yes,Yes,Great panelists,2018-11-16,2016-06-01
+529,83,860,99,Good alumni connections,Manual,No-Show,3,No,1.99,Yes,2019-02-16,No,Yes,Speaker,No,Yes,Looking for internship,2016-08-21,2017-06-15
+530,369,958,74,Met potential employers,QR,Attended,5,No,1.62,Yes,2025-07-26,No,Later,Volunteer,Yes,Yes,Good content,2024-09-07,2020-12-04
+531,140,3,89,Met potential employers,QR,No-Show,4,No,1.43,Yes,2024-12-17,Yes,Later,Mentor,Yes,Yes,Would attend again,2019-10-25,2017-08-17
+532,897,953,100,Helpful for interviews,QR,No-Show,1,Yes,2.55,Yes,2017-08-09,No,Later,Mentor,No,Yes,Great panelists,2021-06-04,2021-05-27
+533,10,208,94,Great networking opportunity,QR,Attended,1,No,2.61,Yes,2025-12-20,Yes,No,Speaker,No,Yes,Great panelists,2022-03-13,2018-11-10
+534,379,434,89,Great networking opportunity,QR,No-Show,5,No,2.86,Yes,2025-07-08,No,Later,Volunteer,No,Yes,Would attend again,2022-05-14,2024-11-15
+535,321,149,95,Met potential employers,Kiosk,Cancelled,3,Yes,1.51,Yes,2021-08-10,No,Yes,Speaker,Yes,No,Would attend again,2018-04-09,2023-03-25
+536,514,522,91,Informative session,Manual,Cancelled,1,No,1.42,Yes,2020-05-11,No,Yes,Speaker,Yes,No,Great panelists,2023-06-17,2022-07-16
+537,15,788,88,Good alumni connections,Kiosk,Attended,1,No,1.23,Yes,2020-01-16,No,No,Attendee,Yes,Yes,Good content,2024-10-25,2018-06-12
+538,171,902,53,Relevant content,Kiosk,Attended,4,Yes,1.29,Yes,2024-06-01,Yes,Yes,Mentor,Yes,No,Great panelists,2015-06-15,2019-09-13
+539,482,846,94,Good alumni connections,QR,Attended,2,Yes,2.78,Yes,2020-11-17,No,No,Speaker,No,No,Would attend again,2021-01-05,2016-08-28
+540,843,654,79,Great networking opportunity,Kiosk,Cancelled,2,No,1.91,Yes,2022-10-10,No,Yes,Attendee,Yes,Yes,Great panelists,2025-04-19,2017-03-03
+541,762,889,63,Great networking opportunity,Kiosk,Attended,3,No,2.26,Yes,2019-01-09,Yes,No,Speaker,Yes,Yes,Looking for internship,2022-02-09,2017-12-28
+542,195,679,85,Helpful for interviews,QR,No-Show,4,No,2.27,Yes,2019-06-09,Yes,No,Volunteer,Yes,No,Good content,2024-12-27,2022-04-16
+543,802,518,100,Average experience,QR,Cancelled,5,No,1.3,Yes,2017-08-03,Yes,No,Volunteer,Yes,No,Good content,2023-01-08,2022-01-17
+544,758,756,74,Average experience,Kiosk,Attended,2,Yes,1.23,Yes,2018-07-22,No,Later,Attendee,Yes,Yes,Great panelists,2025-12-17,2019-06-20
+545,86,674,75,Great networking opportunity,Kiosk,Cancelled,1,No,2.94,Yes,2025-05-10,Yes,Later,Attendee,Yes,Yes,Great panelists,2015-12-02,2017-11-20
+546,425,561,100,Informative session,Kiosk,Cancelled,1,No,1.32,Yes,2017-08-13,Yes,Later,Mentor,Yes,No,Looking for internship,2019-02-26,2017-04-04
+547,193,758,67,Average experience,Kiosk,Attended,2,No,2.27,Yes,2021-08-09,No,No,Speaker,No,Yes,Good content,2017-06-21,2016-05-19
+548,140,1,98,Informative session,Kiosk,Cancelled,3,Yes,0.29,Yes,2019-06-22,No,Later,Attendee,No,Yes,Would attend again,2018-10-18,2018-03-31
+549,347,750,90,Average experience,Manual,No-Show,2,Yes,1.38,Yes,2023-04-04,Yes,No,Mentor,Yes,Yes,Good content,2020-03-18,2016-11-04
+550,565,493,98,Informative session,Kiosk,No-Show,1,Yes,1.75,Yes,2019-06-11,No,Yes,Speaker,No,No,Good content,2025-05-19,2017-09-28
+551,465,603,77,Average experience,Manual,Cancelled,1,Yes,2.68,Yes,2015-11-03,Yes,Later,Attendee,No,Yes,Great panelists,2023-10-26,2022-01-08
+552,418,523,85,Great networking opportunity,Manual,Attended,5,Yes,0.87,Yes,2021-08-28,No,Later,Speaker,No,No,Great panelists,2017-05-17,2025-02-20
+553,953,680,88,Helpful for interviews,QR,Attended,2,Yes,1.13,Yes,2016-11-07,Yes,Later,Mentor,Yes,Yes,Good content,2021-11-16,2015-08-06
+554,185,920,76,Good alumni connections,Manual,No-Show,5,Yes,2.2,Yes,2025-01-13,No,No,Speaker,Yes,No,Looking for internship,2024-12-14,2025-02-21
+555,18,297,67,Helpful for interviews,QR,No-Show,4,Yes,2.21,Yes,2016-04-13,No,Later,Mentor,Yes,Yes,Great panelists,2025-08-29,2021-09-18
+556,381,66,74,Average experience,Manual,Cancelled,5,No,0.65,Yes,2015-07-23,No,Yes,Volunteer,No,No,Good content,2016-08-03,2021-11-12
+557,663,784,61,Average experience,Kiosk,No-Show,4,No,1.36,Yes,2018-08-21,Yes,Later,Attendee,No,Yes,Looking for internship,2025-09-09,2021-01-06
+558,12,223,91,Helpful for interviews,Manual,Attended,4,Yes,1.9,Yes,2022-09-26,Yes,Later,Attendee,Yes,No,Would attend again,2019-01-22,2021-07-19
+559,198,360,58,Helpful for interviews,QR,Cancelled,1,Yes,0.72,Yes,2020-12-17,No,Later,Speaker,No,No,Good content,2018-10-29,2024-11-19
+560,426,939,66,Average experience,Manual,Attended,5,Yes,2.05,Yes,2025-07-07,No,No,Mentor,Yes,Yes,Would attend again,2025-07-02,2023-12-03
+561,6,749,81,Average experience,Manual,Cancelled,3,No,1.74,Yes,2025-04-19,Yes,No,Mentor,Yes,Yes,Good content,2020-10-20,2023-08-24
+562,846,923,52,Met potential employers,Manual,Cancelled,4,No,1.15,Yes,2025-09-17,Yes,No,Attendee,No,Yes,Would attend again,2024-09-06,2022-10-16
+563,339,834,77,Helpful for interviews,QR,Attended,3,Yes,2.41,Yes,2022-08-30,Yes,Later,Speaker,No,No,Looking for internship,2015-12-03,2021-12-23
+564,361,214,90,Average experience,Manual,Cancelled,5,No,2.03,Yes,2023-06-03,No,Later,Speaker,No,No,Great panelists,2019-04-18,2015-04-02
+565,596,437,49,Informative session,Manual,Attended,3,Yes,1.36,Yes,2019-02-24,No,Later,Volunteer,Yes,Yes,Good content,2025-04-24,2024-07-05
+566,156,2,80,Informative session,QR,No-Show,4,No,2.11,Yes,2021-08-05,No,Later,Attendee,No,Yes,Good content,2020-03-06,2025-09-19
+567,935,732,100,Informative session,Kiosk,Attended,2,Yes,0.67,Yes,2016-10-21,Yes,No,Speaker,No,Yes,Great panelists,2021-06-27,2023-10-22
+568,623,492,84,Average experience,Manual,Cancelled,3,Yes,2.01,Yes,2017-04-05,No,No,Speaker,No,No,Good content,2023-02-09,2018-08-14
+569,422,522,74,Great networking opportunity,Manual,No-Show,3,Yes,1.68,Yes,2019-11-28,Yes,Yes,Attendee,Yes,No,Would attend again,2022-10-15,2015-04-27
+570,403,494,90,Good alumni connections,Manual,No-Show,3,Yes,1.47,Yes,2021-06-02,No,Later,Attendee,Yes,Yes,Looking for internship,2020-07-10,2017-06-08
+571,197,225,68,Average experience,QR,Attended,2,Yes,1.48,Yes,2016-08-15,Yes,Yes,Mentor,Yes,No,Would attend again,2017-03-28,2025-04-20
+572,715,317,98,Met potential employers,Manual,Cancelled,1,Yes,1.22,Yes,2022-05-18,No,Yes,Mentor,Yes,Yes,Would attend again,2020-04-30,2016-04-13
+573,492,234,57,Met potential employers,Manual,Attended,2,Yes,0.46,Yes,2025-06-25,No,No,Attendee,No,Yes,Great panelists,2016-08-21,2020-01-29
+574,92,920,71,Helpful for interviews,QR,Cancelled,3,No,0.76,Yes,2016-07-04,Yes,Yes,Mentor,No,Yes,Good content,2015-01-01,2023-04-26
+575,369,927,90,Relevant content,Kiosk,No-Show,2,No,0.93,Yes,2016-11-29,No,No,Attendee,Yes,No,Looking for internship,2025-11-26,2021-02-07
+576,155,643,72,Helpful for interviews,Kiosk,Attended,1,No,0.99,Yes,2021-08-13,No,No,Attendee,No,Yes,Great panelists,2018-06-13,2023-12-04
+577,239,984,84,Relevant content,Manual,Cancelled,4,No,0.25,Yes,2022-11-26,Yes,Later,Volunteer,Yes,No,Would attend again,2021-12-20,2020-09-12
+578,886,443,82,Great networking opportunity,QR,No-Show,3,Yes,1.45,Yes,2025-12-19,Yes,Yes,Speaker,Yes,Yes,Good content,2019-12-09,2020-09-15
+579,747,226,51,Helpful for interviews,QR,Attended,4,No,1.1,Yes,2025-09-02,No,Yes,Mentor,No,No,Good content,2018-11-27,2015-01-08
+580,430,219,84,Great networking opportunity,Kiosk,Attended,1,No,0.83,Yes,2015-08-27,No,Later,Volunteer,Yes,Yes,Great panelists,2015-08-22,2024-04-26
+581,717,25,99,Informative session,Manual,No-Show,5,Yes,1.69,Yes,2019-06-20,No,Yes,Volunteer,No,Yes,Looking for internship,2023-11-26,2021-12-16
+582,611,43,70,Great networking opportunity,QR,No-Show,3,No,1.3,Yes,2017-10-17,Yes,No,Attendee,Yes,No,Great panelists,2016-08-01,2019-05-08
+583,6,120,87,Helpful for interviews,Kiosk,Attended,2,No,0.99,Yes,2021-03-23,Yes,Later,Attendee,Yes,No,Looking for internship,2020-06-29,2018-05-25
+584,216,658,65,Helpful for interviews,Manual,Attended,3,No,0.75,Yes,2021-10-30,Yes,Later,Attendee,Yes,No,Good content,2016-12-11,2019-07-07
+585,24,81,73,Met potential employers,Kiosk,No-Show,3,No,1.87,Yes,2021-12-03,Yes,No,Volunteer,No,No,Great panelists,2018-12-13,2022-11-14
+586,472,462,100,Met potential employers,Kiosk,No-Show,4,No,2.11,Yes,2024-10-19,No,Yes,Volunteer,No,Yes,Would attend again,2021-09-16,2017-02-14
+587,412,447,100,Relevant content,QR,No-Show,1,Yes,0.91,Yes,2018-10-13,No,Later,Volunteer,No,Yes,Great panelists,2019-01-22,2019-05-28
+588,677,24,92,Informative session,Kiosk,Attended,5,Yes,1.53,Yes,2017-09-09,No,Yes,Attendee,No,No,Would attend again,2015-07-01,2016-05-07
+589,558,924,73,Helpful for interviews,Kiosk,Cancelled,1,No,1.04,Yes,2020-05-23,No,Yes,Volunteer,No,No,Great panelists,2024-09-03,2016-10-14
+590,220,474,75,Good alumni connections,QR,Cancelled,5,Yes,2.57,Yes,2019-08-04,Yes,Yes,Speaker,Yes,Yes,Good content,2018-06-22,2017-03-14
+591,28,971,90,Great networking opportunity,Manual,Cancelled,5,No,0.98,Yes,2020-10-21,Yes,No,Volunteer,Yes,No,Good content,2023-05-19,2017-12-15
+592,381,536,62,Helpful for interviews,QR,Cancelled,4,Yes,1.17,Yes,2018-06-03,No,No,Attendee,No,No,Good content,2019-04-03,2021-12-22
+593,553,620,100,Helpful for interviews,Manual,No-Show,3,No,1.58,Yes,2016-07-02,No,Later,Volunteer,Yes,No,Good content,2020-11-26,2015-09-04
+594,258,773,100,Helpful for interviews,QR,Attended,5,Yes,2.76,Yes,2024-07-28,Yes,No,Attendee,Yes,Yes,Good content,2020-05-12,2025-12-07
+595,671,9,100,Informative session,Kiosk,Cancelled,1,No,0.58,Yes,2016-07-11,No,Later,Mentor,No,Yes,Looking for internship,2015-11-09,2022-09-16
+596,772,400,81,Great networking opportunity,QR,Cancelled,2,No,1.99,Yes,2020-03-26,Yes,Yes,Attendee,No,Yes,Looking for internship,2025-07-01,2024-12-27
+597,365,488,70,Informative session,QR,Cancelled,4,Yes,1.99,Yes,2021-01-01,No,No,Speaker,Yes,Yes,Great panelists,2016-04-03,2022-06-11
+598,937,146,87,Average experience,Manual,Cancelled,3,No,1.88,Yes,2023-10-23,Yes,Later,Mentor,Yes,Yes,Great panelists,2022-01-15,2018-01-02
+599,915,242,64,Helpful for interviews,QR,Attended,3,Yes,0.38,Yes,2023-06-08,Yes,Yes,Attendee,No,Yes,Good content,2023-10-30,2022-08-11
+600,992,217,94,Relevant content,QR,No-Show,5,Yes,0.64,Yes,2025-10-25,Yes,Yes,Volunteer,Yes,No,Looking for internship,2018-05-12,2018-11-07
+601,141,124,66,Average experience,Kiosk,Attended,2,Yes,1.44,Yes,2020-03-02,Yes,Later,Attendee,No,Yes,Good content,2022-04-25,2019-08-15
+602,380,975,87,Met potential employers,Kiosk,No-Show,2,Yes,0.89,Yes,2017-12-19,No,Yes,Speaker,Yes,Yes,Good content,2015-11-30,2020-08-10
+603,855,420,80,Average experience,QR,Cancelled,2,Yes,0.81,Yes,2017-10-19,No,Yes,Speaker,No,Yes,Great panelists,2024-04-01,2018-01-19
+604,669,293,69,Average experience,QR,Cancelled,1,No,0.83,Yes,2023-03-30,Yes,Later,Volunteer,No,No,Good content,2022-06-03,2025-02-13
+605,538,174,85,Relevant content,Manual,Attended,5,No,2.41,Yes,2024-08-06,Yes,Later,Speaker,No,No,Looking for internship,2018-01-13,2017-06-10
+606,907,505,58,Average experience,Kiosk,Attended,4,Yes,1.92,Yes,2021-01-24,No,No,Mentor,Yes,Yes,Would attend again,2018-12-10,2015-06-13
+607,818,740,78,Relevant content,QR,No-Show,1,Yes,1.26,Yes,2018-06-25,No,Yes,Speaker,Yes,Yes,Good content,2021-09-30,2015-09-01
+608,34,893,78,Average experience,QR,No-Show,3,Yes,0.25,Yes,2018-02-10,No,Yes,Speaker,No,No,Good content,2016-01-23,2023-02-08
+609,663,468,94,Met potential employers,QR,No-Show,3,Yes,2.11,Yes,2023-05-30,No,No,Speaker,No,No,Would attend again,2022-01-08,2022-12-02
+610,490,751,99,Helpful for interviews,QR,Attended,3,Yes,1.27,Yes,2016-04-17,Yes,Later,Volunteer,Yes,Yes,Good content,2024-09-25,2022-09-13
+611,740,442,100,Informative session,Manual,Attended,3,No,0.25,Yes,2021-01-05,No,Later,Attendee,No,No,Looking for internship,2019-12-17,2015-07-17
+612,961,459,74,Informative session,QR,Cancelled,3,Yes,1.51,Yes,2021-01-16,No,Yes,Attendee,Yes,No,Great panelists,2024-06-07,2022-04-25
+613,695,245,100,Relevant content,Manual,No-Show,5,No,0.25,Yes,2023-03-29,Yes,Later,Volunteer,No,Yes,Good content,2017-03-05,2021-10-14
+614,110,265,55,Relevant content,QR,Cancelled,2,Yes,2.2,Yes,2023-11-10,No,Yes,Volunteer,No,No,Would attend again,2024-10-30,2022-06-09
+615,385,354,76,Relevant content,Manual,Cancelled,2,No,1.95,Yes,2024-04-30,Yes,Later,Attendee,No,No,Good content,2021-07-11,2024-04-21
+616,771,700,59,Relevant content,Manual,Attended,5,Yes,2.04,Yes,2015-09-14,Yes,Yes,Speaker,Yes,No,Looking for internship,2020-03-21,2017-07-25
+617,203,535,83,Great networking opportunity,Kiosk,Attended,1,Yes,1.7,Yes,2023-05-18,No,Later,Mentor,No,Yes,Good content,2018-01-20,2016-10-12
+618,92,912,63,Good alumni connections,Manual,No-Show,1,Yes,1.62,Yes,2015-11-20,No,Yes,Mentor,Yes,Yes,Would attend again,2022-03-16,2021-09-09
+619,585,281,64,Met potential employers,QR,Cancelled,1,Yes,1.65,Yes,2020-04-14,Yes,No,Mentor,Yes,Yes,Would attend again,2025-04-17,2021-02-20
+620,156,847,63,Relevant content,QR,Attended,5,Yes,1.57,Yes,2021-04-14,No,Later,Speaker,Yes,Yes,Good content,2025-08-07,2016-03-19
+621,779,961,98,Good alumni connections,Manual,Attended,5,No,1.35,Yes,2025-07-05,No,Later,Speaker,Yes,No,Great panelists,2022-03-31,2022-04-06
+622,443,462,58,Helpful for interviews,Manual,No-Show,2,No,3.24,Yes,2022-10-11,Yes,Yes,Mentor,Yes,Yes,Looking for internship,2015-10-11,2022-08-27
+623,424,216,97,Met potential employers,Manual,Attended,3,No,0.25,Yes,2025-08-24,No,Yes,Mentor,No,No,Would attend again,2015-01-10,2015-07-11
+624,117,726,70,Good alumni connections,Manual,No-Show,4,Yes,1.82,Yes,2017-10-06,Yes,Yes,Mentor,No,No,Looking for internship,2025-12-31,2022-06-09
+625,263,832,87,Helpful for interviews,Kiosk,No-Show,5,No,2.78,Yes,2023-07-13,No,No,Speaker,No,Yes,Good content,2025-04-11,2020-01-07
+626,718,568,76,Relevant content,Manual,No-Show,1,No,1.29,Yes,2019-03-24,No,Yes,Attendee,Yes,Yes,Great panelists,2021-11-02,2024-03-24
+627,811,7,82,Helpful for interviews,Kiosk,No-Show,1,Yes,1.91,Yes,2025-07-01,No,No,Speaker,No,No,Would attend again,2018-11-05,2025-04-10
+628,364,74,95,Met potential employers,Manual,Attended,3,No,1.94,Yes,2019-02-23,Yes,Later,Mentor,Yes,Yes,Great panelists,2020-06-02,2015-12-03
+629,401,766,64,Met potential employers,QR,No-Show,3,Yes,1.62,Yes,2017-12-23,Yes,No,Volunteer,Yes,No,Great panelists,2020-09-14,2022-09-08
+630,331,478,75,Good alumni connections,Kiosk,Cancelled,3,Yes,1.84,Yes,2022-11-16,Yes,Yes,Speaker,Yes,Yes,Looking for internship,2015-01-11,2023-04-01
+631,530,470,38,Informative session,Manual,No-Show,3,No,2.8,Yes,2021-09-12,No,No,Mentor,Yes,Yes,Looking for internship,2020-01-24,2015-10-23
+632,332,437,63,Great networking opportunity,Manual,No-Show,2,No,1.98,Yes,2022-10-05,Yes,Yes,Mentor,Yes,No,Would attend again,2016-08-05,2018-08-06
+633,934,117,78,Relevant content,QR,Attended,3,Yes,2.78,Yes,2023-03-25,Yes,Yes,Mentor,No,No,Would attend again,2022-07-04,2024-01-05
+634,129,674,65,Helpful for interviews,Kiosk,Cancelled,2,Yes,1.71,Yes,2016-04-27,No,Later,Attendee,Yes,Yes,Great panelists,2021-07-21,2023-07-18
+635,900,291,84,Informative session,QR,No-Show,3,No,1.33,Yes,2015-02-20,Yes,Yes,Attendee,No,Yes,Great panelists,2018-07-15,2021-02-13
+636,490,186,75,Great networking opportunity,Manual,Attended,3,Yes,2.37,Yes,2019-08-05,Yes,No,Volunteer,No,No,Great panelists,2022-12-01,2020-09-18
+637,324,770,100,Met potential employers,Manual,No-Show,1,No,1.37,Yes,2020-08-12,Yes,Later,Mentor,Yes,No,Good content,2015-02-27,2019-11-30
+638,545,917,78,Met potential employers,QR,No-Show,2,No,1.24,Yes,2025-05-08,Yes,No,Speaker,Yes,Yes,Would attend again,2024-03-10,2016-03-02
+639,840,140,66,Informative session,Kiosk,Attended,4,No,1.92,Yes,2024-08-27,No,Yes,Volunteer,Yes,Yes,Looking for internship,2017-06-10,2025-10-08
+640,771,46,91,Met potential employers,Kiosk,Cancelled,5,No,0.52,Yes,2023-04-20,No,No,Speaker,Yes,Yes,Great panelists,2016-04-19,2025-11-24
+641,479,400,88,Good alumni connections,Kiosk,Attended,3,Yes,2.36,Yes,2022-07-07,Yes,Later,Volunteer,No,No,Good content,2021-02-22,2023-08-19
+642,966,695,82,Good alumni connections,Manual,No-Show,1,No,0.8,Yes,2021-03-16,No,Later,Attendee,No,Yes,Would attend again,2023-11-09,2015-05-02
+643,869,476,76,Helpful for interviews,Manual,Attended,1,No,1.81,Yes,2025-03-31,No,Later,Volunteer,Yes,Yes,Good content,2021-10-29,2019-03-04
+644,920,891,78,Great networking opportunity,Kiosk,Attended,5,Yes,1.72,Yes,2023-08-08,No,No,Mentor,Yes,Yes,Great panelists,2019-04-18,2022-08-12
+645,695,409,87,Average experience,Manual,Cancelled,4,Yes,1.6,Yes,2025-08-21,Yes,Yes,Volunteer,No,No,Would attend again,2018-09-09,2025-10-07
+646,527,286,79,Helpful for interviews,QR,Attended,4,Yes,2.36,Yes,2020-08-02,No,Yes,Mentor,Yes,Yes,Would attend again,2020-07-16,2023-09-25
+647,640,987,68,Met potential employers,QR,Attended,2,Yes,1.27,Yes,2023-07-27,No,No,Speaker,No,No,Good content,2024-02-17,2025-06-09
+648,307,373,100,Informative session,Kiosk,Attended,1,Yes,1.69,Yes,2016-09-09,Yes,Later,Mentor,Yes,Yes,Good content,2015-03-26,2024-06-14
+649,165,836,84,Average experience,Kiosk,Cancelled,2,Yes,1.36,Yes,2025-03-11,Yes,No,Volunteer,Yes,No,Great panelists,2018-01-12,2019-10-25
+650,880,878,90,Average experience,Manual,Attended,1,Yes,1.07,Yes,2019-05-08,No,Later,Mentor,No,Yes,Looking for internship,2020-07-21,2022-07-20
+651,466,194,69,Helpful for interviews,Manual,Cancelled,2,Yes,1.31,Yes,2017-09-24,No,Later,Volunteer,No,No,Would attend again,2016-02-04,2019-05-18
+652,974,734,57,Met potential employers,QR,No-Show,4,Yes,0.95,Yes,2024-01-20,Yes,Later,Attendee,Yes,Yes,Would attend again,2025-03-02,2017-11-25
+653,790,733,90,Good alumni connections,QR,Cancelled,4,No,1.72,Yes,2019-07-19,Yes,Later,Speaker,Yes,Yes,Good content,2018-05-31,2015-11-17
+654,84,101,80,Helpful for interviews,Kiosk,Cancelled,4,No,1.98,Yes,2021-09-06,No,Later,Mentor,No,No,Great panelists,2016-08-11,2023-02-16
+655,705,58,92,Helpful for interviews,Manual,Attended,4,No,2.13,Yes,2021-04-06,Yes,Later,Attendee,No,No,Good content,2019-04-08,2016-10-04
+656,701,373,70,Helpful for interviews,QR,No-Show,2,No,1.14,Yes,2025-05-14,No,Yes,Speaker,Yes,Yes,Great panelists,2024-01-15,2024-10-06
+657,729,197,98,Met potential employers,Kiosk,Attended,4,Yes,0.27,Yes,2020-02-10,Yes,Later,Mentor,No,Yes,Great panelists,2018-03-29,2025-05-01
+658,510,469,93,Average experience,Kiosk,Cancelled,2,No,0.93,Yes,2024-06-05,No,Later,Attendee,Yes,Yes,Good content,2018-09-03,2021-01-26
+659,858,882,90,Met potential employers,Kiosk,Attended,1,No,1.11,Yes,2015-11-15,No,Later,Attendee,Yes,Yes,Great panelists,2023-11-17,2017-12-16
+660,877,564,55,Great networking opportunity,Kiosk,Attended,3,No,1.55,Yes,2023-10-29,No,No,Speaker,Yes,No,Looking for internship,2020-09-17,2024-12-04
+661,288,379,90,Relevant content,Manual,No-Show,2,Yes,1.23,Yes,2025-03-05,No,Yes,Attendee,Yes,Yes,Great panelists,2019-05-14,2020-02-13
+662,122,915,80,Good alumni connections,Manual,Attended,2,No,1.02,Yes,2015-05-05,Yes,Yes,Volunteer,Yes,Yes,Looking for internship,2020-07-19,2019-04-01
+663,818,344,100,Helpful for interviews,Kiosk,Attended,2,Yes,0.25,Yes,2022-04-08,Yes,Later,Attendee,No,No,Would attend again,2018-09-06,2024-08-13
+664,529,745,69,Informative session,Manual,No-Show,4,Yes,1.1,Yes,2021-12-30,Yes,Yes,Attendee,Yes,Yes,Looking for internship,2015-12-17,2025-09-12
+665,356,804,71,Informative session,QR,Cancelled,3,Yes,1.02,Yes,2016-11-30,No,Later,Mentor,No,No,Great panelists,2023-01-06,2023-06-14
+666,269,993,88,Informative session,QR,Attended,3,No,1.02,Yes,2024-08-19,No,Yes,Volunteer,No,Yes,Good content,2023-03-13,2018-04-26
+667,887,729,82,Relevant content,QR,Attended,3,Yes,2.39,Yes,2022-05-05,No,No,Attendee,No,Yes,Would attend again,2021-09-20,2025-12-27
+668,288,1000,78,Relevant content,Manual,Attended,3,Yes,1.78,Yes,2015-02-27,Yes,Yes,Attendee,Yes,Yes,Great panelists,2022-11-03,2023-12-31
+669,309,892,80,Average experience,QR,Cancelled,5,Yes,0.25,Yes,2017-03-30,Yes,No,Mentor,Yes,No,Great panelists,2022-05-15,2021-02-08
+670,850,358,100,Relevant content,Manual,Attended,5,Yes,0.88,Yes,2015-07-29,No,Yes,Mentor,Yes,No,Good content,2020-11-29,2015-10-20
+671,18,769,80,Met potential employers,Kiosk,Attended,5,Yes,0.8,Yes,2016-04-01,No,Yes,Volunteer,No,No,Looking for internship,2015-12-13,2020-07-08
+672,852,807,100,Informative session,Kiosk,Attended,5,Yes,1.63,Yes,2015-04-12,Yes,Yes,Speaker,Yes,Yes,Would attend again,2017-07-13,2024-07-26
+673,968,305,87,Helpful for interviews,Kiosk,Cancelled,1,No,1.38,Yes,2024-02-05,Yes,No,Volunteer,Yes,Yes,Would attend again,2019-10-30,2017-12-19
+674,467,356,100,Average experience,QR,Cancelled,2,Yes,1.94,Yes,2015-10-13,Yes,Yes,Volunteer,Yes,No,Would attend again,2017-11-23,2016-11-08
+675,245,821,58,Met potential employers,Kiosk,No-Show,4,No,1.13,Yes,2024-10-20,No,Later,Attendee,Yes,No,Looking for internship,2023-09-04,2024-01-31
+676,689,26,65,Informative session,Manual,Cancelled,5,No,0.96,Yes,2015-04-16,No,Later,Mentor,Yes,Yes,Good content,2018-06-09,2018-11-03
+677,39,50,80,Informative session,QR,No-Show,1,No,3.49,Yes,2015-10-30,Yes,Later,Mentor,No,Yes,Good content,2017-02-12,2020-02-06
+678,119,555,99,Informative session,Kiosk,Cancelled,4,No,1.85,Yes,2023-04-12,No,No,Mentor,Yes,No,Good content,2022-06-20,2015-01-12
+679,634,293,86,Informative session,Kiosk,No-Show,4,Yes,1.47,Yes,2018-11-02,No,Later,Speaker,No,Yes,Good content,2016-06-17,2016-06-19
+680,704,767,64,Average experience,QR,Attended,2,No,0.83,Yes,2015-12-31,No,No,Mentor,Yes,Yes,Good content,2016-04-01,2021-04-18
+681,58,34,97,Met potential employers,QR,Attended,5,Yes,2.52,Yes,2015-01-22,Yes,Yes,Attendee,No,No,Looking for internship,2015-04-06,2015-05-12
+682,21,331,82,Helpful for interviews,Kiosk,No-Show,4,Yes,1.9,Yes,2022-01-01,No,Later,Attendee,Yes,No,Good content,2022-03-30,2016-07-19
+683,666,189,93,Helpful for interviews,QR,Attended,5,Yes,2.87,Yes,2016-12-05,Yes,No,Attendee,Yes,No,Looking for internship,2018-03-16,2022-10-03
+684,745,818,95,Helpful for interviews,Manual,No-Show,4,No,1.85,Yes,2021-08-18,No,Yes,Volunteer,No,No,Looking for internship,2019-04-07,2023-01-02
+685,456,915,70,Great networking opportunity,Kiosk,Cancelled,5,Yes,2.27,Yes,2016-03-20,No,Later,Mentor,Yes,Yes,Good content,2019-03-28,2015-03-11
+686,788,441,81,Informative session,Manual,Attended,5,Yes,0.98,Yes,2024-03-06,Yes,Yes,Volunteer,Yes,No,Great panelists,2025-11-26,2020-06-03
+687,748,464,57,Informative session,Kiosk,No-Show,4,No,1.85,Yes,2016-08-12,No,Yes,Mentor,No,Yes,Looking for internship,2020-11-24,2017-01-17
+688,824,146,99,Great networking opportunity,Manual,Cancelled,2,No,0.63,Yes,2024-09-19,Yes,No,Mentor,Yes,No,Looking for internship,2017-04-12,2018-04-28
+689,86,241,100,Relevant content,QR,Cancelled,1,Yes,1.5,Yes,2022-06-23,Yes,No,Volunteer,Yes,No,Good content,2023-09-18,2023-03-01
+690,396,84,100,Informative session,Kiosk,Attended,1,No,0.98,Yes,2019-10-14,Yes,No,Attendee,Yes,Yes,Good content,2018-06-02,2022-01-09
+691,513,206,87,Helpful for interviews,QR,Cancelled,4,No,0.3,Yes,2023-04-09,Yes,Yes,Speaker,Yes,Yes,Looking for internship,2022-10-14,2019-03-24
+692,782,943,72,Helpful for interviews,Kiosk,Cancelled,5,Yes,1.69,Yes,2024-11-19,No,Yes,Speaker,Yes,Yes,Looking for internship,2023-03-01,2018-06-01
+693,560,691,93,Relevant content,Manual,Attended,3,Yes,0.95,Yes,2017-05-08,Yes,No,Speaker,Yes,Yes,Great panelists,2019-12-12,2017-01-09
+694,500,844,70,Great networking opportunity,Manual,Attended,3,Yes,0.85,Yes,2016-01-14,Yes,Yes,Attendee,No,Yes,Good content,2024-10-24,2021-05-04
+695,207,614,77,Average experience,Manual,Cancelled,3,No,1.23,Yes,2025-11-22,No,No,Attendee,Yes,Yes,Great panelists,2015-08-09,2016-05-19
+696,360,556,63,Helpful for interviews,QR,No-Show,5,No,1.68,Yes,2025-11-09,No,Later,Mentor,Yes,Yes,Good content,2016-03-20,2020-05-30
+697,253,590,62,Great networking opportunity,Kiosk,Cancelled,4,No,2.1,Yes,2018-04-02,Yes,No,Speaker,No,Yes,Great panelists,2025-09-25,2025-07-08
+698,327,784,92,Met potential employers,Kiosk,No-Show,5,No,2.0,Yes,2017-11-22,No,No,Attendee,Yes,No,Looking for internship,2023-11-17,2018-04-17
+699,941,271,77,Helpful for interviews,QR,Attended,4,No,1.03,Yes,2023-08-15,No,Yes,Volunteer,Yes,No,Looking for internship,2018-08-26,2021-08-31
+700,529,978,59,Informative session,Kiosk,Attended,2,Yes,0.58,Yes,2024-05-22,Yes,No,Mentor,No,No,Good content,2024-05-15,2018-01-28
+701,983,205,73,Met potential employers,Manual,Cancelled,3,Yes,0.89,Yes,2019-04-10,Yes,No,Attendee,No,Yes,Would attend again,2023-07-14,2025-05-30
+702,630,91,73,Informative session,Manual,Cancelled,3,Yes,2.12,Yes,2020-05-14,No,No,Attendee,No,No,Looking for internship,2021-05-02,2021-12-14
+703,266,156,63,Great networking opportunity,Kiosk,Attended,5,No,0.85,Yes,2021-08-13,No,No,Volunteer,No,Yes,Looking for internship,2015-01-10,2025-01-11
+704,547,736,84,Average experience,Kiosk,Cancelled,1,Yes,2.37,Yes,2018-04-01,Yes,No,Mentor,No,Yes,Good content,2016-01-04,2023-07-25
+705,653,22,87,Informative session,QR,No-Show,2,No,1.7,Yes,2019-06-08,Yes,Yes,Attendee,No,Yes,Looking for internship,2025-02-28,2017-03-10
+706,699,851,82,Average experience,Kiosk,Attended,1,No,2.06,Yes,2023-08-17,Yes,No,Speaker,No,No,Would attend again,2017-04-03,2020-03-09
+707,68,182,97,Helpful for interviews,Kiosk,No-Show,5,No,1.38,Yes,2020-09-04,No,Yes,Volunteer,Yes,Yes,Looking for internship,2021-11-11,2015-02-09
+708,909,721,80,Met potential employers,Kiosk,Attended,5,No,1.89,Yes,2018-02-19,Yes,Later,Volunteer,Yes,No,Great panelists,2017-10-01,2022-04-16
+709,278,904,83,Relevant content,Manual,Cancelled,5,No,1.72,Yes,2022-08-18,Yes,Yes,Attendee,No,No,Great panelists,2025-10-05,2025-09-05
+710,200,911,87,Relevant content,Manual,No-Show,2,Yes,2.2,Yes,2019-02-05,No,Yes,Mentor,No,Yes,Good content,2022-05-15,2025-07-14
+711,300,761,42,Helpful for interviews,Manual,Attended,4,No,1.76,Yes,2015-10-02,Yes,No,Mentor,No,Yes,Good content,2018-01-07,2024-04-10
+712,123,625,61,Good alumni connections,Manual,Attended,5,No,2.13,Yes,2017-07-30,Yes,No,Volunteer,No,Yes,Great panelists,2022-04-26,2017-02-23
+713,408,131,66,Average experience,Kiosk,Cancelled,5,Yes,1.81,Yes,2022-03-21,Yes,Yes,Attendee,Yes,Yes,Great panelists,2020-12-05,2023-08-31
+714,162,492,82,Met potential employers,Manual,Attended,3,Yes,1.44,Yes,2020-03-19,No,Later,Attendee,No,No,Would attend again,2023-04-30,2023-04-03
+715,605,439,71,Average experience,Kiosk,No-Show,4,No,3.27,Yes,2015-12-05,No,Later,Mentor,No,Yes,Great panelists,2020-12-17,2022-10-09
+716,733,945,73,Met potential employers,Manual,No-Show,2,No,1.09,Yes,2025-07-18,Yes,No,Speaker,No,Yes,Great panelists,2024-06-04,2023-07-14
+717,363,817,78,Relevant content,Kiosk,Cancelled,5,Yes,2.31,Yes,2020-07-01,No,No,Speaker,No,No,Would attend again,2016-10-30,2025-07-19
+718,457,10,63,Met potential employers,Manual,No-Show,1,Yes,0.47,Yes,2017-01-01,Yes,Yes,Mentor,No,No,Great panelists,2019-05-01,2025-12-10
+719,126,268,79,Helpful for interviews,QR,Cancelled,5,Yes,1.28,Yes,2017-12-28,Yes,No,Attendee,Yes,Yes,Great panelists,2019-03-31,2021-03-31
+720,44,92,84,Met potential employers,Kiosk,No-Show,2,Yes,1.39,Yes,2017-02-26,No,Later,Volunteer,Yes,No,Great panelists,2017-09-19,2020-05-17
+721,116,357,59,Met potential employers,Manual,Cancelled,1,Yes,1.21,Yes,2022-02-04,No,Yes,Speaker,No,Yes,Good content,2018-05-28,2016-09-23
+722,529,790,75,Informative session,Kiosk,Attended,1,No,1.17,Yes,2019-12-11,No,No,Speaker,No,No,Good content,2023-03-06,2024-01-02
+723,228,540,57,Helpful for interviews,Kiosk,Attended,3,Yes,2.34,Yes,2017-10-02,No,Yes,Volunteer,Yes,Yes,Good content,2023-02-23,2015-12-07
+724,945,725,84,Met potential employers,Kiosk,No-Show,4,Yes,1.35,Yes,2021-11-29,No,Yes,Volunteer,No,No,Good content,2019-01-15,2020-05-08
+725,913,692,73,Average experience,Manual,Attended,2,Yes,2.17,Yes,2018-04-04,No,No,Mentor,Yes,Yes,Looking for internship,2017-08-01,2021-11-07
+726,430,370,80,Great networking opportunity,QR,Attended,5,Yes,1.46,Yes,2025-05-05,No,Yes,Attendee,No,Yes,Good content,2023-05-28,2022-12-16
+727,151,563,98,Great networking opportunity,QR,Cancelled,2,Yes,1.11,Yes,2025-05-04,Yes,Yes,Volunteer,No,Yes,Looking for internship,2023-01-28,2015-10-01
+728,432,155,89,Great networking opportunity,Manual,Cancelled,5,Yes,0.39,Yes,2015-07-06,No,No,Mentor,Yes,No,Good content,2015-06-02,2021-04-12
+729,582,451,67,Met potential employers,Manual,Cancelled,1,Yes,2.13,Yes,2019-12-15,No,Later,Speaker,No,Yes,Good content,2019-10-06,2021-06-23
+730,117,603,75,Average experience,Kiosk,No-Show,4,No,1.87,Yes,2020-10-09,No,Yes,Mentor,No,No,Would attend again,2018-07-20,2020-02-09
+731,926,327,75,Good alumni connections,QR,No-Show,3,No,1.47,Yes,2019-12-06,No,Later,Speaker,No,No,Great panelists,2020-02-21,2023-01-14
+732,232,32,83,Helpful for interviews,Manual,Cancelled,1,Yes,1.81,Yes,2018-01-13,No,Later,Speaker,Yes,Yes,Would attend again,2021-03-05,2020-10-14
+733,39,68,71,Informative session,QR,Attended,2,No,1.3,Yes,2022-01-12,Yes,Later,Mentor,No,Yes,Great panelists,2024-01-15,2016-05-04
+734,839,218,100,Informative session,Manual,Cancelled,5,No,2.61,Yes,2025-04-03,Yes,No,Attendee,No,No,Looking for internship,2017-01-01,2023-07-22
+735,58,363,100,Great networking opportunity,Kiosk,Attended,1,No,2.65,Yes,2022-03-29,No,Later,Volunteer,No,Yes,Would attend again,2024-01-19,2023-07-10
+736,819,469,89,Relevant content,Manual,No-Show,4,No,1.03,Yes,2018-06-07,Yes,No,Speaker,Yes,No,Good content,2021-07-13,2022-01-19
+737,253,687,100,Met potential employers,Kiosk,No-Show,4,No,0.67,Yes,2022-04-28,Yes,Later,Speaker,Yes,Yes,Looking for internship,2019-10-23,2024-05-23
+738,114,190,61,Helpful for interviews,QR,No-Show,1,Yes,1.45,Yes,2025-09-01,No,Yes,Speaker,No,No,Good content,2024-02-18,2020-12-25
+739,648,638,50,Helpful for interviews,Manual,No-Show,5,Yes,1.51,Yes,2017-10-20,Yes,Later,Speaker,No,No,Good content,2023-08-08,2025-12-19
+740,881,419,75,Great networking opportunity,Manual,Attended,5,Yes,1.29,Yes,2020-07-26,No,Yes,Attendee,Yes,Yes,Great panelists,2017-06-18,2021-03-30
+741,5,167,96,Met potential employers,QR,Cancelled,2,No,0.27,Yes,2016-04-14,Yes,Yes,Mentor,No,No,Great panelists,2025-06-19,2016-11-01
+742,852,860,56,Met potential employers,Manual,No-Show,2,Yes,0.41,Yes,2015-01-10,No,Later,Volunteer,Yes,No,Would attend again,2017-03-21,2020-05-03
+743,123,58,83,Great networking opportunity,Manual,Attended,4,No,1.67,Yes,2020-10-05,Yes,Yes,Speaker,No,No,Great panelists,2020-05-29,2017-09-30
+744,604,930,100,Relevant content,Kiosk,Cancelled,1,No,0.43,Yes,2024-11-11,Yes,No,Volunteer,Yes,Yes,Great panelists,2016-12-06,2015-04-01
+745,495,982,89,Average experience,Manual,No-Show,4,Yes,2.49,Yes,2016-07-12,No,Yes,Volunteer,No,No,Good content,2022-03-31,2023-07-25
+746,369,451,88,Average experience,Manual,Attended,1,Yes,1.53,Yes,2017-05-10,Yes,Yes,Mentor,No,Yes,Good content,2016-03-31,2021-09-13
+747,875,200,88,Met potential employers,Manual,Attended,2,Yes,1.3,Yes,2025-09-11,No,Later,Volunteer,Yes,No,Looking for internship,2019-11-27,2016-05-12
+748,459,611,88,Helpful for interviews,QR,Cancelled,5,Yes,1.19,Yes,2018-06-24,No,No,Speaker,Yes,Yes,Great panelists,2022-04-21,2015-05-03
+749,696,537,100,Great networking opportunity,QR,Attended,5,No,1.87,Yes,2023-03-22,Yes,Yes,Attendee,Yes,Yes,Looking for internship,2017-08-13,2025-04-10
+750,765,214,72,Relevant content,Kiosk,Cancelled,4,No,1.72,Yes,2023-02-19,Yes,Yes,Mentor,No,Yes,Good content,2017-10-03,2015-08-17
+751,139,464,90,Great networking opportunity,Manual,Cancelled,1,No,1.76,Yes,2024-10-31,Yes,Yes,Speaker,Yes,Yes,Would attend again,2016-01-06,2018-05-19
+752,500,41,92,Great networking opportunity,QR,Attended,2,No,0.98,Yes,2018-09-20,No,Yes,Attendee,Yes,Yes,Would attend again,2024-06-02,2021-12-05
+753,989,40,78,Average experience,QR,Attended,3,Yes,1.43,Yes,2018-07-31,No,Later,Volunteer,Yes,Yes,Would attend again,2021-05-05,2023-10-14
+754,617,587,89,Helpful for interviews,Manual,Attended,3,No,1.67,Yes,2023-01-19,No,Yes,Attendee,Yes,Yes,Great panelists,2024-11-05,2021-10-23
+755,837,84,100,Relevant content,Manual,No-Show,2,No,1.63,Yes,2023-02-08,No,No,Volunteer,Yes,No,Looking for internship,2025-11-11,2017-03-03
+756,955,47,76,Helpful for interviews,Kiosk,No-Show,1,No,1.15,Yes,2024-05-20,Yes,No,Volunteer,No,Yes,Looking for internship,2018-04-07,2021-03-01
+757,709,481,61,Met potential employers,Manual,Cancelled,5,Yes,0.25,Yes,2016-07-01,Yes,Yes,Attendee,Yes,No,Looking for internship,2020-02-17,2023-01-19
+758,70,873,75,Informative session,QR,No-Show,3,No,0.92,Yes,2018-08-12,Yes,No,Mentor,No,No,Great panelists,2025-06-17,2024-08-29
+759,747,255,80,Relevant content,QR,Cancelled,5,No,2.0,Yes,2022-07-10,Yes,Later,Mentor,Yes,No,Would attend again,2015-09-25,2020-04-16
+760,623,103,74,Relevant content,Kiosk,Attended,1,Yes,1.23,Yes,2016-11-16,No,No,Volunteer,Yes,Yes,Good content,2025-09-18,2025-07-14
+761,896,90,92,Met potential employers,QR,Cancelled,5,No,1.17,Yes,2024-08-03,No,Later,Attendee,Yes,Yes,Would attend again,2023-05-19,2015-11-17
+762,326,685,77,Helpful for interviews,Manual,No-Show,1,No,1.75,Yes,2018-04-16,Yes,Later,Mentor,Yes,Yes,Looking for internship,2023-05-20,2017-03-14
+763,229,677,98,Relevant content,Manual,No-Show,1,Yes,2.33,Yes,2023-01-28,Yes,Later,Volunteer,No,Yes,Great panelists,2021-06-28,2024-03-10
+764,147,474,72,Helpful for interviews,Kiosk,Attended,2,Yes,2.47,Yes,2020-07-11,Yes,No,Volunteer,Yes,No,Great panelists,2020-02-25,2021-10-18
+765,933,542,64,Helpful for interviews,QR,Cancelled,2,Yes,1.2,Yes,2022-02-12,No,Later,Mentor,Yes,No,Great panelists,2024-05-14,2019-06-12
+766,447,659,66,Relevant content,Kiosk,Attended,2,Yes,1.8,Yes,2023-08-12,Yes,No,Volunteer,Yes,Yes,Great panelists,2021-01-23,2017-03-22
+767,404,343,100,Good alumni connections,Manual,No-Show,5,Yes,1.47,Yes,2016-05-06,No,Yes,Attendee,Yes,Yes,Great panelists,2019-04-01,2021-06-08
+768,64,592,79,Great networking opportunity,QR,Cancelled,4,No,1.61,Yes,2017-04-04,No,Later,Speaker,Yes,Yes,Great panelists,2019-03-11,2017-10-19
+769,331,580,86,Helpful for interviews,Manual,No-Show,3,No,2.28,Yes,2017-07-08,Yes,Yes,Attendee,No,Yes,Looking for internship,2022-01-16,2023-07-01
+770,173,83,89,Average experience,Kiosk,Attended,3,Yes,2.01,Yes,2017-02-18,No,Yes,Attendee,Yes,Yes,Great panelists,2017-08-08,2018-08-28
+771,73,89,100,Helpful for interviews,QR,Cancelled,1,Yes,1.94,Yes,2022-12-13,No,No,Speaker,No,Yes,Good content,2019-06-24,2019-02-04
+772,143,242,56,Informative session,Manual,Attended,4,Yes,2.6,Yes,2019-11-04,No,Yes,Volunteer,Yes,Yes,Would attend again,2025-05-13,2025-11-10
+773,686,30,81,Relevant content,Manual,No-Show,4,Yes,0.64,Yes,2025-06-02,No,No,Attendee,No,No,Good content,2024-04-16,2016-07-04
+774,2,694,83,Average experience,Manual,No-Show,1,Yes,1.32,Yes,2024-09-08,Yes,Yes,Speaker,Yes,No,Good content,2021-09-06,2021-11-28
+775,554,45,90,Informative session,QR,No-Show,2,No,1.15,Yes,2022-02-25,No,No,Volunteer,No,Yes,Good content,2025-04-24,2019-02-19
+776,724,839,79,Helpful for interviews,Kiosk,No-Show,1,No,0.25,Yes,2024-07-02,No,Later,Speaker,Yes,Yes,Great panelists,2016-04-12,2017-05-14
+777,938,952,76,Relevant content,Kiosk,Attended,1,No,2.24,Yes,2018-02-09,Yes,Later,Volunteer,Yes,No,Great panelists,2021-10-07,2015-08-28
+778,613,659,86,Helpful for interviews,QR,Cancelled,2,No,0.34,Yes,2022-10-25,Yes,Yes,Mentor,No,No,Looking for internship,2016-09-13,2019-05-03
+779,971,997,100,Informative session,Kiosk,Attended,4,Yes,0.96,Yes,2022-08-12,Yes,No,Speaker,No,No,Would attend again,2017-03-12,2023-02-14
+780,219,886,100,Met potential employers,QR,Cancelled,1,No,1.6,Yes,2024-05-17,Yes,Later,Mentor,No,Yes,Would attend again,2022-04-21,2015-04-10
+781,700,410,64,Average experience,Manual,Attended,3,No,1.5,Yes,2022-12-10,Yes,Yes,Speaker,No,No,Looking for internship,2015-11-26,2025-06-09
+782,376,942,80,Helpful for interviews,QR,Attended,4,Yes,0.7,Yes,2024-03-05,Yes,No,Speaker,Yes,Yes,Would attend again,2024-03-29,2018-05-24
+783,858,687,63,Good alumni connections,Kiosk,No-Show,4,No,1.59,Yes,2025-01-31,No,Later,Mentor,No,Yes,Would attend again,2019-12-15,2015-02-02
+784,126,454,100,Met potential employers,Kiosk,Cancelled,3,No,1.8,Yes,2015-12-06,Yes,Later,Attendee,Yes,No,Looking for internship,2022-04-30,2021-05-14
+785,448,414,90,Good alumni connections,Kiosk,Cancelled,4,No,1.95,Yes,2017-07-13,No,Yes,Volunteer,No,No,Looking for internship,2019-06-19,2016-07-15
+786,818,826,100,Relevant content,Manual,No-Show,4,Yes,1.11,Yes,2025-10-14,Yes,Yes,Mentor,No,Yes,Great panelists,2025-11-16,2022-03-22
+787,13,448,63,Helpful for interviews,Kiosk,Attended,4,No,1.45,Yes,2025-04-03,No,Yes,Mentor,No,Yes,Looking for internship,2021-10-15,2022-10-15
+788,974,652,67,Met potential employers,Kiosk,Cancelled,2,Yes,2.51,Yes,2018-12-30,No,Yes,Mentor,Yes,No,Looking for internship,2025-06-14,2024-07-22
+789,765,779,100,Average experience,QR,No-Show,3,No,1.62,Yes,2019-03-21,No,Yes,Speaker,Yes,No,Looking for internship,2016-09-21,2025-03-09
+790,89,886,65,Average experience,Kiosk,Cancelled,2,No,2.42,Yes,2024-11-30,Yes,No,Mentor,Yes,No,Great panelists,2019-05-13,2016-01-07
+791,400,5,75,Relevant content,Manual,Attended,1,Yes,2.24,Yes,2023-07-19,Yes,No,Attendee,Yes,Yes,Great panelists,2024-01-15,2015-06-23
+792,964,982,77,Average experience,Manual,Cancelled,1,No,2.09,Yes,2015-09-24,Yes,Yes,Attendee,Yes,Yes,Looking for internship,2017-07-24,2017-09-25
+793,274,856,92,Great networking opportunity,Manual,Attended,3,No,1.69,Yes,2022-02-20,No,Yes,Mentor,Yes,No,Great panelists,2024-06-07,2024-01-04
+794,375,90,78,Helpful for interviews,Manual,Attended,2,Yes,1.32,Yes,2024-05-09,No,Later,Mentor,Yes,Yes,Good content,2018-01-20,2020-02-09
+795,712,112,97,Average experience,Kiosk,No-Show,2,No,1.47,Yes,2024-04-23,Yes,Yes,Mentor,No,Yes,Good content,2015-04-13,2021-09-26
+796,468,873,95,Informative session,Manual,No-Show,4,No,1.78,Yes,2020-12-08,Yes,No,Speaker,No,Yes,Great panelists,2020-04-17,2023-08-03
+797,192,646,72,Met potential employers,Manual,Attended,1,Yes,1.99,Yes,2018-10-13,Yes,Later,Speaker,No,No,Good content,2021-07-26,2016-02-10
+798,995,607,73,Average experience,Kiosk,Attended,1,No,1.32,Yes,2020-06-11,Yes,Later,Attendee,Yes,Yes,Great panelists,2021-03-30,2016-07-20
+799,162,428,82,Informative session,Manual,Cancelled,4,Yes,1.69,Yes,2017-10-09,Yes,No,Volunteer,No,Yes,Looking for internship,2022-01-04,2025-04-08
+800,340,201,96,Relevant content,QR,Attended,5,Yes,1.19,Yes,2022-03-20,Yes,No,Volunteer,No,No,Looking for internship,2024-04-08,2020-07-06
+801,532,98,61,Good alumni connections,Manual,Attended,1,No,2.87,Yes,2018-12-14,No,No,Mentor,Yes,Yes,Good content,2018-03-19,2019-02-22
+802,984,463,82,Helpful for interviews,Kiosk,Cancelled,3,No,0.25,Yes,2023-03-07,No,Later,Mentor,No,No,Would attend again,2024-12-11,2025-10-29
+803,109,875,100,Helpful for interviews,QR,Attended,1,No,1.7,Yes,2017-11-30,No,Later,Volunteer,Yes,No,Great panelists,2025-04-20,2017-07-16
+804,631,397,70,Great networking opportunity,Kiosk,Attended,1,Yes,1.59,Yes,2020-04-26,Yes,Later,Speaker,Yes,Yes,Would attend again,2020-06-02,2023-01-14
+805,494,480,57,Met potential employers,Kiosk,No-Show,2,Yes,0.52,Yes,2015-08-31,Yes,No,Speaker,No,No,Great panelists,2024-06-23,2025-07-30
+806,495,867,69,Informative session,Manual,Cancelled,3,Yes,2.0,Yes,2015-05-24,No,No,Attendee,Yes,No,Good content,2016-10-23,2025-10-18
+807,111,175,76,Helpful for interviews,Kiosk,Attended,3,No,2.28,Yes,2022-04-28,No,Yes,Speaker,No,Yes,Looking for internship,2025-05-15,2021-04-01
+808,896,731,94,Met potential employers,QR,Cancelled,5,Yes,0.68,Yes,2021-09-18,No,Yes,Speaker,Yes,No,Would attend again,2025-05-04,2018-01-14
+809,785,206,92,Informative session,Manual,No-Show,1,No,1.99,Yes,2019-09-14,Yes,Yes,Speaker,Yes,No,Great panelists,2018-04-27,2024-05-09
+810,574,480,77,Relevant content,Kiosk,Attended,3,No,1.28,Yes,2015-01-20,No,Later,Mentor,Yes,No,Would attend again,2021-08-04,2022-10-09
+811,140,868,63,Helpful for interviews,QR,Attended,1,Yes,2.88,Yes,2019-12-12,Yes,No,Speaker,Yes,No,Good content,2017-04-04,2020-12-28
+812,378,260,61,Helpful for interviews,Manual,Attended,2,No,1.63,Yes,2022-02-28,No,Later,Attendee,Yes,Yes,Good content,2021-05-16,2025-11-18
+813,766,823,60,Relevant content,QR,Cancelled,2,Yes,1.03,Yes,2021-10-03,No,Later,Attendee,No,Yes,Looking for internship,2019-06-04,2017-03-25
+814,538,644,54,Average experience,Manual,Cancelled,5,No,0.46,Yes,2022-05-20,Yes,Later,Mentor,No,No,Great panelists,2024-12-21,2018-05-13
+815,916,110,82,Helpful for interviews,Manual,Attended,4,No,1.62,Yes,2017-03-23,No,No,Volunteer,Yes,No,Great panelists,2017-09-03,2018-07-12
+816,635,333,74,Good alumni connections,Kiosk,Attended,1,Yes,2.16,Yes,2016-12-31,Yes,Yes,Attendee,Yes,No,Would attend again,2018-04-21,2025-07-06
+817,596,334,96,Relevant content,Manual,Cancelled,4,Yes,0.58,Yes,2015-04-30,Yes,Later,Speaker,No,No,Would attend again,2015-11-04,2025-12-06
+818,434,187,94,Relevant content,Manual,No-Show,5,Yes,1.05,Yes,2025-10-21,Yes,Later,Attendee,Yes,Yes,Great panelists,2019-08-23,2025-11-04
+819,113,690,98,Informative session,QR,No-Show,2,Yes,2.06,Yes,2015-05-23,No,No,Volunteer,No,No,Looking for internship,2025-03-09,2021-05-30
+820,567,440,62,Helpful for interviews,QR,Cancelled,3,Yes,1.4,Yes,2021-05-15,Yes,No,Attendee,No,No,Would attend again,2018-03-12,2020-07-21
+821,290,487,87,Average experience,QR,Attended,5,No,2.01,Yes,2024-08-27,No,Yes,Mentor,No,Yes,Great panelists,2016-06-09,2024-05-28
+822,882,31,82,Average experience,Manual,Attended,3,No,0.43,Yes,2015-10-21,Yes,Later,Attendee,Yes,No,Looking for internship,2018-01-11,2022-04-29
+823,561,777,57,Average experience,Manual,Attended,3,Yes,2.45,Yes,2021-05-28,No,Yes,Mentor,Yes,Yes,Good content,2023-02-07,2024-12-22
+824,21,147,92,Informative session,QR,Attended,4,No,1.58,Yes,2021-04-23,Yes,No,Speaker,No,No,Would attend again,2018-01-09,2016-07-30
+825,79,319,85,Met potential employers,Kiosk,No-Show,2,Yes,0.84,Yes,2016-12-04,Yes,No,Attendee,No,No,Would attend again,2022-11-29,2018-04-06
+826,76,530,82,Average experience,Kiosk,Attended,3,No,2.63,Yes,2016-04-07,No,No,Volunteer,Yes,Yes,Looking for internship,2020-09-14,2025-12-08
+827,136,174,81,Average experience,Manual,No-Show,3,Yes,0.73,Yes,2018-02-11,Yes,Later,Mentor,No,Yes,Great panelists,2022-01-08,2024-01-26
+828,261,558,65,Relevant content,Kiosk,No-Show,3,No,1.82,Yes,2022-10-19,No,Later,Speaker,No,No,Great panelists,2020-09-10,2018-01-18
+829,299,122,72,Met potential employers,QR,No-Show,1,No,1.53,Yes,2025-09-12,No,No,Mentor,Yes,No,Great panelists,2025-01-20,2017-06-22
+830,148,339,49,Helpful for interviews,QR,No-Show,4,No,1.89,Yes,2023-03-30,Yes,No,Attendee,No,Yes,Would attend again,2021-04-23,2019-06-14
+831,859,555,100,Informative session,QR,Attended,3,Yes,1.24,Yes,2019-10-31,No,No,Attendee,No,Yes,Looking for internship,2025-01-15,2025-10-03
+832,778,752,84,Good alumni connections,QR,Attended,2,Yes,1.23,Yes,2021-08-13,No,Yes,Attendee,No,No,Looking for internship,2017-07-03,2022-06-27
+833,195,393,76,Average experience,Manual,Attended,5,Yes,1.16,Yes,2019-05-12,Yes,Later,Speaker,No,Yes,Great panelists,2018-12-24,2024-06-30
+834,173,721,100,Great networking opportunity,Kiosk,Attended,5,Yes,0.67,Yes,2021-03-13,No,No,Volunteer,Yes,No,Looking for internship,2017-05-12,2020-08-20
+835,341,226,79,Helpful for interviews,Manual,Attended,5,No,1.58,Yes,2021-10-22,Yes,Later,Volunteer,No,Yes,Good content,2019-07-21,2024-04-29
+836,550,899,88,Met potential employers,QR,Cancelled,5,Yes,1.48,Yes,2019-10-09,Yes,Yes,Attendee,No,No,Looking for internship,2025-04-30,2016-06-20
+837,929,305,56,Informative session,Kiosk,Attended,4,Yes,2.48,Yes,2021-04-09,No,Later,Mentor,No,No,Would attend again,2024-03-12,2022-03-20
+838,342,85,87,Average experience,Kiosk,Cancelled,2,No,2.63,Yes,2021-12-23,No,Yes,Speaker,Yes,No,Good content,2024-05-10,2025-03-10
+839,962,484,75,Helpful for interviews,QR,Cancelled,4,No,2.05,Yes,2016-03-25,No,No,Speaker,Yes,No,Great panelists,2020-08-08,2016-03-06
+840,818,984,73,Great networking opportunity,Kiosk,Attended,5,Yes,1.78,Yes,2025-07-08,No,Later,Mentor,No,No,Looking for internship,2019-06-17,2025-05-21
+841,475,537,79,Met potential employers,Manual,Attended,1,No,0.73,Yes,2019-09-29,No,No,Attendee,Yes,No,Good content,2025-01-29,2017-01-23
+842,282,126,88,Relevant content,Kiosk,Cancelled,4,No,1.26,Yes,2021-10-17,Yes,Later,Volunteer,No,No,Would attend again,2015-12-19,2018-08-01
+843,489,842,74,Met potential employers,QR,Attended,4,No,1.43,Yes,2015-11-25,Yes,Later,Speaker,Yes,No,Would attend again,2015-11-16,2018-08-01
+844,80,75,39,Relevant content,Kiosk,No-Show,4,Yes,2.31,Yes,2016-08-09,No,No,Speaker,Yes,No,Would attend again,2023-02-28,2017-12-22
+845,284,344,97,Average experience,QR,No-Show,3,No,2.86,Yes,2018-01-08,Yes,Yes,Mentor,No,Yes,Great panelists,2015-01-14,2019-05-22
+846,417,332,63,Informative session,Manual,No-Show,3,Yes,0.62,Yes,2019-08-24,Yes,Yes,Speaker,No,Yes,Great panelists,2019-02-22,2021-06-07
+847,62,833,100,Average experience,Kiosk,Attended,3,Yes,1.07,Yes,2023-09-21,No,No,Mentor,Yes,Yes,Good content,2018-04-19,2017-06-09
+848,897,544,81,Good alumni connections,Kiosk,Cancelled,1,No,1.64,Yes,2020-06-19,No,Later,Speaker,Yes,Yes,Looking for internship,2022-06-17,2020-01-23
+849,119,337,86,Good alumni connections,Kiosk,Cancelled,3,No,1.5,Yes,2019-05-02,No,Yes,Attendee,Yes,No,Looking for internship,2024-05-18,2018-11-16
+850,398,692,69,Informative session,QR,Attended,2,No,0.88,Yes,2018-11-22,Yes,Later,Speaker,No,Yes,Good content,2024-09-01,2015-02-13
+851,387,280,94,Informative session,Kiosk,Cancelled,4,Yes,3.5,Yes,2015-09-04,No,Yes,Attendee,Yes,No,Would attend again,2025-11-02,2024-06-07
+852,777,518,36,Met potential employers,Kiosk,Cancelled,4,No,1.71,Yes,2025-01-06,Yes,Yes,Speaker,Yes,No,Would attend again,2020-07-11,2015-01-19
+853,418,603,93,Good alumni connections,Kiosk,Attended,3,Yes,1.06,Yes,2019-06-10,No,No,Attendee,Yes,Yes,Great panelists,2023-02-04,2017-06-09
+854,685,57,97,Relevant content,Manual,Attended,5,No,1.64,Yes,2016-08-02,Yes,Yes,Mentor,Yes,Yes,Good content,2022-09-21,2017-03-15
+855,385,351,75,Helpful for interviews,QR,Attended,1,No,2.04,Yes,2024-02-26,Yes,No,Mentor,Yes,Yes,Great panelists,2015-05-21,2021-09-11
+856,661,575,63,Met potential employers,Kiosk,Attended,3,No,1.81,Yes,2018-08-25,Yes,Yes,Speaker,No,Yes,Would attend again,2022-05-28,2015-03-31
+857,840,984,41,Average experience,Manual,Cancelled,4,No,1.69,Yes,2017-10-05,Yes,Later,Volunteer,Yes,No,Great panelists,2023-05-27,2024-01-24
+858,288,726,94,Great networking opportunity,Manual,No-Show,3,No,0.66,Yes,2025-09-24,No,No,Speaker,No,No,Would attend again,2015-10-23,2023-05-22
+859,467,29,62,Good alumni connections,Manual,No-Show,5,No,0.81,Yes,2020-03-13,No,Later,Volunteer,No,Yes,Looking for internship,2018-09-12,2021-06-22
+860,695,576,81,Average experience,Kiosk,Cancelled,3,No,1.35,Yes,2025-11-14,No,Later,Speaker,No,No,Would attend again,2023-07-05,2024-04-14
+861,223,861,70,Great networking opportunity,Kiosk,Cancelled,1,No,2.36,Yes,2021-05-24,Yes,No,Speaker,No,Yes,Great panelists,2021-08-07,2024-08-06
+862,210,689,84,Good alumni connections,QR,Cancelled,4,No,1.53,Yes,2019-03-17,No,No,Volunteer,Yes,Yes,Great panelists,2020-07-16,2019-06-29
+863,631,473,55,Relevant content,Kiosk,Cancelled,4,No,2.08,Yes,2020-07-07,No,No,Volunteer,Yes,No,Good content,2017-05-19,2018-10-27
+864,588,361,69,Informative session,QR,Attended,1,No,1.51,Yes,2024-06-30,Yes,Later,Mentor,Yes,Yes,Looking for internship,2020-12-31,2015-11-18
+865,225,489,77,Average experience,Kiosk,Attended,1,No,1.63,Yes,2020-01-03,No,Yes,Mentor,Yes,Yes,Looking for internship,2021-02-27,2023-07-07
+866,162,315,62,Good alumni connections,QR,No-Show,2,No,0.38,Yes,2017-01-12,Yes,No,Attendee,No,No,Good content,2023-05-01,2025-08-02
+867,400,223,100,Great networking opportunity,Manual,Cancelled,1,No,1.65,Yes,2015-06-22,Yes,Later,Speaker,No,No,Good content,2020-08-17,2021-05-23
+868,326,173,89,Relevant content,Kiosk,No-Show,5,Yes,1.91,Yes,2017-06-19,Yes,No,Attendee,No,Yes,Great panelists,2018-03-30,2015-03-25
+869,754,983,51,Informative session,Manual,Attended,1,No,1.46,Yes,2016-12-05,No,Later,Volunteer,No,No,Looking for internship,2019-07-08,2020-08-18
+870,148,933,81,Relevant content,Kiosk,No-Show,4,No,2.06,Yes,2018-02-13,Yes,Later,Volunteer,No,Yes,Great panelists,2022-02-22,2017-10-24
+871,362,879,92,Relevant content,Manual,Attended,1,No,0.92,Yes,2024-01-30,Yes,No,Attendee,Yes,No,Would attend again,2018-09-22,2016-04-01
+872,204,445,84,Great networking opportunity,Kiosk,Attended,2,No,0.77,Yes,2015-06-23,Yes,Yes,Mentor,Yes,Yes,Looking for internship,2020-12-06,2015-10-21
+873,940,320,88,Great networking opportunity,Manual,No-Show,4,Yes,2.38,Yes,2024-02-16,Yes,Later,Volunteer,No,Yes,Good content,2021-06-05,2023-06-30
+874,279,838,79,Informative session,QR,Attended,3,No,1.83,Yes,2025-04-21,Yes,Later,Attendee,No,Yes,Would attend again,2022-08-20,2021-01-21
+875,387,894,95,Great networking opportunity,Kiosk,Cancelled,3,No,0.25,Yes,2017-07-27,Yes,No,Speaker,Yes,No,Good content,2018-12-12,2020-02-20
+876,824,736,78,Relevant content,QR,Cancelled,4,No,1.43,Yes,2018-06-10,Yes,No,Attendee,Yes,No,Great panelists,2021-12-21,2019-03-24
+877,327,643,32,Helpful for interviews,QR,No-Show,3,No,2.24,Yes,2024-06-13,Yes,No,Speaker,No,No,Would attend again,2023-03-11,2019-03-22
+878,445,668,74,Good alumni connections,Kiosk,Attended,5,No,0.25,Yes,2016-10-12,No,Yes,Mentor,Yes,Yes,Great panelists,2022-12-14,2017-06-27
+879,836,300,96,Informative session,QR,No-Show,5,No,1.72,Yes,2020-06-17,No,No,Attendee,Yes,Yes,Looking for internship,2022-10-14,2015-01-20
+880,99,685,85,Informative session,Manual,Cancelled,1,Yes,0.73,Yes,2022-11-17,Yes,Later,Mentor,Yes,Yes,Would attend again,2019-12-31,2020-12-14
+881,856,189,93,Helpful for interviews,Kiosk,Attended,3,No,1.78,Yes,2022-03-01,No,No,Speaker,Yes,Yes,Looking for internship,2018-01-21,2022-05-12
+882,276,497,72,Great networking opportunity,Manual,Attended,3,No,0.41,Yes,2024-12-12,Yes,Yes,Mentor,No,No,Would attend again,2022-10-03,2020-07-10
+883,541,530,100,Relevant content,QR,Cancelled,3,Yes,0.41,Yes,2019-04-22,Yes,No,Mentor,Yes,Yes,Great panelists,2020-03-12,2022-01-23
+884,494,622,84,Helpful for interviews,Manual,Cancelled,1,Yes,1.69,Yes,2023-06-26,No,Yes,Attendee,No,Yes,Great panelists,2019-09-16,2025-11-08
+885,913,763,80,Average experience,Manual,Cancelled,3,No,1.17,Yes,2023-04-21,No,Later,Volunteer,No,No,Good content,2021-06-26,2019-08-07
+886,806,650,89,Good alumni connections,Kiosk,No-Show,5,Yes,2.17,Yes,2016-06-10,No,Later,Volunteer,No,No,Good content,2017-11-21,2019-01-07
+887,988,394,56,Average experience,Manual,Attended,3,Yes,1.76,Yes,2024-07-17,Yes,No,Attendee,Yes,Yes,Good content,2015-10-24,2022-06-20
+888,668,252,80,Good alumni connections,Manual,Cancelled,5,No,0.36,Yes,2024-09-10,Yes,Later,Speaker,Yes,No,Looking for internship,2024-06-11,2017-08-28
+889,891,240,76,Relevant content,Manual,Cancelled,3,No,1.41,Yes,2016-08-18,Yes,Yes,Speaker,No,No,Good content,2016-04-28,2023-11-08
+890,153,862,69,Met potential employers,QR,No-Show,2,No,1.4,Yes,2023-07-09,No,No,Speaker,No,No,Great panelists,2023-07-06,2017-09-01
+891,754,117,61,Good alumni connections,Kiosk,Attended,3,Yes,0.25,Yes,2025-01-13,Yes,No,Volunteer,Yes,No,Great panelists,2017-01-03,2017-03-31
+892,718,627,58,Met potential employers,Kiosk,No-Show,4,Yes,2.1,Yes,2017-07-03,No,No,Volunteer,No,Yes,Great panelists,2022-09-13,2020-11-18
+893,75,935,65,Relevant content,QR,Attended,2,Yes,1.3,Yes,2024-07-04,Yes,Yes,Attendee,No,Yes,Good content,2022-10-31,2025-11-13
+894,396,782,60,Average experience,Manual,Attended,5,Yes,0.9,Yes,2019-10-08,Yes,Yes,Speaker,Yes,No,Would attend again,2022-05-19,2020-04-22
+895,126,610,96,Helpful for interviews,Kiosk,Cancelled,1,No,0.53,Yes,2023-10-05,Yes,No,Volunteer,Yes,Yes,Good content,2023-06-27,2023-05-22
+896,883,360,92,Relevant content,Manual,Attended,3,Yes,0.93,Yes,2018-07-26,Yes,Yes,Speaker,No,Yes,Great panelists,2017-03-13,2019-07-18
+897,22,238,91,Average experience,Manual,Attended,1,No,1.46,Yes,2017-12-09,No,Yes,Mentor,No,Yes,Would attend again,2018-01-20,2018-11-11
+898,338,846,54,Relevant content,QR,Cancelled,5,No,2.05,Yes,2017-09-27,No,Later,Attendee,No,Yes,Looking for internship,2015-03-30,2015-07-11
+899,372,374,90,Informative session,Kiosk,No-Show,5,No,2.04,Yes,2024-09-25,No,Later,Attendee,Yes,Yes,Would attend again,2020-05-13,2021-05-16
+900,876,746,77,Met potential employers,QR,Cancelled,2,No,1.43,Yes,2020-07-31,Yes,Later,Mentor,Yes,Yes,Would attend again,2021-01-02,2015-01-16
+901,832,915,87,Relevant content,Manual,Attended,3,No,1.17,Yes,2024-10-28,No,Later,Speaker,No,Yes,Good content,2023-03-29,2022-05-03
+902,257,115,81,Relevant content,QR,Attended,5,No,2.41,Yes,2024-09-11,No,No,Mentor,Yes,Yes,Would attend again,2022-08-11,2015-03-06
+903,689,377,86,Good alumni connections,Manual,Cancelled,2,Yes,0.52,Yes,2015-11-05,Yes,Later,Volunteer,No,No,Great panelists,2024-12-09,2016-04-22
+904,721,806,56,Good alumni connections,Kiosk,No-Show,3,Yes,0.25,Yes,2017-04-22,Yes,No,Attendee,No,Yes,Looking for internship,2019-09-30,2017-03-10
+905,433,908,88,Met potential employers,Manual,Attended,2,Yes,0.25,Yes,2023-03-19,No,Later,Mentor,No,No,Looking for internship,2018-06-28,2023-06-20
+906,272,748,83,Informative session,QR,No-Show,2,No,0.95,Yes,2016-10-27,No,Later,Mentor,No,Yes,Good content,2024-03-05,2020-02-18
+907,32,900,81,Great networking opportunity,QR,No-Show,2,No,0.62,Yes,2023-04-16,No,Later,Volunteer,No,Yes,Would attend again,2018-12-17,2019-11-04
+908,68,183,86,Met potential employers,Manual,Attended,2,No,0.98,Yes,2023-07-02,No,Yes,Speaker,Yes,No,Great panelists,2022-04-22,2024-05-07
+909,898,134,84,Great networking opportunity,Manual,Cancelled,3,Yes,1.39,Yes,2018-10-14,No,No,Speaker,No,No,Great panelists,2018-02-22,2018-04-07
+910,229,557,58,Relevant content,Manual,No-Show,2,No,1.62,Yes,2024-07-04,No,Yes,Attendee,Yes,No,Would attend again,2024-10-24,2025-01-12
+911,778,214,88,Helpful for interviews,QR,Attended,1,No,1.25,Yes,2018-04-12,Yes,No,Speaker,Yes,No,Would attend again,2017-12-30,2019-08-17
+912,507,749,54,Met potential employers,Kiosk,Cancelled,3,No,0.25,Yes,2015-06-26,Yes,Later,Mentor,No,Yes,Good content,2023-05-22,2016-11-20
+913,53,896,85,Met potential employers,Manual,No-Show,4,No,1.85,Yes,2022-06-20,No,Later,Mentor,Yes,No,Would attend again,2015-03-30,2017-03-26
+914,501,833,58,Good alumni connections,Manual,No-Show,1,Yes,1.69,Yes,2017-07-03,Yes,No,Volunteer,No,No,Looking for internship,2019-12-04,2016-08-17
+915,372,29,88,Great networking opportunity,Kiosk,No-Show,1,No,0.82,Yes,2023-01-15,No,No,Speaker,Yes,No,Good content,2015-08-20,2015-06-22
+916,313,47,73,Average experience,Kiosk,Attended,3,No,2.06,Yes,2022-06-10,No,No,Speaker,Yes,No,Good content,2016-02-16,2024-04-17
+917,64,888,100,Relevant content,QR,No-Show,2,Yes,1.41,Yes,2016-12-31,Yes,Later,Mentor,No,No,Great panelists,2016-01-29,2016-06-07
+918,320,185,86,Great networking opportunity,Manual,Attended,5,No,2.29,Yes,2021-04-06,Yes,No,Volunteer,Yes,No,Would attend again,2021-04-02,2024-10-11
+919,249,346,62,Relevant content,Manual,No-Show,2,No,1.47,Yes,2017-08-01,Yes,No,Volunteer,Yes,Yes,Good content,2015-08-28,2016-05-30
+920,740,297,83,Helpful for interviews,Manual,No-Show,2,Yes,3.01,Yes,2018-05-08,Yes,Yes,Volunteer,No,Yes,Great panelists,2018-11-29,2022-09-24
+921,909,482,81,Average experience,Kiosk,Attended,1,No,0.25,Yes,2016-11-24,Yes,Yes,Mentor,Yes,Yes,Great panelists,2019-03-29,2019-06-12
+922,978,43,87,Helpful for interviews,Kiosk,Attended,5,Yes,1.61,Yes,2019-06-18,Yes,Later,Volunteer,Yes,No,Great panelists,2023-04-26,2021-11-05
+923,668,808,81,Good alumni connections,QR,No-Show,5,Yes,2.09,Yes,2022-12-25,Yes,Yes,Mentor,Yes,Yes,Great panelists,2025-06-05,2019-02-14
+924,383,654,68,Great networking opportunity,Manual,No-Show,4,No,1.41,Yes,2023-02-28,Yes,No,Speaker,No,Yes,Would attend again,2023-02-14,2021-08-14
+925,601,280,78,Good alumni connections,Manual,Cancelled,5,No,0.34,Yes,2022-12-25,No,No,Attendee,No,No,Would attend again,2023-12-13,2024-10-13
+926,533,236,81,Average experience,QR,Cancelled,1,Yes,1.61,Yes,2025-09-01,No,No,Volunteer,Yes,No,Great panelists,2019-09-29,2023-09-12
+927,8,829,92,Informative session,QR,Cancelled,1,Yes,1.77,Yes,2016-10-18,No,Later,Attendee,No,No,Great panelists,2024-06-01,2025-06-07
+928,515,248,53,Met potential employers,Kiosk,Attended,5,Yes,1.34,Yes,2019-06-19,Yes,Later,Attendee,No,Yes,Would attend again,2022-09-12,2025-12-29
+929,742,130,90,Great networking opportunity,Manual,No-Show,2,Yes,1.22,Yes,2018-08-23,No,Yes,Volunteer,No,Yes,Looking for internship,2025-07-01,2016-07-04
+930,236,694,63,Informative session,Manual,Attended,4,Yes,2.21,Yes,2015-08-22,No,Yes,Volunteer,Yes,No,Great panelists,2018-05-15,2018-02-16
+931,31,523,89,Helpful for interviews,Manual,Attended,4,Yes,2.02,Yes,2020-08-10,No,No,Speaker,Yes,No,Good content,2022-04-09,2022-12-11
+932,998,791,72,Good alumni connections,QR,Attended,2,No,1.84,Yes,2020-04-10,No,No,Volunteer,Yes,Yes,Good content,2017-04-29,2017-10-07
+933,448,991,87,Met potential employers,QR,No-Show,2,Yes,2.83,Yes,2021-06-30,No,Later,Mentor,Yes,No,Good content,2021-07-31,2023-09-11
+934,402,870,93,Great networking opportunity,Manual,Cancelled,3,Yes,1.24,Yes,2017-08-01,Yes,No,Mentor,Yes,Yes,Looking for internship,2018-01-06,2017-02-10
+935,903,771,68,Great networking opportunity,QR,Attended,2,Yes,1.23,Yes,2018-04-28,No,Later,Mentor,Yes,No,Good content,2017-07-31,2016-02-07
+936,940,433,100,Great networking opportunity,Manual,Attended,3,Yes,0.91,Yes,2021-07-12,No,Later,Mentor,Yes,No,Looking for internship,2018-08-26,2023-01-25
+937,959,881,32,Helpful for interviews,Kiosk,Cancelled,4,No,2.33,Yes,2015-08-23,Yes,Later,Attendee,Yes,No,Good content,2020-04-10,2016-03-02
+938,571,471,100,Average experience,Kiosk,No-Show,5,Yes,1.53,Yes,2015-02-09,No,Later,Attendee,Yes,No,Great panelists,2024-08-14,2019-09-28
+939,582,691,78,Good alumni connections,Manual,Cancelled,4,No,2.2,Yes,2016-12-21,Yes,Later,Speaker,No,No,Great panelists,2022-03-05,2017-12-18
+940,97,481,64,Met potential employers,Manual,Cancelled,5,Yes,3.51,Yes,2021-11-29,No,Yes,Attendee,No,Yes,Great panelists,2025-07-04,2015-02-04
+941,785,430,78,Informative session,Kiosk,Cancelled,1,No,1.72,Yes,2016-02-17,No,Later,Speaker,No,No,Looking for internship,2023-06-15,2015-10-02
+942,214,276,53,Average experience,Kiosk,No-Show,3,No,1.48,Yes,2017-12-24,No,Yes,Volunteer,Yes,Yes,Would attend again,2025-09-03,2017-11-18
+943,587,54,72,Good alumni connections,Manual,No-Show,2,Yes,0.59,Yes,2025-06-10,No,Later,Volunteer,No,No,Great panelists,2024-03-18,2020-11-15
+944,776,483,98,Helpful for interviews,QR,No-Show,4,No,1.43,Yes,2024-08-26,No,No,Attendee,Yes,Yes,Great panelists,2017-12-10,2021-10-01
+945,596,16,100,Great networking opportunity,Manual,No-Show,2,Yes,0.65,Yes,2023-03-08,No,Later,Mentor,No,Yes,Great panelists,2018-01-28,2025-11-03
+946,332,20,81,Great networking opportunity,Kiosk,Cancelled,5,No,1.39,Yes,2015-10-14,No,Yes,Volunteer,No,Yes,Great panelists,2025-03-20,2022-08-17
+947,59,142,63,Relevant content,Kiosk,Cancelled,2,Yes,1.94,Yes,2018-04-22,Yes,Yes,Attendee,No,No,Would attend again,2020-08-04,2024-03-24
+948,887,519,78,Great networking opportunity,Manual,Cancelled,3,No,2.4,Yes,2023-02-13,Yes,Yes,Speaker,No,No,Great panelists,2017-05-22,2019-06-29
+949,132,429,56,Informative session,Kiosk,Attended,4,Yes,2.27,Yes,2023-09-21,Yes,No,Speaker,Yes,Yes,Great panelists,2017-03-31,2018-03-15
+950,913,370,41,Met potential employers,Kiosk,No-Show,5,Yes,1.55,Yes,2015-02-06,Yes,Yes,Volunteer,No,Yes,Would attend again,2023-05-07,2025-03-16
+951,219,109,68,Informative session,Kiosk,No-Show,3,Yes,0.95,Yes,2024-03-11,Yes,Yes,Volunteer,No,Yes,Would attend again,2021-07-28,2016-04-08
+952,882,648,92,Helpful for interviews,Manual,Cancelled,1,No,0.81,Yes,2022-03-10,No,Later,Speaker,No,No,Good content,2022-04-28,2022-11-30
+953,705,78,75,Average experience,QR,No-Show,3,No,0.86,Yes,2021-08-05,Yes,No,Mentor,No,No,Looking for internship,2020-06-13,2022-05-22
+954,402,287,76,Helpful for interviews,Kiosk,No-Show,5,No,2.03,Yes,2025-11-14,Yes,No,Mentor,Yes,Yes,Would attend again,2015-01-29,2019-11-16
+955,507,751,84,Met potential employers,QR,No-Show,2,Yes,1.88,Yes,2015-01-20,Yes,Later,Speaker,Yes,No,Great panelists,2017-12-31,2020-12-25
+956,993,126,48,Relevant content,QR,No-Show,3,Yes,2.3,Yes,2021-04-10,Yes,No,Volunteer,Yes,No,Looking for internship,2021-09-18,2024-01-19
+957,68,639,51,Average experience,Kiosk,Attended,5,No,2.08,Yes,2018-10-30,Yes,No,Attendee,No,No,Would attend again,2020-07-07,2024-06-16
+958,9,445,80,Met potential employers,Kiosk,No-Show,4,No,1.55,Yes,2017-11-30,Yes,Later,Attendee,Yes,Yes,Good content,2024-06-29,2022-07-15
+959,794,434,83,Helpful for interviews,Manual,Attended,1,No,1.51,Yes,2020-09-07,Yes,Yes,Volunteer,Yes,Yes,Would attend again,2024-05-19,2015-03-07
+960,228,408,89,Average experience,Kiosk,Attended,2,No,2.61,Yes,2021-07-13,No,Later,Mentor,Yes,No,Would attend again,2015-01-15,2022-01-08
+961,556,9,100,Helpful for interviews,QR,Attended,2,No,0.95,Yes,2018-01-28,No,Yes,Attendee,No,Yes,Looking for internship,2018-10-11,2022-03-17
+962,69,171,98,Good alumni connections,QR,Attended,5,No,0.52,Yes,2020-03-27,No,No,Mentor,No,No,Good content,2024-02-24,2016-11-09
+963,888,98,85,Helpful for interviews,Manual,Cancelled,3,No,0.57,Yes,2024-05-01,No,Yes,Attendee,No,No,Great panelists,2016-03-01,2019-05-22
+964,956,604,74,Great networking opportunity,QR,No-Show,1,Yes,1.32,Yes,2017-12-16,Yes,Yes,Volunteer,Yes,No,Looking for internship,2017-01-06,2019-05-10
+965,396,41,74,Informative session,Kiosk,Cancelled,2,No,0.34,Yes,2025-07-19,No,Yes,Speaker,No,Yes,Great panelists,2018-05-20,2018-01-21
+966,907,322,45,Informative session,QR,Attended,1,No,1.19,Yes,2018-01-02,Yes,No,Speaker,No,No,Great panelists,2020-08-26,2016-09-22
+967,27,225,53,Average experience,Manual,Attended,2,Yes,1.18,Yes,2023-02-09,Yes,Yes,Volunteer,Yes,No,Would attend again,2017-09-26,2019-05-26
+968,197,371,57,Average experience,QR,Attended,1,No,2.26,Yes,2023-01-04,Yes,Yes,Mentor,Yes,Yes,Good content,2018-05-15,2025-10-18
+969,142,307,66,Good alumni connections,QR,Attended,1,Yes,2.54,Yes,2022-01-24,No,Later,Speaker,No,No,Great panelists,2024-01-13,2016-12-31
+970,377,865,54,Helpful for interviews,QR,Attended,3,No,1.84,Yes,2021-02-13,Yes,Later,Volunteer,No,No,Good content,2015-06-20,2015-01-08
+971,281,928,52,Met potential employers,QR,Attended,2,No,1.62,Yes,2025-09-14,Yes,Later,Volunteer,Yes,No,Looking for internship,2019-06-28,2022-06-09
+972,498,999,84,Average experience,Kiosk,Attended,3,No,1.97,Yes,2019-09-15,Yes,Yes,Volunteer,Yes,No,Great panelists,2019-10-19,2025-05-21
+973,905,28,60,Great networking opportunity,Manual,Attended,4,No,2.23,Yes,2022-05-22,Yes,Later,Attendee,No,Yes,Great panelists,2021-03-27,2025-07-01
+974,734,186,96,Helpful for interviews,QR,Cancelled,3,Yes,1.88,Yes,2019-05-24,No,Later,Mentor,No,Yes,Would attend again,2019-12-02,2019-02-12
+975,154,871,56,Helpful for interviews,QR,Attended,2,Yes,2.24,Yes,2015-11-07,No,Later,Speaker,No,Yes,Great panelists,2015-08-25,2023-02-06
+976,373,229,72,Good alumni connections,Manual,No-Show,3,Yes,1.14,Yes,2023-09-07,Yes,Later,Speaker,No,No,Great panelists,2022-05-27,2023-12-05
+977,266,480,93,Helpful for interviews,QR,Cancelled,3,No,1.73,Yes,2024-03-16,No,Yes,Attendee,No,No,Good content,2019-02-12,2023-12-14
+978,627,558,86,Met potential employers,QR,Attended,5,Yes,0.9,Yes,2023-11-07,Yes,Later,Attendee,Yes,Yes,Looking for internship,2015-03-18,2015-07-05
+979,218,150,90,Great networking opportunity,Kiosk,No-Show,5,Yes,0.99,Yes,2021-01-02,Yes,No,Volunteer,No,Yes,Good content,2021-10-29,2024-05-20
+980,982,576,91,Helpful for interviews,QR,Cancelled,4,No,2.13,Yes,2022-03-10,No,Yes,Attendee,Yes,Yes,Looking for internship,2018-09-20,2016-12-18
+981,78,482,95,Informative session,QR,Cancelled,3,No,2.3,Yes,2019-03-17,No,Yes,Mentor,Yes,No,Good content,2022-06-24,2023-04-15
+982,761,502,63,Average experience,Manual,Cancelled,3,Yes,1.08,Yes,2025-08-28,No,Yes,Mentor,Yes,Yes,Good content,2018-10-02,2018-05-27
+983,337,942,86,Helpful for interviews,Manual,Attended,5,No,2.32,Yes,2016-03-03,Yes,Later,Speaker,No,No,Good content,2023-07-10,2016-07-15
+984,177,641,51,Met potential employers,Kiosk,Cancelled,3,Yes,0.75,Yes,2018-08-04,No,No,Volunteer,Yes,Yes,Would attend again,2017-09-13,2023-12-23
+985,649,979,85,Great networking opportunity,Kiosk,Attended,4,Yes,1.57,Yes,2015-07-25,Yes,No,Speaker,Yes,Yes,Looking for internship,2022-05-27,2020-04-23
+986,176,453,90,Great networking opportunity,Kiosk,Attended,4,No,1.64,Yes,2022-04-19,No,Yes,Speaker,Yes,Yes,Great panelists,2016-12-10,2024-06-02
+987,660,499,66,Good alumni connections,Kiosk,Cancelled,3,No,2.62,Yes,2017-10-16,Yes,Later,Speaker,Yes,Yes,Would attend again,2021-01-24,2015-11-05
+988,157,272,94,Helpful for interviews,QR,No-Show,4,Yes,2.21,Yes,2024-09-17,No,Later,Attendee,Yes,No,Looking for internship,2015-10-05,2018-12-31
+989,516,412,67,Average experience,Kiosk,Attended,2,Yes,1.68,Yes,2016-01-05,No,Yes,Mentor,Yes,Yes,Good content,2024-08-10,2021-12-23
+990,256,175,74,Great networking opportunity,QR,Attended,5,No,1.34,Yes,2025-07-01,Yes,No,Attendee,No,No,Good content,2019-09-20,2020-09-26
+991,461,405,82,Informative session,Manual,Cancelled,5,No,2.13,Yes,2020-07-30,Yes,Later,Volunteer,No,No,Would attend again,2015-08-29,2025-11-17
+992,529,664,66,Average experience,Kiosk,Cancelled,1,Yes,0.42,Yes,2020-05-01,No,No,Mentor,Yes,No,Looking for internship,2019-12-25,2020-02-07
+993,368,523,77,Average experience,QR,Attended,3,No,1.11,Yes,2024-07-23,No,Later,Speaker,No,No,Looking for internship,2025-07-05,2023-01-23
+994,622,101,56,Average experience,Kiosk,Cancelled,5,Yes,1.17,Yes,2015-09-26,Yes,Yes,Attendee,No,No,Looking for internship,2015-01-28,2018-12-08
+995,957,610,100,Average experience,Manual,Attended,1,No,2.36,Yes,2025-07-23,Yes,No,Speaker,No,No,Looking for internship,2019-02-15,2021-09-15
+996,500,151,80,Helpful for interviews,Kiosk,Cancelled,3,No,2.64,Yes,2015-07-12,No,No,Speaker,Yes,Yes,Would attend again,2015-11-14,2024-08-21
+997,629,552,45,Relevant content,QR,No-Show,4,No,2.28,Yes,2022-10-28,Yes,No,Mentor,Yes,No,Great panelists,2023-12-26,2016-02-23
+998,75,662,91,Met potential employers,Manual,Cancelled,5,No,1.68,Yes,2025-04-03,No,Yes,Speaker,Yes,No,Looking for internship,2021-01-28,2020-10-29
+999,962,317,80,Helpful for interviews,Manual,Cancelled,1,No,2.54,Yes,2017-10-08,No,No,Volunteer,Yes,Yes,Looking for internship,2018-12-15,2022-02-22
+1000,929,961,78,Helpful for interviews,Manual,No-Show,4,Yes,1.28,Yes,2016-07-07,No,Yes,Speaker,Yes,Yes,Looking for internship,2017-07-07,2020-07-21

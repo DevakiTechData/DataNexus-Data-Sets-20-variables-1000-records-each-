@@ -1,0 +1,1001 @@
+Job_ID,Alumni_ID,Employer_ID,Role,Technology,Employment_Type,Work_Auth_At_Hire,Remote_Flag,City,State,Country,Start_Date,End_Date,Job_Portal,Salary_USD,Bonus_USD,Performance_Rating,Manager_Name,Team,Offer_Accept_Days
+1,300,150,Salesforce Developer,"React, .NET",Part-Time,STEM-OPT,Yes,Austin,TX,USA,2016-03-31,2017-09-18,Handshake,120010,4625,3,Molly Cole,QA,16
+2,11,896,Business Analyst,"Node.js, Tableau, .NET",Part-Time,Citizen,Yes,Rochester,NY,USA,2021-02-10,2022-12-13,Glassdoor,92967,2905,3,David Pineda,Platform,12
+3,468,635,QA Engineer,Tableau,Full-Time,CPT,No,San Jose,CA,USA,2023-08-02,2024-05-29,Glassdoor,110497,5885,4,Brian Thompson,Data,12
+4,363,535,DevOps Engineer,"AWS, C++",Full-Time,CPT,No,San Jose,CA,USA,2021-10-16,2021-05-14,Handshake,104705,7192,4,Andrea Mosley,Apps,7
+5,843,394,Product Manager,"Python, Kubernetes, .NET",Part-Time,Citizen,No,Kansas City,MO,USA,2021-07-23,2022-12-22,Handshake,71527,8617,2,Emily Riley,Security,9
+6,843,449,ML Engineer,Hadoop,Contract,H1B,No,Somerville,MA,USA,2025-11-18,2025-02-28,Campus Career Fair,111860,8163,2,Adam Robinson,Security,5
+7,130,326,Salesforce Developer,JavaScript,Intern,OPT,Yes,San Antonio,TX,USA,2023-07-31,2023-03-20,Indeed,76748,804,1,Sandra Burnett,SRE,16
+8,543,545,Salesforce Developer,"AWS, R",Part-Time,STEM-OPT,No,Raleigh,NC,USA,2017-07-01,2024-12-14,Glassdoor,58794,13213,4,Mr. Brandon Mccall,Platform,19
+9,469,174,Data Analyst,Java,Full-Time,STEM-OPT,Yes,Colorado Springs,CO,USA,2020-06-03,2021-05-15,Indeed,92517,6528,2,Robert Barker,Platform,3
+10,964,827,Salesforce Developer,".NET, AWS",Contract,Citizen,No,San Antonio,TX,USA,2019-01-04,2021-11-06,LinkedIn,75385,6466,1,Sharon Robinson,Security,7
+11,119,445,DevOps Engineer,"React, GCP, SQL",Part-Time,Citizen,No,Boston,MA,USA,2020-07-18,2025-02-28,Indeed,95297,7392,5,Charles Gibbs,Security,1
+12,272,486,Product Manager,"Node.js, AWS",Full-Time,STEM-OPT,Yes,Cleveland,OH,USA,2025-04-03,2025-09-29,Glassdoor,127529,8992,3,Michelle Smith,Data,1
+13,820,312,DevOps Engineer,JavaScript,Contract,CPT,No,Alpharetta,GA,USA,2019-11-04,2019-09-21,Company Site,132564,8759,1,Kenneth Castillo,Data,11
+14,637,790,DevOps Engineer,"Node.js, GCP, Power BI",Full-Time,H1B,No,Scottsdale,AZ,USA,2024-10-12,2024-07-07,LinkedIn,93450,6859,3,Paul Ryan,Security,13
+15,50,359,Product Manager,"Python, Power BI, AWS",Part-Time,Citizen,No,Savannah,GA,USA,2016-12-28,2022-03-28,Campus Career Fair,117585,6237,4,Paul Sanders,Data,6
+16,740,878,QA Engineer,"Kubernetes, R",Intern,OPT,No,Worcester,MA,USA,2019-05-28,2025-07-03,Handshake,63843,8629,4,Adam Thompson,Security,6
+17,773,122,ML Engineer,"Azure, AWS, SQL",Contract,OPT,No,Denver,CO,USA,2023-12-09,2025-03-13,Indeed,121820,10284,5,Christopher Kaiser,QA,8
+18,80,334,Salesforce Developer,Snowflake,Intern,CPT,No,Bellevue,WA,USA,2022-06-10,2022-09-02,Handshake,85355,9532,1,Lisa Anderson,SRE,10
+19,207,459,DevOps Engineer,"Node.js, Kubernetes, GCP",Intern,CPT,Yes,Philadelphia,PA,USA,2016-05-29,2019-03-14,Campus Career Fair,122224,7892,1,Matthew Nelson,Apps,1
+20,370,973,Software Engineer,"Node.js, Kubernetes, Docker",Full-Time,STEM-OPT,Yes,Philadelphia,PA,USA,2025-06-27,2025-11-23,Handshake,82929,3942,1,Crystal Mendoza,Data,14
+21,635,595,Data Engineer,"Node.js, R, Docker",Full-Time,OPT,No,Houston,TX,USA,2020-05-10,2022-10-11,Handshake,119777,5623,3,Christopher Vega,Platform,15
+22,45,885,Salesforce Developer,"JavaScript, SQL, GCP",Intern,CPT,Yes,Cleveland,OH,USA,2024-06-01,2025-07-28,Referral,110813,6307,2,Kelsey Gonzalez,Data,10
+23,265,674,Security Analyst,"Power BI, Azure",Full-Time,CPT,Yes,Bellevue,WA,USA,2019-01-13,2023-09-21,Referral,106590,11223,4,Ashley Johnson,Platform,8
+24,150,299,Data Analyst,"Java, .NET, Tableau",Part-Time,Citizen,No,Miami,FL,USA,2024-07-12,2024-09-04,Company Site,113207,2928,2,Brittany Myers,Platform,9
+25,105,559,SDET,Python,Intern,STEM-OPT,No,Plano,TX,USA,2016-06-16,2019-03-06,Referral,81259,382,1,Aaron Jones,SRE,9
+26,315,515,DevOps Engineer,"Spark, Docker",Full-Time,STEM-OPT,No,Columbus,OH,USA,2018-11-30,2021-08-14,Glassdoor,105506,11470,1,Melissa Hernandez,Security,8
+27,805,418,Data Analyst,"Azure, Node.js, Docker",Part-Time,STEM-OPT,Yes,Rochester,NY,USA,2025-07-01,2025-02-07,Indeed,105018,6825,2,Mary Sellers DDS,Apps,11
+28,774,663,Product Manager,"Python, SQL, GCP",Part-Time,CPT,No,Colorado Springs,CO,USA,2021-09-14,2021-05-10,Indeed,141282,10877,3,Kevin Phillips,Security,21
+29,898,984,Data Analyst,Kubernetes,Part-Time,Citizen,No,Harrisburg,PA,USA,2021-08-06,2024-02-18,Indeed,98618,8387,2,Danny Hanson,Data,12
+30,242,204,Data Analyst,"JavaScript, Docker",Contract,H1B,No,Columbus,OH,USA,2024-04-02,2024-02-07,LinkedIn,106958,4140,2,Patrick Moore,Apps,11
+31,456,59,DevOps Engineer,Power BI,Full-Time,Citizen,Yes,San Jose,CA,USA,2022-11-15,2025-02-11,Handshake,128530,7244,5,Amy Carr,Data,10
+32,372,137,Product Manager,Docker,Part-Time,Citizen,Yes,Pittsburgh,PA,USA,2022-04-21,2024-03-23,Indeed,98877,7272,5,Timothy Martin,Security,4
+33,503,15,DevOps Engineer,"GCP, Node.js, Docker",Full-Time,H1B,No,White Plains,NY,USA,2023-10-07,2025-06-29,LinkedIn,106010,5153,4,Calvin Williams,Data,12
+34,927,127,DevOps Engineer,"Docker, AWS",Full-Time,CPT,Yes,Peoria,IL,USA,2021-12-30,2025-08-26,Glassdoor,99472,8304,2,Joseph Young,Platform,1
+35,78,992,DevOps Engineer,"JavaScript, Power BI",Intern,OPT,No,Cleveland,OH,USA,2022-09-21,2023-02-04,Referral,106444,10440,2,Katherine Pace,Apps,14
+36,604,560,Data Analyst,"Azure, Power BI, React",Part-Time,STEM-OPT,Yes,Orlando,FL,USA,2019-06-19,2020-08-11,LinkedIn,94793,7674,3,Brian Mccormick,Security,13
+37,262,449,Business Analyst,Java,Intern,STEM-OPT,Yes,Ann Arbor,MI,USA,2020-02-07,2024-06-07,Glassdoor,96604,5447,5,Sean Koch,Data,11
+38,908,305,ML Engineer,"Snowflake, Power BI, Kubernetes",Full-Time,CPT,No,Clayton,MO,USA,2017-01-18,2018-03-01,Indeed,105118,4070,4,Leonard Thomas,QA,7
+39,603,985,Business Analyst,"Node.js, AWS, Kubernetes",Contract,H1B,No,Jacksonville,FL,USA,2024-12-25,2025-08-17,Glassdoor,101399,4526,2,Dr. Amy Farmer MD,SRE,3
+40,19,421,Data Analyst,R,Intern,OPT,No,Tacoma,WA,USA,2021-12-01,2022-09-20,LinkedIn,141486,6751,3,Travis Cunningham,Apps,7
+41,716,449,Security Analyst,"Power BI, Java",Part-Time,STEM-OPT,Yes,Atlanta,GA,USA,2020-03-26,2020-01-27,Referral,93695,5837,4,William Brown,Apps,12
+42,640,230,Security Analyst,"GCP, Spark, Power BI",Part-Time,Citizen,No,Ann Arbor,MI,USA,2024-06-22,2024-06-04,Referral,115668,10910,2,Andrea Palmer,Security,14
+43,204,909,Salesforce Developer,"Spark, SQL",Contract,STEM-OPT,Yes,Springfield,IL,USA,2024-10-06,2025-05-17,Glassdoor,124779,8312,5,Michelle Lee,Security,3
+44,390,418,QA Engineer,Kubernetes,Part-Time,CPT,No,Colorado Springs,CO,USA,2025-08-30,2025-06-05,Company Site,98701,10593,4,Rebecca Gonzalez,Data,3
+45,282,19,Data Engineer,"React, Azure",Full-Time,Citizen,Yes,Tacoma,WA,USA,2022-10-10,2023-03-13,Indeed,81111,5479,2,John Fuentes,Data,3
+46,868,432,ML Engineer,"Tableau, Snowflake",Full-Time,Citizen,Yes,Clayton,MO,USA,2022-03-15,2025-12-12,Indeed,97808,3173,1,Edward Morales,Platform,9
+47,936,61,DevOps Engineer,"Tableau, Node.js, Java",Part-Time,STEM-OPT,No,Grand Rapids,MI,USA,2024-07-03,2024-06-21,LinkedIn,50118,14798,1,Linda Malone,SRE,1
+48,30,964,Salesforce Developer,"Spark, Python, R",Full-Time,STEM-OPT,No,Cincinnati,OH,USA,2025-07-22,2025-02-05,Handshake,124729,6775,3,Kimberly Bowman,Apps,14
+49,58,784,Data Engineer,"Kubernetes, Node.js, Spark",Full-Time,Citizen,Yes,Durham,NC,USA,2021-05-09,2025-10-24,Company Site,94876,5512,1,Jessica Cunningham,SRE,4
+50,978,816,Software Engineer,JavaScript,Part-Time,OPT,No,Detroit,MI,USA,2019-08-02,2022-06-25,Indeed,120068,12463,2,Charles Gomez,Security,12
+51,648,661,Product Manager,"AWS, .NET, Node.js",Full-Time,Citizen,No,Worcester,MA,USA,2024-02-08,2024-04-18,Handshake,90770,7078,1,Madison Newman,Platform,4
+52,580,774,QA Engineer,"JavaScript, R",Intern,OPT,Yes,Charlotte,NC,USA,2024-09-08,2025-04-11,Glassdoor,121668,9348,2,Christine Mcdonald,Apps,8
+53,221,637,Data Analyst,Docker,Part-Time,STEM-OPT,Yes,Cleveland,OH,USA,2019-12-28,2021-08-27,Campus Career Fair,92114,7594,5,Gregory Irwin,Platform,8
+54,274,630,Business Analyst,C++,Contract,STEM-OPT,No,Detroit,MI,USA,2024-12-17,2024-11-02,Company Site,98030,9793,2,Andrew Smith,Platform,8
+55,594,492,Product Manager,"Power BI, Hadoop",Contract,CPT,No,Kansas City,MO,USA,2022-03-28,2024-01-25,Campus Career Fair,114951,7780,4,Daniel Lane,Platform,14
+56,603,123,Business Analyst,"JavaScript, Node.js",Full-Time,Citizen,No,Urbana,IL,USA,2021-12-09,2024-04-22,Glassdoor,104876,12796,3,Nancy Sampson,Apps,6
+57,967,578,Security Analyst,JavaScript,Part-Time,H1B,Yes,Jacksonville,FL,USA,2022-11-14,2025-12-23,Company Site,60328,9531,5,Gary Rodgers,QA,5
+58,23,357,Salesforce Developer,"JavaScript, Azure",Intern,H1B,Yes,San Jose,CA,USA,2018-05-11,2022-02-01,Company Site,107450,10540,3,Lance Peck,QA,15
+59,312,370,Data Engineer,"AWS, .NET, R",Intern,Citizen,No,Jacksonville,FL,USA,2022-07-24,2024-04-20,LinkedIn,100641,7611,3,Mr. Matthew Moody,QA,7
+60,803,565,DevOps Engineer,"JavaScript, GCP",Contract,STEM-OPT,No,Los Angeles,CA,USA,2025-10-18,2025-02-27,Indeed,74514,8741,5,Jillian Acosta,Data,10
+61,443,752,DevOps Engineer,".NET, R, Power BI",Part-Time,CPT,No,Durham,NC,USA,2023-10-26,2024-08-17,Indeed,163231,10387,3,Carly Kelly,SRE,13
+62,58,142,Salesforce Developer,Docker,Part-Time,Citizen,No,Fort Collins,CO,USA,2021-10-08,2023-04-12,LinkedIn,131823,11876,1,Rachel Hickman,Platform,9
+63,985,20,QA Engineer,Kubernetes,Contract,Citizen,Yes,New York,NY,USA,2022-11-25,2023-05-28,Campus Career Fair,102781,4629,4,Mr. Ryan Gonzalez PhD,Security,12
+64,377,580,Product Manager,"Hadoop, Java, Power BI",Full-Time,STEM-OPT,No,San Jose,CA,USA,2025-08-19,2025-05-31,Campus Career Fair,153752,10445,3,Christopher Reed,SRE,1
+65,86,91,Business Analyst,"R, Python, Power BI",Contract,H1B,No,Redmond,WA,USA,2024-01-01,2025-05-27,Campus Career Fair,125146,12893,1,Bradley Jones,Apps,8
+66,121,606,SDET,Node.js,Intern,STEM-OPT,Yes,Tempe,AZ,USA,2025-04-25,2025-09-22,Company Site,119602,10962,1,Kimberly Garcia,QA,9
+67,420,790,SDET,"Python, .NET, AWS",Part-Time,H1B,No,Redmond,WA,USA,2024-08-26,2024-07-17,Handshake,112802,5461,1,Deborah Hamilton,Platform,1
+68,719,102,DevOps Engineer,"GCP, .NET, Power BI",Contract,CPT,Yes,Jacksonville,FL,USA,2024-09-27,2024-08-25,Referral,99268,9765,5,Nicholas Lopez,Apps,7
+69,925,155,SDET,".NET, Java",Full-Time,Citizen,Yes,Ann Arbor,MI,USA,2024-06-20,2024-07-01,Indeed,113217,5405,4,Michael Brown,SRE,7
+70,911,548,QA Engineer,"Power BI, R, Java",Contract,Citizen,No,Alpharetta,GA,USA,2019-02-24,2024-10-18,Handshake,69392,5809,3,Daniel Munoz,SRE,11
+71,391,895,QA Engineer,AWS,Full-Time,STEM-OPT,No,Boston,MA,USA,2017-05-03,2021-06-18,Referral,109048,7279,4,Casey Rodriguez,SRE,9
+72,889,254,ML Engineer,"Java, .NET",Part-Time,H1B,No,Cleveland,OH,USA,2023-07-29,2025-06-04,Handshake,82221,10045,1,Jeremy Hudson,QA,11
+73,420,211,ML Engineer,GCP,Intern,Citizen,Yes,Urbana,IL,USA,2023-06-22,2023-08-02,Indeed,120684,7714,1,Patrick Alexander,SRE,14
+74,363,111,QA Engineer,"Azure, AWS, Spark",Contract,OPT,Yes,Cincinnati,OH,USA,2019-02-11,2025-08-18,Glassdoor,69347,10825,4,Ian Patel,Platform,7
+75,480,980,Security Analyst,JavaScript,Full-Time,Citizen,Yes,Naperville,IL,USA,2024-01-25,2024-10-05,Indeed,121995,5760,1,Amy Wright,Apps,3
+76,990,806,QA Engineer,"Spark, Kubernetes",Intern,STEM-OPT,No,Albany,NY,USA,2020-12-01,2021-08-29,Company Site,108820,9519,1,Briana Lam,Security,17
+77,156,112,Data Analyst,Docker,Part-Time,Citizen,Yes,Raleigh,NC,USA,2024-07-27,2024-09-22,Glassdoor,112457,6851,2,Frank Shepherd,Security,1
+78,12,475,Data Analyst,"R, Azure, Docker",Full-Time,H1B,No,Denver,CO,USA,2022-11-08,2023-03-21,LinkedIn,81727,4269,4,Molly Powell,SRE,13
+79,27,503,Data Engineer,"Tableau, Python, R",Part-Time,CPT,Yes,Denver,CO,USA,2019-10-05,2020-09-18,Referral,78316,8410,1,Janet Archer,Apps,13
+80,1000,57,Data Engineer,"R, AWS",Contract,OPT,Yes,Fort Collins,CO,USA,2018-12-25,2021-08-14,Handshake,95499,8773,4,Louis Rodriguez Jr.,Security,11
+81,716,259,Data Engineer,"Snowflake, .NET, React",Contract,OPT,Yes,Philadelphia,PA,USA,2022-04-13,2025-10-04,Handshake,101700,10902,4,Angela Woodard,SRE,6
+82,675,100,DevOps Engineer,"Spark, Docker",Contract,H1B,No,Bellevue,WA,USA,2023-06-01,2025-07-19,Company Site,80034,11563,5,Amanda Clayton,Security,6
+83,233,961,ML Engineer,"Snowflake, Docker",Intern,STEM-OPT,No,Charlotte,NC,USA,2023-02-26,2023-09-25,Handshake,89086,9601,5,Tammy Little,Security,16
+84,404,115,Software Engineer,Java,Intern,OPT,No,Springfield,MO,USA,2023-03-24,2023-05-12,Glassdoor,75663,5336,2,Anna Terry,QA,12
+85,932,130,ML Engineer,"React, Hadoop",Part-Time,CPT,No,Albany,NY,USA,2023-09-05,2024-09-17,Indeed,121359,4029,5,Joel Mckenzie,Platform,12
+86,368,643,DevOps Engineer,"R, GCP",Contract,CPT,Yes,Naperville,IL,USA,2016-10-16,2021-05-16,Indeed,104069,6780,5,Linda Jenkins,Security,10
+87,82,794,QA Engineer,"Azure, JavaScript",Part-Time,Citizen,No,Cincinnati,OH,USA,2025-05-10,2025-01-29,Referral,84446,6783,1,Mariah Love,Security,12
+88,857,830,Business Analyst,"Azure, Snowflake, R",Part-Time,CPT,Yes,Alpharetta,GA,USA,2024-08-10,2024-02-09,Handshake,87671,3068,5,Brandon Weber,Security,10
+89,628,67,Software Engineer,"React, Azure",Full-Time,CPT,No,New York,NY,USA,2024-10-31,2024-01-25,LinkedIn,114607,10226,1,Samuel Smith,Data,6
+90,548,785,Product Manager,R,Contract,CPT,No,Philadelphia,PA,USA,2025-02-05,2025-12-24,Referral,99739,14990,3,Julia Griffin,SRE,12
+91,16,828,QA Engineer,Hadoop,Full-Time,Citizen,Yes,Pittsburgh,PA,USA,2022-11-18,2025-12-26,Indeed,92444,7530,2,Rebecca Mills,Apps,8
+92,59,291,Business Analyst,"Spark, C++, SQL",Full-Time,STEM-OPT,Yes,Urbana,IL,USA,2016-02-06,2020-08-31,LinkedIn,103161,7666,5,Benjamin Simpson,SRE,9
+93,244,375,Data Analyst,Kubernetes,Contract,STEM-OPT,No,Philadelphia,PA,USA,2025-12-24,2025-05-08,Glassdoor,82788,8986,2,Chelsea Perez,Security,11
+94,848,501,Data Engineer,"Tableau, .NET, C++",Intern,CPT,Yes,Naperville,IL,USA,2025-06-18,2025-02-21,Company Site,99410,4717,3,Diana Velez,Security,4
+95,132,590,QA Engineer,"JavaScript, Snowflake",Full-Time,H1B,Yes,Worcester,MA,USA,2016-04-19,2024-05-04,Referral,104874,6617,5,Miguel Lloyd,Data,9
+96,431,801,Data Engineer,React,Part-Time,Citizen,No,Seattle,WA,USA,2022-05-28,2025-10-15,Campus Career Fair,70588,7525,4,Kimberly Carson,Security,5
+97,607,425,QA Engineer,.NET,Part-Time,H1B,No,Charlotte,NC,USA,2025-10-12,2025-09-24,Company Site,92718,11309,5,Cynthia Roberson,SRE,1
+98,943,880,Salesforce Developer,"Azure, C++, R",Intern,STEM-OPT,Yes,Fort Collins,CO,USA,2025-07-24,2025-10-15,Glassdoor,90059,6725,4,Catherine Bailey,Platform,12
+99,175,788,Data Engineer,"Spark, Kubernetes",Contract,Citizen,Yes,Philadelphia,PA,USA,2020-03-12,2022-12-13,Referral,77693,8033,4,Carolyn Jackson,Apps,18
+100,641,543,Security Analyst,Node.js,Part-Time,Citizen,No,Harrisburg,PA,USA,2025-03-06,2025-02-03,Referral,104929,5473,5,Frederick Holden,Apps,12
+101,749,572,Business Analyst,Power BI,Intern,OPT,No,Redmond,WA,USA,2021-03-18,2022-08-22,Handshake,92304,6721,4,Daniel Aguilar,QA,8
+102,990,900,SDET,"SQL, Hadoop, JavaScript",Intern,CPT,No,Boulder,CO,USA,2020-12-19,2023-12-20,Campus Career Fair,115131,7099,5,Michelle Logan,Data,9
+103,423,517,Data Engineer,"Spark, Power BI",Contract,OPT,Yes,St. Louis,MO,USA,2018-08-18,2024-10-04,Company Site,120348,7761,5,Lindsey Ramirez,Data,16
+104,453,999,Software Engineer,"R, Azure",Contract,OPT,No,Colorado Springs,CO,USA,2024-11-18,2024-04-02,Indeed,85497,6157,2,Rachel Hughes,QA,12
+105,614,180,Business Analyst,"GCP, Node.js",Part-Time,Citizen,No,Bellevue,WA,USA,2024-04-14,2024-10-23,Referral,112182,7670,4,Karen Watson,QA,17
+106,909,620,SDET,"R, .NET",Part-Time,STEM-OPT,Yes,Ann Arbor,MI,USA,2025-05-23,2025-02-24,Referral,125305,12567,1,Rebecca Pacheco MD,SRE,11
+107,605,386,SDET,"Kubernetes, JavaScript, Spark",Part-Time,H1B,Yes,Savannah,GA,USA,2023-11-09,2023-01-06,Handshake,119244,9423,1,Kyle Miller,Apps,1
+108,150,909,Security Analyst,"Snowflake, R",Contract,OPT,Yes,Cary,NC,USA,2024-12-07,2025-07-19,Handshake,105912,6605,4,Alyssa Morgan,Data,12
+109,337,415,Software Engineer,C++,Part-Time,STEM-OPT,No,Cleveland,OH,USA,2020-02-08,2020-10-26,Handshake,91929,7986,1,Michael Alvarez,Security,21
+110,442,717,Data Analyst,"AWS, GCP",Full-Time,Citizen,Yes,Denver,CO,USA,2024-11-14,2024-02-11,LinkedIn,120746,9915,3,John Spence,Security,11
+111,981,695,Salesforce Developer,"JavaScript, Java, Power BI",Full-Time,STEM-OPT,Yes,Tempe,AZ,USA,2019-09-15,2023-11-25,Referral,82303,7808,4,Kristina Mason,QA,9
+112,615,782,ML Engineer,"Java, Hadoop",Intern,OPT,No,Colorado Springs,CO,USA,2023-08-21,2023-03-01,Company Site,122814,5882,5,Curtis Houston,SRE,6
+113,947,440,Business Analyst,Kubernetes,Part-Time,OPT,No,Denver,CO,USA,2023-06-18,2024-10-10,Indeed,83669,9242,4,Kathryn Dean,Security,8
+114,802,456,Software Engineer,"R, .NET",Contract,H1B,No,San Antonio,TX,USA,2018-09-13,2025-06-24,Company Site,142930,11093,3,Julie Collier,Data,6
+115,770,1000,Software Engineer,"Node.js, Spark",Full-Time,Citizen,Yes,Savannah,GA,USA,2021-04-03,2022-02-01,Referral,95021,9046,3,Sergio Parker,Apps,15
+116,306,82,Salesforce Developer,"C++, Power BI, Docker",Intern,H1B,Yes,Miami,FL,USA,2023-02-12,2024-08-27,Glassdoor,114999,11485,1,Christopher Thornton,SRE,9
+117,132,628,Data Analyst,"Snowflake, Docker, Java",Part-Time,CPT,Yes,Los Angeles,CA,USA,2017-09-17,2021-03-31,Indeed,102295,10057,3,Tonya Pitts,Data,3
+118,288,262,Data Engineer,"R, C++, Spark",Full-Time,OPT,No,Houston,TX,USA,2018-10-02,2024-06-20,Indeed,71843,4783,5,Brandy Turner,Security,1
+119,116,41,Data Engineer,"R, GCP, Kubernetes",Full-Time,OPT,No,Los Angeles,CA,USA,2023-12-19,2023-01-31,Indeed,118077,6859,3,Timothy Griffin,SRE,19
+120,422,702,SDET,"Kubernetes, Docker",Part-Time,OPT,No,San Antonio,TX,USA,2020-01-27,2024-09-10,Glassdoor,102735,7660,5,Joshua Phillips,Platform,8
+121,970,519,SDET,".NET, Python",Full-Time,STEM-OPT,Yes,Fort Collins,CO,USA,2017-10-09,2018-02-25,Campus Career Fair,109298,4625,4,Angela Leblanc,Apps,10
+122,551,962,Business Analyst,"React, Azure, GCP",Full-Time,Citizen,No,Atlanta,GA,USA,2016-10-16,2024-08-25,Handshake,139124,9369,4,William Stevens,Apps,5
+123,194,790,Product Manager,"React, Python, JavaScript",Full-Time,H1B,No,Tucson,AZ,USA,2018-02-28,2021-09-29,Handshake,111039,6229,1,Allison Rice,SRE,12
+124,492,169,Data Engineer,"C++, Hadoop, SQL",Full-Time,STEM-OPT,No,Los Angeles,CA,USA,2024-11-20,2025-03-26,Campus Career Fair,82067,6299,1,Michael Wood,Security,7
+125,699,883,QA Engineer,"JavaScript, SQL, Node.js",Part-Time,STEM-OPT,No,Kansas City,MO,USA,2025-11-10,2025-09-11,LinkedIn,90836,14074,5,Brandon Peterson,Apps,10
+126,365,253,QA Engineer,Azure,Contract,H1B,No,Naperville,IL,USA,2024-04-27,2024-11-04,Referral,109069,7860,2,Dr. Mary Ramirez,Apps,12
+127,760,442,Product Manager,"Azure, SQL, React",Part-Time,STEM-OPT,Yes,Grand Rapids,MI,USA,2020-04-01,2023-11-07,Glassdoor,99407,5068,1,Mark Mclean,SRE,1
+128,660,645,QA Engineer,"SQL, GCP, R",Intern,OPT,Yes,Alpharetta,GA,USA,2025-10-05,2025-03-11,Campus Career Fair,84592,10060,4,Jessica Mendoza,Security,6
+129,465,96,Business Analyst,"C++, Docker, JavaScript",Contract,Citizen,No,Chesterfield,MO,USA,2025-03-17,2025-01-07,Company Site,81928,10626,2,Jessica Cervantes,Security,7
+130,584,269,Business Analyst,Node.js,Contract,CPT,Yes,Miami,FL,USA,2024-04-06,2025-11-06,Company Site,97557,12902,4,Kristina Nelson,SRE,14
+131,265,275,Data Analyst,"Kubernetes, React, Azure",Part-Time,OPT,Yes,Boston,MA,USA,2025-12-16,2025-08-21,Campus Career Fair,79541,10411,4,Jeremy Johnson,Apps,14
+132,739,332,Business Analyst,"Spark, Hadoop",Full-Time,STEM-OPT,Yes,Chicago,IL,USA,2020-01-07,2023-10-13,Referral,104009,6862,2,Jennifer Jones,QA,14
+133,283,901,SDET,Python,Intern,OPT,Yes,Philadelphia,PA,USA,2022-05-20,2024-01-20,Indeed,114561,10788,3,Jay Sosa,SRE,15
+134,287,219,Data Engineer,Azure,Part-Time,STEM-OPT,No,Cleveland,OH,USA,2020-08-21,2021-03-02,Handshake,70794,7982,5,Justin Carter,Apps,5
+135,330,646,DevOps Engineer,"Spark, Hadoop",Contract,CPT,No,Savannah,GA,USA,2025-05-13,2025-04-27,Referral,107573,8441,2,Linda Castillo,SRE,7
+136,214,515,Data Analyst,".NET, Hadoop, Power BI",Contract,H1B,No,Jacksonville,FL,USA,2025-12-16,2025-09-03,LinkedIn,91515,7932,5,Marvin Holmes,Security,17
+137,244,414,QA Engineer,"Kubernetes, .NET",Intern,CPT,No,Phoenix,AZ,USA,2017-08-12,2022-10-10,Indeed,119706,8323,4,Megan Robertson,Platform,12
+138,208,596,Salesforce Developer,"AWS, Node.js, JavaScript",Intern,CPT,Yes,Albany,NY,USA,2022-12-25,2025-09-03,Glassdoor,129781,6589,4,Andrea Houston,QA,11
+139,946,54,Business Analyst,"Node.js, .NET",Contract,OPT,No,Albany,NY,USA,2016-07-09,2023-10-27,Company Site,104042,9050,3,David Nash,QA,11
+140,774,50,Data Engineer,.NET,Intern,STEM-OPT,Yes,Cincinnati,OH,USA,2015-08-03,2024-07-14,Handshake,135764,11628,5,Mrs. Kimberly Rhodes,Security,5
+141,392,939,ML Engineer,"Azure, GCP, Tableau",Intern,CPT,Yes,San Antonio,TX,USA,2024-03-03,2024-06-12,Indeed,112899,9422,3,William Mack,SRE,10
+142,585,686,Business Analyst,"React, Tableau, Java",Full-Time,Citizen,No,Tampa,FL,USA,2024-10-11,2024-07-03,LinkedIn,94739,4770,4,Larry Kelley,Platform,5
+143,684,50,DevOps Engineer,"JavaScript, Java, React",Part-Time,OPT,No,Ann Arbor,MI,USA,2024-11-03,2025-09-14,Company Site,81100,5719,4,Kelly Hernandez,Platform,2
+144,514,391,ML Engineer,"Spark, Power BI, Docker",Contract,H1B,No,Albany,NY,USA,2019-09-04,2019-08-09,Indeed,120245,12633,4,Kevin Casey,Data,12
+145,983,619,Data Analyst,React,Full-Time,OPT,Yes,St. Louis,MO,USA,2021-01-28,2025-07-08,Campus Career Fair,124657,10812,1,Mark Whitaker,Data,6
+146,15,594,DevOps Engineer,Spark,Intern,Citizen,Yes,Grand Rapids,MI,USA,2024-12-19,2024-11-10,Campus Career Fair,127928,7945,3,Michael Johnson,Security,17
+147,529,830,Salesforce Developer,R,Part-Time,CPT,No,Plano,TX,USA,2025-12-31,2025-09-02,Glassdoor,128635,9518,1,Michael Santiago,Platform,13
+148,910,74,Data Analyst,Node.js,Part-Time,H1B,Yes,Savannah,GA,USA,2022-04-13,2025-03-26,LinkedIn,113592,7994,5,Kevin Davis,SRE,9
+149,400,785,QA Engineer,"SQL, Azure, Python",Part-Time,Citizen,No,Redmond,WA,USA,2017-01-09,2019-02-13,Campus Career Fair,142694,8468,4,Carolyn Evans,QA,8
+150,816,287,Business Analyst,"JavaScript, GCP, Docker",Intern,Citizen,Yes,Albany,NY,USA,2025-03-25,2025-08-20,Glassdoor,118690,9331,1,Emily Johnson,QA,3
+151,327,542,Business Analyst,"Spark, .NET, R",Contract,OPT,Yes,Savannah,GA,USA,2022-08-05,2024-10-26,Referral,121891,7749,3,Matthew Gibson,Security,17
+152,780,985,Security Analyst,"JavaScript, Kubernetes",Intern,CPT,No,Boulder,CO,USA,2025-06-05,2025-04-12,Glassdoor,117804,8606,5,Alexis Long,Apps,3
+153,400,549,Software Engineer,"Snowflake, Docker, Tableau",Part-Time,STEM-OPT,Yes,Tampa,FL,USA,2024-10-29,2025-05-23,LinkedIn,49248,9109,5,Christina Cummings,QA,6
+154,991,329,DevOps Engineer,"Azure, Tableau, React",Intern,Citizen,No,Atlanta,GA,USA,2021-05-16,2021-09-28,Glassdoor,75945,10309,1,Michael Krause,Data,10
+155,116,723,Software Engineer,"Tableau, JavaScript, Python",Full-Time,Citizen,Yes,Fort Collins,CO,USA,2022-02-28,2024-07-09,Handshake,99995,6083,2,Gina Garrett,SRE,7
+156,448,454,Salesforce Developer,"GCP, Tableau",Part-Time,H1B,No,Urbana,IL,USA,2024-07-12,2024-01-10,LinkedIn,80624,4461,1,Ethan Gomez,Platform,8
+157,627,889,QA Engineer,"Node.js, R, .NET",Intern,STEM-OPT,Yes,Durham,NC,USA,2018-06-18,2018-12-17,Handshake,63529,4724,2,Terri Blair,Data,19
+158,799,22,DevOps Engineer,Spark,Part-Time,CPT,Yes,White Plains,NY,USA,2017-03-14,2018-02-25,Company Site,103763,12408,3,Pamela Young,Apps,8
+159,555,572,Data Engineer,"Tableau, Java",Intern,OPT,Yes,Redmond,WA,USA,2023-12-27,2024-10-24,Glassdoor,108650,9530,3,Ryan Ayala,SRE,9
+160,230,704,Data Engineer,"GCP, Python",Part-Time,OPT,No,Bellevue,WA,USA,2023-07-27,2024-12-15,Campus Career Fair,103629,4439,5,Ryan Chambers,Platform,11
+161,691,219,Product Manager,"Azure, Tableau",Contract,Citizen,Yes,Los Angeles,CA,USA,2024-08-26,2024-04-17,LinkedIn,113362,6332,4,Colleen Wiley,QA,6
+162,171,908,Software Engineer,"Python, Spark",Part-Time,STEM-OPT,No,Buffalo,NY,USA,2025-08-27,2025-10-13,Referral,80111,10774,4,Dawn Petersen,Data,12
+163,738,157,Salesforce Developer,AWS,Intern,Citizen,Yes,San Francisco,CA,USA,2020-05-03,2022-01-12,Campus Career Fair,133369,12754,2,Thomas Johnson,Security,4
+164,462,350,Salesforce Developer,"GCP, Spark, Node.js",Contract,Citizen,No,San Antonio,TX,USA,2022-08-16,2022-10-31,Handshake,96913,9702,3,Linda Thompson,SRE,16
+165,791,920,Business Analyst,Spark,Full-Time,CPT,Yes,Cleveland,OH,USA,2024-11-04,2024-11-09,Campus Career Fair,91707,1858,2,Tricia Harris,SRE,2
+166,286,142,Software Engineer,"GCP, Power BI",Full-Time,STEM-OPT,No,San Francisco,CA,USA,2024-10-23,2024-12-30,Referral,93859,9904,4,Nicole Cox,Security,9
+167,557,395,ML Engineer,"Power BI, SQL, GCP",Full-Time,H1B,No,Tucson,AZ,USA,2025-07-05,2025-11-23,LinkedIn,84240,12209,1,Christina Martin,Security,7
+168,681,876,Data Engineer,"R, Azure",Full-Time,Citizen,Yes,Somerville,MA,USA,2020-08-07,2024-06-29,Glassdoor,133696,3856,3,Andrew Livingston,Apps,10
+169,171,622,Data Engineer,"Azure, Hadoop, C++",Contract,OPT,Yes,Jacksonville,FL,USA,2020-06-14,2025-09-09,Referral,97803,10105,2,Kristen Robbins,Security,12
+170,852,841,Security Analyst,"Node.js, Python, SQL",Part-Time,Citizen,No,Redmond,WA,USA,2021-10-25,2021-07-02,Campus Career Fair,121607,4188,1,Katherine Foster,QA,8
+171,13,532,SDET,.NET,Contract,CPT,Yes,Tampa,FL,USA,2025-08-08,2025-11-23,Handshake,139360,9981,1,David Anderson,Data,10
+172,943,461,Salesforce Developer,R,Contract,CPT,Yes,Savannah,GA,USA,2025-05-22,2025-07-27,Handshake,100179,4913,2,Samantha Graham,QA,3
+173,929,240,Business Analyst,"Spark, JavaScript",Part-Time,CPT,No,Ann Arbor,MI,USA,2021-07-19,2022-12-28,Glassdoor,80426,9740,3,Amy Brown,Platform,6
+174,917,173,Data Engineer,R,Full-Time,CPT,Yes,Chesterfield,MO,USA,2025-09-08,2025-06-30,LinkedIn,58630,8165,4,Denise Chapman,SRE,11
+175,439,860,Data Engineer,"Power BI, GCP",Contract,OPT,Yes,Cambridge,MA,USA,2024-07-04,2025-02-23,Company Site,102562,3219,2,Ana Hanson,SRE,3
+176,356,305,Data Engineer,"C++, .NET",Full-Time,Citizen,No,Kansas City,MO,USA,2020-11-16,2020-08-23,Referral,103817,10717,3,Joseph Johnson,Data,4
+177,531,822,Security Analyst,"R, Hadoop, AWS",Part-Time,Citizen,No,Buffalo,NY,USA,2024-01-05,2025-09-27,Campus Career Fair,108429,3747,2,Kelly Russo,Platform,10
+178,248,19,ML Engineer,"Kubernetes, Python",Contract,OPT,Yes,Phoenix,AZ,USA,2024-07-12,2025-11-27,Handshake,108191,8440,5,Robert Hanson,Platform,10
+179,554,590,Data Analyst,"React, Power BI, GCP",Intern,STEM-OPT,No,Raleigh,NC,USA,2025-04-05,2025-04-30,Glassdoor,63593,8022,2,Amy Dickson,SRE,16
+180,248,929,Security Analyst,Snowflake,Part-Time,OPT,Yes,Clayton,MO,USA,2024-11-23,2025-08-29,Referral,103916,4289,5,Bradley Hale,Apps,7
+181,450,829,SDET,Azure,Part-Time,OPT,No,Tempe,AZ,USA,2025-10-29,2025-01-14,Company Site,131159,11333,5,Daniel Holloway,SRE,5
+182,303,6,Security Analyst,"SQL, React",Contract,H1B,Yes,Grand Rapids,MI,USA,2024-01-20,2024-01-29,Indeed,101189,8653,5,Anthony Grant,Security,7
+183,65,738,QA Engineer,"Azure, Docker",Intern,CPT,Yes,Tampa,FL,USA,2017-05-01,2018-06-15,Indeed,142056,6509,2,Nicole Logan,QA,9
+184,462,270,DevOps Engineer,Kubernetes,Full-Time,Citizen,No,Scottsdale,AZ,USA,2024-06-04,2025-09-11,Glassdoor,79096,4749,2,Terrence Green,QA,11
+185,80,246,Security Analyst,"Hadoop, Power BI, .NET",Part-Time,CPT,Yes,Grand Rapids,MI,USA,2018-12-09,2019-07-26,Handshake,78820,11555,4,Robert Salazar,Data,13
+186,381,309,ML Engineer,.NET,Part-Time,CPT,Yes,Peoria,IL,USA,2021-10-22,2024-10-06,Indeed,98494,5639,4,Theresa Baker,Apps,12
+187,610,232,SDET,"JavaScript, R",Full-Time,STEM-OPT,Yes,Tacoma,WA,USA,2024-02-29,2025-10-28,LinkedIn,96027,10443,2,Chad Gomez,Platform,10
+188,634,216,Business Analyst,"Tableau, Spark, AWS",Intern,CPT,Yes,Detroit,MI,USA,2021-09-24,2021-11-09,Campus Career Fair,75515,588,2,Kristen James,SRE,9
+189,708,58,ML Engineer,"Java, Node.js, GCP",Part-Time,STEM-OPT,Yes,Cincinnati,OH,USA,2022-06-15,2025-12-06,Campus Career Fair,98143,7589,4,Mark Decker,QA,1
+190,383,464,Security Analyst,"Kubernetes, GCP",Contract,OPT,Yes,Urbana,IL,USA,2024-02-09,2024-02-26,Handshake,79331,5600,3,Taylor Castaneda,Platform,6
+191,747,415,SDET,"JavaScript, React",Part-Time,STEM-OPT,No,San Francisco,CA,USA,2023-07-30,2024-10-03,Glassdoor,69272,11773,1,Rebecca Luna,Apps,10
+192,120,326,Product Manager,Snowflake,Full-Time,STEM-OPT,No,Columbia,MO,USA,2025-12-11,2025-03-10,Indeed,97318,7786,5,Sheila Hayes,Security,6
+193,202,613,Security Analyst,"C++, Java",Part-Time,Citizen,No,Albany,NY,USA,2022-07-29,2025-05-19,Glassdoor,130421,9289,5,Lauren Campbell,QA,6
+194,695,906,QA Engineer,"Hadoop, Spark",Part-Time,OPT,Yes,Cincinnati,OH,USA,2018-06-01,2022-10-26,Referral,90728,7190,1,Cheryl Jackson,QA,23
+195,62,722,Salesforce Developer,Spark,Full-Time,Citizen,No,Miami,FL,USA,2020-02-09,2021-04-27,Company Site,81395,4189,1,Ashley Simpson,Apps,2
+196,689,561,QA Engineer,JavaScript,Contract,H1B,No,Rochester,NY,USA,2024-02-19,2024-10-07,Referral,89522,7298,1,Kelly Skinner,Data,14
+197,760,724,DevOps Engineer,"Node.js, Azure, SQL",Contract,H1B,Yes,Rochester,NY,USA,2018-11-10,2019-10-25,Campus Career Fair,104730,6114,4,Lori Torres,Security,7
+198,749,265,ML Engineer,Snowflake,Part-Time,STEM-OPT,No,Chesterfield,MO,USA,2025-12-01,2025-07-18,Indeed,110997,4604,2,Roberto Green,QA,12
+199,201,700,Data Analyst,C++,Contract,CPT,Yes,San Diego,CA,USA,2024-07-08,2025-07-11,Handshake,102131,8297,1,Robert Boone,Apps,5
+200,283,328,Data Analyst,"Docker, Snowflake, Tableau",Part-Time,Citizen,Yes,Orlando,FL,USA,2019-01-29,2022-07-08,Indeed,84834,9045,4,Nathan Garcia,SRE,17
+201,426,702,Business Analyst,"Power BI, Hadoop",Intern,STEM-OPT,No,Columbia,MO,USA,2025-05-18,2025-02-28,Referral,117839,3531,4,Kyle Green,QA,5
+202,559,511,Product Manager,"AWS, Node.js, Hadoop",Full-Time,STEM-OPT,No,Charlotte,NC,USA,2022-12-16,2025-05-29,Glassdoor,104464,5309,1,Linda Richardson,Security,9
+203,973,48,Business Analyst,GCP,Part-Time,CPT,No,Tampa,FL,USA,2024-12-23,2024-09-13,Company Site,101940,9295,4,Jacob Shepherd,Data,14
+204,608,182,Software Engineer,"React, Snowflake, Tableau",Full-Time,STEM-OPT,No,Albany,NY,USA,2024-03-20,2025-09-05,Campus Career Fair,97706,6054,5,Marcus Andrews,Data,15
+205,451,113,Salesforce Developer,Hadoop,Contract,OPT,No,Philadelphia,PA,USA,2021-01-02,2025-08-21,Glassdoor,99440,1147,1,James Barker,Platform,2
+206,316,347,Software Engineer,"React, JavaScript",Full-Time,H1B,No,Columbus,OH,USA,2022-09-06,2025-02-03,Campus Career Fair,45000,10051,1,Melissa Gallagher,SRE,10
+207,445,955,Security Analyst,C++,Intern,H1B,No,Cambridge,MA,USA,2019-01-23,2021-07-16,Handshake,149677,6178,2,Steven Matthews,Data,5
+208,573,425,Salesforce Developer,"Java, Tableau, Python",Full-Time,STEM-OPT,No,Worcester,MA,USA,2024-07-18,2025-05-14,Company Site,73802,9403,5,Catherine Austin,Platform,14
+209,58,494,Security Analyst,"Kubernetes, Python",Part-Time,Citizen,Yes,Fort Collins,CO,USA,2024-07-31,2024-03-21,Company Site,89345,5172,1,Kristin Stanley,Security,14
+210,584,694,DevOps Engineer,Node.js,Full-Time,STEM-OPT,Yes,Alpharetta,GA,USA,2018-09-09,2022-08-25,Campus Career Fair,109580,9465,3,Amanda Washington,SRE,16
+211,263,968,Software Engineer,JavaScript,Part-Time,STEM-OPT,Yes,Urbana,IL,USA,2020-06-14,2024-07-07,Glassdoor,116832,5731,2,Jennifer Davis,SRE,5
+212,494,405,Data Engineer,"Azure, Spark, Java",Contract,CPT,Yes,Boston,MA,USA,2023-01-25,2024-02-08,Referral,63189,7609,1,Samantha Willis,SRE,14
+213,30,773,ML Engineer,"Tableau, Hadoop",Intern,Citizen,Yes,Charlotte,NC,USA,2023-01-05,2024-02-28,Company Site,74011,9111,1,Samantha Barnes,QA,9
+214,330,186,Software Engineer,"Docker, Node.js",Full-Time,H1B,No,Tampa,FL,USA,2021-02-10,2024-08-11,Referral,123367,10043,2,Michael Patterson,Data,9
+215,609,428,Product Manager,"Power BI, Python",Contract,H1B,No,Irvine,CA,USA,2024-03-09,2025-11-15,LinkedIn,120739,8174,4,Rachel Gonzalez,SRE,6
+216,833,136,Business Analyst,"GCP, JavaScript, R",Contract,H1B,Yes,White Plains,NY,USA,2025-05-04,2025-04-22,Indeed,105151,5697,1,Patrick Clark,SRE,9
+217,220,106,Data Engineer,Hadoop,Full-Time,STEM-OPT,Yes,Chesterfield,MO,USA,2024-03-28,2025-02-26,Referral,57909,2489,2,Laura Garcia,Apps,6
+218,656,704,DevOps Engineer,SQL,Intern,OPT,Yes,Phoenix,AZ,USA,2023-03-07,2025-07-17,Campus Career Fair,91023,11807,2,Jennifer Davis,QA,10
+219,826,289,Software Engineer,JavaScript,Intern,Citizen,No,Phoenix,AZ,USA,2025-02-21,2025-04-01,Referral,114222,3906,5,Thomas Lee,SRE,11
+220,141,620,Salesforce Developer,"Spark, Kubernetes, React",Part-Time,H1B,Yes,Plano,TX,USA,2023-12-26,2024-12-20,Company Site,117966,2679,5,Joel Merritt,Data,17
+221,535,114,QA Engineer,React,Full-Time,Citizen,Yes,Charlotte,NC,USA,2025-07-16,2025-09-11,Campus Career Fair,85419,5893,4,Mr. Clinton George,Apps,13
+222,556,227,Data Analyst,Kubernetes,Intern,STEM-OPT,No,Bellevue,WA,USA,2024-12-03,2024-12-01,Company Site,81571,6173,2,Anne Jones,QA,3
+223,255,870,QA Engineer,"Tableau, Node.js",Intern,STEM-OPT,Yes,Raleigh,NC,USA,2020-09-25,2023-03-30,Company Site,110514,8446,1,Eric Middleton,QA,9
+224,780,114,DevOps Engineer,"Spark, Tableau",Contract,OPT,No,Tampa,FL,USA,2024-10-02,2025-04-05,Handshake,90888,7278,1,Erin Patterson,SRE,5
+225,497,982,Data Analyst,GCP,Contract,STEM-OPT,Yes,Grand Rapids,MI,USA,2025-05-24,2025-03-07,Company Site,104864,7307,4,Victoria Boyer,Security,3
+226,598,552,Data Analyst,"Tableau, SQL",Full-Time,Citizen,No,Austin,TX,USA,2024-09-15,2025-07-05,Glassdoor,87255,3295,5,Abigail Taylor DVM,QA,13
+227,947,502,Salesforce Developer,"Kubernetes, Tableau, R",Part-Time,H1B,No,Tucson,AZ,USA,2020-08-22,2024-04-18,Referral,131559,11486,4,Makayla Taylor,Data,14
+228,433,947,QA Engineer,"Kubernetes, React",Full-Time,H1B,Yes,Redmond,WA,USA,2025-08-13,2025-09-02,Handshake,92820,5416,2,Trevor Ramirez,Apps,10
+229,984,986,DevOps Engineer,"AWS, Node.js, GCP",Full-Time,Citizen,Yes,Savannah,GA,USA,2024-11-27,2024-05-27,Company Site,90071,10090,1,Mark White,SRE,17
+230,643,739,ML Engineer,SQL,Part-Time,STEM-OPT,No,Pittsburgh,PA,USA,2020-07-20,2024-03-30,Campus Career Fair,94625,10371,1,Samuel Walker,Platform,9
+231,758,640,Security Analyst,.NET,Full-Time,CPT,No,Springfield,IL,USA,2021-08-31,2025-06-16,Company Site,80591,1216,5,Jacob Hines,Platform,6
+232,215,476,Data Engineer,"SQL, Spark, Python",Part-Time,OPT,Yes,Springfield,IL,USA,2021-07-31,2023-06-09,Glassdoor,103683,10016,5,Jordan Potts,Platform,12
+233,171,413,Security Analyst,"Snowflake, Python, Hadoop",Full-Time,STEM-OPT,Yes,Irvine,CA,USA,2019-06-07,2023-03-27,Campus Career Fair,98283,6439,1,Scott Lawrence II,Platform,7
+234,923,688,Data Engineer,"Java, React",Contract,STEM-OPT,No,Denver,CO,USA,2024-09-24,2025-08-09,Referral,95925,6803,4,Leslie Garcia,Platform,10
+235,426,868,Data Analyst,Python,Full-Time,H1B,No,Springfield,MO,USA,2025-12-13,2025-06-19,Company Site,109620,5495,2,Jon Ford,QA,4
+236,979,240,SDET,AWS,Contract,STEM-OPT,No,San Diego,CA,USA,2025-03-01,2025-02-19,Referral,110590,4438,1,Jeremiah Foster PhD,SRE,14
+237,239,475,Business Analyst,"Python, Spark",Part-Time,H1B,No,Colorado Springs,CO,USA,2021-08-02,2025-12-18,Campus Career Fair,129854,9811,2,Nicholas Hunter,SRE,13
+238,973,742,SDET,R,Full-Time,CPT,No,Boulder,CO,USA,2024-02-05,2024-11-18,Campus Career Fair,99735,6801,2,Karen Smith,Data,1
+239,675,732,SDET,"GCP, Spark, AWS",Full-Time,CPT,Yes,Kansas City,MO,USA,2025-08-24,2025-03-21,Glassdoor,78111,9016,2,Christina Nelson,QA,12
+240,916,965,Data Analyst,JavaScript,Part-Time,OPT,No,Springfield,IL,USA,2025-05-17,2025-01-22,Company Site,97730,8827,3,John Nichols,Security,13
+241,751,563,SDET,"Power BI, Python",Part-Time,Citizen,Yes,Savannah,GA,USA,2023-04-24,2024-08-10,Indeed,117675,4825,1,Courtney Robinson,Security,4
+242,660,418,QA Engineer,"Hadoop, AWS",Part-Time,STEM-OPT,Yes,New York,NY,USA,2024-06-19,2024-01-02,Indeed,117465,5843,3,Patrick Coleman,Apps,11
+243,429,102,SDET,GCP,Intern,OPT,Yes,Scottsdale,AZ,USA,2024-05-22,2024-05-27,Glassdoor,103476,13663,2,Michelle Cobb,Platform,10
+244,735,402,Data Engineer,".NET, Docker",Part-Time,OPT,Yes,Columbus,OH,USA,2024-07-10,2024-07-14,Company Site,85778,6296,4,Lindsay Yates,QA,17
+245,192,511,Data Engineer,"Java, Hadoop, Power BI",Contract,Citizen,No,Grand Rapids,MI,USA,2025-05-16,2025-04-04,Company Site,63254,13014,1,Laura Rangel,SRE,15
+246,203,656,Business Analyst,"R, C++, Java",Part-Time,H1B,No,Savannah,GA,USA,2022-01-02,2022-09-08,Referral,109620,12257,4,Scott Wall,SRE,9
+247,242,779,Salesforce Developer,"Spark, Docker",Intern,STEM-OPT,Yes,Columbus,OH,USA,2025-08-03,2025-07-06,Handshake,86348,5733,4,Willie Swanson,QA,3
+248,57,332,Security Analyst,"Hadoop, Kubernetes",Contract,CPT,Yes,San Jose,CA,USA,2025-07-11,2025-01-13,Company Site,114134,11355,2,Lisa Lewis,SRE,1
+249,342,758,SDET,Hadoop,Full-Time,Citizen,No,Scottsdale,AZ,USA,2020-07-28,2021-11-17,Glassdoor,125770,8741,4,Ryan Lopez,Apps,7
+250,200,971,Business Analyst,"SQL, JavaScript",Full-Time,Citizen,Yes,Columbus,OH,USA,2019-10-29,2023-10-22,Company Site,99698,9478,5,Matthew Gibson,QA,15
+251,122,378,DevOps Engineer,"SQL, Azure",Intern,CPT,No,Springfield,IL,USA,2025-04-20,2025-01-07,Handshake,123280,7624,5,Andrea Horne,SRE,14
+252,419,933,DevOps Engineer,GCP,Contract,STEM-OPT,No,Plano,TX,USA,2020-07-10,2022-08-11,LinkedIn,58470,11769,3,Mr. John Bruce,Security,12
+253,44,769,QA Engineer,GCP,Part-Time,OPT,No,Somerville,MA,USA,2018-03-01,2025-02-26,Indeed,112183,7428,2,Stephanie Pena,Apps,14
+254,498,811,Product Manager,Node.js,Part-Time,Citizen,No,Cincinnati,OH,USA,2025-01-29,2025-08-19,LinkedIn,80874,3434,1,Brett Smith,QA,5
+255,81,678,ML Engineer,"R, GCP, Docker",Intern,CPT,No,Irvine,CA,USA,2022-03-22,2025-08-31,Referral,128207,7429,2,Christopher Miller,Platform,1
+256,43,702,Security Analyst,SQL,Part-Time,STEM-OPT,No,Springfield,MO,USA,2021-08-12,2025-10-22,Indeed,62312,12986,5,Robert Marks,Data,8
+257,359,747,Product Manager,Hadoop,Part-Time,H1B,No,Savannah,GA,USA,2020-10-15,2023-09-08,Referral,102723,8572,5,Todd Braun,Apps,9
+258,890,498,Security Analyst,AWS,Full-Time,H1B,Yes,Charlotte,NC,USA,2025-12-06,2025-06-13,Glassdoor,108252,5477,5,Ronald Ramirez,Platform,4
+259,677,934,Salesforce Developer,Snowflake,Contract,OPT,Yes,Miami,FL,USA,2025-04-16,2025-02-08,LinkedIn,53796,2116,1,Matthew Gaines,SRE,6
+260,107,716,QA Engineer,"Spark, Python",Full-Time,Citizen,No,Boulder,CO,USA,2020-04-30,2024-06-24,Glassdoor,103374,5413,2,Christopher Weaver,QA,13
+261,454,758,Security Analyst,R,Part-Time,OPT,No,Philadelphia,PA,USA,2018-12-30,2023-07-06,Handshake,72629,7858,5,Shannon Rowe,Data,11
+262,78,62,Software Engineer,"GCP, Tableau",Intern,Citizen,Yes,Colorado Springs,CO,USA,2022-06-23,2024-01-21,Indeed,52759,2708,5,Kristen Turner,SRE,10
+263,407,77,DevOps Engineer,"AWS, Snowflake",Contract,STEM-OPT,No,Raleigh,NC,USA,2021-03-08,2023-11-15,Referral,130058,9645,1,Emily Walsh,Platform,7
+264,862,149,Security Analyst,"AWS, Tableau, Java",Intern,CPT,Yes,Miami,FL,USA,2024-07-23,2025-05-01,Indeed,128273,7453,5,Angela Hunt,Data,12
+265,385,607,DevOps Engineer,"GCP, Java, Kubernetes",Intern,Citizen,No,Detroit,MI,USA,2022-02-15,2022-12-03,Referral,49538,13128,3,Kimberly Ward,Security,2
+266,62,822,SDET,C++,Part-Time,CPT,No,Ann Arbor,MI,USA,2020-12-14,2023-10-06,Glassdoor,66614,3349,3,Michael Ramirez,Apps,10
+267,848,323,SDET,Hadoop,Part-Time,H1B,No,Cleveland,OH,USA,2024-09-12,2025-08-27,Glassdoor,114165,4380,5,Jordan Deleon,Security,12
+268,191,995,SDET,"Java, Power BI, R",Contract,CPT,No,Grand Rapids,MI,USA,2023-09-19,2025-01-11,Indeed,99010,10733,2,Scott Lambert,Apps,9
+269,120,186,Salesforce Developer,"Tableau, Java, .NET",Intern,CPT,No,Dallas,TX,USA,2025-01-28,2025-09-15,Handshake,83097,10577,1,Adam Gilmore,SRE,2
+270,364,602,ML Engineer,AWS,Contract,CPT,No,Bellevue,WA,USA,2022-04-20,2024-10-18,Glassdoor,124846,9202,4,Daniel Carter,SRE,9
+271,443,484,DevOps Engineer,Kubernetes,Intern,OPT,No,Austin,TX,USA,2021-05-08,2024-09-28,Indeed,98696,8563,4,Ryan Moran,Platform,5
+272,176,592,ML Engineer,"Hadoop, React, R",Contract,H1B,Yes,Boulder,CO,USA,2024-01-18,2025-09-01,Campus Career Fair,87848,7875,4,John Jensen,Data,6
+273,809,291,Business Analyst,Azure,Contract,H1B,Yes,Alpharetta,GA,USA,2024-10-19,2025-09-09,Glassdoor,55909,10208,5,Eric Gordon,Data,8
+274,421,75,Security Analyst,"Node.js, Power BI, Docker",Contract,CPT,No,Boston,MA,USA,2020-03-26,2022-07-04,LinkedIn,64786,12888,5,Tammy Bradley,Security,13
+275,694,242,SDET,"R, Java, JavaScript",Contract,STEM-OPT,Yes,Atlanta,GA,USA,2024-04-28,2024-07-30,Campus Career Fair,125458,8440,1,Mary Martin,SRE,7
+276,650,829,SDET,Azure,Contract,STEM-OPT,No,Chicago,IL,USA,2025-10-07,2025-08-07,Campus Career Fair,85838,8338,4,Calvin Perez,Security,13
+277,799,203,Product Manager,Power BI,Full-Time,H1B,No,Cary,NC,USA,2021-02-23,2024-05-19,Handshake,82735,12102,5,Noah Lara,Apps,5
+278,914,177,QA Engineer,Java,Full-Time,H1B,No,Durham,NC,USA,2025-06-06,2025-07-31,Indeed,55244,7607,5,Darlene Valencia,Apps,18
+279,773,904,Product Manager,"Tableau, Power BI, C++",Contract,H1B,No,Harrisburg,PA,USA,2023-10-01,2025-08-24,Company Site,73897,6002,3,Matthew Fry,SRE,10
+280,992,658,Product Manager,Python,Intern,CPT,No,Dallas,TX,USA,2023-11-11,2023-07-23,LinkedIn,150709,8135,2,Brandi Barrett,QA,1
+281,808,831,Product Manager,"Spark, Docker, Snowflake",Contract,OPT,Yes,Fort Collins,CO,USA,2023-09-25,2025-07-19,Handshake,68505,6057,2,Tonya Henderson,Platform,14
+282,752,473,Business Analyst,"Python, R, Spark",Contract,CPT,Yes,Denver,CO,USA,2019-07-22,2022-11-11,Referral,91571,8111,2,Linda Griffin,Apps,20
+283,561,683,Software Engineer,Python,Intern,CPT,No,Detroit,MI,USA,2022-04-04,2023-09-13,LinkedIn,57207,11225,1,Robert Baker,Data,4
+284,408,724,DevOps Engineer,"Tableau, AWS, Node.js",Part-Time,CPT,No,Savannah,GA,USA,2024-06-26,2025-11-03,Referral,113591,4970,3,Vanessa White,QA,6
+285,720,617,ML Engineer,"GCP, Azure, SQL",Full-Time,Citizen,No,Chesterfield,MO,USA,2022-07-04,2023-12-14,Campus Career Fair,105598,4254,3,Chelsea Singleton,Platform,11
+286,596,417,Data Analyst,GCP,Intern,H1B,Yes,Scottsdale,AZ,USA,2024-10-16,2025-10-16,Handshake,55338,6732,3,Christopher Dennis,Data,14
+287,834,50,ML Engineer,"Tableau, Spark",Full-Time,H1B,Yes,New York,NY,USA,2021-11-03,2024-06-24,LinkedIn,112046,4638,2,Christopher Austin,Security,16
+288,127,656,Data Analyst,Docker,Part-Time,H1B,Yes,Cincinnati,OH,USA,2019-03-10,2020-12-19,Campus Career Fair,129103,8171,3,Elijah Moody,Platform,4
+289,375,793,ML Engineer,"Azure, .NET, C++",Part-Time,CPT,Yes,Springfield,IL,USA,2025-08-30,2025-06-01,Handshake,88834,11319,4,Benjamin Blevins,SRE,1
+290,301,952,Security Analyst,Python,Part-Time,Citizen,Yes,White Plains,NY,USA,2022-11-11,2025-12-29,Indeed,117856,6352,4,Paul Chaney,Security,8
+291,335,255,SDET,"JavaScript, R, Hadoop",Part-Time,H1B,No,Miami,FL,USA,2024-01-14,2025-01-21,Company Site,67010,8432,3,Joel Tucker,SRE,19
+292,936,412,Salesforce Developer,"Spark, SQL",Contract,H1B,Yes,Cleveland,OH,USA,2025-01-07,2025-01-10,Campus Career Fair,106572,8862,5,James Castro,Platform,5
+293,801,52,Data Analyst,"Azure, Java",Part-Time,CPT,No,Los Angeles,CA,USA,2023-02-25,2023-05-04,Campus Career Fair,58121,8844,3,Matthew Carr,Data,6
+294,553,788,Security Analyst,"GCP, Hadoop, Docker",Intern,CPT,No,Cary,NC,USA,2025-02-18,2025-06-06,Company Site,66675,10883,2,Gregory Mcdonald,Platform,19
+295,481,368,QA Engineer,".NET, Snowflake",Contract,OPT,No,Boulder,CO,USA,2024-07-14,2025-08-20,LinkedIn,125867,7214,4,Mark Nelson,QA,6
+296,354,989,Data Engineer,"Tableau, .NET, JavaScript",Part-Time,Citizen,Yes,Houston,TX,USA,2023-12-10,2023-06-24,Handshake,101395,5460,1,Dwayne Fitzgerald,SRE,14
+297,675,88,QA Engineer,"R, .NET, Kubernetes",Full-Time,STEM-OPT,Yes,Pittsburgh,PA,USA,2024-02-03,2024-09-09,LinkedIn,79722,4745,5,Cynthia Zuniga,SRE,7
+298,193,293,Data Analyst,"Python, Tableau, Docker",Part-Time,OPT,No,Orlando,FL,USA,2023-12-19,2023-03-07,Glassdoor,92242,7665,2,Misty Turner,Security,16
+299,207,696,Security Analyst,"Python, Docker",Full-Time,OPT,No,Phoenix,AZ,USA,2024-12-13,2025-01-02,Company Site,77689,5621,5,Paul Davis,Data,1
+300,972,169,Product Manager,Node.js,Intern,Citizen,Yes,Worcester,MA,USA,2023-11-07,2025-09-03,Company Site,46515,8779,4,Stephanie Meyer,SRE,13
+301,367,575,Salesforce Developer,"Azure, GCP",Full-Time,CPT,Yes,Tacoma,WA,USA,2017-11-01,2017-10-02,LinkedIn,75345,5738,4,Calvin Webb,Platform,15
+302,77,440,DevOps Engineer,"C++, Snowflake",Contract,CPT,No,Harrisburg,PA,USA,2019-04-27,2025-07-12,Company Site,104848,5555,1,Brandon Gallagher,SRE,7
+303,874,625,DevOps Engineer,Kubernetes,Part-Time,OPT,Yes,Philadelphia,PA,USA,2016-04-22,2020-06-11,Campus Career Fair,75524,5416,4,Natalie Miller,Platform,11
+304,947,474,QA Engineer,"JavaScript, Tableau, C++",Intern,CPT,No,Seattle,WA,USA,2020-04-17,2024-09-17,Handshake,85207,7727,3,Charles Bailey,Platform,10
+305,175,348,ML Engineer,"React, Spark, Power BI",Intern,H1B,Yes,Dallas,TX,USA,2021-01-25,2023-05-16,Referral,151280,5701,3,Kimberly Johnston,Security,4
+306,56,558,Security Analyst,C++,Intern,OPT,Yes,Tempe,AZ,USA,2025-03-08,2025-02-26,Handshake,69030,7020,2,William Kirby,SRE,4
+307,521,576,DevOps Engineer,"Kubernetes, C++, Power BI",Contract,Citizen,No,Tacoma,WA,USA,2025-12-27,2025-06-19,Company Site,113969,9389,5,Maurice Vaughan,SRE,9
+308,172,456,SDET,Kubernetes,Full-Time,Citizen,Yes,Harrisburg,PA,USA,2015-10-22,2018-06-19,Company Site,138392,13432,1,Kristen Webster,Platform,9
+309,977,701,Salesforce Developer,"AWS, Kubernetes",Part-Time,H1B,No,Peoria,IL,USA,2016-07-11,2019-09-15,Campus Career Fair,94643,6405,5,Jennifer Fuller,QA,6
+310,544,11,Data Analyst,.NET,Intern,STEM-OPT,No,Tampa,FL,USA,2022-01-02,2022-07-23,Indeed,101571,8311,2,Christopher Clayton,Security,4
+311,205,530,SDET,"Power BI, .NET, GCP",Part-Time,OPT,Yes,Tampa,FL,USA,2025-07-27,2025-05-12,Glassdoor,102532,5305,4,Carlos Wallace,QA,15
+312,785,851,Product Manager,JavaScript,Intern,STEM-OPT,No,Boston,MA,USA,2016-10-31,2017-06-10,Handshake,50815,6105,5,Grant Sanders,Platform,8
+313,716,201,Data Engineer,Node.js,Intern,Citizen,No,Miami,FL,USA,2022-09-05,2022-02-12,Handshake,121822,8116,5,Maria Thompson,QA,9
+314,604,241,SDET,Java,Full-Time,Citizen,No,White Plains,NY,USA,2017-06-03,2021-08-16,LinkedIn,130322,3927,3,Tara Bryant,QA,11
+315,503,520,DevOps Engineer,"AWS, Kubernetes",Contract,OPT,Yes,Springfield,MO,USA,2024-08-05,2024-12-05,Indeed,76489,5834,1,Ronald Scott,Apps,4
+316,327,737,Product Manager,Spark,Part-Time,OPT,No,New York,NY,USA,2020-11-09,2021-03-20,Referral,90476,7091,1,Bryan Watson,Security,5
+317,443,527,SDET,"Tableau, Hadoop",Contract,CPT,Yes,Kansas City,MO,USA,2022-01-06,2022-02-23,Indeed,79330,12132,3,Mr. Anthony Chang,QA,2
+318,221,695,Product Manager,Node.js,Full-Time,OPT,No,Boston,MA,USA,2022-07-04,2023-04-11,Company Site,101218,4713,3,Travis Roach,Apps,19
+319,645,789,Business Analyst,GCP,Intern,Citizen,No,Seattle,WA,USA,2025-12-02,2025-07-02,LinkedIn,117701,8015,1,Deanna Welch,Platform,5
+320,247,89,SDET,"JavaScript, C++, Python",Part-Time,H1B,No,Albany,NY,USA,2024-05-02,2024-07-04,LinkedIn,78886,9592,2,Kimberly Miller,SRE,17
+321,537,799,Security Analyst,React,Full-Time,CPT,No,Tucson,AZ,USA,2019-09-24,2022-04-13,Handshake,111922,12076,5,Chad Robertson,SRE,14
+322,493,895,Product Manager,"Hadoop, Node.js",Part-Time,H1B,No,Scottsdale,AZ,USA,2022-10-10,2025-05-13,Indeed,89400,5760,3,James Hayden,SRE,10
+323,455,767,Data Analyst,Node.js,Intern,H1B,Yes,Columbus,OH,USA,2019-11-24,2024-01-21,Company Site,133550,10083,4,Ernest Price,Apps,5
+324,431,377,QA Engineer,"GCP, Java",Part-Time,H1B,Yes,Buffalo,NY,USA,2016-03-26,2018-05-10,Glassdoor,109608,8532,1,Samantha Robinson,Security,21
+325,194,887,DevOps Engineer,"Java, Node.js",Contract,H1B,Yes,Miami,FL,USA,2019-07-06,2020-05-30,Handshake,77845,5685,3,Brian Wilson,SRE,18
+326,759,945,Software Engineer,SQL,Full-Time,CPT,Yes,Cincinnati,OH,USA,2022-01-18,2024-02-21,Glassdoor,79098,8673,5,Randy Robbins,Security,2
+327,159,804,SDET,"AWS, Spark",Full-Time,OPT,No,San Jose,CA,USA,2023-09-11,2024-10-27,Handshake,104130,8186,1,Adam Warren,Security,8
+328,209,325,QA Engineer,"Kubernetes, GCP",Full-Time,STEM-OPT,No,Raleigh,NC,USA,2020-08-28,2021-04-02,LinkedIn,69926,7593,4,Jack Lopez,Apps,9
+329,622,641,Business Analyst,Kubernetes,Contract,CPT,Yes,Boston,MA,USA,2020-05-23,2024-02-12,Handshake,89054,5979,3,Elizabeth Bowman,Data,8
+330,408,527,Software Engineer,".NET, Hadoop",Full-Time,Citizen,Yes,Springfield,IL,USA,2024-08-13,2024-04-01,Referral,96844,8048,2,Diamond Rose,Apps,19
+331,579,346,Data Analyst,SQL,Intern,OPT,Yes,Seattle,WA,USA,2020-01-16,2022-11-24,LinkedIn,94297,133,5,Benjamin Roy,SRE,3
+332,214,577,Security Analyst,Snowflake,Part-Time,Citizen,No,Redmond,WA,USA,2025-10-20,2025-03-17,Referral,117454,6742,3,Ashley Ford,Data,12
+333,936,486,Data Analyst,JavaScript,Full-Time,H1B,No,Jacksonville,FL,USA,2017-09-01,2024-05-28,Company Site,91497,11468,1,Julie Johnson,Security,2
+334,66,313,Data Analyst,"Power BI, Python, JavaScript",Intern,Citizen,No,Somerville,MA,USA,2024-06-02,2025-09-25,LinkedIn,109682,7359,4,Aaron Mcknight,Platform,15
+335,194,601,DevOps Engineer,Tableau,Intern,OPT,Yes,Tucson,AZ,USA,2020-08-27,2022-12-10,Referral,125617,10146,3,Larry Parker,QA,11
+336,553,54,Software Engineer,C++,Intern,OPT,Yes,Ann Arbor,MI,USA,2025-07-10,2025-02-13,LinkedIn,135780,5149,5,Kelsey Santana,Platform,6
+337,330,245,SDET,React,Full-Time,H1B,Yes,Bellevue,WA,USA,2025-10-29,2025-11-01,Company Site,61569,1135,3,Craig Houston,Platform,8
+338,443,498,Data Engineer,"Snowflake, React",Intern,OPT,Yes,Plano,TX,USA,2024-09-16,2025-11-26,Referral,58867,11165,3,Justin Clayton,SRE,14
+339,590,227,Salesforce Developer,"Spark, C++, Power BI",Contract,STEM-OPT,No,Somerville,MA,USA,2024-03-18,2024-11-11,Indeed,103043,5159,3,Christopher Cox,QA,14
+340,520,981,Product Manager,"Docker, AWS",Intern,STEM-OPT,No,New York,NY,USA,2020-09-05,2024-04-30,LinkedIn,113089,560,2,Deborah Higgins,QA,8
+341,308,55,Security Analyst,"Snowflake, Hadoop",Contract,H1B,No,Cary,NC,USA,2022-10-07,2023-07-12,Campus Career Fair,104735,10020,1,Mr. Douglas Stafford DDS,Security,7
+342,395,784,Business Analyst,"Java, Docker, Spark",Intern,H1B,No,San Diego,CA,USA,2023-08-09,2025-01-11,LinkedIn,87134,2835,5,Veronica Garcia,SRE,23
+343,348,584,ML Engineer,"JavaScript, SQL",Intern,OPT,No,Clayton,MO,USA,2024-03-31,2025-02-06,LinkedIn,127726,11177,1,Lisa Thomas,SRE,5
+344,917,756,SDET,Azure,Full-Time,Citizen,Yes,Miami,FL,USA,2021-08-02,2021-11-29,Referral,106704,6087,3,Lauren Ortega,Apps,8
+345,583,393,Business Analyst,"C++, Tableau",Intern,H1B,Yes,Atlanta,GA,USA,2025-09-09,2025-01-20,Company Site,45000,8152,2,Ronald Young,Apps,12
+346,784,764,Data Engineer,.NET,Contract,Citizen,No,Jacksonville,FL,USA,2025-06-08,2025-04-14,Handshake,80588,10850,5,Theresa Graham,SRE,8
+347,793,946,Business Analyst,"Python, Snowflake",Contract,CPT,Yes,New York,NY,USA,2020-09-22,2022-05-18,Campus Career Fair,115251,9774,2,Marcus Williams,Apps,7
+348,724,314,Product Manager,"R, Python",Contract,STEM-OPT,No,Raleigh,NC,USA,2024-07-02,2025-06-11,Handshake,53062,11501,5,Calvin George,Platform,12
+349,857,251,Software Engineer,".NET, Azure, Docker",Full-Time,CPT,Yes,Boulder,CO,USA,2024-03-07,2025-10-01,Indeed,73652,11172,4,Alison Parker,Platform,1
+350,836,13,DevOps Engineer,"Spark, AWS",Contract,STEM-OPT,No,Harrisburg,PA,USA,2024-02-23,2024-03-06,Company Site,127382,6011,4,Jasmin Keith,QA,20
+351,847,91,Software Engineer,"Node.js, .NET, GCP",Full-Time,OPT,Yes,Kansas City,MO,USA,2025-05-24,2025-04-27,Indeed,117236,10024,5,Anthony Jones,Platform,7
+352,549,235,SDET,"Tableau, Spark",Intern,OPT,No,Cambridge,MA,USA,2017-07-03,2018-12-22,Glassdoor,87409,4867,2,Andrea Watson,Platform,10
+353,510,277,Salesforce Developer,Tableau,Part-Time,STEM-OPT,No,Raleigh,NC,USA,2019-10-17,2020-11-04,Handshake,127935,9612,4,Tyler Blevins,QA,8
+354,537,890,DevOps Engineer,"R, SQL",Full-Time,STEM-OPT,Yes,Bellevue,WA,USA,2017-09-02,2025-11-07,LinkedIn,103631,9455,2,Jerry Brown,Platform,9
+355,564,504,Salesforce Developer,"Python, Power BI, Kubernetes",Contract,OPT,Yes,San Diego,CA,USA,2021-02-27,2021-11-08,Glassdoor,157051,12002,2,Michael Johnson,Security,14
+356,303,86,DevOps Engineer,React,Part-Time,H1B,No,Springfield,IL,USA,2025-08-27,2025-03-26,LinkedIn,134908,9309,4,James Spencer,Data,19
+357,275,325,DevOps Engineer,"Hadoop, AWS",Intern,CPT,No,Ann Arbor,MI,USA,2025-07-14,2025-05-11,Campus Career Fair,122718,7547,5,Heather Mccoy,Data,13
+358,760,63,Data Analyst,Python,Contract,CPT,No,San Diego,CA,USA,2016-12-24,2018-08-02,LinkedIn,97400,9156,3,Juan Garza,Security,8
+359,266,556,Salesforce Developer,Azure,Contract,H1B,Yes,Alpharetta,GA,USA,2025-08-19,2025-10-16,Glassdoor,60476,6586,3,Lauren Miller,SRE,14
+360,827,316,ML Engineer,"Tableau, Kubernetes",Intern,H1B,Yes,Irvine,CA,USA,2021-09-03,2025-01-30,Company Site,140095,7329,1,Melissa Wiley,SRE,12
+361,868,919,Software Engineer,"React, Azure, Kubernetes",Part-Time,STEM-OPT,Yes,Jacksonville,FL,USA,2022-06-26,2023-08-30,Glassdoor,75932,10756,4,Nicole Dean,QA,11
+362,127,816,Software Engineer,JavaScript,Part-Time,Citizen,Yes,San Antonio,TX,USA,2019-06-23,2021-06-28,Company Site,124268,16351,1,James Taylor,Platform,8
+363,299,936,ML Engineer,"SQL, C++",Contract,STEM-OPT,Yes,Charlotte,NC,USA,2021-05-09,2023-11-12,Campus Career Fair,91489,6326,3,Luis Mcmahon,SRE,8
+364,20,364,Salesforce Developer,"JavaScript, Power BI",Part-Time,STEM-OPT,No,Scottsdale,AZ,USA,2022-08-15,2023-04-02,Company Site,145189,12144,5,Kelly Vega,QA,8
+365,190,20,Security Analyst,"Snowflake, React, Azure",Contract,H1B,Yes,Los Angeles,CA,USA,2015-04-23,2022-02-22,Referral,82271,10809,5,Karen Meadows,Security,16
+366,411,642,Salesforce Developer,"C++, GCP, R",Full-Time,STEM-OPT,Yes,Cincinnati,OH,USA,2022-09-19,2022-03-15,Company Site,61988,9614,1,Taylor Baker,QA,9
+367,32,273,Software Engineer,"React, SQL",Full-Time,Citizen,Yes,Detroit,MI,USA,2017-12-23,2021-07-21,Company Site,127268,8566,1,Brendan Baxter,SRE,9
+368,843,141,SDET,Java,Intern,Citizen,No,Worcester,MA,USA,2024-11-06,2025-05-19,Referral,137044,8589,3,Jennifer Reyes,Platform,5
+369,644,944,Security Analyst,"Power BI, GCP",Intern,Citizen,No,Rochester,NY,USA,2024-10-29,2025-03-21,Glassdoor,113179,5921,3,Brian Mullins,SRE,8
+370,444,877,Data Engineer,"JavaScript, Java",Full-Time,H1B,Yes,Columbus,OH,USA,2025-11-11,2025-01-04,Handshake,121928,5090,5,Justin Becker,Apps,15
+371,607,586,Software Engineer,"Python, React",Intern,CPT,No,Somerville,MA,USA,2025-03-26,2025-02-22,Referral,91392,3861,3,Leslie King,Apps,3
+372,135,44,Data Engineer,"Snowflake, Docker",Part-Time,H1B,No,Columbus,OH,USA,2018-02-08,2024-10-16,Handshake,95539,9732,1,Traci Rogers,Data,12
+373,795,721,Business Analyst,".NET, Docker, SQL",Full-Time,Citizen,No,Colorado Springs,CO,USA,2015-07-22,2022-07-15,Referral,68713,4148,5,Robert Gonzales,Security,5
+374,649,712,Software Engineer,SQL,Full-Time,Citizen,No,Columbus,OH,USA,2024-10-05,2024-02-07,Referral,117237,7778,5,Alexa Paul,Platform,11
+375,358,30,SDET,"C++, Power BI, Hadoop",Contract,CPT,Yes,Atlanta,GA,USA,2024-05-12,2024-04-11,LinkedIn,60109,5981,4,Lori Combs,Data,9
+376,163,729,Security Analyst,JavaScript,Part-Time,OPT,No,Detroit,MI,USA,2024-06-01,2025-12-17,Indeed,128712,9548,4,Denise Burns PhD,SRE,13
+377,534,751,QA Engineer,GCP,Part-Time,H1B,Yes,San Francisco,CA,USA,2025-04-05,2025-01-29,Referral,55696,6909,3,Christopher Powell,QA,10
+378,849,168,Data Analyst,"SQL, Java, GCP",Contract,STEM-OPT,No,Boston,MA,USA,2021-03-23,2025-06-22,Campus Career Fair,119208,12680,1,David Miller,SRE,4
+379,122,141,ML Engineer,"Docker, Spark",Full-Time,Citizen,No,Tucson,AZ,USA,2020-02-25,2021-04-09,Company Site,106738,9687,3,Billy Goodman,QA,8
+380,324,10,DevOps Engineer,Kubernetes,Contract,Citizen,Yes,San Francisco,CA,USA,2023-01-10,2025-03-17,Company Site,105678,9675,5,Terri Gutierrez,Apps,9
+381,990,969,Salesforce Developer,SQL,Part-Time,CPT,Yes,Worcester,MA,USA,2024-05-17,2025-09-25,Handshake,83584,7425,1,Emily Mcdonald,Data,16
+382,914,162,Product Manager,React,Contract,STEM-OPT,No,Chesterfield,MO,USA,2016-11-01,2016-12-01,LinkedIn,91306,3075,3,Julie Holmes,Platform,2
+383,839,977,ML Engineer,"Hadoop, Docker",Contract,Citizen,No,Tacoma,WA,USA,2021-10-03,2025-05-24,Handshake,87486,4347,4,Scott Burton,QA,13
+384,762,796,DevOps Engineer,JavaScript,Intern,Citizen,No,Tempe,AZ,USA,2025-05-26,2025-04-01,LinkedIn,82096,6014,3,James Young,Platform,6
+385,854,87,DevOps Engineer,"GCP, Power BI, Java",Part-Time,CPT,No,Clayton,MO,USA,2023-12-07,2024-04-07,Indeed,105904,1256,1,Denise Sullivan,Apps,10
+386,261,647,Software Engineer,"Power BI, Docker, C++",Full-Time,OPT,No,Springfield,MO,USA,2024-05-17,2024-07-10,Handshake,98520,1870,3,Michael Price,SRE,7
+387,400,648,Data Analyst,Kubernetes,Contract,OPT,Yes,Jacksonville,FL,USA,2019-04-02,2022-09-25,Campus Career Fair,106414,4613,3,Aaron Hill,SRE,16
+388,503,239,SDET,"Docker, Java, JavaScript",Part-Time,H1B,No,Columbia,MO,USA,2022-08-15,2025-01-29,Indeed,105938,5616,4,Victoria Wilson,Apps,8
+389,290,939,Security Analyst,"SQL, Docker",Contract,Citizen,Yes,Bellevue,WA,USA,2025-08-09,2025-01-15,Company Site,110789,5332,4,Jennifer Decker,Data,5
+390,859,604,Product Manager,"SQL, .NET",Intern,OPT,No,Buffalo,NY,USA,2024-08-17,2024-09-10,Company Site,76335,6113,5,Laura Adams,Apps,12
+391,493,303,DevOps Engineer,"Python, Docker",Contract,H1B,Yes,Boulder,CO,USA,2020-06-23,2021-11-21,Handshake,164162,10103,1,Jason Johnston,Data,19
+392,60,939,Business Analyst,"Snowflake, Node.js, AWS",Part-Time,CPT,No,Tampa,FL,USA,2024-12-03,2024-03-11,Handshake,81331,9998,2,Terry Valdez,QA,10
+393,215,298,ML Engineer,"Kubernetes, JavaScript, GCP",Contract,OPT,Yes,Dallas,TX,USA,2019-11-04,2020-09-21,Campus Career Fair,90484,5547,3,Amy Daniels,Platform,8
+394,954,352,Product Manager,"Java, C++, Kubernetes",Intern,H1B,No,Kansas City,MO,USA,2025-10-15,2025-11-08,LinkedIn,133737,9692,3,David Flores,SRE,6
+395,898,409,DevOps Engineer,"Hadoop, Node.js",Full-Time,Citizen,No,Cambridge,MA,USA,2025-03-22,2025-12-11,Campus Career Fair,74261,6092,3,Rebecca Brown,Security,16
+396,233,372,Salesforce Developer,"Kubernetes, AWS, Azure",Intern,H1B,No,Alpharetta,GA,USA,2016-08-24,2020-04-26,Indeed,102641,12520,5,Stephanie Reed,SRE,18
+397,876,618,Software Engineer,Java,Part-Time,STEM-OPT,No,Somerville,MA,USA,2019-05-30,2023-04-28,Handshake,134908,3536,3,James Crawford,QA,10
+398,405,921,Data Engineer,"Java, GCP",Contract,H1B,No,Columbus,OH,USA,2021-03-11,2021-02-26,Campus Career Fair,115324,5594,5,Catherine Perry,Security,13
+399,819,729,DevOps Engineer,"Java, Snowflake, AWS",Full-Time,Citizen,Yes,Cary,NC,USA,2016-12-15,2022-06-21,Campus Career Fair,110956,9134,4,Emily Edwards,Apps,4
+400,767,544,Security Analyst,"Spark, Tableau, Kubernetes",Part-Time,CPT,Yes,Los Angeles,CA,USA,2024-05-16,2025-10-18,Campus Career Fair,64844,10319,2,Dr. Scott Hoffman DDS,Security,3
+401,147,24,Product Manager,"Spark, Java, React",Part-Time,H1B,Yes,Cary,NC,USA,2023-01-04,2023-07-02,Referral,79907,7259,3,Daniel Gould,Security,12
+402,3,534,QA Engineer,R,Contract,Citizen,No,Clayton,MO,USA,2015-09-15,2016-10-07,Referral,80866,7675,1,John Potter,Data,5
+403,132,724,Data Analyst,"Snowflake, SQL, Java",Contract,OPT,No,Cleveland,OH,USA,2015-05-31,2022-03-16,Campus Career Fair,83996,4639,4,Austin Hall,Apps,11
+404,123,534,Data Engineer,"Spark, Kubernetes",Part-Time,H1B,Yes,Clayton,MO,USA,2022-05-24,2022-02-13,Company Site,128465,3276,2,Jasmine Blevins,Apps,13
+405,601,450,Software Engineer,"Python, GCP, Kubernetes",Intern,H1B,Yes,Houston,TX,USA,2025-06-27,2025-03-28,Referral,97898,6453,1,Jeff Ingram,QA,9
+406,907,499,DevOps Engineer,"Azure, SQL",Full-Time,OPT,No,Chicago,IL,USA,2025-10-16,2025-11-21,LinkedIn,59281,10352,2,Brian Acosta,Platform,14
+407,564,154,Security Analyst,"Java, Hadoop",Intern,STEM-OPT,Yes,New York,NY,USA,2021-11-10,2025-04-20,Referral,128432,6510,2,Tyler Jackson,Platform,16
+408,687,420,ML Engineer,Azure,Part-Time,OPT,Yes,Grand Rapids,MI,USA,2023-10-04,2024-01-11,Campus Career Fair,45000,6384,1,Kyle Guzman,Apps,10
+409,664,775,Data Analyst,"Hadoop, Spark",Full-Time,CPT,Yes,Redmond,WA,USA,2025-04-02,2025-03-29,Handshake,131444,1728,2,Mr. Anthony Jones,Platform,1
+410,989,473,Business Analyst,JavaScript,Part-Time,Citizen,No,Boston,MA,USA,2018-09-14,2021-04-12,LinkedIn,122033,6728,4,Anthony Mayo,Data,13
+411,194,907,Product Manager,"SQL, C++",Full-Time,H1B,No,Bellevue,WA,USA,2022-03-24,2025-04-27,Referral,69717,9795,3,Ms. Maria Williams,Apps,11
+412,251,138,Data Analyst,"AWS, React",Full-Time,Citizen,No,Chesterfield,MO,USA,2020-06-10,2023-03-07,Handshake,106396,4135,4,Samantha Johnson,Security,10
+413,332,703,Salesforce Developer,GCP,Contract,STEM-OPT,Yes,Buffalo,NY,USA,2024-03-31,2025-06-24,Glassdoor,77787,8134,5,Kelsey Stewart,Security,4
+414,682,686,Security Analyst,"AWS, Node.js",Part-Time,Citizen,No,Fort Collins,CO,USA,2022-06-17,2025-01-04,Company Site,102069,11148,3,Natalie Smith,SRE,8
+415,546,630,Software Engineer,"C++, Java",Intern,H1B,No,Alpharetta,GA,USA,2025-03-26,2025-10-17,Referral,68710,14969,5,Sarah Hill,Security,15
+416,417,366,DevOps Engineer,"Kubernetes, SQL",Intern,Citizen,No,San Antonio,TX,USA,2023-06-03,2023-10-05,Indeed,57482,5631,1,Monique Boyd,SRE,12
+417,381,463,Business Analyst,"Spark, .NET",Part-Time,CPT,No,Raleigh,NC,USA,2022-11-23,2022-12-29,Glassdoor,111087,12988,5,Austin Schroeder,Apps,8
+418,179,656,QA Engineer,React,Intern,Citizen,Yes,St. Louis,MO,USA,2019-04-11,2024-02-07,Indeed,93317,8011,5,Susan Powell,Data,12
+419,197,186,Data Analyst,Azure,Part-Time,Citizen,Yes,Harrisburg,PA,USA,2025-11-15,2025-05-10,Handshake,123243,9399,1,Katherine Robbins,Apps,4
+420,234,128,ML Engineer,"Docker, Java",Part-Time,STEM-OPT,Yes,Somerville,MA,USA,2025-11-01,2025-07-13,Referral,103709,6657,5,Brian Taylor,Platform,12
+421,459,873,Data Analyst,"Tableau, .NET",Part-Time,CPT,Yes,Peoria,IL,USA,2024-09-02,2025-08-03,Indeed,45000,13082,4,Nathan Carter,Apps,4
+422,799,817,DevOps Engineer,Python,Contract,H1B,Yes,Chicago,IL,USA,2017-03-05,2018-11-06,Referral,115076,7196,3,Ashley Smith,Apps,19
+423,902,646,Salesforce Developer,"JavaScript, Java",Part-Time,STEM-OPT,Yes,Boston,MA,USA,2016-08-12,2022-07-23,Indeed,79314,8420,2,Edwin Johnson,Data,11
+424,139,307,Software Engineer,"Power BI, Hadoop",Full-Time,STEM-OPT,Yes,Seattle,WA,USA,2025-06-02,2025-10-07,Handshake,94754,6544,1,Lynn Thomas,Platform,16
+425,603,921,Business Analyst,"Tableau, R, React",Intern,STEM-OPT,Yes,Boston,MA,USA,2025-05-21,2025-04-17,Campus Career Fair,146170,6940,1,Tammy King,Platform,9
+426,1,955,Security Analyst,Node.js,Full-Time,OPT,Yes,Cary,NC,USA,2024-03-31,2024-08-25,Campus Career Fair,91725,4803,2,Raymond White,Data,13
+427,891,805,DevOps Engineer,"GCP, JavaScript, Kubernetes",Intern,OPT,Yes,Atlanta,GA,USA,2019-08-16,2024-04-26,Company Site,117128,3296,5,Douglas Oliver,Data,12
+428,482,945,Product Manager,"React, Python, R",Intern,Citizen,Yes,Irvine,CA,USA,2019-12-07,2019-04-11,Glassdoor,126942,7938,5,William Stewart,Data,4
+429,283,920,Salesforce Developer,"Python, Snowflake",Intern,Citizen,No,Tempe,AZ,USA,2025-02-21,2025-09-23,Company Site,94399,8835,3,Elizabeth Cervantes,QA,9
+430,305,903,Software Engineer,JavaScript,Contract,CPT,No,Jacksonville,FL,USA,2025-02-08,2025-11-09,Referral,106959,9016,2,Gary Ross,Platform,10
+431,728,230,SDET,GCP,Part-Time,OPT,No,Pittsburgh,PA,USA,2024-09-29,2024-10-17,Referral,99267,11191,3,James Horton,Data,6
+432,135,259,Security Analyst,Python,Intern,OPT,Yes,Pittsburgh,PA,USA,2019-03-29,2025-09-19,Campus Career Fair,92736,11511,5,Kristopher Watson,SRE,11
+433,85,896,Security Analyst,"Snowflake, C++",Intern,Citizen,Yes,Clayton,MO,USA,2024-06-28,2024-03-13,Indeed,106623,6915,4,Scott Mcdonald,Security,13
+434,549,529,SDET,"Azure, Power BI, React",Part-Time,CPT,Yes,Urbana,IL,USA,2015-11-14,2017-12-21,LinkedIn,86414,5361,3,Mark Davis,QA,8
+435,410,557,DevOps Engineer,Python,Part-Time,STEM-OPT,Yes,Somerville,MA,USA,2022-03-17,2024-06-26,Referral,66757,5125,4,Sabrina Rivera,Data,13
+436,931,818,SDET,"Kubernetes, GCP",Full-Time,STEM-OPT,Yes,Dallas,TX,USA,2020-06-23,2025-04-09,Campus Career Fair,106771,7564,1,Troy Jones,SRE,13
+437,565,678,Data Engineer,"Python, GCP, Spark",Full-Time,OPT,No,Detroit,MI,USA,2020-04-19,2023-08-01,Glassdoor,117642,10190,1,Antonio Callahan,SRE,6
+438,185,798,ML Engineer,GCP,Intern,CPT,No,Savannah,GA,USA,2024-05-10,2024-04-28,Campus Career Fair,88834,11158,5,Paula Yates,Data,1
+439,889,840,ML Engineer,Spark,Part-Time,STEM-OPT,No,St. Louis,MO,USA,2022-10-14,2023-07-16,Company Site,120458,5046,5,Samuel Brooks,Data,13
+440,494,182,Data Analyst,"C++, Spark",Full-Time,H1B,Yes,Philadelphia,PA,USA,2019-09-19,2021-05-01,Glassdoor,87652,2694,5,Jeffrey Browning,Data,10
+441,775,224,Product Manager,Snowflake,Intern,Citizen,Yes,San Jose,CA,USA,2022-01-16,2025-12-03,Handshake,115198,6323,1,Dana Lopez,Platform,10
+442,640,115,Salesforce Developer,"Hadoop, C++",Intern,STEM-OPT,No,Springfield,IL,USA,2024-12-15,2024-03-25,Campus Career Fair,84839,12489,5,Cole Bailey,Security,1
+443,270,611,Data Engineer,"AWS, SQL, Azure",Contract,CPT,No,Fort Collins,CO,USA,2024-03-07,2025-04-23,LinkedIn,84200,5806,1,Sara Miller,Platform,7
+444,285,138,Salesforce Developer,"SQL, Power BI, Python",Intern,H1B,No,Grand Rapids,MI,USA,2024-06-14,2025-04-01,Company Site,84943,9253,4,Eric Mason,Security,6
+445,166,617,Data Engineer,"AWS, R, Kubernetes",Intern,STEM-OPT,No,Somerville,MA,USA,2025-09-30,2025-07-21,Referral,104115,11324,4,Kathleen Schmitt,SRE,9
+446,303,140,Product Manager,AWS,Intern,H1B,Yes,Clayton,MO,USA,2022-10-14,2022-02-07,Glassdoor,108816,7562,4,Michael Ray,Apps,1
+447,239,5,Product Manager,"Spark, AWS, .NET",Contract,H1B,No,Irvine,CA,USA,2023-10-22,2023-01-25,Handshake,140031,4858,5,Benjamin Johnson,SRE,10
+448,833,247,Data Analyst,"Snowflake, Python, .NET",Contract,CPT,No,Orlando,FL,USA,2025-07-21,2025-03-08,Handshake,77854,13770,3,James Flores,Data,10
+449,721,139,Security Analyst,"Java, Power BI",Full-Time,Citizen,Yes,Peoria,IL,USA,2024-07-01,2024-12-06,Glassdoor,110566,6973,1,Courtney Singh,QA,19
+450,866,593,DevOps Engineer,"Kubernetes, React",Full-Time,Citizen,Yes,Harrisburg,PA,USA,2021-12-04,2022-04-20,LinkedIn,113696,3292,2,Mark Kennedy,Apps,7
+451,558,237,Data Analyst,"JavaScript, Node.js",Part-Time,CPT,Yes,Cambridge,MA,USA,2021-04-29,2021-09-20,Campus Career Fair,78939,5188,1,Mitchell Henderson,SRE,10
+452,425,191,Software Engineer,"AWS, Tableau, Python",Full-Time,H1B,No,San Francisco,CA,USA,2018-08-15,2020-02-06,LinkedIn,162654,11429,4,David Taylor,Platform,12
+453,962,729,Software Engineer,Spark,Full-Time,Citizen,Yes,San Jose,CA,USA,2023-09-13,2024-07-21,Referral,109287,7369,1,Amy Frye,QA,4
+454,835,811,Data Engineer,"AWS, Snowflake",Full-Time,STEM-OPT,Yes,Columbia,MO,USA,2022-02-19,2022-03-08,Glassdoor,78950,11022,5,William Davis,Data,17
+455,825,552,Salesforce Developer,".NET, AWS, Python",Contract,STEM-OPT,No,Springfield,IL,USA,2025-09-21,2025-11-11,LinkedIn,104346,9214,1,Gabriela Mccann,Security,14
+456,516,886,Business Analyst,"AWS, React",Intern,CPT,No,Grand Rapids,MI,USA,2015-05-07,2023-04-06,Company Site,143166,10602,2,Christopher Shaw,Platform,12
+457,264,383,Data Engineer,"Azure, Python",Intern,Citizen,No,Ann Arbor,MI,USA,2025-10-13,2025-10-27,LinkedIn,86195,10783,3,Henry Alvarez,QA,10
+458,990,351,Salesforce Developer,"Power BI, SQL, Kubernetes",Intern,H1B,No,Orlando,FL,USA,2022-02-08,2023-10-13,Handshake,83563,2917,4,Joshua Rivera,Security,12
+459,253,332,Software Engineer,"Tableau, Azure, .NET",Part-Time,Citizen,Yes,Bellevue,WA,USA,2023-01-23,2025-10-16,Company Site,127955,3792,4,Thomas Mitchell,Apps,16
+460,140,638,Salesforce Developer,Kubernetes,Part-Time,STEM-OPT,Yes,Colorado Springs,CO,USA,2024-10-08,2025-08-27,LinkedIn,100022,13087,4,Kayla Jackson,Apps,6
+461,200,452,Product Manager,Hadoop,Full-Time,H1B,No,Columbus,OH,USA,2023-05-15,2023-09-27,Glassdoor,110286,2345,3,Glenn Brown,Security,7
+462,806,166,Security Analyst,AWS,Part-Time,Citizen,Yes,Cleveland,OH,USA,2016-02-18,2024-02-03,LinkedIn,106001,10229,1,Michael Greene,SRE,6
+463,533,175,Data Engineer,"Kubernetes, Java, Node.js",Part-Time,OPT,Yes,Scottsdale,AZ,USA,2023-02-09,2024-08-21,Referral,86262,4706,2,Peter Leonard,Data,9
+464,628,433,QA Engineer,"Tableau, React",Part-Time,H1B,No,Scottsdale,AZ,USA,2022-11-24,2024-05-09,Company Site,91556,4160,3,Jesse Jordan,Security,11
+465,949,445,DevOps Engineer,"C++, Docker",Intern,Citizen,Yes,Tampa,FL,USA,2024-06-10,2024-06-23,Campus Career Fair,74874,10070,2,Lori Chambers,Apps,14
+466,868,747,Software Engineer,"Node.js, React",Contract,Citizen,No,Savannah,GA,USA,2020-04-17,2024-07-22,Company Site,115586,7009,2,Jennifer Smith,SRE,6
+467,293,445,Salesforce Developer,"C++, Java",Part-Time,CPT,No,Cleveland,OH,USA,2022-11-13,2025-03-08,LinkedIn,70479,3557,5,Linda Brown,SRE,7
+468,521,590,Business Analyst,"GCP, Python",Contract,Citizen,Yes,Boulder,CO,USA,2025-10-23,2025-04-10,Handshake,80878,6201,3,Patricia Riley,Security,14
+469,491,49,Business Analyst,"Kubernetes, Java, Hadoop",Full-Time,H1B,No,Raleigh,NC,USA,2022-11-13,2025-09-08,LinkedIn,76383,4696,2,Carolyn Clarke,Apps,11
+470,103,170,Data Analyst,"C++, Tableau",Part-Time,Citizen,No,Tacoma,WA,USA,2025-08-04,2025-07-08,Campus Career Fair,127381,9074,2,Jacob Perry,Platform,11
+471,570,425,ML Engineer,"Power BI, JavaScript",Intern,CPT,Yes,Philadelphia,PA,USA,2018-05-26,2021-12-09,Company Site,104070,9907,4,Chase Williams,Security,15
+472,367,73,DevOps Engineer,"Tableau, Python",Part-Time,OPT,Yes,Cleveland,OH,USA,2020-11-13,2020-06-19,LinkedIn,96072,7695,1,Sandra Adams,Data,12
+473,951,743,DevOps Engineer,"React, C++, Java",Full-Time,H1B,No,Albany,NY,USA,2022-11-02,2022-11-16,Handshake,105805,8423,2,Eric Jones,Apps,12
+474,137,781,Product Manager,"Power BI, AWS",Full-Time,STEM-OPT,No,Durham,NC,USA,2020-10-28,2025-10-12,LinkedIn,122155,0,1,Joseph Wallace,Security,11
+475,777,659,QA Engineer,Java,Intern,CPT,No,San Diego,CA,USA,2024-03-05,2025-04-29,Campus Career Fair,73043,10192,3,Amy Smith,SRE,5
+476,568,249,Salesforce Developer,SQL,Part-Time,STEM-OPT,No,Chesterfield,MO,USA,2024-09-27,2024-02-19,Handshake,109652,8069,3,Paula Dyer,Data,9
+477,443,68,SDET,SQL,Full-Time,OPT,No,Albany,NY,USA,2024-06-23,2024-05-02,Glassdoor,86991,15094,4,Scott Mcdonald,SRE,7
+478,129,733,Data Analyst,R,Contract,STEM-OPT,Yes,Denver,CO,USA,2023-02-02,2023-11-04,Referral,87225,7152,4,Jamie Walls DVM,Apps,15
+479,940,608,Data Analyst,"R, JavaScript",Intern,H1B,No,New York,NY,USA,2024-03-08,2024-08-09,Indeed,76530,3084,5,Douglas Anderson,Platform,9
+480,357,191,SDET,"R, Kubernetes",Contract,H1B,Yes,Tacoma,WA,USA,2022-11-08,2023-10-12,LinkedIn,92940,8432,2,Stephen Howard,Apps,9
+481,697,354,Software Engineer,"R, AWS",Part-Time,OPT,No,Cary,NC,USA,2023-06-06,2023-07-13,Campus Career Fair,70484,6253,2,Terry Trujillo,Platform,8
+482,400,324,Data Engineer,"Spark, R, Kubernetes",Full-Time,H1B,Yes,New York,NY,USA,2025-11-04,2025-08-30,Glassdoor,89530,2900,1,Katherine Phillips,Platform,16
+483,201,313,ML Engineer,"Python, GCP, Snowflake",Intern,CPT,No,Dallas,TX,USA,2021-03-08,2025-12-30,Glassdoor,106237,6868,2,William Hicks,SRE,7
+484,63,621,Software Engineer,Python,Intern,Citizen,No,Springfield,MO,USA,2018-08-23,2023-03-02,Referral,121105,7528,3,Deborah West,SRE,9
+485,935,384,Software Engineer,"JavaScript, Spark, GCP",Part-Time,OPT,No,Savannah,GA,USA,2020-08-18,2024-03-02,Indeed,126677,5847,3,Vincent Higgins,Apps,13
+486,567,658,Data Analyst,Power BI,Intern,Citizen,Yes,Detroit,MI,USA,2022-10-27,2025-10-20,Company Site,65208,5032,2,Terri Cantu,Data,14
+487,226,528,ML Engineer,Docker,Part-Time,H1B,No,Tacoma,WA,USA,2024-10-28,2024-07-17,Referral,93406,9072,3,Katherine Jones,Apps,8
+488,907,284,Data Engineer,"React, Kubernetes, Tableau",Part-Time,H1B,Yes,Alpharetta,GA,USA,2023-04-20,2025-12-14,Indeed,98955,8187,3,Jennifer Willis,Platform,12
+489,393,937,Security Analyst,"React, Python",Intern,Citizen,No,Scottsdale,AZ,USA,2024-01-10,2025-01-30,LinkedIn,87062,6654,5,Blake Jensen,Platform,21
+490,319,898,Security Analyst,"C++, React, Power BI",Part-Time,CPT,No,San Diego,CA,USA,2025-01-02,2025-09-30,Indeed,134945,12637,2,Samuel Simon,SRE,18
+491,126,998,Product Manager,".NET, SQL, Azure",Contract,OPT,No,Tucson,AZ,USA,2025-11-13,2025-12-12,Referral,114134,5503,3,Justin Robinson,QA,18
+492,770,402,ML Engineer,"C++, .NET",Contract,Citizen,No,White Plains,NY,USA,2022-09-30,2025-05-03,Campus Career Fair,73880,3753,5,John Smith,SRE,9
+493,857,390,Data Analyst,Power BI,Full-Time,H1B,No,Fort Collins,CO,USA,2023-11-30,2023-12-13,Campus Career Fair,56214,7533,2,Brandi Berry,QA,8
+494,502,824,SDET,".NET, Node.js, Hadoop",Part-Time,OPT,No,Charlotte,NC,USA,2025-10-14,2025-08-23,Handshake,93370,10723,5,Mr. Adrian Hines MD,QA,1
+495,253,788,Business Analyst,Docker,Contract,STEM-OPT,Yes,Atlanta,GA,USA,2023-04-12,2025-09-14,LinkedIn,65377,2849,4,Lisa Andrade,SRE,11
+496,66,650,DevOps Engineer,"Spark, Node.js, C++",Full-Time,H1B,Yes,Grand Rapids,MI,USA,2024-12-18,2024-02-13,Glassdoor,105205,11914,1,Rebecca Sullivan,QA,2
+497,477,112,QA Engineer,Spark,Contract,CPT,Yes,Columbus,OH,USA,2021-05-30,2025-01-06,Glassdoor,114073,11757,4,Cheryl Vega,SRE,12
+498,168,245,Data Analyst,Docker,Contract,H1B,No,Charlotte,NC,USA,2016-08-12,2025-11-28,Referral,100953,9186,4,Jesus Wilcox,QA,8
+499,496,613,SDET,"Python, .NET",Part-Time,OPT,No,Redmond,WA,USA,2019-09-15,2021-04-08,Handshake,112030,6174,2,Linda Sharp MD,Apps,17
+500,684,100,Security Analyst,Kubernetes,Part-Time,OPT,No,Redmond,WA,USA,2025-07-30,2025-10-25,LinkedIn,111668,5931,4,Michael Stewart,Apps,11
+501,914,828,QA Engineer,Kubernetes,Contract,STEM-OPT,Yes,St. Louis,MO,USA,2015-10-29,2025-05-19,Glassdoor,115786,8605,1,Randall Moore,Data,14
+502,553,711,ML Engineer,"Java, Docker, Snowflake",Intern,OPT,No,Denver,CO,USA,2025-08-16,2025-02-06,Glassdoor,83550,7241,4,Brian Smith,Security,9
+503,434,404,QA Engineer,Snowflake,Intern,OPT,No,Fort Collins,CO,USA,2017-01-25,2023-01-25,Company Site,113914,8217,1,Emily Williams,SRE,17
+504,353,409,Business Analyst,R,Part-Time,Citizen,Yes,Ann Arbor,MI,USA,2019-05-15,2022-04-27,Campus Career Fair,104151,6785,4,Johnny Hernandez,Apps,7
+505,446,325,Data Engineer,"Azure, Snowflake, Kubernetes",Contract,STEM-OPT,No,Miami,FL,USA,2020-07-31,2024-10-06,Company Site,72387,1588,2,Robyn Singleton,Platform,8
+506,388,656,Product Manager,"AWS, Tableau",Intern,STEM-OPT,Yes,Scottsdale,AZ,USA,2023-05-20,2024-02-23,Referral,81690,7538,3,Mark Alexander,Apps,13
+507,642,188,SDET,"Power BI, JavaScript",Full-Time,H1B,Yes,San Diego,CA,USA,2021-01-07,2023-12-20,Campus Career Fair,92036,6336,2,Donna Bennett,SRE,14
+508,776,223,Security Analyst,Power BI,Full-Time,Citizen,Yes,Jacksonville,FL,USA,2023-05-23,2023-03-15,Glassdoor,89609,7017,5,Cheryl Davis,QA,11
+509,196,53,Software Engineer,"R, Tableau, Kubernetes",Intern,Citizen,Yes,Worcester,MA,USA,2023-10-10,2024-11-29,LinkedIn,126758,11045,2,Jeffrey Hodge,SRE,7
+510,959,791,QA Engineer,"Node.js, C++, Java",Full-Time,OPT,Yes,Grand Rapids,MI,USA,2020-07-30,2021-02-20,Company Site,130511,4488,5,Katherine Harding,Apps,7
+511,407,844,Security Analyst,"JavaScript, C++",Full-Time,Citizen,Yes,Tampa,FL,USA,2021-05-25,2021-01-07,Company Site,79915,8802,1,Tracy Barrett,Security,16
+512,476,326,QA Engineer,"React, Power BI",Full-Time,CPT,No,Naperville,IL,USA,2021-03-10,2023-07-20,Handshake,99166,7483,2,Austin Stevens,Data,10
+513,854,762,DevOps Engineer,Spark,Part-Time,Citizen,Yes,Cleveland,OH,USA,2024-04-04,2024-04-22,Handshake,109491,10830,5,Michael Johnson,QA,13
+514,740,252,Business Analyst,".NET, JavaScript",Contract,STEM-OPT,Yes,Colorado Springs,CO,USA,2023-03-09,2024-03-28,LinkedIn,115907,12199,1,Erika Nelson,Apps,13
+515,186,400,Product Manager,C++,Intern,Citizen,No,Scottsdale,AZ,USA,2017-11-13,2024-01-11,LinkedIn,65621,12228,1,Veronica Rollins,Platform,10
+516,972,606,Data Analyst,Hadoop,Full-Time,STEM-OPT,No,Seattle,WA,USA,2023-09-26,2023-04-23,LinkedIn,72832,8185,3,Jason Butler,QA,8
+517,337,60,Business Analyst,"Hadoop, Kubernetes",Full-Time,CPT,No,Raleigh,NC,USA,2025-01-02,2025-04-27,Glassdoor,114904,6016,4,Mary Keller,Apps,9
+518,982,29,Salesforce Developer,Spark,Intern,OPT,Yes,Columbus,OH,USA,2021-09-29,2022-12-26,LinkedIn,54004,6743,2,Craig Jones,Apps,15
+519,864,335,Software Engineer,"R, Hadoop",Intern,STEM-OPT,Yes,Durham,NC,USA,2015-07-09,2024-05-26,Referral,108812,2521,3,Monica Phillips,Data,21
+520,208,217,Data Engineer,"Power BI, Java, SQL",Intern,CPT,No,Detroit,MI,USA,2023-05-12,2023-08-29,Indeed,82883,12467,3,Hannah Morgan,Data,10
+521,551,850,Salesforce Developer,"Tableau, AWS",Part-Time,H1B,No,Orlando,FL,USA,2022-06-03,2024-12-16,Indeed,77055,7499,4,Beverly Clay,Platform,10
+522,298,984,QA Engineer,"R, Hadoop",Full-Time,STEM-OPT,No,Tampa,FL,USA,2018-09-25,2023-10-19,Indeed,74846,4233,2,Holly Woods,Apps,10
+523,917,666,Software Engineer,React,Part-Time,Citizen,No,Austin,TX,USA,2020-03-27,2023-04-22,Handshake,134119,8783,1,Erica Henry,QA,13
+524,201,211,ML Engineer,"Java, AWS, React",Full-Time,CPT,No,Somerville,MA,USA,2023-08-01,2023-12-29,Indeed,114076,14759,4,Jennifer Simon,Apps,7
+525,200,244,Data Engineer,"Spark, Python",Intern,H1B,Yes,Durham,NC,USA,2022-10-17,2024-08-16,Glassdoor,76187,7272,5,Sherry Chavez,Platform,5
+526,970,626,DevOps Engineer,"Java, GCP",Full-Time,Citizen,No,Los Angeles,CA,USA,2025-10-19,2025-10-01,Company Site,131885,13025,5,Richard Alexander,Data,10
+527,709,623,QA Engineer,AWS,Intern,STEM-OPT,Yes,Worcester,MA,USA,2020-10-15,2024-04-30,Handshake,78795,11447,2,Bradley Anderson,Apps,8
+528,717,921,Salesforce Developer,"React, R, Tableau",Intern,Citizen,Yes,Cincinnati,OH,USA,2020-07-12,2020-01-13,Handshake,123303,6949,1,Kelly Holt,Platform,14
+529,22,948,ML Engineer,Hadoop,Part-Time,H1B,Yes,Miami,FL,USA,2023-03-14,2024-08-17,LinkedIn,118792,8300,3,Andrew Snyder,Platform,9
+530,83,312,Product Manager,"Snowflake, .NET",Full-Time,Citizen,Yes,Scottsdale,AZ,USA,2017-03-18,2025-09-19,Indeed,94338,11031,2,Kimberly Mack,Security,9
+531,308,205,Business Analyst,JavaScript,Full-Time,STEM-OPT,Yes,Irvine,CA,USA,2021-04-08,2021-03-12,Indeed,122626,8709,4,Spencer Collier,Security,7
+532,854,468,Product Manager,"Hadoop, C++",Contract,CPT,Yes,Pittsburgh,PA,USA,2022-11-24,2025-03-05,Indeed,115417,6224,2,Lisa Jones,Platform,8
+533,860,918,DevOps Engineer,"R, C++",Full-Time,OPT,No,Rochester,NY,USA,2024-02-19,2025-01-21,Referral,103437,8321,2,Matthew Alvarez,Security,15
+534,909,113,Business Analyst,Kubernetes,Intern,CPT,Yes,Somerville,MA,USA,2019-08-22,2021-06-15,Referral,90384,3837,1,Matthew Payne,Apps,19
+535,818,420,Business Analyst,"Node.js, .NET",Contract,STEM-OPT,Yes,Springfield,MO,USA,2022-12-05,2022-10-06,Handshake,103688,2116,3,Bethany Wong,SRE,17
+536,240,897,Business Analyst,Hadoop,Intern,Citizen,No,Boston,MA,USA,2023-06-26,2024-05-08,Referral,106186,5656,4,Clinton Reynolds,Data,10
+537,145,587,Software Engineer,JavaScript,Intern,CPT,No,Austin,TX,USA,2024-05-27,2024-01-10,Handshake,66388,3317,5,Daniel Nelson,QA,6
+538,725,81,Product Manager,SQL,Part-Time,Citizen,No,Worcester,MA,USA,2022-01-04,2025-08-07,Indeed,115598,6717,5,Kendra Ross,Security,15
+539,681,817,SDET,"Docker, AWS, .NET",Intern,CPT,No,Miami,FL,USA,2021-01-09,2024-03-04,LinkedIn,120994,3987,2,Timothy Glover,Platform,14
+540,512,803,ML Engineer,"AWS, .NET, R",Full-Time,Citizen,No,Rochester,NY,USA,2025-10-04,2025-09-14,Company Site,115490,7074,4,John Hartman,Data,8
+541,973,684,Business Analyst,"Python, AWS, Hadoop",Part-Time,H1B,No,San Diego,CA,USA,2024-05-20,2025-11-24,Indeed,75643,13434,4,Michelle Clark,Platform,3
+542,200,959,Product Manager,SQL,Full-Time,STEM-OPT,Yes,San Jose,CA,USA,2022-05-13,2023-09-22,Referral,104200,3639,4,Kaitlyn Johnson,Data,6
+543,42,430,Data Engineer,R,Part-Time,H1B,Yes,Chicago,IL,USA,2024-08-21,2025-08-11,Company Site,61943,3046,3,Jeremy Alexander,Security,10
+544,368,550,Salesforce Developer,"Snowflake, Node.js, C++",Contract,Citizen,No,Chesterfield,MO,USA,2017-08-28,2024-02-26,Campus Career Fair,103686,6493,2,Victoria Smith,Platform,14
+545,219,941,QA Engineer,"Kubernetes, JavaScript",Part-Time,Citizen,Yes,Denver,CO,USA,2024-07-17,2024-01-22,LinkedIn,124174,3559,1,Cody Lane,Platform,14
+546,650,274,DevOps Engineer,"C++, React",Full-Time,STEM-OPT,Yes,Cambridge,MA,USA,2024-07-13,2025-11-09,Handshake,85726,11173,5,Brandon Sharp,Security,14
+547,449,637,Data Analyst,"Tableau, Snowflake, Python",Intern,CPT,Yes,Cincinnati,OH,USA,2024-02-09,2025-10-27,Company Site,74047,7083,4,Christopher Hoffman,Apps,12
+548,644,758,Business Analyst,Docker,Intern,Citizen,No,Savannah,GA,USA,2024-01-03,2025-11-02,LinkedIn,115956,8066,1,Anthony Carr,Apps,2
+549,515,233,Security Analyst,"Python, Spark, Tableau",Contract,H1B,Yes,Phoenix,AZ,USA,2023-06-20,2023-06-21,LinkedIn,67299,11573,2,Michael Cardenas,Platform,14
+550,264,425,Salesforce Developer,"Snowflake, AWS",Intern,CPT,No,Denver,CO,USA,2025-02-20,2025-03-17,LinkedIn,102523,8548,3,Erin Green,Data,5
+551,193,758,DevOps Engineer,"Node.js, Docker, Azure",Intern,OPT,No,Tempe,AZ,USA,2025-11-24,2025-03-02,Handshake,103031,12347,1,Keith Martinez,Data,10
+552,1,254,Product Manager,"Spark, C++",Part-Time,Citizen,Yes,Boston,MA,USA,2022-02-25,2025-11-22,Indeed,75807,4543,3,Timothy Harrison,QA,12
+553,347,750,Data Engineer,"R, AWS, C++",Intern,Citizen,Yes,Cambridge,MA,USA,2025-07-22,2025-06-05,LinkedIn,88527,7621,5,Mark Stone,SRE,1
+554,476,169,Data Analyst,React,Intern,OPT,Yes,San Diego,CA,USA,2025-03-07,2025-09-04,Indeed,112221,12309,4,Nicole Day,SRE,8
+555,948,251,Salesforce Developer,"Python, GCP, JavaScript",Contract,Citizen,No,Cleveland,OH,USA,2025-07-17,2025-10-29,Company Site,106065,6352,1,Stacey Saunders,Data,8
+556,806,642,Software Engineer,"Snowflake, Node.js, GCP",Part-Time,H1B,Yes,Urbana,IL,USA,2019-07-30,2024-09-22,Handshake,89215,11846,3,Daniel Miller,Data,4
+557,178,682,Salesforce Developer,"AWS, JavaScript",Part-Time,Citizen,Yes,San Francisco,CA,USA,2021-10-29,2021-07-04,Handshake,99620,7837,5,Elizabeth Parks,QA,12
+558,268,514,Security Analyst,"GCP, Azure, C++",Full-Time,CPT,No,Pittsburgh,PA,USA,2022-03-17,2023-07-01,Indeed,99227,2838,1,Jim Hawkins,SRE,16
+559,706,386,ML Engineer,"Hadoop, Docker",Contract,OPT,Yes,Peoria,IL,USA,2025-11-28,2025-04-21,Referral,111481,12357,3,Sandra Reynolds,Platform,8
+560,885,510,Software Engineer,"Node.js, Snowflake, Python",Intern,H1B,No,Alpharetta,GA,USA,2025-10-02,2025-10-03,Handshake,117226,6164,5,Meghan Vasquez,Apps,11
+561,784,778,SDET,R,Part-Time,H1B,Yes,Tacoma,WA,USA,2025-08-25,2025-06-01,Campus Career Fair,98544,4180,1,Mr. Thomas Gallegos,Security,12
+562,12,223,Data Engineer,"SQL, .NET, Azure",Part-Time,STEM-OPT,No,San Diego,CA,USA,2022-08-02,2024-05-17,Referral,92570,6462,2,Benjamin Smith,QA,9
+563,291,902,ML Engineer,"Hadoop, Snowflake",Part-Time,STEM-OPT,No,St. Louis,MO,USA,2024-03-15,2025-07-12,Indeed,45000,10956,4,Danielle Phillips,SRE,15
+564,236,523,ML Engineer,Java,Intern,CPT,No,Redmond,WA,USA,2024-09-05,2025-01-20,Glassdoor,142667,4218,3,Rebecca Morgan,QA,3
+565,941,837,QA Engineer,JavaScript,Part-Time,Citizen,No,Pittsburgh,PA,USA,2023-10-15,2024-04-15,Company Site,140895,5648,4,Amanda Miller,SRE,10
+566,979,782,SDET,"AWS, R, Docker",Intern,STEM-OPT,Yes,Jacksonville,FL,USA,2025-04-04,2025-03-04,LinkedIn,104258,8753,3,Lance Williams,Apps,10
+567,953,544,Salesforce Developer,"Snowflake, Spark, Node.js",Intern,CPT,Yes,Phoenix,AZ,USA,2023-05-20,2023-04-27,Referral,84096,4840,3,Linda Glover,Data,14
+568,807,411,ML Engineer,"Tableau, AWS, R",Part-Time,H1B,Yes,Cary,NC,USA,2025-01-28,2025-11-07,Company Site,162744,0,1,Rebecca Suarez,Security,11
+569,437,172,SDET,"R, Power BI, Python",Contract,CPT,No,Boston,MA,USA,2023-02-04,2024-05-21,Campus Career Fair,119786,5628,2,Sarah Hamilton,Platform,15
+570,231,887,Security Analyst,"Power BI, React, .NET",Contract,H1B,No,Tampa,FL,USA,2020-12-20,2023-04-14,Glassdoor,104549,6540,2,Eric Moore,Security,13
+571,5,985,QA Engineer,"AWS, Node.js, SQL",Contract,Citizen,No,San Francisco,CA,USA,2019-05-09,2020-09-08,Campus Career Fair,76499,8822,4,Jeffrey Diaz,Apps,1
+572,899,340,DevOps Engineer,.NET,Intern,H1B,No,Ann Arbor,MI,USA,2015-08-23,2018-04-05,Company Site,106060,10430,5,Heather Reyes MD,Platform,3
+573,448,832,Data Engineer,.NET,Full-Time,STEM-OPT,No,San Antonio,TX,USA,2023-01-10,2024-08-26,Glassdoor,74129,4561,1,Joshua Schaefer,SRE,10
+574,494,531,Business Analyst,"Docker, R, React",Full-Time,Citizen,Yes,Scottsdale,AZ,USA,2021-01-19,2023-03-07,LinkedIn,95309,5666,4,Jennifer Walker,Data,16
+575,197,225,Salesforce Developer,AWS,Contract,OPT,No,Detroit,MI,USA,2019-07-25,2019-11-01,Handshake,106869,7619,3,Kristen Butler,QA,1
+576,205,941,Salesforce Developer,Azure,Intern,OPT,No,Jacksonville,FL,USA,2023-10-29,2024-09-24,Handshake,118183,5338,2,Patrick Thompson,Apps,10
+577,951,868,Business Analyst,"React, SQL",Contract,OPT,No,Naperville,IL,USA,2018-07-28,2023-05-01,Indeed,95887,8074,4,Charles Lewis,Apps,4
+578,456,544,Data Engineer,"JavaScript, Power BI",Full-Time,STEM-OPT,No,San Jose,CA,USA,2025-03-15,2025-12-31,Handshake,64712,11976,2,Andrew Espinoza,Platform,11
+579,355,453,Product Manager,Kubernetes,Intern,OPT,No,Columbus,OH,USA,2022-07-15,2025-06-23,Handshake,113805,9237,4,Thomas Vazquez,SRE,1
+580,475,4,Salesforce Developer,"R, Python",Full-Time,STEM-OPT,No,Boulder,CO,USA,2024-08-23,2024-05-01,Indeed,98808,7762,4,Steven Winters,QA,13
+581,623,625,QA Engineer,C++,Part-Time,Citizen,No,Atlanta,GA,USA,2025-12-23,2025-03-21,Glassdoor,118301,5010,2,Sharon Griffin,Apps,11
+582,42,217,Software Engineer,Kubernetes,Intern,Citizen,Yes,Cary,NC,USA,2023-12-05,2024-12-13,Handshake,76957,9100,2,Richard Coleman,Apps,16
+583,172,804,Product Manager,"R, Snowflake",Intern,CPT,Yes,Columbus,OH,USA,2023-09-04,2023-07-30,Company Site,99173,8924,5,Keith Benton,SRE,15
+584,975,271,SDET,"Kubernetes, Python",Part-Time,OPT,Yes,Scottsdale,AZ,USA,2024-04-27,2025-01-08,Glassdoor,48132,7188,2,Kelly Gordon,Platform,9
+585,687,284,ML Engineer,SQL,Contract,CPT,Yes,Raleigh,NC,USA,2023-04-30,2025-07-31,Handshake,45000,10682,4,Joseph Terry,SRE,8
+586,639,729,SDET,Python,Part-Time,OPT,Yes,Harrisburg,PA,USA,2018-02-16,2022-06-20,Campus Career Fair,59916,10883,5,Christopher Arroyo,Security,11
+587,43,126,QA Engineer,Azure,Intern,H1B,Yes,Ann Arbor,MI,USA,2021-04-17,2022-10-12,Campus Career Fair,107394,4204,3,Christina Evans,Data,14
+588,145,398,Business Analyst,"Spark, GCP",Part-Time,OPT,No,New York,NY,USA,2018-01-23,2019-04-22,LinkedIn,108646,6061,4,Charles Perez,QA,2
+589,216,658,QA Engineer,"Azure, .NET, SQL",Intern,H1B,Yes,Columbia,MO,USA,2024-08-02,2025-04-14,Company Site,140529,2833,1,Barry Brown,Platform,11
+590,422,688,Security Analyst,C++,Full-Time,STEM-OPT,No,Worcester,MA,USA,2024-08-14,2025-05-26,Referral,106097,7563,2,Gail Wright,QA,7
+591,719,472,Product Manager,"C++, Azure",Full-Time,STEM-OPT,Yes,Scottsdale,AZ,USA,2025-04-06,2025-07-19,Indeed,114545,10354,5,Kathryn Anderson,Data,2
+592,412,447,Data Engineer,"Docker, SQL",Part-Time,CPT,Yes,Seattle,WA,USA,2025-06-18,2025-04-04,Indeed,108084,7527,4,Kristen Rich,Apps,1
+593,24,940,ML Engineer,Snowflake,Part-Time,OPT,No,Peoria,IL,USA,2022-10-31,2024-11-01,Company Site,94883,7132,3,Michelle Martinez,QA,6
+594,46,124,QA Engineer,"Kubernetes, JavaScript",Full-Time,Citizen,No,Raleigh,NC,USA,2024-02-07,2024-10-21,Company Site,96797,3789,2,William Marshall,Data,1
+595,220,474,Software Engineer,"Python, JavaScript",Contract,CPT,Yes,Savannah,GA,USA,2025-09-23,2025-04-07,Campus Career Fair,68960,10076,4,Elizabeth Jackson,QA,5
+596,201,28,ML Engineer,"R, Snowflake",Intern,CPT,Yes,Savannah,GA,USA,2018-10-08,2023-06-22,Company Site,93742,3537,4,Kristina Horn,Apps,5
+597,270,381,DevOps Engineer,Power BI,Part-Time,STEM-OPT,No,Plano,TX,USA,2025-06-19,2025-06-27,Company Site,124174,3360,5,Sean Carter,SRE,14
+598,397,389,DevOps Engineer,"Power BI, Kubernetes",Contract,Citizen,No,Durham,NC,USA,2024-12-22,2025-07-06,Glassdoor,82214,9797,1,Robert Robinson,Data,9
+599,967,447,QA Engineer,Python,Full-Time,CPT,No,Columbia,MO,USA,2023-03-08,2025-12-14,Referral,62824,9837,4,Jessica Allen,Apps,13
+600,90,34,Data Engineer,"R, Python, Power BI",Contract,Citizen,No,Phoenix,AZ,USA,2023-08-10,2025-09-06,Referral,116858,6956,3,Derrick Haley MD,Security,9
+601,344,28,Data Analyst,AWS,Intern,H1B,Yes,Tucson,AZ,USA,2023-02-09,2023-06-06,LinkedIn,111132,6090,4,Joseph Sanchez,QA,10
+602,43,892,DevOps Engineer,AWS,Part-Time,CPT,No,Ann Arbor,MI,USA,2024-03-08,2024-02-11,Campus Career Fair,128571,8817,3,Michael Lane Jr.,Security,2
+603,718,152,Data Engineer,AWS,Part-Time,Citizen,No,Columbus,OH,USA,2025-11-14,2025-02-19,Indeed,65214,1044,5,Wendy Mendoza,Platform,12
+604,812,714,Salesforce Developer,"Snowflake, Kubernetes",Full-Time,OPT,No,San Jose,CA,USA,2018-10-29,2020-08-30,Handshake,45000,8178,1,Betty Moreno,Platform,6
+605,615,922,Product Manager,"GCP, Python, Node.js",Full-Time,OPT,Yes,Columbus,OH,USA,2023-03-24,2025-10-03,Referral,102246,3735,1,Erin Livingston,Platform,12
+606,909,396,Data Engineer,GCP,Contract,CPT,No,Rochester,NY,USA,2025-12-28,2025-02-01,Referral,83629,8388,2,Leslie Ashley,Security,9
+607,463,347,SDET,"Spark, Tableau",Contract,OPT,No,Tucson,AZ,USA,2018-11-17,2023-01-28,Company Site,68277,8035,2,Jake Ramirez,Data,12
+608,104,134,Software Engineer,"GCP, Snowflake, Spark",Part-Time,OPT,Yes,Fort Collins,CO,USA,2023-08-02,2023-06-16,Campus Career Fair,92153,2315,4,Amanda Walters,Apps,1
+609,957,66,Business Analyst,"JavaScript, Tableau, Hadoop",Full-Time,STEM-OPT,No,Scottsdale,AZ,USA,2019-06-05,2022-01-19,Company Site,108774,8991,5,Joseph Cameron,Data,2
+610,734,484,Business Analyst,"Snowflake, Tableau, Power BI",Full-Time,STEM-OPT,Yes,Cary,NC,USA,2025-10-25,2025-04-28,Company Site,105905,9299,1,Randy Murray,SRE,5
+611,105,554,ML Engineer,Snowflake,Intern,STEM-OPT,Yes,Redmond,WA,USA,2025-03-13,2025-08-29,Campus Career Fair,90161,9909,2,Ian Conley,SRE,21
+612,701,20,Data Engineer,"JavaScript, Python, React",Full-Time,CPT,Yes,Buffalo,NY,USA,2024-07-20,2024-11-13,Company Site,97198,8880,3,Mark Byrd,Platform,15
+613,285,803,QA Engineer,"Node.js, SQL",Part-Time,H1B,Yes,Dallas,TX,USA,2024-05-16,2025-03-13,Company Site,73659,7353,3,Jessica Thompson,Platform,11
+614,768,597,SDET,Tableau,Part-Time,STEM-OPT,No,Pittsburgh,PA,USA,2025-08-15,2025-11-19,Glassdoor,147445,7714,3,Patricia Jones,Data,1
+615,99,316,ML Engineer,SQL,Contract,H1B,No,Atlanta,GA,USA,2023-12-27,2023-08-25,Handshake,110697,7974,4,Melanie Henderson,Platform,10
+616,304,449,DevOps Engineer,"Kubernetes, Spark, Power BI",Full-Time,H1B,Yes,Harrisburg,PA,USA,2025-01-05,2025-08-08,Company Site,118509,5159,2,Joshua Moore,Platform,9
+617,753,307,Product Manager,"AWS, Tableau, Hadoop",Contract,H1B,No,New York,NY,USA,2018-11-13,2024-01-17,Referral,97568,2507,4,Eric Rivera,Apps,10
+618,954,544,ML Engineer,"Java, React, GCP",Full-Time,STEM-OPT,Yes,White Plains,NY,USA,2022-01-26,2022-01-01,Glassdoor,103426,9901,2,Laura Bright,Platform,11
+619,809,385,Salesforce Developer,"Node.js, Docker, React",Intern,STEM-OPT,Yes,Tucson,AZ,USA,2024-01-11,2024-02-16,Company Site,61461,6818,2,Kristen Anderson,Security,13
+620,436,421,Business Analyst,"GCP, JavaScript, Java",Contract,OPT,Yes,Durham,NC,USA,2022-11-06,2024-07-06,Company Site,91226,4133,1,Veronica Mitchell,SRE,15
+621,235,203,Software Engineer,.NET,Intern,Citizen,No,Raleigh,NC,USA,2024-12-04,2024-04-17,Handshake,114326,9708,4,Theresa Harper,QA,7
+622,163,92,Business Analyst,Power BI,Contract,STEM-OPT,Yes,Miami,FL,USA,2025-08-21,2025-09-04,Glassdoor,110548,9052,1,Colin Cochran,QA,19
+623,658,611,Data Analyst,C++,Contract,H1B,No,Orlando,FL,USA,2021-05-28,2022-07-15,Glassdoor,120379,6387,1,Hannah Thomas,Security,6
+624,804,651,Data Engineer,"AWS, Snowflake, Python",Part-Time,Citizen,Yes,Grand Rapids,MI,USA,2022-02-17,2023-07-03,Glassdoor,91386,13286,2,Michael Hickman,Platform,5
+625,388,968,Product Manager,"Kubernetes, AWS, JavaScript",Intern,Citizen,Yes,Peoria,IL,USA,2023-08-10,2025-07-29,Glassdoor,45000,11038,4,Jeremy Kent,SRE,17
+626,301,359,Data Analyst,"Java, Python",Full-Time,CPT,No,Miami,FL,USA,2023-04-13,2024-02-24,Handshake,100967,7153,4,Joshua Young,QA,15
+627,775,126,Data Engineer,"Tableau, .NET",Intern,CPT,Yes,Ann Arbor,MI,USA,2018-04-23,2022-04-02,LinkedIn,77913,16131,5,Cynthia Griffin,SRE,9
+628,360,385,Software Engineer,"Power BI, Tableau",Full-Time,STEM-OPT,No,Detroit,MI,USA,2020-02-20,2022-10-06,Glassdoor,106841,2150,3,Bradley Monroe,Security,9
+629,286,779,Data Engineer,"Snowflake, C++",Part-Time,Citizen,No,Harrisburg,PA,USA,2024-09-13,2024-09-21,Company Site,89027,3597,1,Samuel Carter,QA,16
+630,386,831,Data Analyst,Python,Intern,Citizen,No,Miami,FL,USA,2022-12-27,2022-01-24,LinkedIn,97825,13524,2,Laura Joseph,Security,3
+631,376,492,SDET,"Tableau, Docker, Kubernetes",Full-Time,H1B,No,White Plains,NY,USA,2025-09-07,2025-03-17,LinkedIn,102507,7033,3,Alexandra Harris,SRE,4
+632,379,940,QA Engineer,"Hadoop, GCP, AWS",Contract,H1B,Yes,Irvine,CA,USA,2021-12-04,2025-10-22,Company Site,113897,7285,4,Antonio Montoya,Data,16
+633,474,356,Product Manager,GCP,Intern,OPT,No,New York,NY,USA,2025-07-27,2025-04-05,Company Site,65754,10810,5,Mr. David Davis,Apps,1
+634,633,844,Data Engineer,GCP,Contract,Citizen,Yes,Clayton,MO,USA,2022-09-24,2024-11-03,Glassdoor,101706,5159,1,Veronica Mendoza,Platform,6
+635,754,530,Salesforce Developer,"Power BI, .NET, Docker",Part-Time,STEM-OPT,Yes,Jacksonville,FL,USA,2021-02-19,2021-10-29,LinkedIn,117949,4528,1,Richard Marshall,SRE,8
+636,74,332,Data Engineer,"Azure, Java",Intern,CPT,No,Redmond,WA,USA,2020-10-11,2020-03-19,Indeed,79968,6815,2,Brenda Delgado,QA,13
+637,934,117,Business Analyst,"R, Java, Python",Intern,H1B,No,Houston,TX,USA,2025-11-17,2025-04-02,Indeed,107206,9119,2,Jeanette Mcpherson,Apps,1
+638,367,661,Data Analyst,"Node.js, .NET, Java",Full-Time,OPT,No,Atlanta,GA,USA,2023-10-09,2023-09-18,Handshake,125231,1719,2,Savannah Smith,SRE,14
+639,997,352,DevOps Engineer,"R, Node.js, Java",Contract,STEM-OPT,No,San Jose,CA,USA,2019-11-26,2019-02-20,Handshake,101461,7709,1,Brandon Reeves,QA,11
+640,200,333,Salesforce Developer,"Java, Spark, Docker",Intern,OPT,No,Naperville,IL,USA,2019-09-01,2023-08-05,Campus Career Fair,100301,9442,4,Willie Jackson,SRE,17
+641,445,87,ML Engineer,"Python, Power BI",Part-Time,CPT,No,Denver,CO,USA,2023-05-01,2025-01-23,Referral,149961,5137,4,Michael Lyons,Data,16
+642,837,281,Software Engineer,"Azure, AWS",Contract,STEM-OPT,Yes,Pittsburgh,PA,USA,2025-11-28,2025-05-07,Campus Career Fair,69328,8569,2,Cassandra Bell,Data,3
+643,728,28,QA Engineer,JavaScript,Contract,OPT,Yes,Ann Arbor,MI,USA,2025-05-22,2025-11-13,Handshake,92372,6747,1,Grace Fowler,SRE,8
+644,717,583,Data Analyst,Azure,Full-Time,H1B,No,Buffalo,NY,USA,2024-03-03,2024-10-30,Referral,63601,660,5,Anne Brown,Data,7
+645,363,253,Software Engineer,"React, Spark",Part-Time,Citizen,No,Charlotte,NC,USA,2025-07-07,2025-12-25,Company Site,60986,6140,1,Paul Patterson,Apps,2
+646,625,505,DevOps Engineer,Tableau,Full-Time,H1B,No,Tacoma,WA,USA,2021-03-16,2023-10-22,Indeed,124023,4829,1,Kaitlyn Warren,Apps,17
+647,669,44,Security Analyst,Spark,Contract,Citizen,No,Atlanta,GA,USA,2023-07-13,2025-06-11,Referral,62202,8961,3,Kelly King,Platform,1
+648,870,971,Business Analyst,".NET, Hadoop, Tableau",Full-Time,CPT,Yes,Peoria,IL,USA,2025-01-13,2025-11-27,Company Site,103633,8359,4,Tracy Rangel,QA,13
+649,577,401,ML Engineer,"R, Kubernetes, Spark",Intern,STEM-OPT,No,San Francisco,CA,USA,2022-08-09,2022-09-16,Indeed,71009,10634,1,Mark Torres,Platform,15
+650,676,478,Salesforce Developer,"Snowflake, SQL",Intern,H1B,No,Cambridge,MA,USA,2024-05-08,2025-05-25,LinkedIn,111903,2731,1,Annette Long,Data,15
+651,32,783,DevOps Engineer,"Node.js, Power BI",Intern,OPT,Yes,Tempe,AZ,USA,2019-02-12,2023-11-25,Campus Career Fair,88482,5953,1,Thomas Flores,Data,14
+652,155,243,DevOps Engineer,Azure,Contract,CPT,Yes,Kansas City,MO,USA,2024-08-22,2024-12-09,Company Site,107176,8759,5,Alison Deleon,Apps,5
+653,119,12,QA Engineer,"Power BI, JavaScript",Full-Time,Citizen,Yes,Columbus,OH,USA,2022-04-15,2024-04-06,Company Site,115251,5312,4,Kent Guzman,Apps,13
+654,517,922,DevOps Engineer,".NET, GCP, Power BI",Part-Time,Citizen,Yes,Austin,TX,USA,2023-09-01,2025-07-13,LinkedIn,119689,10596,2,Jessica Keith,SRE,15
+655,583,6,Data Analyst,"Node.js, GCP",Intern,H1B,Yes,Cleveland,OH,USA,2023-07-05,2024-05-31,Campus Career Fair,75430,5697,1,Mathew Phillips,Security,12
+656,605,935,Salesforce Developer,"Kubernetes, Tableau, JavaScript",Part-Time,H1B,No,Irvine,CA,USA,2022-08-02,2022-03-16,Referral,125627,1772,2,Michael Harris,Apps,4
+657,142,695,QA Engineer,JavaScript,Full-Time,STEM-OPT,No,Cleveland,OH,USA,2018-06-14,2018-12-07,Campus Career Fair,108022,7813,4,Louis Young,Security,13
+658,384,757,Data Engineer,"Java, Docker, C++",Full-Time,H1B,No,Bellevue,WA,USA,2022-07-19,2024-01-24,Referral,104273,4831,1,Amber Escobar,Apps,18
+659,939,984,Product Manager,"React, Azure",Intern,STEM-OPT,Yes,Savannah,GA,USA,2022-01-04,2023-11-02,Company Site,121133,10542,2,Angela Kelly,Apps,5
+660,448,947,Salesforce Developer,"Azure, SQL, JavaScript",Contract,OPT,No,New York,NY,USA,2025-12-05,2025-10-29,Referral,105774,6393,1,Joel Perez,SRE,8
+661,99,467,Security Analyst,"Hadoop, Kubernetes",Full-Time,OPT,No,Cincinnati,OH,USA,2024-03-24,2025-06-14,Company Site,103890,10207,4,Sheri Fletcher,Apps,5
+662,711,230,ML Engineer,".NET, SQL",Full-Time,H1B,No,Pittsburgh,PA,USA,2022-09-03,2024-12-21,Referral,65968,6994,4,Julie Cortez,Security,7
+663,110,668,SDET,".NET, JavaScript, Spark",Contract,STEM-OPT,Yes,Boston,MA,USA,2022-04-01,2025-08-31,Glassdoor,65455,6099,2,Cassandra Phillips,QA,17
+664,990,510,Software Engineer,"SQL, R",Intern,STEM-OPT,No,Detroit,MI,USA,2024-01-13,2025-05-09,Company Site,127130,7679,2,Barbara Payne,Data,18
+665,930,343,ML Engineer,"SQL, Azure, React",Part-Time,CPT,No,Miami,FL,USA,2017-09-23,2023-05-23,LinkedIn,48776,10843,2,Taylor Olsen,Apps,13
+666,768,510,Software Engineer,"Snowflake, SQL, C++",Part-Time,STEM-OPT,No,St. Louis,MO,USA,2021-03-04,2021-07-30,Referral,105713,7605,2,Lisa Garcia,Data,17
+667,842,585,Salesforce Developer,"Kubernetes, Hadoop",Intern,STEM-OPT,Yes,Tempe,AZ,USA,2025-04-09,2025-04-27,Company Site,97378,6571,3,Kimberly Hamilton,SRE,5
+668,33,639,Product Manager,"GCP, Java, JavaScript",Full-Time,STEM-OPT,Yes,Plano,TX,USA,2024-06-08,2024-03-18,Handshake,81903,9787,5,Audrey Williams,QA,5
+669,17,175,Salesforce Developer,"AWS, Tableau, GCP",Contract,OPT,No,Somerville,MA,USA,2019-12-20,2022-02-12,Glassdoor,126504,7103,4,Barbara Martinez,SRE,17
+670,907,790,Salesforce Developer,"React, Power BI, Snowflake",Contract,STEM-OPT,Yes,New York,NY,USA,2020-05-28,2021-04-23,Glassdoor,159625,7588,4,Hannah Morris,QA,12
+671,856,484,QA Engineer,Power BI,Intern,STEM-OPT,Yes,Cincinnati,OH,USA,2024-06-19,2025-06-19,Indeed,72912,5884,5,Steven Brown,Data,8
+672,15,169,Software Engineer,"GCP, Power BI, AWS",Contract,OPT,Yes,Atlanta,GA,USA,2023-05-26,2025-10-10,Indeed,82960,7877,3,Michelle Kennedy,Apps,14
+673,37,649,Salesforce Developer,"JavaScript, Spark",Full-Time,CPT,No,Scottsdale,AZ,USA,2020-06-18,2021-11-16,Campus Career Fair,85751,9217,2,Scott Jennings,QA,8
+674,700,71,ML Engineer,Python,Part-Time,OPT,Yes,Cleveland,OH,USA,2022-05-24,2025-04-21,LinkedIn,82724,8531,4,Barbara Stevenson,Data,16
+675,877,748,SDET,JavaScript,Part-Time,OPT,Yes,Pittsburgh,PA,USA,2025-01-02,2025-01-03,Campus Career Fair,82053,4606,5,Jessica Brown,Security,6
+676,149,26,Security Analyst,Docker,Contract,STEM-OPT,No,San Jose,CA,USA,2021-03-06,2022-03-24,Referral,92916,6119,5,Jordan Adams,Platform,11
+677,759,438,Business Analyst,"Node.js, Tableau",Part-Time,STEM-OPT,Yes,Springfield,IL,USA,2020-11-13,2023-06-02,Glassdoor,98855,9571,2,Dr. Christopher Cox PhD,Data,15
+678,72,933,ML Engineer,Hadoop,Contract,H1B,No,Irvine,CA,USA,2025-03-05,2025-03-16,Indeed,90529,10400,2,Lisa Harris,Data,13
+679,821,430,QA Engineer,"C++, GCP, Power BI",Full-Time,CPT,Yes,Jacksonville,FL,USA,2021-10-20,2022-10-22,Company Site,73780,12176,5,Lindsay Martinez,QA,9
+680,27,971,Data Engineer,"Power BI, Docker",Full-Time,CPT,Yes,Philadelphia,PA,USA,2023-04-12,2024-08-07,LinkedIn,96439,7278,3,Theresa Cooper,Platform,9
+681,397,76,QA Engineer,"Docker, AWS, React",Contract,H1B,Yes,Peoria,IL,USA,2024-06-22,2025-07-19,Referral,47868,11918,2,Kristina Thomas,Security,7
+682,529,859,Product Manager,"Snowflake, Spark",Part-Time,H1B,Yes,Alpharetta,GA,USA,2024-06-14,2024-10-22,Referral,101718,4959,3,Charles Townsend,Data,8
+683,674,258,ML Engineer,"GCP, React, Snowflake",Part-Time,OPT,Yes,Worcester,MA,USA,2019-12-21,2021-09-15,Glassdoor,85237,790,2,Jose Fowler,Data,13
+684,155,626,QA Engineer,"SQL, R, GCP",Part-Time,CPT,Yes,Redmond,WA,USA,2022-07-18,2022-07-02,LinkedIn,119760,6378,4,Christopher Pierce,Platform,7
+685,96,532,DevOps Engineer,"R, React",Full-Time,CPT,Yes,Austin,TX,USA,2022-07-30,2022-01-11,LinkedIn,87564,7489,3,Michelle Wong,QA,13
+686,587,433,Salesforce Developer,"Azure, Kubernetes",Part-Time,OPT,Yes,Cary,NC,USA,2023-05-24,2023-06-09,Indeed,113721,6554,1,Elizabeth Smith,Data,10
+687,602,237,DevOps Engineer,"JavaScript, Kubernetes, Hadoop",Intern,STEM-OPT,No,Pittsburgh,PA,USA,2018-12-06,2019-02-22,Company Site,105004,7314,4,Cynthia Parker,QA,12
+688,606,560,SDET,"Kubernetes, Python, React",Part-Time,CPT,Yes,Chicago,IL,USA,2022-12-01,2023-08-22,LinkedIn,96163,11459,4,Elizabeth Rodriguez,Security,11
+689,330,832,Software Engineer,"GCP, Kubernetes",Full-Time,Citizen,Yes,Tacoma,WA,USA,2018-01-08,2018-12-12,Campus Career Fair,115893,7321,1,Lindsey Wheeler,Platform,2
+690,20,955,DevOps Engineer,".NET, Snowflake, React",Part-Time,H1B,Yes,Bellevue,WA,USA,2017-03-05,2023-07-01,Glassdoor,98173,7080,5,Kristin Rivera,QA,15
+691,3,319,Software Engineer,"Azure, AWS, Python",Intern,OPT,No,Harrisburg,PA,USA,2017-11-24,2019-05-17,Campus Career Fair,105920,4058,5,Barbara Whitehead,Data,5
+692,509,808,Business Analyst,"JavaScript, Snowflake",Full-Time,Citizen,Yes,Boston,MA,USA,2023-11-11,2023-03-29,Campus Career Fair,87485,9500,5,Willie Vargas,Data,9
+693,683,111,Product Manager,"React, JavaScript, AWS",Full-Time,CPT,No,Naperville,IL,USA,2018-08-26,2018-10-27,Company Site,106161,1716,2,Emily Smith,SRE,11
+694,477,43,Salesforce Developer,"GCP, Tableau, AWS",Part-Time,H1B,Yes,Tampa,FL,USA,2024-05-01,2024-06-15,Handshake,84726,12293,2,Logan Young,Apps,14
+695,85,128,ML Engineer,"Azure, Kubernetes, Java",Contract,CPT,Yes,Redmond,WA,USA,2024-01-18,2025-12-11,LinkedIn,92838,2976,3,Nicole Sherman,Security,2
+696,691,661,Software Engineer,Java,Intern,OPT,Yes,Alpharetta,GA,USA,2022-07-07,2022-07-10,Handshake,110584,2374,5,Stephen Carr,Security,13
+697,581,773,Data Analyst,"JavaScript, Power BI",Contract,CPT,Yes,San Diego,CA,USA,2022-10-13,2024-06-22,LinkedIn,78029,3645,4,Natalie Payne,QA,7
+698,198,387,DevOps Engineer,"Power BI, Docker, React",Intern,H1B,Yes,Plano,TX,USA,2025-10-24,2025-10-17,Referral,111370,13777,2,Kayla Bass,Data,11
+699,56,127,Product Manager,"Power BI, React, R",Intern,CPT,Yes,Buffalo,NY,USA,2018-12-07,2024-01-31,Referral,99841,3473,4,Sherri Pennington,Platform,14
+700,495,253,DevOps Engineer,"Azure, Tableau",Contract,STEM-OPT,Yes,Fort Collins,CO,USA,2025-08-12,2025-01-14,Glassdoor,45000,12962,2,Travis Miller,QA,14
+701,784,961,QA Engineer,"Tableau, Node.js",Full-Time,STEM-OPT,Yes,Tampa,FL,USA,2025-02-10,2025-10-06,Campus Career Fair,112887,7656,3,Gail Mcdonald,QA,11
+702,279,4,Salesforce Developer,"SQL, Hadoop",Contract,H1B,Yes,Pittsburgh,PA,USA,2021-12-21,2023-08-02,Indeed,93046,7257,5,Benjamin Gentry,Security,9
+703,978,220,Salesforce Developer,Java,Part-Time,STEM-OPT,No,Philadelphia,PA,USA,2024-09-06,2024-03-25,Company Site,100064,5457,4,Thomas Franklin,QA,9
+704,983,205,SDET,React,Contract,STEM-OPT,No,Grand Rapids,MI,USA,2023-03-28,2025-10-16,Indeed,85720,10881,2,Kevin Ware,QA,7
+705,780,951,ML Engineer,"JavaScript, C++",Part-Time,H1B,No,San Diego,CA,USA,2025-09-21,2025-02-15,Company Site,77810,5341,5,Karen Cole,Apps,9
+706,952,463,Data Engineer,R,Full-Time,Citizen,No,Durham,NC,USA,2019-02-06,2025-05-02,Referral,121007,9467,4,Michael Bridges,SRE,11
+707,115,729,ML Engineer,"Hadoop, JavaScript, AWS",Intern,Citizen,Yes,Chicago,IL,USA,2019-05-11,2019-12-24,Indeed,97353,13499,3,Aaron Gaines,SRE,14
+708,254,667,Business Analyst,C++,Contract,STEM-OPT,No,Chicago,IL,USA,2025-07-13,2025-08-10,Referral,89968,12770,1,Abigail Ferguson,Platform,10
+709,417,502,Salesforce Developer,"SQL, Java, C++",Contract,STEM-OPT,Yes,Detroit,MI,USA,2020-03-16,2020-07-27,Indeed,84010,12807,5,Kimberly Sanchez,QA,5
+710,293,206,Security Analyst,"Hadoop, C++",Part-Time,OPT,Yes,Los Angeles,CA,USA,2023-03-10,2023-05-15,Campus Career Fair,74826,7715,2,Claire Sparks,Platform,22
+711,730,81,DevOps Engineer,"Python, Tableau, Spark",Contract,CPT,Yes,Grand Rapids,MI,USA,2023-11-12,2023-01-20,Indeed,93482,7860,2,Jeremy Shaffer,Data,5
+712,666,278,Salesforce Developer,"Node.js, Azure, JavaScript",Part-Time,H1B,No,Grand Rapids,MI,USA,2025-03-23,2025-05-11,Handshake,117675,7762,2,Jenna Galvan,Apps,15
+713,485,357,Salesforce Developer,"R, Tableau, GCP",Intern,Citizen,No,Urbana,IL,USA,2020-04-02,2025-09-17,Handshake,77537,2122,4,Andres Padilla,Apps,10
+714,962,300,Salesforce Developer,"Kubernetes, JavaScript",Full-Time,H1B,No,Miami,FL,USA,2023-04-29,2024-11-15,Campus Career Fair,63776,7796,4,William Wood,Data,6
+715,1000,861,Security Analyst,"Tableau, SQL, R",Intern,OPT,Yes,Philadelphia,PA,USA,2020-03-22,2023-01-07,Indeed,97349,4333,1,Johnny Davis,QA,11
+716,23,199,Security Analyst,"R, AWS, Azure",Contract,H1B,Yes,Bellevue,WA,USA,2022-04-26,2023-01-28,Campus Career Fair,109415,1646,5,Anthony Henry,Data,11
+717,836,836,DevOps Engineer,"C++, AWS",Intern,CPT,No,Columbus,OH,USA,2023-12-23,2025-12-18,Indeed,159835,6874,4,Isaac Miller,SRE,9
+718,612,655,Security Analyst,"Kubernetes, C++",Intern,CPT,No,Savannah,GA,USA,2022-11-18,2023-06-13,Referral,76593,11907,3,Monique Johnson,Apps,13
+719,346,828,SDET,"GCP, React",Contract,H1B,Yes,Fort Collins,CO,USA,2019-08-25,2021-03-11,Glassdoor,126335,4581,3,Lauren Moore,Security,11
+720,134,155,Security Analyst,"Java, C++, Tableau",Part-Time,OPT,No,Grand Rapids,MI,USA,2024-12-26,2025-12-04,Company Site,45000,6809,5,Matthew Scott,Apps,3
+721,282,168,DevOps Engineer,AWS,Contract,CPT,Yes,Jacksonville,FL,USA,2023-07-02,2023-01-20,Referral,94586,6221,5,Gabrielle Estrada,Security,9
+722,626,747,Business Analyst,"SQL, Tableau",Intern,OPT,Yes,Fort Collins,CO,USA,2022-06-17,2023-12-24,Indeed,114816,7091,1,Abigail Johnson,QA,8
+723,456,539,ML Engineer,JavaScript,Part-Time,H1B,Yes,San Antonio,TX,USA,2019-01-31,2019-01-29,Campus Career Fair,59182,6950,2,Adam Spencer,Data,1
+724,687,373,Business Analyst,"SQL, Kubernetes",Part-Time,H1B,Yes,Cambridge,MA,USA,2023-03-27,2023-03-28,Campus Career Fair,84039,9606,2,Angela Silva,Apps,11
+725,429,215,Business Analyst,"Power BI, AWS",Contract,CPT,Yes,Savannah,GA,USA,2023-09-22,2025-06-15,Referral,88393,12190,4,Brandy Morgan,SRE,4
+726,458,425,Business Analyst,"Power BI, Spark, Azure",Intern,CPT,Yes,Tacoma,WA,USA,2021-11-17,2023-05-08,Indeed,93009,8534,2,Jonathan Smith,Platform,8
+727,651,39,Data Analyst,"C++, Spark, React",Part-Time,CPT,No,Tucson,AZ,USA,2021-08-09,2024-07-19,LinkedIn,78302,3224,1,Jennifer Brennan,SRE,5
+728,295,972,Data Engineer,Hadoop,Contract,STEM-OPT,No,Jacksonville,FL,USA,2025-04-03,2025-07-04,Indeed,134292,3497,5,Ashley Scott,Security,10
+729,912,530,Software Engineer,JavaScript,Contract,Citizen,No,Savannah,GA,USA,2021-04-05,2024-10-02,Indeed,119627,7856,1,Nicholas Pruitt,Data,1
+730,5,721,Software Engineer,"Kubernetes, Snowflake",Part-Time,OPT,Yes,Ann Arbor,MI,USA,2023-05-18,2023-02-02,LinkedIn,79553,6340,2,Laurie Dean,Apps,7
+731,619,223,Data Analyst,"AWS, SQL",Full-Time,H1B,Yes,Cincinnati,OH,USA,2022-12-13,2022-04-21,LinkedIn,112271,306,4,Shannon Thompson,Apps,1
+732,948,810,SDET,"Kubernetes, JavaScript",Intern,H1B,Yes,Grand Rapids,MI,USA,2023-08-14,2023-04-04,Referral,124146,8349,5,Jacob Richards,SRE,9
+733,451,385,DevOps Engineer,"R, GCP",Part-Time,Citizen,Yes,Denver,CO,USA,2021-05-03,2021-06-13,Company Site,102072,9103,4,Mrs. Angela Brown,Security,6
+734,117,603,DevOps Engineer,"Spark, React, JavaScript",Intern,Citizen,No,Jacksonville,FL,USA,2025-06-22,2025-12-14,Indeed,117512,11297,3,Nicole Foster,QA,9
+735,467,926,Salesforce Developer,".NET, Docker",Contract,STEM-OPT,No,Rochester,NY,USA,2023-10-16,2024-03-14,Campus Career Fair,51460,9257,5,Mrs. Barbara Thomas,Security,19
+736,174,470,Data Analyst,Tableau,Part-Time,OPT,Yes,Worcester,MA,USA,2023-04-08,2023-03-05,Campus Career Fair,71798,9571,5,Michael Wang,Data,14
+737,293,564,Data Analyst,AWS,Intern,OPT,No,Springfield,IL,USA,2023-10-15,2023-03-19,Indeed,164584,10120,2,Daniel Hahn,Data,16
+738,826,123,Software Engineer,"Node.js, C++",Intern,CPT,Yes,Redmond,WA,USA,2024-08-05,2024-07-17,Campus Career Fair,116709,10710,1,Brian Pruitt,QA,14
+739,92,697,DevOps Engineer,"Spark, .NET, SQL",Intern,Citizen,Yes,Clayton,MO,USA,2016-07-19,2024-12-30,Indeed,119250,5762,4,Jo Alexander,Apps,11
+740,424,476,SDET,"AWS, Azure, Tableau",Part-Time,Citizen,Yes,New York,NY,USA,2022-11-17,2024-03-29,Glassdoor,146078,5714,4,Lauren Andrews,Security,10
+741,469,454,Security Analyst,Azure,Full-Time,H1B,Yes,Boulder,CO,USA,2020-04-15,2022-05-08,Handshake,116010,6492,3,Kaitlin Huber,Data,17
+742,442,786,Business Analyst,"Hadoop, Power BI, Docker",Part-Time,Citizen,No,Seattle,WA,USA,2023-09-11,2023-09-17,Indeed,74203,8441,3,Michelle Thomas,Security,1
+743,945,228,ML Engineer,"Docker, Node.js, Spark",Part-Time,CPT,No,Tempe,AZ,USA,2023-05-27,2023-01-28,Handshake,123134,13543,5,Jennifer Fisher,Apps,4
+744,560,138,DevOps Engineer,"Spark, JavaScript, SQL",Contract,OPT,Yes,Buffalo,NY,USA,2025-10-13,2025-12-16,Handshake,119015,8519,4,Christine Porter,Data,12
+745,755,165,Data Engineer,"React, Kubernetes",Contract,OPT,No,Tempe,AZ,USA,2023-10-11,2023-08-23,Company Site,92206,12819,3,Dwayne Harrell,Data,9
+746,978,226,ML Engineer,Power BI,Intern,OPT,No,Raleigh,NC,USA,2018-01-10,2022-06-26,LinkedIn,127025,12659,1,Ashley Lopez,Platform,6
+747,494,199,ML Engineer,Snowflake,Contract,Citizen,No,Tucson,AZ,USA,2024-04-17,2025-01-26,Company Site,145541,10258,2,Gary Ellis,SRE,22
+748,251,604,Software Engineer,"Tableau, Azure, Power BI",Full-Time,Citizen,Yes,Harrisburg,PA,USA,2025-03-06,2025-12-01,LinkedIn,96236,10008,2,Courtney Miller,Data,9
+749,23,495,Business Analyst,Docker,Contract,Citizen,Yes,Jacksonville,FL,USA,2025-10-02,2025-09-13,Referral,76155,6734,4,Catherine Moss,SRE,17
+750,903,842,DevOps Engineer,"JavaScript, Java",Contract,OPT,Yes,Tampa,FL,USA,2022-09-04,2025-01-12,LinkedIn,82767,8633,3,David Hernandez,Apps,1
+751,962,345,Product Manager,GCP,Part-Time,STEM-OPT,Yes,Grand Rapids,MI,USA,2023-05-13,2024-02-10,Glassdoor,123043,12234,2,Sarah Shah,Security,6
+752,548,198,Data Engineer,"Java, Node.js",Full-Time,H1B,No,Grand Rapids,MI,USA,2024-11-24,2024-02-08,Campus Career Fair,93087,8551,2,Rebecca Montgomery,Apps,17
+753,563,115,Business Analyst,"Java, R, Azure",Full-Time,Citizen,Yes,Orlando,FL,USA,2023-06-24,2025-03-03,LinkedIn,79376,6329,1,Tina Horton,Security,20
+754,441,751,Product Manager,Azure,Full-Time,OPT,Yes,Columbus,OH,USA,2025-10-14,2025-02-09,Glassdoor,101929,6284,5,Franklin Gross,Security,19
+755,954,785,Data Analyst,"Kubernetes, SQL",Part-Time,OPT,Yes,Atlanta,GA,USA,2025-08-04,2025-06-23,Handshake,74555,9464,4,Kelly Nguyen,Platform,18
+756,817,342,Data Analyst,Java,Full-Time,STEM-OPT,Yes,Orlando,FL,USA,2025-10-04,2025-02-08,Indeed,103096,2853,4,Jacqueline Campbell,Platform,5
+757,81,243,SDET,"Hadoop, Docker",Full-Time,H1B,Yes,Columbus,OH,USA,2025-05-25,2025-01-23,LinkedIn,100311,8142,3,Peter Arroyo,Security,17
+758,989,40,QA Engineer,Docker,Part-Time,CPT,Yes,Detroit,MI,USA,2023-11-18,2023-10-28,Glassdoor,142480,7206,2,Allen Bell,QA,9
+759,580,803,Software Engineer,"React, Kubernetes",Contract,H1B,Yes,Worcester,MA,USA,2025-10-01,2025-10-21,Handshake,98986,9043,2,Ronald Trevino,Security,3
+760,837,84,SDET,"Docker, C++, JavaScript",Full-Time,STEM-OPT,Yes,Cambridge,MA,USA,2025-11-18,2025-08-25,Handshake,108391,7084,1,Amy Bennett,QA,12
+761,959,560,Security Analyst,Power BI,Full-Time,H1B,Yes,Pittsburgh,PA,USA,2022-07-19,2022-03-23,Referral,72797,6571,1,Nancy Martinez,QA,7
+762,563,709,Salesforce Developer,"Snowflake, AWS, GCP",Contract,H1B,Yes,Ann Arbor,MI,USA,2025-04-06,2025-07-21,Campus Career Fair,118579,9217,5,John Baker,Apps,8
+763,576,505,Data Engineer,Tableau,Intern,Citizen,No,Miami,FL,USA,2025-03-13,2025-02-05,Indeed,72961,2351,1,Robert Carter,SRE,16
+764,596,301,Data Engineer,"Hadoop, React, JavaScript",Intern,Citizen,Yes,Dallas,TX,USA,2024-08-16,2024-12-04,Company Site,106354,0,5,Casey Myers,QA,20
+765,67,484,Business Analyst,JavaScript,Contract,STEM-OPT,No,Savannah,GA,USA,2025-10-24,2025-02-21,LinkedIn,149290,9267,2,Jordan Reyes,Platform,10
+766,410,979,Salesforce Developer,"R, Kubernetes, Tableau",Part-Time,CPT,Yes,Detroit,MI,USA,2018-12-25,2023-03-18,Indeed,68916,9268,1,Joseph Morris,QA,6
+767,685,279,DevOps Engineer,"Python, Kubernetes",Full-Time,CPT,Yes,Chesterfield,MO,USA,2024-05-31,2025-04-26,Glassdoor,93445,4710,2,Nicholas Kemp,Data,12
+768,677,733,Data Analyst,"JavaScript, Java, Power BI",Contract,OPT,Yes,Phoenix,AZ,USA,2024-07-15,2024-10-07,Company Site,97669,6288,3,Edward Smith,Security,6
+769,142,190,Product Manager,Azure,Part-Time,Citizen,Yes,Detroit,MI,USA,2020-08-27,2025-07-11,Company Site,61504,4968,5,Clifford Rose,Security,8
+770,263,114,Data Analyst,"Kubernetes, Spark, Tableau",Full-Time,H1B,Yes,Savannah,GA,USA,2025-08-15,2025-05-07,Campus Career Fair,94070,4091,4,David Williams,SRE,12
+771,659,680,Security Analyst,GCP,Part-Time,CPT,Yes,Tempe,AZ,USA,2024-03-31,2024-06-18,Glassdoor,89311,9556,5,Kelsey Howell,Apps,1
+772,834,857,Product Manager,"R, C++",Intern,Citizen,Yes,Boulder,CO,USA,2019-10-15,2021-01-28,LinkedIn,114953,10003,4,Alison Martinez MD,Data,14
+773,770,644,Product Manager,"Java, Hadoop, GCP",Part-Time,H1B,Yes,Springfield,IL,USA,2023-10-20,2023-02-22,Campus Career Fair,95326,7614,4,Luke Ward,Apps,17
+774,228,966,Business Analyst,"Hadoop, Kubernetes",Intern,STEM-OPT,No,Los Angeles,CA,USA,2019-12-04,2021-09-29,Glassdoor,87647,8201,5,Steven Vaughn,Apps,11
+775,440,230,DevOps Engineer,"GCP, R, SQL",Contract,CPT,Yes,Cary,NC,USA,2023-05-31,2023-12-16,Indeed,69758,9184,2,Mrs. Mary Davis,Data,13
+776,288,91,Data Engineer,Docker,Full-Time,CPT,No,Springfield,IL,USA,2022-05-02,2025-03-13,Handshake,110740,3510,5,Matthew Poole,Platform,5
+777,135,726,SDET,C++,Part-Time,STEM-OPT,Yes,Tempe,AZ,USA,2018-05-12,2022-08-16,Handshake,65031,4861,2,Wesley Chandler,SRE,2
+778,120,668,SDET,JavaScript,Contract,CPT,No,Springfield,MO,USA,2025-03-09,2025-12-16,Glassdoor,122549,4592,1,Leah Olson,Apps,20
+779,291,270,DevOps Engineer,"Power BI, Node.js",Part-Time,OPT,Yes,Ann Arbor,MI,USA,2025-02-04,2025-03-30,Glassdoor,111471,12337,3,Jessica Roach,SRE,11
+780,775,688,Business Analyst,Snowflake,Intern,Citizen,No,St. Louis,MO,USA,2023-07-31,2023-03-02,Referral,89838,567,5,Kristina Norton,Security,12
+781,45,168,DevOps Engineer,"Power BI, Hadoop, Java",Intern,Citizen,Yes,Bellevue,WA,USA,2024-07-16,2024-02-19,Company Site,108796,15240,3,Angela Parsons,Apps,7
+782,839,307,SDET,"Snowflake, AWS",Contract,OPT,Yes,Detroit,MI,USA,2025-08-23,2025-08-20,Handshake,106375,8994,1,Tyrone Morris,Apps,21
+783,924,65,Security Analyst,Java,Intern,Citizen,Yes,Plano,TX,USA,2022-02-19,2023-07-22,Referral,125050,10477,1,Kelly Gibson,Security,16
+784,659,351,Data Engineer,Hadoop,Intern,Citizen,No,San Diego,CA,USA,2021-03-28,2024-10-13,Indeed,107433,4936,1,Matthew Moss,Data,9
+785,396,971,Business Analyst,"Azure, Power BI, GCP",Part-Time,Citizen,No,San Antonio,TX,USA,2024-05-20,2025-07-26,Indeed,76637,9365,2,William Clark,Apps,9
+786,219,886,Software Engineer,"Python, R",Intern,H1B,Yes,Cincinnati,OH,USA,2025-03-05,2025-02-08,Indeed,98264,14328,1,Brooke Burns,Apps,10
+787,410,971,Business Analyst,Snowflake,Part-Time,STEM-OPT,Yes,Rochester,NY,USA,2020-12-02,2020-06-08,LinkedIn,96818,5680,3,Linda Green,QA,6
+788,875,805,Data Engineer,"Snowflake, Hadoop",Full-Time,STEM-OPT,No,Miami,FL,USA,2018-08-05,2019-06-07,Campus Career Fair,75269,6740,5,Miss Sarah Price,Apps,8
+789,358,499,Salesforce Developer,"Power BI, Kubernetes, Python",Intern,H1B,Yes,Harrisburg,PA,USA,2022-04-22,2023-08-12,LinkedIn,138969,472,4,Justin Moss,SRE,20
+790,650,547,Data Analyst,C++,Contract,STEM-OPT,Yes,Durham,NC,USA,2024-12-15,2025-06-12,Glassdoor,136956,4913,5,Tina Parker,SRE,5
+791,414,529,Business Analyst,"Power BI, GCP, JavaScript",Part-Time,H1B,Yes,Pittsburgh,PA,USA,2025-03-26,2025-09-19,Company Site,110860,11355,2,Martin Watts,Apps,9
+792,342,470,Salesforce Developer,"Hadoop, Tableau, .NET",Full-Time,OPT,Yes,San Jose,CA,USA,2021-10-09,2021-10-25,Company Site,109959,9002,3,Gregory Hawkins,Security,5
+793,775,879,SDET,"Java, Tableau",Part-Time,Citizen,Yes,Tucson,AZ,USA,2015-07-06,2024-08-19,LinkedIn,71403,4883,5,Jacob Hoffman DVM,Apps,7
+794,974,652,Business Analyst,"Tableau, Python",Intern,OPT,No,Columbus,OH,USA,2019-11-16,2024-09-15,LinkedIn,91893,7637,2,Chelsea Richards,QA,19
+795,884,948,SDET,GCP,Full-Time,H1B,Yes,Tacoma,WA,USA,2019-10-31,2024-10-12,Handshake,90200,8403,1,Christina Williams,Security,8
+796,684,839,Salesforce Developer,.NET,Intern,OPT,No,Fort Collins,CO,USA,2025-07-19,2025-05-03,Handshake,79892,11460,4,Kevin Lawson,Platform,1
+797,400,5,Business Analyst,Node.js,Part-Time,CPT,Yes,St. Louis,MO,USA,2023-04-17,2025-05-25,Referral,113928,4084,2,Brittany Hartman,Platform,6
+798,964,982,SDET,Python,Contract,H1B,Yes,Columbus,OH,USA,2022-12-27,2025-10-15,LinkedIn,120124,7220,1,Anna Patrick,Data,2
+799,250,274,Data Analyst,"Hadoop, Docker",Intern,OPT,No,Cleveland,OH,USA,2025-05-13,2025-03-04,Campus Career Fair,118496,7775,1,Alexander Carter,SRE,14
+800,247,862,Data Analyst,"Azure, SQL, Kubernetes",Intern,OPT,Yes,Rochester,NY,USA,2024-01-19,2024-03-30,Company Site,73089,5271,3,Debra Smith,SRE,10
+801,712,112,Business Analyst,Kubernetes,Intern,OPT,No,Houston,TX,USA,2023-07-25,2025-03-20,LinkedIn,118864,5252,5,Edwin Collins,SRE,2
+802,873,139,QA Engineer,"JavaScript, C++, AWS",Intern,Citizen,Yes,Alpharetta,GA,USA,2019-04-03,2022-08-24,Glassdoor,111161,7042,5,Nicholas Ramsey,Data,15
+803,484,785,Software Engineer,Docker,Contract,OPT,No,Boston,MA,USA,2020-02-05,2025-03-17,Campus Career Fair,64952,1787,5,Samuel Rodriguez,Apps,6
+804,279,882,Salesforce Developer,Java,Intern,H1B,Yes,Peoria,IL,USA,2025-07-20,2025-10-27,Campus Career Fair,135198,4832,4,Jasmine Maynard,Apps,8
+805,202,121,Data Engineer,"Hadoop, .NET",Full-Time,OPT,Yes,San Diego,CA,USA,2020-10-10,2021-07-20,Company Site,120437,3302,5,Nancy Martin,Platform,13
+806,511,105,Business Analyst,"GCP, SQL, R",Full-Time,OPT,No,Ann Arbor,MI,USA,2018-11-15,2025-01-04,LinkedIn,70708,4890,4,Aaron Wilson,Security,1
+807,260,1,ML Engineer,"Azure, JavaScript",Intern,STEM-OPT,No,Denver,CO,USA,2024-04-08,2025-05-18,Company Site,115089,6199,3,Amy Lucero,Platform,9
+808,519,62,QA Engineer,".NET, Power BI",Intern,H1B,No,Fort Collins,CO,USA,2024-01-21,2025-06-24,Glassdoor,83671,10705,5,John Rosales,QA,10
+809,536,483,Data Analyst,"Snowflake, Java",Full-Time,STEM-OPT,No,Worcester,MA,USA,2024-09-24,2025-09-21,Indeed,110555,6992,5,Michelle Martin,Platform,3
+810,855,93,Security Analyst,"JavaScript, SQL",Full-Time,CPT,No,Detroit,MI,USA,2019-04-17,2020-11-03,Glassdoor,146291,5896,2,Maureen Jordan,Security,10
+811,133,66,DevOps Engineer,"Spark, Docker",Contract,CPT,Yes,Jacksonville,FL,USA,2016-04-08,2020-02-15,Campus Career Fair,100787,8447,5,Michael Stevens,Security,5
+812,205,405,Business Analyst,"AWS, Docker",Intern,OPT,Yes,Tacoma,WA,USA,2024-04-19,2024-05-27,Indeed,106452,10973,3,Adam Davis,SRE,14
+813,218,322,SDET,"Java, Docker, C++",Part-Time,OPT,Yes,Springfield,IL,USA,2019-07-14,2020-10-23,Indeed,102367,0,1,Jake Gonzalez,Security,13
+814,34,947,Security Analyst,"Azure, Hadoop",Contract,Citizen,No,Tempe,AZ,USA,2024-09-15,2024-06-23,Indeed,83621,4560,3,Ryan Flores,Data,14
+815,170,430,QA Engineer,"AWS, Python",Contract,CPT,No,Detroit,MI,USA,2024-01-23,2025-12-05,Glassdoor,86821,9408,5,Melanie Carlson,Security,6
+816,166,304,Data Engineer,"Tableau, Python",Part-Time,Citizen,No,Grand Rapids,MI,USA,2025-02-20,2025-08-28,Handshake,131422,5960,3,Gabriel Smith,QA,15
+817,602,710,Software Engineer,.NET,Full-Time,H1B,Yes,St. Louis,MO,USA,2018-07-13,2021-10-25,LinkedIn,82275,5951,4,Russell Young,SRE,6
+818,207,548,Data Engineer,Power BI,Intern,Citizen,No,Somerville,MA,USA,2019-02-18,2021-11-05,Campus Career Fair,102544,8730,2,Katherine Fuller,Platform,6
+819,406,582,Security Analyst,"Node.js, React",Full-Time,CPT,No,Austin,TX,USA,2022-06-30,2025-01-19,Handshake,129297,4252,5,Paul Castaneda,Apps,1
+820,801,503,SDET,"C++, Azure",Intern,CPT,No,Phoenix,AZ,USA,2025-09-17,2025-09-03,Campus Career Fair,134756,4664,3,Michael Gomez,Platform,14
+821,417,410,Data Engineer,"Hadoop, AWS",Contract,STEM-OPT,No,Boston,MA,USA,2022-03-23,2023-08-01,Referral,93756,12666,5,Elizabeth Thompson,Platform,8
+822,967,930,Salesforce Developer,Java,Part-Time,OPT,No,Irvine,CA,USA,2021-03-03,2021-04-23,Indeed,78410,7437,3,Crystal West,Security,3
+823,334,767,Security Analyst,AWS,Part-Time,H1B,No,St. Louis,MO,USA,2023-08-12,2025-07-01,LinkedIn,86572,4321,4,Andrea Brewer,Data,11
+824,765,361,Business Analyst,"R, C++, Azure",Full-Time,OPT,No,Charlotte,NC,USA,2024-08-08,2025-07-13,LinkedIn,113435,3279,2,Steven Lee,Data,7
+825,397,247,DevOps Engineer,"Python, .NET, Power BI",Full-Time,Citizen,No,Columbia,MO,USA,2024-03-21,2024-05-28,Indeed,93402,8174,1,Cory Kemp,Security,18
+826,373,766,SDET,"Docker, Node.js",Intern,STEM-OPT,No,Raleigh,NC,USA,2025-11-02,2025-05-07,Indeed,122708,12916,4,Ryan Hall,Data,13
+827,2,574,Product Manager,Kubernetes,Intern,OPT,Yes,Harrisburg,PA,USA,2025-11-07,2025-05-30,Handshake,114850,16094,1,Scott Robinson,SRE,5
+828,813,64,ML Engineer,"AWS, Docker",Full-Time,STEM-OPT,No,Springfield,IL,USA,2019-05-26,2024-03-23,Handshake,62025,10843,3,Matthew Mitchell,Platform,3
+829,585,398,Salesforce Developer,C++,Full-Time,OPT,Yes,Tempe,AZ,USA,2024-04-11,2024-10-05,Handshake,134442,7822,2,Shane King,SRE,6
+830,491,577,Salesforce Developer,"GCP, Docker, Spark",Intern,STEM-OPT,Yes,Los Angeles,CA,USA,2024-09-25,2025-08-19,LinkedIn,112521,7920,3,Crystal Mitchell,SRE,10
+831,755,262,SDET,".NET, Power BI",Intern,STEM-OPT,Yes,San Jose,CA,USA,2021-12-20,2021-09-21,Referral,101740,7827,5,Julie Hill,Data,11
+832,337,351,Business Analyst,SQL,Contract,OPT,No,New York,NY,USA,2020-04-07,2024-01-20,Indeed,102790,9304,3,Donna Glover,Platform,10
+833,285,721,QA Engineer,"Azure, AWS",Intern,Citizen,No,Cincinnati,OH,USA,2024-05-07,2024-08-22,Indeed,107928,11547,4,Mark Turner,Apps,15
+834,483,617,SDET,"Azure, R",Intern,STEM-OPT,Yes,Harrisburg,PA,USA,2018-01-11,2025-11-03,Company Site,137879,13784,1,Joel Cooper,QA,19
+835,845,41,Software Engineer,".NET, AWS, Snowflake",Contract,STEM-OPT,No,Rochester,NY,USA,2023-02-06,2025-10-08,LinkedIn,82447,15426,4,Susan Coleman,SRE,19
+836,483,753,Data Analyst,"Hadoop, React",Contract,OPT,Yes,Tacoma,WA,USA,2017-06-10,2021-05-01,Glassdoor,95929,3223,3,Ray Jordan,Apps,8
+837,570,724,Product Manager,"React, Spark, Java",Full-Time,Citizen,Yes,Jacksonville,FL,USA,2018-04-09,2022-10-31,LinkedIn,132905,6085,2,Elizabeth Anderson,Apps,16
+838,919,625,SDET,C++,Part-Time,H1B,Yes,Plano,TX,USA,2025-10-21,2025-11-06,Handshake,79177,14876,2,Destiny Clark,SRE,3
+839,871,430,Software Engineer,"Spark, JavaScript",Contract,Citizen,No,Cincinnati,OH,USA,2016-06-03,2023-01-20,LinkedIn,90165,12150,2,Jason Fleming,QA,16
+840,868,173,Data Engineer,"Power BI, React, Python",Full-Time,STEM-OPT,Yes,Irvine,CA,USA,2021-03-08,2024-03-26,Handshake,105078,12599,5,Jon Allen,QA,2
+841,226,327,SDET,"Spark, Snowflake, SQL",Part-Time,Citizen,Yes,Harrisburg,PA,USA,2025-05-07,2025-01-17,Company Site,95642,5828,4,Mary Rosario MD,Security,7
+842,899,493,Product Manager,"R, Spark, Snowflake",Full-Time,H1B,No,Raleigh,NC,USA,2017-05-21,2023-03-08,Company Site,73322,5432,1,Stephanie Juarez,Data,19
+843,929,305,Software Engineer,"Docker, Power BI, Tableau",Intern,STEM-OPT,No,San Antonio,TX,USA,2021-05-06,2025-01-20,LinkedIn,108411,11701,2,Dr. Elizabeth Williams,SRE,8
+844,638,472,Data Analyst,".NET, Hadoop, C++",Intern,OPT,No,Columbus,OH,USA,2015-08-27,2025-10-06,Indeed,97144,3748,1,Jill Long,SRE,8
+845,262,631,Data Engineer,"GCP, C++",Full-Time,CPT,Yes,Grand Rapids,MI,USA,2024-07-11,2024-07-18,Referral,110564,4782,1,Michelle Dyer,QA,1
+846,562,720,Software Engineer,".NET, R",Part-Time,STEM-OPT,Yes,Tampa,FL,USA,2025-02-01,2025-06-26,LinkedIn,100833,6092,3,Brian Perez,SRE,14
+847,560,706,DevOps Engineer,"Azure, Tableau",Full-Time,Citizen,No,Bellevue,WA,USA,2025-07-28,2025-06-23,Referral,64919,4856,5,Brandon Martin,QA,3
+848,621,145,QA Engineer,Docker,Part-Time,H1B,Yes,Albany,NY,USA,2020-10-29,2020-01-09,Campus Career Fair,120219,8296,1,Mark Kelly,SRE,10
+849,433,83,Business Analyst,"React, Power BI, JavaScript",Intern,CPT,Yes,Dallas,TX,USA,2024-09-25,2025-10-10,Glassdoor,100431,4761,3,Shaun Stevens,SRE,8
+850,123,147,Salesforce Developer,"React, Kubernetes, Tableau",Intern,STEM-OPT,Yes,Austin,TX,USA,2021-11-22,2023-02-21,Company Site,69757,2474,3,Jimmy Adams,QA,22
+851,276,238,Business Analyst,React,Part-Time,STEM-OPT,Yes,Seattle,WA,USA,2017-02-10,2021-01-24,Campus Career Fair,92796,12644,4,Danny Green,QA,1
+852,294,243,Security Analyst,"R, Docker, Azure",Contract,STEM-OPT,Yes,Kansas City,MO,USA,2022-08-24,2023-05-07,Campus Career Fair,97423,10420,5,Charles Rodriguez,Platform,9
+853,868,268,SDET,"Python, Hadoop",Part-Time,STEM-OPT,Yes,Tucson,AZ,USA,2021-04-07,2025-05-12,Referral,125042,11227,5,Drew Benton,Security,11
+854,969,713,DevOps Engineer,"Snowflake, Python, Azure",Full-Time,H1B,Yes,Albany,NY,USA,2024-02-15,2024-01-11,Indeed,113902,2326,5,Sarah Rodriguez,Security,18
+855,645,829,Business Analyst,"Node.js, Java, Power BI",Full-Time,STEM-OPT,No,Redmond,WA,USA,2024-12-17,2024-10-04,Glassdoor,105031,8656,2,Lori Harrington,Platform,14
+856,910,231,SDET,AWS,Intern,CPT,No,Scottsdale,AZ,USA,2022-04-30,2025-07-21,Campus Career Fair,69871,6063,1,Frank Price,SRE,9
+857,280,215,Software Engineer,"AWS, C++",Full-Time,STEM-OPT,No,Bellevue,WA,USA,2025-06-07,2025-11-26,Campus Career Fair,106575,9277,5,Joshua Page,SRE,13
+858,524,853,Salesforce Developer,"SQL, AWS",Contract,Citizen,Yes,Savannah,GA,USA,2021-10-23,2023-03-20,Company Site,78718,1869,3,James Owens,SRE,10
+859,5,418,Product Manager,".NET, Hadoop",Contract,OPT,Yes,New York,NY,USA,2023-08-09,2024-03-13,Glassdoor,117858,4444,2,Andrew Evans,Apps,7
+860,57,758,QA Engineer,Java,Contract,STEM-OPT,Yes,Cincinnati,OH,USA,2022-07-21,2022-09-04,Glassdoor,122232,10099,1,Curtis Pratt,SRE,14
+861,706,202,Data Engineer,Docker,Contract,H1B,No,Boston,MA,USA,2025-02-08,2025-06-25,Campus Career Fair,51051,8379,2,Kaitlyn Mckenzie,Data,7
+862,234,36,Salesforce Developer,"Power BI, Docker",Contract,OPT,Yes,Tempe,AZ,USA,2023-09-12,2025-08-12,Indeed,101830,5891,1,Curtis Simmons,Security,7
+863,313,677,SDET,Hadoop,Full-Time,Citizen,Yes,Alpharetta,GA,USA,2019-03-31,2023-05-15,Campus Career Fair,96444,6595,1,Jessica Wilson,QA,8
+864,564,734,Data Analyst,"React, Kubernetes",Part-Time,H1B,No,Alpharetta,GA,USA,2025-11-24,2025-04-13,Handshake,102433,10381,5,April Gonzalez,QA,6
+865,545,496,Software Engineer,"Tableau, React, C++",Part-Time,STEM-OPT,Yes,Alpharetta,GA,USA,2019-12-18,2019-10-23,Campus Career Fair,111888,7458,5,Jessica Guerrero,SRE,5
+866,21,844,Salesforce Developer,"Hadoop, Tableau",Contract,STEM-OPT,No,Durham,NC,USA,2020-06-06,2023-09-12,Indeed,76319,2115,2,Dalton Taylor,Platform,6
+867,781,938,Security Analyst,.NET,Contract,H1B,Yes,Durham,NC,USA,2022-11-12,2022-02-23,Handshake,108622,9174,5,Bob Campbell,Data,12
+868,689,618,ML Engineer,"C++, Node.js, Python",Full-Time,Citizen,Yes,Somerville,MA,USA,2023-12-29,2025-03-15,Campus Career Fair,101228,14673,2,John Larsen,SRE,1
+869,411,631,Product Manager,"Docker, .NET",Full-Time,CPT,No,Harrisburg,PA,USA,2020-03-03,2024-04-29,Company Site,103300,10592,2,Linda Curtis,QA,15
+870,588,361,Product Manager,R,Intern,CPT,Yes,San Francisco,CA,USA,2016-06-03,2016-05-27,LinkedIn,95884,8150,5,Mary Valdez,Platform,14
+871,225,489,Data Analyst,".NET, Kubernetes",Contract,STEM-OPT,Yes,Columbus,OH,USA,2024-07-13,2025-09-13,Referral,100841,6713,2,Jonathan Smith,Apps,11
+872,83,563,Business Analyst,"Azure, Power BI",Contract,OPT,No,White Plains,NY,USA,2023-07-07,2023-11-19,Campus Career Fair,138053,8780,4,Caleb Sellers,SRE,16
+873,477,952,Product Manager,"JavaScript, .NET, Java",Full-Time,Citizen,Yes,Austin,TX,USA,2023-05-31,2025-03-09,Company Site,87892,10451,4,Lori Carter,SRE,11
+874,514,584,ML Engineer,"Python, Snowflake, JavaScript",Part-Time,Citizen,No,Tucson,AZ,USA,2022-07-26,2022-12-11,Indeed,122628,915,5,Charles Garrett,Platform,9
+875,823,180,DevOps Engineer,JavaScript,Intern,OPT,No,Atlanta,GA,USA,2022-03-30,2022-02-11,Referral,120335,11508,1,Megan Garrison,QA,10
+876,707,300,Salesforce Developer,"Power BI, Node.js, Tableau",Intern,OPT,Yes,Boulder,CO,USA,2017-04-22,2021-07-08,Campus Career Fair,73820,3415,4,Matthew Hill,Apps,12
+877,601,647,SDET,"Kubernetes, Snowflake, Java",Part-Time,CPT,No,Scottsdale,AZ,USA,2023-02-10,2023-12-15,Company Site,67871,6326,2,Mr. Nicholas Sheppard DVM,Security,9
+878,271,271,Data Analyst,"JavaScript, Azure, Tableau",Full-Time,OPT,Yes,San Antonio,TX,USA,2020-09-22,2021-04-01,Campus Career Fair,66179,8865,3,Isaac Floyd,Platform,15
+879,231,50,Data Analyst,"Tableau, C++",Contract,CPT,Yes,Ann Arbor,MI,USA,2025-12-06,2025-02-06,Referral,84259,12038,3,Laura Young,Security,17
+880,726,166,Data Engineer,Java,Intern,STEM-OPT,Yes,Cleveland,OH,USA,2025-03-20,2025-10-21,Glassdoor,135916,7713,5,Carmen Pearson,SRE,8
+881,355,923,Software Engineer,"R, Tableau, React",Contract,OPT,No,Somerville,MA,USA,2016-11-18,2024-12-23,Handshake,105345,6426,2,Michelle Barker,SRE,12
+882,476,361,DevOps Engineer,"Power BI, GCP",Part-Time,H1B,Yes,Irvine,CA,USA,2024-02-20,2025-12-16,Campus Career Fair,127377,6822,3,Dana Scott,Data,1
+883,637,386,QA Engineer,"React, R",Contract,H1B,Yes,New York,NY,USA,2024-11-22,2025-10-04,Glassdoor,113348,7071,5,Connie Hudson,SRE,6
+884,420,977,ML Engineer,"Node.js, Azure, C++",Contract,STEM-OPT,Yes,Seattle,WA,USA,2024-09-15,2025-01-20,LinkedIn,124558,14605,2,Todd Gardner MD,Apps,12
+885,228,836,ML Engineer,"C++, Hadoop",Part-Time,Citizen,No,Urbana,IL,USA,2021-04-12,2022-01-30,Handshake,107219,9423,1,Robert Vazquez,Apps,10
+886,726,44,QA Engineer,"Java, JavaScript, Spark",Intern,CPT,Yes,Tempe,AZ,USA,2020-01-20,2021-01-27,Campus Career Fair,114101,4927,3,Jennifer Johnston,SRE,5
+887,544,856,QA Engineer,"R, React, C++",Part-Time,OPT,Yes,Boulder,CO,USA,2022-01-12,2023-12-25,LinkedIn,62948,10356,5,Joseph Lee,Apps,7
+888,912,96,Data Analyst,"SQL, Power BI",Part-Time,OPT,Yes,Albany,NY,USA,2021-01-21,2024-09-06,Campus Career Fair,100260,3787,3,Jennifer Conley,Apps,12
+889,309,646,ML Engineer,"Python, Docker, JavaScript",Part-Time,Citizen,Yes,Alpharetta,GA,USA,2024-06-12,2025-01-13,Indeed,106226,2089,3,Dr. Nancy Jones MD,Security,12
+890,727,953,Salesforce Developer,"Docker, Node.js",Full-Time,CPT,No,San Antonio,TX,USA,2019-04-18,2021-07-04,LinkedIn,102032,3515,4,Dr. Marilyn Huber,SRE,14
+891,137,755,Product Manager,"Kubernetes, Docker, Power BI",Full-Time,STEM-OPT,No,Grand Rapids,MI,USA,2021-02-27,2023-05-10,Company Site,86737,8839,5,Katie Rogers,SRE,15
+892,806,650,Security Analyst,"Java, AWS, C++",Full-Time,H1B,No,Ann Arbor,MI,USA,2021-10-25,2024-04-26,Referral,128166,5213,4,Kelly Matthews,QA,8
+893,367,988,Security Analyst,Java,Intern,Citizen,No,Houston,TX,USA,2020-04-22,2024-11-22,Handshake,122895,10530,5,Nancy Bryant,Security,8
+894,5,479,ML Engineer,"R, Node.js",Contract,Citizen,Yes,Tempe,AZ,USA,2017-10-24,2024-06-20,LinkedIn,123497,10315,3,Jennifer Reese,Platform,5
+895,863,243,Security Analyst,"Tableau, AWS",Full-Time,CPT,Yes,Alpharetta,GA,USA,2025-09-30,2025-04-30,Glassdoor,73248,8658,5,Michael Chen,Security,1
+896,624,928,ML Engineer,"SQL, AWS",Part-Time,OPT,No,Alpharetta,GA,USA,2024-03-03,2025-07-18,Handshake,104769,13620,3,David Barker,QA,10
+897,850,384,Data Engineer,SQL,Contract,STEM-OPT,Yes,Cleveland,OH,USA,2023-11-11,2025-10-17,LinkedIn,91957,7477,4,Jeremy Farmer,Apps,15
+898,47,598,Data Engineer,.NET,Part-Time,H1B,Yes,Philadelphia,PA,USA,2017-07-26,2022-03-19,Handshake,68951,5808,4,Vickie Parker,SRE,6
+899,28,570,Data Analyst,"SQL, Java, Azure",Contract,CPT,Yes,Plano,TX,USA,2019-04-23,2021-07-26,Company Site,123091,8306,4,Joseph Roberts,Data,6
+900,600,407,Software Engineer,"Python, Node.js, Hadoop",Contract,OPT,Yes,Cleveland,OH,USA,2023-10-31,2025-03-01,Glassdoor,76546,7882,4,Martha Blevins,Apps,14
+901,324,674,ML Engineer,"Python, Kubernetes, R",Full-Time,STEM-OPT,Yes,Durham,NC,USA,2020-04-22,2021-05-18,LinkedIn,138140,6456,1,Wendy Norris,SRE,11
+902,775,766,Data Engineer,"SQL, Docker",Contract,OPT,Yes,Alpharetta,GA,USA,2024-08-31,2024-12-25,Glassdoor,116702,9272,3,Diana Howell,Data,8
+903,131,201,Business Analyst,Power BI,Intern,Citizen,No,Houston,TX,USA,2023-07-18,2023-02-13,LinkedIn,102344,5480,5,Emily Norton,QA,10
+904,261,634,SDET,"AWS, .NET, Snowflake",Intern,H1B,No,Rochester,NY,USA,2020-04-13,2023-04-30,Glassdoor,85949,4595,1,Bradley Cook,Security,12
+905,122,23,Security Analyst,"Hadoop, .NET",Intern,Citizen,No,Cambridge,MA,USA,2019-07-11,2023-01-25,LinkedIn,72043,8061,5,Dale Fleming,Data,17
+906,933,615,Software Engineer,"Snowflake, React, C++",Full-Time,Citizen,No,Cary,NC,USA,2024-02-07,2025-05-04,Glassdoor,100058,6148,5,Jeffrey Martinez,Data,10
+907,658,745,ML Engineer,Power BI,Contract,STEM-OPT,No,Alpharetta,GA,USA,2015-07-04,2024-05-23,Company Site,60622,9009,2,Duane Martinez,Apps,3
+908,829,544,Product Manager,"Tableau, SQL, GCP",Contract,Citizen,No,Detroit,MI,USA,2024-07-26,2025-07-23,Campus Career Fair,118722,11088,4,Jeremy Whitehead,QA,7
+909,596,582,QA Engineer,"Python, Kubernetes, C++",Contract,CPT,Yes,Charlotte,NC,USA,2025-01-12,2025-04-26,Referral,131496,10394,5,Brandy Ponce,Platform,6
+910,973,639,Business Analyst,Spark,Part-Time,STEM-OPT,Yes,Fort Collins,CO,USA,2024-04-10,2024-12-01,Handshake,118035,8590,1,Megan Rios,QA,13
+911,474,373,Product Manager,"Tableau, JavaScript",Contract,CPT,No,Bellevue,WA,USA,2024-07-09,2024-02-16,Referral,45000,3918,3,Charles Tucker,Security,8
+912,275,411,Business Analyst,.NET,Contract,H1B,Yes,Rochester,NY,USA,2025-08-31,2025-01-28,Indeed,123990,7347,5,Robert Mayer,QA,13
+913,278,970,Software Engineer,Snowflake,Part-Time,OPT,No,Pittsburgh,PA,USA,2016-07-29,2020-03-26,Glassdoor,101339,4921,4,Elizabeth Strong,Apps,2
+914,776,84,SDET,"JavaScript, Azure",Part-Time,STEM-OPT,Yes,Houston,TX,USA,2024-08-27,2025-10-23,Handshake,66738,4700,4,Robert Greene,QA,9
+915,71,726,Business Analyst,React,Contract,OPT,Yes,Harrisburg,PA,USA,2024-02-04,2025-07-04,Indeed,118369,7479,3,Lisa Velazquez,Apps,9
+916,762,79,DevOps Engineer,R,Part-Time,H1B,Yes,Pittsburgh,PA,USA,2022-11-23,2025-08-29,Indeed,117566,3916,3,Samantha Mason,Data,13
+917,557,705,QA Engineer,".NET, AWS, R",Part-Time,Citizen,Yes,Atlanta,GA,USA,2024-08-06,2024-10-01,Indeed,76881,6130,3,Jeffrey Roberts,Data,7
+918,305,954,ML Engineer,"Power BI, Spark",Contract,H1B,Yes,Clayton,MO,USA,2021-12-03,2021-02-04,Handshake,107780,11378,4,Stephanie Scott,QA,6
+919,274,423,QA Engineer,GCP,Intern,H1B,Yes,Colorado Springs,CO,USA,2024-10-10,2025-03-30,Referral,104752,5790,4,Ronald Guerrero,Apps,14
+920,173,53,Security Analyst,"Tableau, Kubernetes",Full-Time,Citizen,No,Albany,NY,USA,2023-03-30,2024-09-12,Indeed,108669,8031,1,Laura Conner,Data,3
+921,501,833,Software Engineer,GCP,Intern,Citizen,Yes,Clayton,MO,USA,2024-07-20,2025-05-03,Referral,93122,9137,5,Kathleen Hill,Security,16
+922,302,423,Software Engineer,Hadoop,Part-Time,CPT,No,Los Angeles,CA,USA,2022-03-27,2024-06-18,Glassdoor,165339,10682,4,Johnny Perez,SRE,6
+923,203,15,QA Engineer,GCP,Intern,H1B,No,St. Louis,MO,USA,2022-08-09,2024-07-11,Indeed,80309,7139,5,Erin Smith,Security,6
+924,144,928,DevOps Engineer,Java,Contract,STEM-OPT,Yes,Ann Arbor,MI,USA,2025-09-27,2025-02-25,Handshake,110193,6645,2,Leslie King,Data,5
+925,573,367,Data Analyst,Power BI,Contract,CPT,No,Orlando,FL,USA,2024-10-15,2025-04-26,LinkedIn,105640,3539,5,Thomas Turner,QA,6
+926,572,95,Data Engineer,"Hadoop, Power BI, Kubernetes",Contract,STEM-OPT,No,Columbus,OH,USA,2025-11-25,2025-05-19,Company Site,87360,13200,2,Shawn Chapman,Security,6
+927,821,934,Business Analyst,React,Full-Time,OPT,Yes,Cary,NC,USA,2022-03-04,2025-03-22,Company Site,68670,9193,1,Christine Perez,Data,16
+928,740,297,Data Analyst,"Java, Azure",Full-Time,STEM-OPT,Yes,Bellevue,WA,USA,2021-06-15,2023-02-07,Campus Career Fair,104542,6296,2,Emma Farrell,QA,13
+929,706,909,Product Manager,Java,Full-Time,STEM-OPT,Yes,Chicago,IL,USA,2025-08-20,2025-12-30,Handshake,64820,8356,2,Jonathan Dillon,SRE,6
+930,406,978,Security Analyst,"Python, React, AWS",Full-Time,CPT,No,Atlanta,GA,USA,2022-03-26,2024-01-06,Referral,115642,5591,5,Keith Lopez,Data,8
+931,760,626,Security Analyst,"Snowflake, GCP, JavaScript",Intern,CPT,Yes,Springfield,MO,USA,2023-04-22,2025-11-13,Glassdoor,98895,8846,5,Janice Riggs,Data,9
+932,953,377,Product Manager,"React, Node.js",Full-Time,H1B,Yes,Detroit,MI,USA,2021-03-09,2024-07-30,Glassdoor,91126,11269,3,April Wright,Platform,5
+933,879,286,ML Engineer,"Spark, Tableau",Intern,H1B,No,Savannah,GA,USA,2023-01-23,2024-10-07,Company Site,120090,9240,3,Patricia Black,Security,5
+934,236,817,Data Analyst,"Spark, C++, Hadoop",Full-Time,Citizen,Yes,Phoenix,AZ,USA,2024-05-22,2025-06-07,Referral,141571,11327,4,Veronica Yoder,Apps,13
+935,232,434,Software Engineer,"Python, Azure, Spark",Part-Time,Citizen,No,Columbus,OH,USA,2023-09-12,2023-01-16,Glassdoor,89708,8663,3,Jack Adams,SRE,16
+936,707,206,ML Engineer,"Snowflake, React, Python",Part-Time,STEM-OPT,Yes,Seattle,WA,USA,2022-08-19,2023-05-10,Referral,96335,9933,3,Bianca Whitaker,Apps,11
+937,742,130,Software Engineer,".NET, Python",Full-Time,STEM-OPT,Yes,Buffalo,NY,USA,2016-04-10,2021-01-02,Campus Career Fair,93541,12070,1,Jessica Lynch,Data,1
+938,236,694,Data Engineer,.NET,Full-Time,CPT,Yes,Naperville,IL,USA,2024-05-23,2025-01-20,Glassdoor,125560,5166,4,Annette Reed,Data,12
+939,308,286,Data Engineer,"React, AWS, R",Part-Time,STEM-OPT,Yes,Rochester,NY,USA,2021-03-03,2023-11-11,Handshake,97780,10576,4,Tracy Oneill,SRE,9
+940,664,726,Business Analyst,"Docker, C++, Spark",Intern,CPT,Yes,Detroit,MI,USA,2025-01-05,2025-01-20,Glassdoor,62668,6294,2,Ellen Cook,SRE,4
+941,213,253,Data Engineer,Hadoop,Intern,STEM-OPT,Yes,Springfield,MO,USA,2025-06-14,2025-08-10,Campus Career Fair,126202,11225,4,Erik Carr,SRE,9
+942,601,794,Data Analyst,GCP,Part-Time,STEM-OPT,Yes,Tampa,FL,USA,2025-03-13,2025-01-08,Handshake,99057,10608,1,April Young,QA,7
+943,193,903,Salesforce Developer,Power BI,Part-Time,Citizen,No,Dallas,TX,USA,2023-06-03,2024-02-26,LinkedIn,129716,8390,4,Brenda White,SRE,6
+944,236,101,SDET,Hadoop,Intern,STEM-OPT,Yes,Cambridge,MA,USA,2025-03-08,2025-01-20,Glassdoor,117808,4699,3,Peter Kidd,Apps,9
+945,737,108,SDET,Python,Part-Time,CPT,No,Fort Collins,CO,USA,2022-08-26,2023-07-06,Company Site,107420,10339,4,Daniel Nunez,Platform,1
+946,571,471,Data Engineer,Kubernetes,Part-Time,CPT,No,Grand Rapids,MI,USA,2025-01-19,2025-11-28,Handshake,81680,10736,4,Melanie Le,Security,8
+947,691,556,Software Engineer,"GCP, Tableau, React",Contract,STEM-OPT,Yes,Buffalo,NY,USA,2023-08-26,2025-07-09,Company Site,80162,6962,4,Joanna Baird,QA,5
+948,619,515,Data Engineer,"Kubernetes, GCP",Contract,CPT,No,Colorado Springs,CO,USA,2022-04-03,2025-06-16,Handshake,138919,12373,5,Megan Maxwell,Security,12
+949,710,76,DevOps Engineer,"JavaScript, Hadoop",Contract,STEM-OPT,No,Orlando,FL,USA,2018-08-28,2019-02-17,Indeed,91523,7390,4,Gloria Schwartz,QA,10
+950,283,118,Security Analyst,"Tableau, Hadoop, Java",Part-Time,H1B,Yes,St. Louis,MO,USA,2016-02-11,2022-03-29,Referral,86653,7795,2,Steven West,Security,12
+951,462,908,ML Engineer,"Tableau, Azure",Part-Time,H1B,No,Bellevue,WA,USA,2020-09-15,2024-01-17,Campus Career Fair,103341,7757,3,Kristina Cain,SRE,3
+952,766,996,Security Analyst,Tableau,Full-Time,CPT,No,Dallas,TX,USA,2023-04-30,2025-08-13,Indeed,122749,8805,2,John Henson,Security,7
+953,105,748,Software Engineer,"Azure, Tableau, Docker",Full-Time,CPT,No,Rochester,NY,USA,2018-11-23,2023-08-21,LinkedIn,95543,6168,5,John Spencer,SRE,18
+954,54,938,Business Analyst,"Java, AWS, GCP",Full-Time,STEM-OPT,Yes,Phoenix,AZ,USA,2022-03-17,2023-06-21,Handshake,117624,4009,4,Lindsey Wilson,QA,7
+955,795,864,QA Engineer,"R, Python",Intern,Citizen,No,Tucson,AZ,USA,2021-06-24,2024-05-16,Indeed,99307,1999,5,Leslie Howard,Security,3
+956,217,63,Security Analyst,"GCP, Hadoop",Part-Time,OPT,No,Colorado Springs,CO,USA,2020-09-26,2022-09-14,Handshake,71024,11530,5,Robert Parks,Data,15
+957,895,421,Data Engineer,"AWS, Snowflake",Full-Time,OPT,Yes,Cincinnati,OH,USA,2025-07-26,2025-04-17,Indeed,45000,3029,3,Cameron Johns,SRE,7
+958,728,456,Software Engineer,"Snowflake, Azure, JavaScript",Intern,CPT,No,Detroit,MI,USA,2025-12-11,2025-12-04,Glassdoor,114419,8691,2,Brenda Wright,Platform,5
+959,148,762,Software Engineer,React,Contract,STEM-OPT,Yes,Dallas,TX,USA,2022-09-26,2023-07-19,Campus Career Fair,126598,7718,3,Lisa Sawyer,SRE,13
+960,984,885,Salesforce Developer,"Spark, Hadoop",Contract,Citizen,No,Tucson,AZ,USA,2024-09-19,2024-04-30,Indeed,105333,3855,4,Ryan Hicks,Apps,8
+961,723,705,SDET,"Hadoop, JavaScript",Part-Time,STEM-OPT,No,Los Angeles,CA,USA,2016-11-06,2025-01-11,Company Site,93794,6650,1,Michael Herman,SRE,12
+962,675,402,QA Engineer,"Hadoop, Tableau, Java",Part-Time,Citizen,No,Cincinnati,OH,USA,2024-07-27,2024-10-16,LinkedIn,99602,8192,5,Kimberly Roman,Data,13
+963,586,549,Product Manager,Tableau,Contract,OPT,Yes,Tacoma,WA,USA,2018-08-15,2018-01-29,Glassdoor,83166,10290,5,Daniel Walters,Data,14
+964,623,218,QA Engineer,"SQL, Java, Docker",Intern,Citizen,Yes,Philadelphia,PA,USA,2018-06-03,2021-01-04,Referral,105275,3104,1,Jerry Taylor,QA,3
+965,70,167,Data Analyst,"Snowflake, C++, Docker",Contract,H1B,No,Chesterfield,MO,USA,2021-01-02,2023-08-15,Referral,105873,13277,5,Howard Fritz,SRE,11
+966,953,332,DevOps Engineer,Node.js,Part-Time,Citizen,No,Durham,NC,USA,2024-07-31,2025-10-12,Company Site,115864,11343,4,Brenda Moore,QA,1
+967,10,782,Security Analyst,React,Part-Time,STEM-OPT,No,Atlanta,GA,USA,2025-11-09,2025-07-25,LinkedIn,94631,6377,1,Sophia Ferguson,SRE,12
+968,520,245,Data Engineer,"Python, Snowflake",Part-Time,Citizen,Yes,Detroit,MI,USA,2021-01-10,2021-01-19,Campus Career Fair,88626,15088,2,Debra Henson,SRE,2
+969,597,339,SDET,Spark,Full-Time,STEM-OPT,Yes,San Diego,CA,USA,2020-09-30,2023-07-26,Campus Career Fair,66015,8529,2,Richard Curtis,Data,1
+970,333,281,QA Engineer,"SQL, Hadoop, Docker",Full-Time,OPT,Yes,Tucson,AZ,USA,2021-02-24,2022-01-31,Handshake,103593,7265,5,Jeffrey Mitchell MD,QA,5
+971,479,336,DevOps Engineer,SQL,Intern,H1B,No,Tampa,FL,USA,2020-04-07,2023-12-11,Indeed,130970,4369,5,Mr. Brett Mccormick,SRE,12
+972,107,576,Data Engineer,React,Full-Time,OPT,No,Scottsdale,AZ,USA,2022-04-11,2024-08-31,LinkedIn,127734,15026,1,Sean Johnson,QA,8
+973,874,824,Software Engineer,React,Full-Time,OPT,No,Plano,TX,USA,2023-03-21,2023-12-01,Company Site,80387,10493,1,Cheyenne Vaughn,Data,21
+974,627,521,DevOps Engineer,Azure,Intern,CPT,Yes,Fort Collins,CO,USA,2019-05-13,2025-04-07,Indeed,59925,1451,3,Mrs. Nicole Perez,QA,9
+975,179,99,Data Analyst,"Tableau, Azure",Intern,OPT,No,Cincinnati,OH,USA,2016-11-28,2023-10-16,Indeed,97207,10741,2,Christopher Carson,Security,3
+976,158,27,Salesforce Developer,"Azure, Python, Snowflake",Full-Time,CPT,No,Springfield,IL,USA,2020-06-16,2023-10-19,Indeed,111180,9979,2,Sandra Tanner,SRE,9
+977,197,371,QA Engineer,"Snowflake, GCP, Power BI",Contract,Citizen,Yes,San Francisco,CA,USA,2021-03-22,2025-05-09,Company Site,89301,5691,3,Donna Bruce,Data,8
+978,307,600,Data Engineer,"Docker, AWS, R",Intern,Citizen,No,San Francisco,CA,USA,2025-02-20,2025-03-17,Glassdoor,132810,14857,2,Christopher White,Data,11
+979,377,865,DevOps Engineer,"Azure, R, Spark",Full-Time,H1B,No,Los Angeles,CA,USA,2023-11-13,2023-02-23,Glassdoor,95087,1942,4,Sandra Perkins,Platform,1
+980,2,281,QA Engineer,"Java, JavaScript, Azure",Intern,CPT,No,San Jose,CA,USA,2022-01-28,2022-03-15,Glassdoor,82116,9741,4,Roger Harris,Security,9
+981,119,951,Business Analyst,GCP,Intern,OPT,No,Seattle,WA,USA,2018-06-13,2021-01-19,LinkedIn,95613,6480,1,Tyler Martinez,SRE,20
+982,148,472,ML Engineer,"C++, React, Java",Contract,Citizen,Yes,Plano,TX,USA,2022-04-24,2025-09-11,Indeed,81286,193,1,Phillip Baker,Security,12
+983,327,800,DevOps Engineer,Kubernetes,Part-Time,STEM-OPT,Yes,Redmond,WA,USA,2015-02-01,2020-05-23,Campus Career Fair,91260,11537,3,Sean Velazquez MD,Platform,12
+984,193,153,Product Manager,Spark,Contract,CPT,No,Orlando,FL,USA,2024-02-28,2024-03-18,Handshake,114613,1932,5,Corey Lee,SRE,10
+985,334,980,Business Analyst,"Snowflake, React, Docker",Contract,STEM-OPT,No,Detroit,MI,USA,2022-11-06,2025-12-23,Indeed,76533,10135,2,Kimberly Chapman,Security,14
+986,383,302,Product Manager,"Tableau, .NET, Kubernetes",Part-Time,CPT,Yes,Ann Arbor,MI,USA,2025-04-19,2025-01-31,Referral,115180,7136,2,Leslie Simon,Data,9
+987,776,631,Software Engineer,GCP,Contract,CPT,No,St. Louis,MO,USA,2025-05-09,2025-04-22,Referral,140376,5544,1,Angela Luna,Security,13
+988,518,27,Salesforce Developer,"SQL, Node.js, Tableau",Contract,Citizen,No,White Plains,NY,USA,2025-03-10,2025-03-03,Glassdoor,100784,7374,5,Michelle Anderson,Security,15
+989,297,657,Salesforce Developer,Python,Full-Time,STEM-OPT,Yes,Naperville,IL,USA,2024-11-07,2024-09-18,LinkedIn,84945,7534,4,Heidi Dixon,Data,6
+990,147,873,Data Analyst,"JavaScript, Node.js",Part-Time,H1B,No,Redmond,WA,USA,2023-08-30,2024-11-25,Campus Career Fair,109104,12651,5,Erica Diaz,QA,11
+991,206,974,SDET,Java,Part-Time,STEM-OPT,No,Irvine,CA,USA,2021-11-19,2023-06-03,Indeed,85976,5395,3,David Hansen,QA,12
+992,87,967,Business Analyst,"Spark, Snowflake, Docker",Part-Time,H1B,Yes,Miami,FL,USA,2025-04-19,2025-10-27,Handshake,128543,9196,4,Mr. Todd Warner,Security,10
+993,743,292,SDET,AWS,Contract,Citizen,No,Tucson,AZ,USA,2021-02-26,2022-10-18,Handshake,102659,4643,1,Katherine Thornton,Security,6
+994,53,485,Business Analyst,AWS,Intern,Citizen,Yes,Harrisburg,PA,USA,2021-03-30,2025-01-19,Glassdoor,106495,5988,5,Keith Taylor,Platform,11
+995,816,763,Data Engineer,"Python, Hadoop",Part-Time,STEM-OPT,No,Tucson,AZ,USA,2020-10-16,2021-01-26,Handshake,92399,5087,2,Cheryl Mejia,Data,12
+996,239,550,Security Analyst,"Spark, Kubernetes, React",Contract,Citizen,Yes,San Diego,CA,USA,2024-05-24,2024-05-17,Referral,121231,8299,2,Nancy Taylor,Platform,8
+997,139,635,QA Engineer,"Azure, Docker",Part-Time,CPT,No,Springfield,IL,USA,2024-11-08,2025-07-07,Glassdoor,81351,9769,4,James Kelly,Security,12
+998,149,308,Business Analyst,AWS,Full-Time,STEM-OPT,Yes,Somerville,MA,USA,2020-08-25,2020-10-04,Indeed,116459,14741,5,Jessica Perez,Platform,8
+999,129,739,Data Analyst,SQL,Part-Time,CPT,No,Dallas,TX,USA,2025-03-04,2025-11-15,Campus Career Fair,102588,7932,4,Douglas Phillips,SRE,5
+1000,510,481,Business Analyst,"Hadoop, Spark",Part-Time,H1B,Yes,Jacksonville,FL,USA,2019-09-20,2024-09-26,Glassdoor,115168,8306,5,Mr. Keith Huffman PhD,Platform,1

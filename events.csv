@@ -1,0 +1,1001 @@
+Event_ID,Event_Name,Event_Type,Organizer,Event_Date,Category,Location_City,Location_State,Location_Country,Start_Time,Duration_Minutes,Modality,Registration_Required,Capacity,Attendees_Actual,Sponsor,Cost_USD,Feedback_Average,Department,Notes
+1,Seminar Check,Seminar,CS Dept,2016-09-18,Employer,San Francisco,CA,USA,11:00,180,Virtual,Yes,359,245,SLU,10,4.75,Analytics,Tech-focused
+2,Career Fair Paper,Career Fair,Employer Relations,2018-11-24,Employer,Philadelphia,PA,USA,12:30,180,Hybrid,Yes,154,120,SLU,25,3.63,Engineering,Networking-heavy
+3,Alumni Meetup He,Alumni Meetup,Business School,2016-11-18,University,Scottsdale,AZ,USA,11:30,60,Virtual,Yes,63,27,Company Partner,10,4.93,Analytics,Tech-focused
+4,Career Fair Present,Career Fair,SLU Career Services,2025-07-11,University,San Jose,CA,USA,15:45,120,In-Person,Yes,97,72,Company Partner,50,4.01,Engineering,Tech-focused
+5,Career Fair After,Career Fair,CS Dept,2023-04-09,Employer,San Antonio,TX,USA,08:30,90,In-Person,Yes,261,163,Graduate School,50,3.28,Engineering,Tech-focused
+6,Alumni Meetup Sister,Alumni Meetup,SLU Alumni Association,2021-02-17,University,Ann Arbor,MI,USA,10:15,120,Virtual,Yes,268,158,SLU,10,4.48,Career Services,Great turnout
+7,Career Fair Blue,Career Fair,CS Dept,2024-04-20,University,Cambridge,MA,USA,10:30,60,Hybrid,Yes,387,48,ACM,10,4.49,Career Services,Tech-focused
+8,Seminar A,Seminar,Business School,2015-10-10,Employer,Tucson,AZ,USA,15:15,60,In-Person,Yes,186,41,SLU,0,3.88,Analytics,Targeted to MS students
+9,Seminar Pick,Seminar,CS Dept,2025-07-19,Employer,San Francisco,CA,USA,09:30,180,In-Person,Yes,131,102,IEEE,25,4.45,Engineering,Great turnout
+10,Alumni Meetup Main,Alumni Meetup,CS Dept,2020-07-18,Employer,Naperville,IL,USA,15:30,90,In-Person,Yes,289,36,Graduate School,50,4.33,Analytics,Tech-focused
+11,Employer Info Session Prepare,Employer Info Session,CS Dept,2021-06-04,Employer,Savannah,GA,USA,12:45,180,Hybrid,Yes,301,199,IEEE,0,4.14,Analytics,Great turnout
+12,Webinar Street,Webinar,Employer Relations,2023-12-22,Employer,Buffalo,NY,USA,12:30,90,In-Person,Yes,62,55,IEEE,0,3.94,Analytics,Networking-heavy
+13,Employer Info Session At,Employer Info Session,CS Dept,2021-12-19,Employer,Springfield,IL,USA,12:15,90,Virtual,Yes,350,201,SLU,50,3.42,Career Services,Great turnout
+14,Seminar Beautiful,Seminar,CS Dept,2015-07-19,University,Cincinnati,OH,USA,13:00,120,In-Person,Yes,314,299,Graduate School,50,4.42,Analytics,Networking-heavy
+15,Workshop Treatment,Workshop,Employer Relations,2021-07-03,Employer,Atlanta,GA,USA,13:30,90,Virtual,Yes,183,105,IEEE,50,4.16,Engineering,Networking-heavy
+16,Hackathon Machine,Hackathon,SLU Alumni Association,2020-11-14,University,Denver,CO,USA,17:15,120,Virtual,Yes,99,24,Graduate School,25,4.52,Engineering,Tech-focused
+17,Webinar Resource,Webinar,SLU Career Services,2016-08-21,Employer,Naperville,IL,USA,18:15,90,In-Person,Yes,143,100,Company Partner,10,4.33,Career Services,Targeted to MS students
+18,Seminar Ten,Seminar,Employer Relations,2020-07-02,University,Philadelphia,PA,USA,16:45,60,In-Person,Yes,217,59,ACM,10,3.71,Engineering,Networking-heavy
+19,Seminar You,Seminar,Business School,2018-08-18,University,Boston,MA,USA,09:15,90,In-Person,Yes,56,22,ACM,10,3.57,Career Services,Tech-focused
+20,Employer Info Session Product,Employer Info Session,Business School,2018-11-02,Employer,Kansas City,MO,USA,11:30,60,In-Person,Yes,52,12,IEEE,25,2.86,Engineering,Great turnout
+21,Alumni Meetup Argue,Alumni Meetup,CS Dept,2017-11-23,University,San Jose,CA,USA,18:30,180,Hybrid,Yes,362,225,ACM,10,4.99,Engineering,Great turnout
+22,Webinar Sense,Webinar,SLU Alumni Association,2021-07-27,University,Charlotte,NC,USA,15:00,180,In-Person,Yes,104,47,SLU,0,3.08,Career Services,Tech-focused
+23,Hackathon Modern,Hackathon,SLU Career Services,2021-05-03,University,Savannah,GA,USA,13:45,120,In-Person,Yes,94,18,Graduate School,25,5.0,Business,Great turnout
+24,Seminar Decade,Seminar,SLU Career Services,2021-04-25,Employer,Rochester,NY,USA,08:45,60,Virtual,Yes,187,138,ACM,25,5.0,Engineering,Tech-focused
+25,Employer Info Session Sure,Employer Info Session,Employer Relations,2024-06-07,Employer,Seattle,WA,USA,17:45,60,Hybrid,Yes,372,47,IEEE,50,4.0,Analytics,Networking-heavy
+26,Seminar Lot,Seminar,Business School,2019-01-20,University,Charlotte,NC,USA,18:15,120,Virtual,Yes,376,341,SLU,0,4.01,Business,Networking-heavy
+27,Career Fair Knowledge,Career Fair,SLU Alumni Association,2018-11-27,Employer,Alpharetta,GA,USA,12:00,180,Hybrid,Yes,315,53,ACM,25,3.43,Business,Targeted to MS students
+28,Workshop Example,Workshop,External Employer,2015-06-01,University,Dallas,TX,USA,11:00,120,Hybrid,Yes,198,176,IEEE,50,3.53,Analytics,Great turnout
+29,Workshop Since,Workshop,SLU Alumni Association,2015-08-21,Employer,Tucson,AZ,USA,14:15,60,Hybrid,Yes,155,136,SLU,10,3.99,Business,Tech-focused
+30,Workshop Fall,Workshop,External Employer,2024-06-10,Employer,San Antonio,TX,USA,12:45,90,Virtual,Yes,87,50,Graduate School,50,3.96,Engineering,Tech-focused
+31,Hackathon Blood,Hackathon,External Employer,2020-06-30,University,White Plains,NY,USA,18:15,180,Virtual,Yes,240,93,SLU,50,4.07,Business,Great turnout
+32,Workshop Oil,Workshop,Employer Relations,2024-09-10,University,Philadelphia,PA,USA,17:45,60,In-Person,Yes,205,171,SLU,10,4.18,Engineering,Great turnout
+33,Workshop Walk,Workshop,Employer Relations,2024-11-15,University,San Antonio,TX,USA,15:45,180,Hybrid,Yes,67,28,IEEE,50,3.11,Business,Networking-heavy
+34,Workshop Over,Workshop,Employer Relations,2021-10-08,University,Detroit,MI,USA,10:30,60,Virtual,Yes,235,123,Graduate School,25,4.95,Career Services,Tech-focused
+35,Hackathon Shake,Hackathon,External Employer,2017-07-22,Employer,Ann Arbor,MI,USA,11:00,90,Hybrid,Yes,214,170,Graduate School,10,4.5,Analytics,Great turnout
+36,Employer Info Session Recently,Employer Info Session,External Employer,2022-05-25,University,Chicago,IL,USA,16:15,60,Hybrid,Yes,175,105,ACM,25,3.09,Career Services,Tech-focused
+37,Alumni Meetup Experience,Alumni Meetup,SLU Alumni Association,2020-06-08,Employer,Grand Rapids,MI,USA,14:15,90,Virtual,Yes,321,231,Graduate School,50,5.0,Business,Networking-heavy
+38,Career Fair Boy,Career Fair,Business School,2018-06-09,Employer,Redmond,WA,USA,14:45,90,Virtual,Yes,89,21,SLU,25,4.45,Career Services,Great turnout
+39,Career Fair Body,Career Fair,CS Dept,2025-06-02,Employer,Atlanta,GA,USA,17:45,90,Hybrid,Yes,186,24,Company Partner,10,4.32,Analytics,Targeted to MS students
+40,Seminar Stand,Seminar,Business School,2022-05-14,Employer,Cincinnati,OH,USA,11:30,90,Hybrid,Yes,352,211,IEEE,50,4.02,Career Services,Great turnout
+41,Workshop Simply,Workshop,External Employer,2021-01-06,Employer,Scottsdale,AZ,USA,09:15,180,Hybrid,Yes,214,42,ACM,25,4.07,Analytics,Targeted to MS students
+42,Alumni Meetup Best,Alumni Meetup,SLU Alumni Association,2020-04-27,Employer,Pittsburgh,PA,USA,09:45,60,Virtual,Yes,275,265,IEEE,50,4.61,Career Services,Targeted to MS students
+43,Employer Info Session Board,Employer Info Session,SLU Alumni Association,2016-11-09,Employer,Somerville,MA,USA,08:15,90,Hybrid,Yes,211,54,SLU,25,4.68,Analytics,Targeted to MS students
+44,Career Fair Reach,Career Fair,External Employer,2016-05-15,University,Grand Rapids,MI,USA,12:00,180,Hybrid,Yes,88,17,ACM,50,3.95,Engineering,Networking-heavy
+45,Seminar Night,Seminar,SLU Career Services,2024-06-02,Employer,Harrisburg,PA,USA,17:45,60,Hybrid,Yes,53,53,SLU,0,3.75,Engineering,Tech-focused
+46,Alumni Meetup Member,Alumni Meetup,SLU Alumni Association,2018-09-23,Employer,Savannah,GA,USA,11:30,90,Hybrid,Yes,375,38,ACM,50,3.21,Career Services,Great turnout
+47,Webinar Really,Webinar,Employer Relations,2016-05-23,University,Grand Rapids,MI,USA,14:00,60,In-Person,Yes,280,82,SLU,50,4.43,Business,Networking-heavy
+48,Seminar Speak,Seminar,Employer Relations,2021-08-27,Employer,Detroit,MI,USA,18:00,90,Virtual,Yes,84,52,Company Partner,0,3.76,Career Services,Targeted to MS students
+49,Career Fair Outside,Career Fair,SLU Alumni Association,2023-06-21,Employer,Peoria,IL,USA,16:45,120,In-Person,Yes,335,286,Graduate School,25,4.8,Business,Great turnout
+50,Webinar Call,Webinar,SLU Alumni Association,2021-12-19,Employer,Dallas,TX,USA,10:15,180,Virtual,Yes,200,27,IEEE,0,4.76,Analytics,Tech-focused
+51,Career Fair Measure,Career Fair,Business School,2024-03-21,Employer,Atlanta,GA,USA,09:45,180,In-Person,Yes,118,48,SLU,50,4.0,Engineering,Tech-focused
+52,Career Fair Name,Career Fair,SLU Alumni Association,2023-12-03,University,San Antonio,TX,USA,14:30,120,Virtual,Yes,332,163,SLU,0,3.8,Engineering,Tech-focused
+53,Workshop Every,Workshop,External Employer,2019-09-14,Employer,Miami,FL,USA,09:45,180,Virtual,Yes,369,183,Graduate School,10,4.61,Engineering,Networking-heavy
+54,Hackathon Situation,Hackathon,Employer Relations,2019-11-16,Employer,Philadelphia,PA,USA,17:30,90,In-Person,Yes,41,32,Company Partner,0,4.2,Business,Tech-focused
+55,Hackathon Provide,Hackathon,CS Dept,2022-05-21,Employer,Naperville,IL,USA,13:30,180,Hybrid,Yes,185,102,Company Partner,10,4.81,Business,Networking-heavy
+56,Alumni Meetup Fish,Alumni Meetup,Employer Relations,2025-03-02,University,Colorado Springs,CO,USA,17:30,90,Virtual,Yes,85,47,Company Partner,50,4.28,Engineering,Targeted to MS students
+57,Workshop Despite,Workshop,Business School,2018-01-17,Employer,Cleveland,OH,USA,12:15,120,Virtual,Yes,251,197,Graduate School,50,2.76,Analytics,Networking-heavy
+58,Webinar Hour,Webinar,SLU Alumni Association,2019-01-06,Employer,Naperville,IL,USA,13:45,180,Hybrid,Yes,58,18,SLU,25,3.73,Career Services,Tech-focused
+59,Career Fair Watch,Career Fair,SLU Career Services,2015-06-23,Employer,Philadelphia,PA,USA,08:45,60,Virtual,Yes,158,87,Graduate School,10,3.49,Business,Networking-heavy
+60,Alumni Meetup Affect,Alumni Meetup,Employer Relations,2016-12-23,University,Worcester,MA,USA,11:45,120,Virtual,Yes,323,27,ACM,50,4.72,Engineering,Great turnout
+61,Seminar Staff,Seminar,SLU Career Services,2019-10-24,Employer,Cincinnati,OH,USA,13:15,90,Virtual,Yes,300,270,ACM,0,4.74,Engineering,Networking-heavy
+62,Alumni Meetup Artist,Alumni Meetup,Employer Relations,2018-11-24,Employer,Tempe,AZ,USA,11:45,90,Virtual,Yes,381,314,SLU,25,3.82,Career Services,Tech-focused
+63,Workshop Represent,Workshop,Business School,2018-09-11,Employer,Redmond,WA,USA,17:00,180,Hybrid,Yes,266,80,Company Partner,10,4.84,Engineering,Great turnout
+64,Webinar Believe,Webinar,CS Dept,2017-08-06,Employer,Urbana,IL,USA,15:45,90,In-Person,Yes,271,106,Graduate School,10,4.49,Business,Targeted to MS students
+65,Workshop Player,Workshop,External Employer,2018-10-08,University,Ann Arbor,MI,USA,15:45,120,Virtual,Yes,48,13,Company Partner,25,3.96,Analytics,Tech-focused
+66,Alumni Meetup Yet,Alumni Meetup,External Employer,2021-07-07,Employer,White Plains,NY,USA,18:00,90,Virtual,Yes,364,95,Company Partner,50,4.31,Engineering,Networking-heavy
+67,Seminar Without,Seminar,Business School,2023-04-05,University,Denver,CO,USA,12:00,120,Hybrid,Yes,99,86,ACM,50,4.38,Career Services,Targeted to MS students
+68,Seminar Option,Seminar,CS Dept,2021-01-16,Employer,Tacoma,WA,USA,12:00,180,In-Person,Yes,257,213,SLU,25,4.94,Career Services,Targeted to MS students
+69,Webinar Talk,Webinar,SLU Alumni Association,2016-03-03,Employer,Peoria,IL,USA,09:30,60,Virtual,Yes,288,56,SLU,50,4.02,Analytics,Great turnout
+70,Career Fair Sign,Career Fair,SLU Alumni Association,2020-11-24,University,Durham,NC,USA,10:15,180,In-Person,Yes,95,31,Company Partner,25,4.56,Analytics,Great turnout
+71,Hackathon We,Hackathon,Employer Relations,2023-11-01,University,Raleigh,NC,USA,09:00,60,In-Person,Yes,324,39,ACM,50,3.29,Analytics,Tech-focused
+72,Webinar Half,Webinar,External Employer,2024-09-29,University,Scottsdale,AZ,USA,12:30,90,In-Person,Yes,178,122,ACM,0,4.1,Engineering,Great turnout
+73,Seminar Open,Seminar,Business School,2020-08-27,University,Cleveland,OH,USA,16:00,180,Virtual,Yes,397,122,IEEE,0,3.69,Engineering,Targeted to MS students
+74,Seminar Actually,Seminar,CS Dept,2020-06-01,University,Springfield,MO,USA,09:45,90,Hybrid,Yes,240,16,SLU,10,2.78,Analytics,Great turnout
+75,Employer Info Session Usually,Employer Info Session,Employer Relations,2015-06-06,Employer,Fort Collins,CO,USA,10:00,180,In-Person,Yes,389,38,ACM,10,4.13,Business,Targeted to MS students
+76,Workshop Admit,Workshop,SLU Alumni Association,2023-11-16,University,San Diego,CA,USA,17:30,90,Virtual,Yes,134,95,Company Partner,10,4.35,Business,Great turnout
+77,Workshop Beyond,Workshop,CS Dept,2022-05-23,Employer,Tacoma,WA,USA,09:00,90,Virtual,Yes,353,301,ACM,25,4.99,Business,Networking-heavy
+78,Seminar Member,Seminar,SLU Alumni Association,2025-07-09,Employer,Orlando,FL,USA,10:15,120,Virtual,Yes,306,144,Company Partner,10,4.01,Career Services,Great turnout
+79,Hackathon Send,Hackathon,Employer Relations,2020-04-27,University,Chicago,IL,USA,08:00,120,Hybrid,Yes,60,42,IEEE,25,4.34,Business,Great turnout
+80,Seminar Fund,Seminar,SLU Career Services,2021-03-07,Employer,Albany,NY,USA,12:45,120,Hybrid,Yes,226,128,Graduate School,0,4.07,Analytics,Great turnout
+81,Hackathon Office,Hackathon,SLU Career Services,2020-02-26,University,Naperville,IL,USA,15:15,120,Hybrid,Yes,111,95,Graduate School,0,4.42,Engineering,Tech-focused
+82,Seminar Green,Seminar,Business School,2015-11-26,University,Detroit,MI,USA,17:45,60,Hybrid,Yes,346,147,ACM,10,5.0,Business,Targeted to MS students
+83,Webinar Dog,Webinar,External Employer,2025-07-06,University,Fort Collins,CO,USA,08:15,120,In-Person,Yes,139,26,SLU,25,4.88,Career Services,Targeted to MS students
+84,Career Fair Among,Career Fair,CS Dept,2018-09-25,University,Philadelphia,PA,USA,08:00,180,In-Person,Yes,104,78,Graduate School,10,5.0,Engineering,Networking-heavy
+85,Alumni Meetup Interview,Alumni Meetup,Business School,2015-03-04,University,Somerville,MA,USA,13:30,60,Virtual,Yes,177,38,IEEE,0,4.16,Analytics,Great turnout
+86,Hackathon Note,Hackathon,Employer Relations,2017-10-11,University,Urbana,IL,USA,16:45,60,Hybrid,Yes,84,13,Company Partner,10,4.38,Analytics,Targeted to MS students
+87,Employer Info Session Would,Employer Info Session,External Employer,2025-11-29,University,Detroit,MI,USA,09:00,120,Virtual,Yes,213,154,IEEE,50,4.51,Engineering,Great turnout
+88,Hackathon World,Hackathon,SLU Career Services,2017-11-02,Employer,Irvine,CA,USA,15:45,120,Hybrid,Yes,211,11,IEEE,0,4.39,Analytics,Tech-focused
+89,Seminar Rise,Seminar,Business School,2015-09-14,University,Pittsburgh,PA,USA,11:00,180,Hybrid,Yes,278,16,Company Partner,0,3.53,Business,Great turnout
+90,Hackathon Always,Hackathon,Business School,2023-09-11,University,Tacoma,WA,USA,14:45,120,In-Person,Yes,355,276,Company Partner,50,4.42,Career Services,Networking-heavy
+91,Hackathon Character,Hackathon,SLU Alumni Association,2020-10-21,Employer,Cincinnati,OH,USA,15:45,120,Virtual,Yes,380,298,SLU,50,4.98,Engineering,Targeted to MS students
+92,Employer Info Session Everything,Employer Info Session,Business School,2017-12-13,Employer,Philadelphia,PA,USA,11:15,90,Hybrid,Yes,177,173,IEEE,50,4.15,Engineering,Great turnout
+93,Employer Info Session Food,Employer Info Session,External Employer,2019-10-16,University,Pittsburgh,PA,USA,18:30,120,Virtual,Yes,328,269,ACM,10,4.26,Engineering,Tech-focused
+94,Webinar Add,Webinar,Employer Relations,2025-09-06,University,Cambridge,MA,USA,16:30,120,Hybrid,Yes,113,71,IEEE,25,4.17,Engineering,Great turnout
+95,Career Fair Produce,Career Fair,Employer Relations,2019-12-27,University,Boston,MA,USA,16:15,60,In-Person,Yes,241,139,Company Partner,25,4.15,Business,Targeted to MS students
+96,Workshop Performance,Workshop,SLU Career Services,2019-12-14,Employer,Bellevue,WA,USA,13:00,90,In-Person,Yes,314,139,IEEE,50,3.58,Analytics,Targeted to MS students
+97,Seminar Who,Seminar,Employer Relations,2016-02-21,University,Charlotte,NC,USA,12:45,180,Virtual,Yes,103,39,Graduate School,25,4.36,Career Services,Tech-focused
+98,Alumni Meetup Drive,Alumni Meetup,CS Dept,2024-11-17,Employer,Phoenix,AZ,USA,15:30,120,In-Person,Yes,198,145,Graduate School,0,3.73,Career Services,Networking-heavy
+99,Alumni Meetup Sit,Alumni Meetup,SLU Career Services,2022-11-09,University,Denver,CO,USA,18:30,180,Virtual,Yes,374,192,IEEE,10,4.51,Engineering,Targeted to MS students
+100,Seminar Once,Seminar,SLU Alumni Association,2023-08-26,University,Fort Collins,CO,USA,17:30,60,In-Person,Yes,150,139,Company Partner,10,4.19,Analytics,Networking-heavy
+101,Employer Info Session Expect,Employer Info Session,CS Dept,2023-12-25,Employer,Chicago,IL,USA,12:00,180,In-Person,Yes,93,72,SLU,50,4.36,Analytics,Great turnout
+102,Alumni Meetup Relate,Alumni Meetup,Business School,2025-09-28,University,Chicago,IL,USA,12:15,60,Virtual,Yes,140,32,Graduate School,10,2.94,Career Services,Targeted to MS students
+103,Employer Info Session Eye,Employer Info Session,Employer Relations,2022-09-04,University,Grand Rapids,MI,USA,09:00,180,Virtual,Yes,174,29,Graduate School,50,4.38,Engineering,Tech-focused
+104,Employer Info Session A,Employer Info Session,Employer Relations,2015-08-13,Employer,Colorado Springs,CO,USA,08:30,180,Virtual,Yes,125,123,Company Partner,25,4.79,Engineering,Targeted to MS students
+105,Career Fair Indicate,Career Fair,Business School,2022-01-08,Employer,Somerville,MA,USA,10:45,90,Hybrid,Yes,184,122,IEEE,50,4.72,Engineering,Tech-focused
+106,Alumni Meetup Job,Alumni Meetup,CS Dept,2022-05-31,Employer,Cincinnati,OH,USA,15:15,90,In-Person,Yes,264,91,IEEE,0,4.06,Career Services,Networking-heavy
+107,Alumni Meetup Life,Alumni Meetup,Business School,2023-12-02,University,Chesterfield,MO,USA,11:30,120,Virtual,Yes,182,30,Graduate School,0,4.23,Career Services,Tech-focused
+108,Employer Info Session Teacher,Employer Info Session,CS Dept,2020-07-27,University,Worcester,MA,USA,16:00,90,Virtual,Yes,384,29,IEEE,25,4.63,Engineering,Targeted to MS students
+109,Webinar On,Webinar,External Employer,2015-05-16,Employer,Durham,NC,USA,14:00,90,Virtual,Yes,37,18,ACM,0,4.11,Business,Tech-focused
+110,Workshop Seven,Workshop,External Employer,2023-08-19,University,Savannah,GA,USA,18:45,90,Virtual,Yes,280,267,ACM,0,3.79,Engineering,Tech-focused
+111,Career Fair Particularly,Career Fair,External Employer,2023-12-09,University,Los Angeles,CA,USA,10:15,90,Virtual,Yes,394,199,ACM,25,4.43,Career Services,Networking-heavy
+112,Webinar Kitchen,Webinar,Employer Relations,2017-02-18,Employer,Jacksonville,FL,USA,14:30,90,Virtual,Yes,163,102,Graduate School,0,4.34,Business,Great turnout
+113,Alumni Meetup Artist,Alumni Meetup,SLU Career Services,2019-04-24,Employer,Harrisburg,PA,USA,13:45,60,Virtual,Yes,267,20,Graduate School,10,3.51,Business,Targeted to MS students
+114,Alumni Meetup Road,Alumni Meetup,Business School,2016-11-10,Employer,Tucson,AZ,USA,11:00,90,Virtual,Yes,367,285,IEEE,10,3.91,Analytics,Networking-heavy
+115,Webinar Statement,Webinar,SLU Career Services,2022-09-28,Employer,Cleveland,OH,USA,14:00,180,In-Person,Yes,319,55,SLU,50,4.24,Career Services,Targeted to MS students
+116,Alumni Meetup Them,Alumni Meetup,SLU Career Services,2019-02-01,Employer,Orlando,FL,USA,10:45,180,In-Person,Yes,273,64,Graduate School,50,3.61,Engineering,Targeted to MS students
+117,Seminar North,Seminar,External Employer,2023-11-27,Employer,Atlanta,GA,USA,09:45,60,Hybrid,Yes,264,89,ACM,10,3.37,Career Services,Tech-focused
+118,Career Fair Course,Career Fair,External Employer,2017-01-20,Employer,Tampa,FL,USA,10:15,90,Hybrid,Yes,234,178,Company Partner,50,5.0,Analytics,Networking-heavy
+119,Webinar Team,Webinar,External Employer,2022-06-20,University,San Francisco,CA,USA,14:45,180,Hybrid,Yes,215,23,IEEE,50,4.05,Analytics,Great turnout
+120,Workshop Personal,Workshop,SLU Career Services,2017-03-12,Employer,Colorado Springs,CO,USA,16:15,60,In-Person,Yes,280,242,Graduate School,10,3.87,Career Services,Tech-focused
+121,Employer Info Session Century,Employer Info Session,SLU Alumni Association,2017-02-05,Employer,Philadelphia,PA,USA,18:45,180,Hybrid,Yes,254,251,Graduate School,0,4.03,Business,Targeted to MS students
+122,Hackathon Third,Hackathon,Employer Relations,2024-06-19,Employer,San Francisco,CA,USA,10:45,180,Virtual,Yes,284,223,SLU,0,3.87,Analytics,Networking-heavy
+123,Workshop Six,Workshop,External Employer,2024-04-29,Employer,Ann Arbor,MI,USA,10:15,60,Hybrid,Yes,264,227,ACM,0,4.47,Engineering,Targeted to MS students
+124,Seminar Market,Seminar,Employer Relations,2018-09-07,Employer,Denver,CO,USA,18:15,120,In-Person,Yes,343,131,ACM,0,4.63,Engineering,Tech-focused
+125,Workshop Performance,Workshop,Business School,2019-03-09,University,Columbus,OH,USA,13:45,120,In-Person,Yes,173,64,SLU,10,4.88,Career Services,Tech-focused
+126,Hackathon Because,Hackathon,CS Dept,2022-02-22,Employer,Irvine,CA,USA,13:15,90,Hybrid,Yes,383,321,SLU,25,4.74,Business,Networking-heavy
+127,Workshop Respond,Workshop,CS Dept,2025-07-09,Employer,Fort Collins,CO,USA,15:45,120,In-Person,Yes,62,55,Company Partner,25,4.88,Engineering,Targeted to MS students
+128,Hackathon Travel,Hackathon,Employer Relations,2022-01-18,Employer,Chesterfield,MO,USA,16:00,120,In-Person,Yes,161,136,Company Partner,25,4.36,Career Services,Great turnout
+129,Workshop Want,Workshop,External Employer,2022-05-07,University,Charlotte,NC,USA,12:45,180,In-Person,Yes,380,310,ACM,0,3.39,Engineering,Networking-heavy
+130,Seminar Fall,Seminar,CS Dept,2015-07-10,Employer,Detroit,MI,USA,12:45,90,In-Person,Yes,142,107,Company Partner,50,4.16,Analytics,Tech-focused
+131,Employer Info Session Close,Employer Info Session,Employer Relations,2023-07-15,Employer,St. Louis,MO,USA,16:15,90,In-Person,Yes,139,123,Graduate School,50,4.82,Engineering,Targeted to MS students
+132,Workshop Politics,Workshop,SLU Alumni Association,2017-02-16,Employer,Bellevue,WA,USA,18:30,120,Virtual,Yes,194,21,Graduate School,25,3.42,Business,Networking-heavy
+133,Webinar Teach,Webinar,Business School,2021-07-14,Employer,Buffalo,NY,USA,14:30,60,Virtual,Yes,54,17,SLU,0,3.68,Analytics,Networking-heavy
+134,Webinar Live,Webinar,CS Dept,2015-06-13,Employer,Columbus,OH,USA,18:45,180,In-Person,Yes,231,47,Graduate School,50,3.8,Engineering,Great turnout
+135,Seminar Student,Seminar,Employer Relations,2018-07-18,Employer,Tampa,FL,USA,10:45,90,Hybrid,Yes,306,158,SLU,0,3.41,Engineering,Great turnout
+136,Workshop Participant,Workshop,SLU Alumni Association,2024-06-06,University,Tucson,AZ,USA,08:15,120,Hybrid,Yes,106,12,Company Partner,0,4.14,Analytics,Targeted to MS students
+137,Employer Info Session How,Employer Info Session,Business School,2019-01-10,Employer,Grand Rapids,MI,USA,17:45,60,Virtual,Yes,140,72,SLU,0,3.33,Engineering,Targeted to MS students
+138,Alumni Meetup Night,Alumni Meetup,SLU Career Services,2015-11-13,University,Savannah,GA,USA,08:45,180,Virtual,Yes,225,137,SLU,10,4.15,Career Services,Tech-focused
+139,Seminar Anyone,Seminar,CS Dept,2016-11-02,Employer,Denver,CO,USA,08:45,120,Virtual,Yes,348,213,Company Partner,25,2.84,Career Services,Targeted to MS students
+140,Alumni Meetup Go,Alumni Meetup,SLU Alumni Association,2023-04-15,University,Peoria,IL,USA,11:30,120,Virtual,Yes,196,162,Graduate School,10,5.0,Career Services,Targeted to MS students
+141,Workshop Small,Workshop,External Employer,2022-04-06,Employer,Plano,TX,USA,12:15,60,Virtual,Yes,297,133,ACM,0,2.68,Career Services,Networking-heavy
+142,Alumni Meetup Bed,Alumni Meetup,Business School,2020-01-13,Employer,Cleveland,OH,USA,18:30,120,Hybrid,Yes,30,17,Company Partner,25,4.87,Engineering,Great turnout
+143,Alumni Meetup Vote,Alumni Meetup,SLU Alumni Association,2021-05-16,Employer,Worcester,MA,USA,10:00,180,Virtual,Yes,256,189,Graduate School,25,4.06,Engineering,Targeted to MS students
+144,Career Fair Suggest,Career Fair,Employer Relations,2020-01-15,University,Atlanta,GA,USA,16:45,60,Hybrid,Yes,59,43,SLU,10,4.68,Business,Targeted to MS students
+145,Hackathon Assume,Hackathon,External Employer,2022-07-25,Employer,Tacoma,WA,USA,15:00,90,Hybrid,Yes,91,44,ACM,50,4.06,Career Services,Tech-focused
+146,Career Fair Authority,Career Fair,Employer Relations,2021-11-10,Employer,St. Louis,MO,USA,10:00,180,Virtual,Yes,347,193,ACM,0,3.8,Business,Targeted to MS students
+147,Workshop Fear,Workshop,SLU Career Services,2015-03-14,Employer,Columbus,OH,USA,09:30,60,In-Person,Yes,308,250,Company Partner,25,3.48,Analytics,Networking-heavy
+148,Seminar President,Seminar,SLU Career Services,2022-12-07,Employer,San Diego,CA,USA,12:00,180,In-Person,Yes,172,72,SLU,25,4.75,Career Services,Targeted to MS students
+149,Workshop Chance,Workshop,CS Dept,2023-04-15,University,Cleveland,OH,USA,11:00,90,Hybrid,Yes,282,126,SLU,10,5.0,Analytics,Networking-heavy
+150,Seminar Later,Seminar,Employer Relations,2017-06-13,University,Los Angeles,CA,USA,16:00,120,In-Person,Yes,89,64,SLU,25,4.45,Engineering,Networking-heavy
+151,Seminar None,Seminar,Employer Relations,2024-12-12,University,White Plains,NY,USA,15:15,90,Hybrid,Yes,398,88,SLU,0,3.95,Business,Tech-focused
+152,Alumni Meetup Vote,Alumni Meetup,SLU Alumni Association,2024-08-28,University,Tempe,AZ,USA,11:45,180,Hybrid,Yes,204,69,IEEE,50,4.12,Business,Tech-focused
+153,Workshop See,Workshop,SLU Alumni Association,2024-05-09,University,Alpharetta,GA,USA,15:30,60,Hybrid,Yes,244,62,Graduate School,0,3.53,Business,Networking-heavy
+154,Seminar Woman,Seminar,Business School,2018-12-30,University,Los Angeles,CA,USA,10:00,120,In-Person,Yes,46,26,ACM,50,4.79,Career Services,Networking-heavy
+155,Webinar Ability,Webinar,External Employer,2022-02-22,Employer,Cary,NC,USA,18:45,60,In-Person,Yes,315,312,SLU,50,4.57,Analytics,Great turnout
+156,Career Fair Begin,Career Fair,Business School,2019-06-30,University,Raleigh,NC,USA,13:45,60,Hybrid,Yes,102,58,Graduate School,0,3.97,Analytics,Targeted to MS students
+157,Alumni Meetup Interesting,Alumni Meetup,External Employer,2023-05-07,University,Jacksonville,FL,USA,17:45,90,Virtual,Yes,117,108,Graduate School,10,3.98,Business,Great turnout
+158,Alumni Meetup Show,Alumni Meetup,Employer Relations,2024-04-27,Employer,Irvine,CA,USA,10:00,60,In-Person,Yes,239,221,Graduate School,50,4.22,Analytics,Great turnout
+159,Seminar Green,Seminar,Employer Relations,2021-05-30,University,Chesterfield,MO,USA,18:45,180,Hybrid,Yes,319,163,Graduate School,10,4.07,Engineering,Great turnout
+160,Workshop Project,Workshop,External Employer,2017-08-21,University,Columbus,OH,USA,15:45,90,In-Person,Yes,237,197,SLU,10,4.15,Business,Tech-focused
+161,Workshop When,Workshop,SLU Career Services,2025-05-17,Employer,Houston,TX,USA,15:15,60,Virtual,Yes,194,151,ACM,0,4.66,Business,Tech-focused
+162,Career Fair Notice,Career Fair,SLU Career Services,2016-01-18,Employer,Charlotte,NC,USA,16:00,180,Virtual,Yes,42,25,Company Partner,50,4.04,Analytics,Targeted to MS students
+163,Workshop Left,Workshop,CS Dept,2017-04-13,University,Tampa,FL,USA,11:15,180,Virtual,Yes,330,79,ACM,0,4.61,Engineering,Great turnout
+164,Workshop Decade,Workshop,Business School,2019-01-11,Employer,Atlanta,GA,USA,15:45,120,In-Person,Yes,337,73,Graduate School,0,4.26,Analytics,Targeted to MS students
+165,Alumni Meetup Watch,Alumni Meetup,SLU Alumni Association,2021-12-21,University,Charlotte,NC,USA,15:45,180,Hybrid,Yes,152,18,SLU,25,4.77,Analytics,Great turnout
+166,Workshop Shake,Workshop,Business School,2020-10-10,University,Atlanta,GA,USA,08:15,60,In-Person,Yes,347,36,Graduate School,50,4.33,Analytics,Targeted to MS students
+167,Seminar Word,Seminar,SLU Alumni Association,2021-12-06,Employer,White Plains,NY,USA,17:30,90,Hybrid,Yes,380,358,Company Partner,0,5.0,Business,Targeted to MS students
+168,Webinar System,Webinar,External Employer,2015-12-14,University,Orlando,FL,USA,16:45,120,In-Person,Yes,341,23,IEEE,50,3.74,Business,Networking-heavy
+169,Hackathon Car,Hackathon,SLU Career Services,2018-04-24,Employer,Fort Collins,CO,USA,08:00,90,Virtual,Yes,311,214,IEEE,25,3.12,Engineering,Targeted to MS students
+170,Workshop Home,Workshop,SLU Career Services,2018-03-19,University,Tampa,FL,USA,15:15,120,In-Person,Yes,193,85,ACM,50,4.61,Analytics,Networking-heavy
+171,Alumni Meetup Activity,Alumni Meetup,SLU Career Services,2020-07-02,Employer,Scottsdale,AZ,USA,10:30,90,Virtual,Yes,303,297,SLU,10,3.62,Analytics,Targeted to MS students
+172,Webinar Allow,Webinar,External Employer,2022-01-31,University,Durham,NC,USA,17:45,90,Virtual,Yes,269,47,IEEE,25,4.4,Analytics,Networking-heavy
+173,Webinar These,Webinar,SLU Career Services,2020-08-17,University,Peoria,IL,USA,09:45,120,Virtual,Yes,320,222,Graduate School,10,4.81,Analytics,Networking-heavy
+174,Hackathon Time,Hackathon,SLU Career Services,2021-12-25,University,Worcester,MA,USA,09:00,60,Hybrid,Yes,182,62,IEEE,10,4.91,Engineering,Targeted to MS students
+175,Employer Info Session Something,Employer Info Session,Business School,2022-02-03,University,Durham,NC,USA,16:15,90,Virtual,Yes,179,10,SLU,50,4.22,Engineering,Networking-heavy
+176,Employer Info Session Experience,Employer Info Session,CS Dept,2019-08-03,Employer,Philadelphia,PA,USA,18:30,120,Virtual,Yes,391,39,SLU,0,4.22,Engineering,Tech-focused
+177,Alumni Meetup Gun,Alumni Meetup,SLU Alumni Association,2023-06-24,University,Pittsburgh,PA,USA,17:30,90,Virtual,Yes,140,62,SLU,50,3.88,Career Services,Tech-focused
+178,Workshop Even,Workshop,Employer Relations,2018-09-06,Employer,Phoenix,AZ,USA,12:00,60,Hybrid,Yes,225,108,SLU,25,3.5,Business,Great turnout
+179,Seminar Nor,Seminar,Business School,2017-08-22,University,Bellevue,WA,USA,09:30,180,Hybrid,Yes,198,84,ACM,50,4.45,Career Services,Networking-heavy
+180,Career Fair Sport,Career Fair,CS Dept,2022-08-25,Employer,Redmond,WA,USA,17:30,120,Hybrid,Yes,377,165,Graduate School,50,4.31,Business,Targeted to MS students
+181,Alumni Meetup Write,Alumni Meetup,External Employer,2018-06-25,University,Detroit,MI,USA,08:30,60,Hybrid,Yes,90,68,SLU,25,5.0,Career Services,Great turnout
+182,Webinar Sport,Webinar,SLU Career Services,2023-04-19,University,Tempe,AZ,USA,12:30,90,Virtual,Yes,181,81,ACM,0,4.78,Business,Tech-focused
+183,Workshop Ago,Workshop,External Employer,2020-05-30,University,Rochester,NY,USA,18:45,60,In-Person,Yes,356,315,Company Partner,10,4.63,Career Services,Tech-focused
+184,Alumni Meetup Fund,Alumni Meetup,CS Dept,2020-08-27,Employer,Seattle,WA,USA,16:15,120,Virtual,Yes,370,123,IEEE,25,5.0,Business,Targeted to MS students
+185,Employer Info Session Fill,Employer Info Session,SLU Alumni Association,2017-09-28,University,Miami,FL,USA,15:15,60,Hybrid,Yes,390,67,ACM,25,5.0,Analytics,Tech-focused
+186,Hackathon Million,Hackathon,SLU Alumni Association,2025-05-26,Employer,Austin,TX,USA,17:30,180,Hybrid,Yes,372,322,SLU,25,4.16,Career Services,Networking-heavy
+187,Hackathon Too,Hackathon,Employer Relations,2024-05-10,Employer,Tucson,AZ,USA,09:00,120,Virtual,Yes,219,65,ACM,25,4.28,Career Services,Tech-focused
+188,Alumni Meetup Power,Alumni Meetup,External Employer,2021-10-25,University,Tampa,FL,USA,17:15,180,In-Person,Yes,243,202,Graduate School,0,3.63,Analytics,Tech-focused
+189,Webinar Article,Webinar,Employer Relations,2025-08-24,University,Peoria,IL,USA,08:30,90,In-Person,Yes,158,134,Company Partner,0,4.52,Analytics,Networking-heavy
+190,Hackathon Agree,Hackathon,Business School,2016-12-26,Employer,Irvine,CA,USA,17:30,90,Virtual,Yes,279,38,SLU,25,5.0,Analytics,Targeted to MS students
+191,Hackathon Sometimes,Hackathon,SLU Alumni Association,2024-04-09,Employer,Peoria,IL,USA,10:00,60,In-Person,Yes,326,115,ACM,25,4.79,Engineering,Targeted to MS students
+192,Employer Info Session Until,Employer Info Session,CS Dept,2019-05-31,University,Columbia,MO,USA,09:00,180,Virtual,Yes,251,174,ACM,10,2.43,Analytics,Targeted to MS students
+193,Alumni Meetup Society,Alumni Meetup,CS Dept,2023-12-29,University,Naperville,IL,USA,12:45,90,In-Person,Yes,395,280,Graduate School,50,4.89,Career Services,Tech-focused
+194,Employer Info Session Religious,Employer Info Session,Employer Relations,2024-07-16,University,Cleveland,OH,USA,18:00,60,Virtual,Yes,382,349,Graduate School,50,5.0,Career Services,Great turnout
+195,Career Fair Movie,Career Fair,Employer Relations,2015-11-17,University,Jacksonville,FL,USA,16:45,180,Hybrid,Yes,342,154,Graduate School,0,4.08,Career Services,Great turnout
+196,Alumni Meetup Single,Alumni Meetup,SLU Career Services,2019-08-25,Employer,Raleigh,NC,USA,15:45,90,Virtual,Yes,89,65,Company Partner,25,4.73,Engineering,Networking-heavy
+197,Career Fair Camera,Career Fair,External Employer,2015-02-07,University,New York,NY,USA,09:45,180,Virtual,Yes,186,19,Company Partner,10,4.89,Analytics,Great turnout
+198,Employer Info Session How,Employer Info Session,SLU Alumni Association,2021-10-19,University,Columbus,OH,USA,10:00,180,In-Person,Yes,154,26,IEEE,10,4.17,Business,Networking-heavy
+199,Seminar Mother,Seminar,SLU Career Services,2018-11-11,Employer,Durham,NC,USA,16:00,120,In-Person,Yes,264,264,ACM,50,4.55,Analytics,Great turnout
+200,Hackathon Information,Hackathon,SLU Alumni Association,2019-10-06,University,Cleveland,OH,USA,08:45,180,In-Person,Yes,171,155,IEEE,50,3.79,Analytics,Tech-focused
+201,Career Fair Whatever,Career Fair,SLU Alumni Association,2025-02-14,Employer,San Antonio,TX,USA,14:00,90,Virtual,Yes,235,135,Graduate School,10,3.03,Business,Great turnout
+202,Alumni Meetup Suddenly,Alumni Meetup,SLU Career Services,2016-06-20,Employer,San Antonio,TX,USA,12:00,180,In-Person,Yes,250,64,Graduate School,10,4.18,Business,Great turnout
+203,Seminar Candidate,Seminar,External Employer,2021-04-05,Employer,Charlotte,NC,USA,11:15,60,Virtual,Yes,373,285,IEEE,0,4.65,Analytics,Targeted to MS students
+204,Alumni Meetup Foreign,Alumni Meetup,External Employer,2025-07-29,University,Kansas City,MO,USA,13:30,60,In-Person,Yes,238,55,SLU,25,3.85,Career Services,Networking-heavy
+205,Workshop Administration,Workshop,External Employer,2021-09-05,Employer,Durham,NC,USA,17:30,180,Virtual,Yes,151,148,Company Partner,10,4.56,Career Services,Targeted to MS students
+206,Alumni Meetup Recognize,Alumni Meetup,CS Dept,2020-07-22,University,Peoria,IL,USA,17:15,90,Virtual,Yes,171,61,Graduate School,10,3.78,Analytics,Networking-heavy
+207,Alumni Meetup Boy,Alumni Meetup,Employer Relations,2022-06-08,Employer,Savannah,GA,USA,10:00,180,Virtual,Yes,39,21,IEEE,25,3.91,Business,Great turnout
+208,Alumni Meetup Friend,Alumni Meetup,Employer Relations,2021-06-04,Employer,Alpharetta,GA,USA,16:00,120,Virtual,Yes,183,108,IEEE,50,3.37,Engineering,Tech-focused
+209,Employer Info Session Why,Employer Info Session,Employer Relations,2025-08-26,Employer,Urbana,IL,USA,15:45,90,In-Person,Yes,211,129,Company Partner,10,3.86,Engineering,Networking-heavy
+210,Hackathon If,Hackathon,External Employer,2025-02-11,University,Bellevue,WA,USA,18:00,120,In-Person,Yes,157,64,Company Partner,50,4.32,Analytics,Targeted to MS students
+211,Career Fair Prove,Career Fair,Employer Relations,2022-02-12,Employer,Urbana,IL,USA,12:00,180,In-Person,Yes,35,28,Company Partner,50,4.45,Analytics,Tech-focused
+212,Alumni Meetup Site,Alumni Meetup,CS Dept,2023-10-06,Employer,Jacksonville,FL,USA,12:45,120,Virtual,Yes,119,64,ACM,25,4.16,Career Services,Great turnout
+213,Hackathon Good,Hackathon,External Employer,2022-04-20,Employer,San Jose,CA,USA,11:15,90,Virtual,Yes,400,270,IEEE,0,4.1,Business,Networking-heavy
+214,Career Fair Policy,Career Fair,SLU Career Services,2019-03-31,Employer,Seattle,WA,USA,12:15,120,Virtual,Yes,387,353,SLU,0,3.72,Business,Great turnout
+215,Employer Info Session Son,Employer Info Session,Employer Relations,2016-02-07,Employer,Plano,TX,USA,15:00,60,In-Person,Yes,55,46,Company Partner,10,4.71,Career Services,Great turnout
+216,Workshop Wish,Workshop,SLU Alumni Association,2023-11-09,University,San Francisco,CA,USA,16:00,90,Virtual,Yes,253,54,Company Partner,50,4.37,Business,Targeted to MS students
+217,Career Fair No,Career Fair,SLU Career Services,2025-08-05,University,Charlotte,NC,USA,08:30,90,Virtual,Yes,95,21,SLU,50,4.76,Business,Tech-focused
+218,Webinar Change,Webinar,External Employer,2025-11-24,Employer,Harrisburg,PA,USA,15:45,60,Virtual,Yes,74,63,SLU,0,4.24,Engineering,Great turnout
+219,Hackathon Doctor,Hackathon,SLU Alumni Association,2022-08-02,Employer,Jacksonville,FL,USA,11:30,120,In-Person,Yes,149,34,IEEE,10,4.74,Analytics,Tech-focused
+220,Alumni Meetup Evidence,Alumni Meetup,SLU Career Services,2017-08-11,Employer,Naperville,IL,USA,15:30,180,Virtual,Yes,138,111,IEEE,50,3.36,Engineering,Tech-focused
+221,Alumni Meetup Test,Alumni Meetup,SLU Career Services,2023-05-30,Employer,Philadelphia,PA,USA,13:15,90,In-Person,Yes,287,13,Company Partner,10,4.87,Engineering,Targeted to MS students
+222,Seminar Store,Seminar,SLU Career Services,2017-04-11,University,Cincinnati,OH,USA,16:15,120,In-Person,Yes,53,16,SLU,10,3.84,Engineering,Targeted to MS students
+223,Career Fair Past,Career Fair,SLU Career Services,2024-01-29,Employer,Bellevue,WA,USA,15:45,120,Virtual,Yes,161,150,ACM,0,4.8,Career Services,Targeted to MS students
+224,Seminar See,Seminar,SLU Career Services,2022-03-22,Employer,Peoria,IL,USA,14:45,180,Hybrid,Yes,30,18,IEEE,50,3.85,Analytics,Great turnout
+225,Seminar Seek,Seminar,Employer Relations,2016-02-11,University,Albany,NY,USA,11:15,90,Hybrid,Yes,374,192,ACM,10,3.45,Business,Targeted to MS students
+226,Career Fair Serve,Career Fair,SLU Alumni Association,2023-10-29,University,Alpharetta,GA,USA,17:30,180,Virtual,Yes,127,110,ACM,50,4.44,Business,Great turnout
+227,Hackathon Body,Hackathon,Business School,2017-02-03,University,Redmond,WA,USA,15:15,60,Virtual,Yes,354,86,IEEE,25,4.6,Career Services,Great turnout
+228,Hackathon Down,Hackathon,CS Dept,2016-05-15,University,Dallas,TX,USA,16:15,180,Virtual,Yes,333,270,Graduate School,25,5.0,Career Services,Networking-heavy
+229,Workshop Me,Workshop,Business School,2023-06-28,Employer,Cleveland,OH,USA,13:00,120,Hybrid,Yes,369,211,ACM,0,4.54,Business,Networking-heavy
+230,Seminar Fine,Seminar,CS Dept,2024-01-18,Employer,Columbia,MO,USA,08:15,90,In-Person,Yes,95,87,SLU,50,4.07,Business,Networking-heavy
+231,Seminar Fast,Seminar,Business School,2024-01-27,University,Alpharetta,GA,USA,10:30,120,Hybrid,Yes,196,13,Company Partner,10,3.14,Analytics,Networking-heavy
+232,Employer Info Session Effort,Employer Info Session,SLU Career Services,2023-09-30,University,Springfield,IL,USA,14:00,180,Hybrid,Yes,63,55,ACM,0,3.7,Analytics,Great turnout
+233,Career Fair Song,Career Fair,SLU Career Services,2025-01-21,University,Savannah,GA,USA,11:45,120,In-Person,Yes,218,172,Graduate School,50,3.55,Business,Networking-heavy
+234,Hackathon Good,Hackathon,SLU Career Services,2022-12-08,University,Grand Rapids,MI,USA,10:15,90,Virtual,Yes,139,129,ACM,0,4.68,Analytics,Great turnout
+235,Employer Info Session Laugh,Employer Info Session,SLU Alumni Association,2020-08-04,Employer,Rochester,NY,USA,12:15,120,In-Person,Yes,139,125,Company Partner,50,3.61,Career Services,Networking-heavy
+236,Workshop Information,Workshop,Employer Relations,2020-10-11,University,Tacoma,WA,USA,17:30,90,Hybrid,Yes,74,14,IEEE,10,4.38,Analytics,Tech-focused
+237,Career Fair Play,Career Fair,SLU Career Services,2024-04-08,Employer,Bellevue,WA,USA,08:00,90,In-Person,Yes,380,65,Company Partner,25,4.56,Analytics,Tech-focused
+238,Alumni Meetup Leg,Alumni Meetup,External Employer,2023-03-06,Employer,Los Angeles,CA,USA,11:30,60,Hybrid,Yes,389,358,Company Partner,50,4.08,Career Services,Networking-heavy
+239,Webinar Throughout,Webinar,CS Dept,2024-11-12,University,Cambridge,MA,USA,17:15,60,Hybrid,Yes,103,11,Graduate School,0,4.45,Career Services,Great turnout
+240,Webinar Long,Webinar,SLU Alumni Association,2025-05-18,University,Columbus,OH,USA,17:15,60,Virtual,Yes,120,36,SLU,10,4.41,Career Services,Targeted to MS students
+241,Employer Info Session Since,Employer Info Session,Employer Relations,2023-10-03,University,Albany,NY,USA,16:00,120,Virtual,Yes,58,46,ACM,50,4.25,Business,Targeted to MS students
+242,Webinar Rock,Webinar,SLU Alumni Association,2025-08-21,University,Fort Collins,CO,USA,10:30,60,In-Person,Yes,157,145,ACM,25,4.88,Engineering,Tech-focused
+243,Workshop Occur,Workshop,CS Dept,2021-04-27,Employer,Rochester,NY,USA,16:15,60,Virtual,Yes,206,158,Graduate School,0,3.82,Career Services,Tech-focused
+244,Webinar Wide,Webinar,CS Dept,2021-07-03,University,Irvine,CA,USA,11:15,60,In-Person,Yes,202,173,ACM,50,3.66,Career Services,Great turnout
+245,Alumni Meetup Significant,Alumni Meetup,SLU Career Services,2017-12-20,University,Tempe,AZ,USA,08:30,120,Hybrid,Yes,360,344,IEEE,50,5.0,Analytics,Targeted to MS students
+246,Workshop Trouble,Workshop,Business School,2023-05-18,Employer,Pittsburgh,PA,USA,11:00,120,Hybrid,Yes,206,102,SLU,25,3.81,Analytics,Tech-focused
+247,Seminar All,Seminar,Employer Relations,2020-05-23,Employer,Columbus,OH,USA,14:00,180,Hybrid,Yes,201,200,Company Partner,25,3.9,Engineering,Networking-heavy
+248,Hackathon Strategy,Hackathon,Employer Relations,2025-11-20,University,Orlando,FL,USA,13:30,60,Virtual,Yes,286,29,ACM,10,4.62,Engineering,Targeted to MS students
+249,Hackathon Task,Hackathon,Employer Relations,2017-10-19,University,Boulder,CO,USA,18:30,120,In-Person,Yes,59,39,SLU,50,4.97,Analytics,Targeted to MS students
+250,Employer Info Session Debate,Employer Info Session,SLU Career Services,2023-07-09,Employer,Jacksonville,FL,USA,10:00,180,Virtual,Yes,103,39,Company Partner,50,3.54,Engineering,Targeted to MS students
+251,Employer Info Session Moment,Employer Info Session,CS Dept,2020-08-08,Employer,Columbus,OH,USA,09:30,180,In-Person,Yes,199,63,IEEE,10,3.77,Career Services,Targeted to MS students
+252,Hackathon Approach,Hackathon,Business School,2024-07-28,Employer,Philadelphia,PA,USA,14:15,90,In-Person,Yes,175,83,IEEE,10,4.49,Career Services,Targeted to MS students
+253,Webinar Him,Webinar,Employer Relations,2019-08-10,University,Charlotte,NC,USA,09:00,180,Virtual,Yes,400,124,ACM,10,4.78,Engineering,Networking-heavy
+254,Career Fair Alone,Career Fair,SLU Career Services,2021-03-11,Employer,Cincinnati,OH,USA,18:15,60,In-Person,Yes,135,98,IEEE,25,3.51,Engineering,Great turnout
+255,Hackathon Project,Hackathon,External Employer,2016-03-17,University,Tucson,AZ,USA,18:00,90,Virtual,Yes,199,70,ACM,50,4.52,Business,Tech-focused
+256,Alumni Meetup Specific,Alumni Meetup,SLU Career Services,2024-12-09,Employer,Cary,NC,USA,14:15,120,In-Person,Yes,388,169,Graduate School,10,4.31,Career Services,Tech-focused
+257,Seminar Win,Seminar,External Employer,2015-11-06,Employer,San Francisco,CA,USA,14:45,180,Hybrid,Yes,207,164,Company Partner,25,4.06,Analytics,Networking-heavy
+258,Workshop Someone,Workshop,Employer Relations,2019-04-19,University,Tacoma,WA,USA,12:45,90,In-Person,Yes,358,294,Company Partner,0,4.29,Engineering,Tech-focused
+259,Career Fair History,Career Fair,Business School,2017-06-29,Employer,Miami,FL,USA,12:15,180,Hybrid,Yes,391,242,Graduate School,25,3.78,Business,Targeted to MS students
+260,Employer Info Session Professional,Employer Info Session,External Employer,2025-07-27,Employer,Plano,TX,USA,08:15,180,Virtual,Yes,135,10,Graduate School,0,4.06,Business,Great turnout
+261,Alumni Meetup As,Alumni Meetup,SLU Alumni Association,2020-08-19,University,Harrisburg,PA,USA,10:00,120,In-Person,Yes,110,86,SLU,10,4.55,Engineering,Tech-focused
+262,Webinar Month,Webinar,External Employer,2019-07-02,University,Detroit,MI,USA,08:00,180,Hybrid,Yes,136,60,ACM,10,3.86,Career Services,Networking-heavy
+263,Employer Info Session Material,Employer Info Session,Business School,2018-01-07,Employer,Atlanta,GA,USA,17:30,60,Hybrid,Yes,169,164,Graduate School,10,3.31,Business,Great turnout
+264,Employer Info Session Region,Employer Info Session,Business School,2021-12-05,Employer,Raleigh,NC,USA,16:30,120,Hybrid,Yes,194,10,Graduate School,25,4.2,Engineering,Targeted to MS students
+265,Workshop Few,Workshop,SLU Career Services,2021-06-21,Employer,Somerville,MA,USA,08:15,120,Hybrid,Yes,202,53,SLU,50,4.6,Analytics,Great turnout
+266,Hackathon Behind,Hackathon,SLU Alumni Association,2024-12-12,University,St. Louis,MO,USA,10:00,90,Virtual,Yes,357,201,Company Partner,50,4.75,Business,Tech-focused
+267,Career Fair Front,Career Fair,CS Dept,2016-01-02,University,Worcester,MA,USA,11:15,60,In-Person,Yes,258,132,Company Partner,50,3.74,Analytics,Networking-heavy
+268,Employer Info Session List,Employer Info Session,Business School,2021-01-24,University,Alpharetta,GA,USA,17:00,120,Hybrid,Yes,36,23,Company Partner,25,4.19,Business,Great turnout
+269,Employer Info Session Center,Employer Info Session,CS Dept,2015-07-09,Employer,Tacoma,WA,USA,13:00,120,Virtual,Yes,291,50,ACM,50,5.0,Career Services,Great turnout
+270,Employer Info Session Its,Employer Info Session,Business School,2021-02-21,University,Worcester,MA,USA,09:15,60,Virtual,Yes,251,53,SLU,10,4.52,Analytics,Great turnout
+271,Hackathon Several,Hackathon,SLU Alumni Association,2020-07-30,Employer,San Francisco,CA,USA,08:30,120,Hybrid,Yes,368,155,Graduate School,50,3.99,Business,Targeted to MS students
+272,Seminar Force,Seminar,SLU Alumni Association,2022-07-08,University,Durham,NC,USA,09:45,180,Virtual,Yes,262,216,Company Partner,10,4.21,Analytics,Networking-heavy
+273,Hackathon Consider,Hackathon,Employer Relations,2024-08-27,University,Cincinnati,OH,USA,11:15,180,Virtual,Yes,127,102,ACM,0,3.97,Business,Tech-focused
+274,Workshop Line,Workshop,CS Dept,2023-05-03,University,Grand Rapids,MI,USA,12:45,90,In-Person,Yes,385,52,Company Partner,0,4.29,Business,Targeted to MS students
+275,Employer Info Session Pick,Employer Info Session,SLU Career Services,2025-04-11,Employer,Cleveland,OH,USA,12:45,60,In-Person,Yes,208,182,Graduate School,50,4.23,Business,Tech-focused
+276,Webinar Interest,Webinar,Business School,2020-06-02,Employer,San Francisco,CA,USA,11:00,120,Hybrid,Yes,290,18,Company Partner,10,4.1,Analytics,Targeted to MS students
+277,Alumni Meetup Line,Alumni Meetup,SLU Career Services,2022-07-05,University,Houston,TX,USA,08:30,180,Virtual,Yes,37,20,Graduate School,10,3.73,Business,Networking-heavy
+278,Seminar Drive,Seminar,CS Dept,2025-02-11,Employer,Cincinnati,OH,USA,18:30,90,Virtual,Yes,248,29,Company Partner,50,4.5,Analytics,Targeted to MS students
+279,Career Fair It,Career Fair,SLU Career Services,2022-08-27,University,Tacoma,WA,USA,13:15,60,Virtual,Yes,137,25,SLU,0,4.43,Career Services,Great turnout
+280,Alumni Meetup Painting,Alumni Meetup,SLU Career Services,2020-04-29,Employer,Harrisburg,PA,USA,15:45,180,In-Person,Yes,145,44,Company Partner,0,4.18,Career Services,Targeted to MS students
+281,Employer Info Session Total,Employer Info Session,External Employer,2023-10-20,University,Cleveland,OH,USA,09:30,180,In-Person,Yes,247,73,Company Partner,0,3.64,Career Services,Networking-heavy
+282,Alumni Meetup Least,Alumni Meetup,External Employer,2018-07-02,University,Phoenix,AZ,USA,09:30,180,In-Person,Yes,272,172,ACM,0,3.49,Business,Tech-focused
+283,Seminar Candidate,Seminar,Employer Relations,2017-03-07,Employer,Bellevue,WA,USA,16:45,180,In-Person,Yes,311,286,Graduate School,25,4.33,Engineering,Great turnout
+284,Webinar Wall,Webinar,SLU Alumni Association,2021-11-24,University,Charlotte,NC,USA,09:45,90,Virtual,Yes,167,48,Graduate School,25,4.02,Career Services,Networking-heavy
+285,Hackathon Teach,Hackathon,External Employer,2022-07-08,Employer,Harrisburg,PA,USA,13:45,180,Hybrid,Yes,178,43,Company Partner,10,4.15,Career Services,Great turnout
+286,Workshop Be,Workshop,SLU Career Services,2018-09-19,Employer,Harrisburg,PA,USA,09:30,60,In-Person,Yes,31,27,IEEE,25,3.4,Engineering,Networking-heavy
+287,Workshop Level,Workshop,Business School,2018-11-18,Employer,Harrisburg,PA,USA,15:45,60,In-Person,Yes,363,213,SLU,50,4.21,Analytics,Great turnout
+288,Employer Info Session Price,Employer Info Session,Business School,2018-04-22,University,San Antonio,TX,USA,12:45,120,Virtual,Yes,221,73,ACM,25,3.6,Analytics,Networking-heavy
+289,Alumni Meetup Teach,Alumni Meetup,Employer Relations,2020-04-02,University,Atlanta,GA,USA,10:00,90,Virtual,Yes,391,246,SLU,50,4.0,Business,Great turnout
+290,Seminar Prove,Seminar,External Employer,2017-11-21,University,Cincinnati,OH,USA,15:15,90,In-Person,Yes,299,42,Company Partner,0,4.96,Business,Targeted to MS students
+291,Hackathon Such,Hackathon,Employer Relations,2020-11-21,University,Cleveland,OH,USA,14:15,90,Virtual,Yes,366,314,ACM,25,3.16,Engineering,Great turnout
+292,Career Fair Until,Career Fair,Business School,2016-02-03,Employer,Cary,NC,USA,18:30,120,In-Person,Yes,209,135,Company Partner,50,3.93,Career Services,Targeted to MS students
+293,Employer Info Session Question,Employer Info Session,Employer Relations,2023-11-18,University,Savannah,GA,USA,13:15,120,Hybrid,Yes,100,37,Graduate School,0,4.05,Analytics,Great turnout
+294,Hackathon This,Hackathon,SLU Career Services,2024-08-10,Employer,Chesterfield,MO,USA,15:15,90,In-Person,Yes,250,155,SLU,10,4.54,Analytics,Networking-heavy
+295,Seminar Great,Seminar,Employer Relations,2017-08-24,Employer,Cleveland,OH,USA,18:00,90,Hybrid,Yes,74,56,Company Partner,10,3.59,Analytics,Great turnout
+296,Webinar Every,Webinar,CS Dept,2019-09-15,Employer,Seattle,WA,USA,16:00,120,Virtual,Yes,137,113,Graduate School,0,4.31,Business,Great turnout
+297,Workshop Response,Workshop,SLU Career Services,2023-07-10,University,Durham,NC,USA,17:30,90,In-Person,Yes,66,61,Company Partner,10,5.0,Analytics,Networking-heavy
+298,Seminar Again,Seminar,CS Dept,2016-01-02,Employer,Grand Rapids,MI,USA,15:00,120,In-Person,Yes,311,293,IEEE,50,4.33,Business,Tech-focused
+299,Webinar Dinner,Webinar,Employer Relations,2019-06-29,University,Miami,FL,USA,16:00,180,Virtual,Yes,55,50,Company Partner,25,3.79,Career Services,Tech-focused
+300,Employer Info Session Thousand,Employer Info Session,CS Dept,2020-01-17,Employer,Cary,NC,USA,14:45,90,Virtual,Yes,211,79,IEEE,0,4.55,Engineering,Networking-heavy
+301,Seminar Through,Seminar,SLU Alumni Association,2019-10-26,Employer,Seattle,WA,USA,15:45,90,Virtual,Yes,218,38,ACM,10,3.99,Engineering,Networking-heavy
+302,Hackathon Know,Hackathon,CS Dept,2022-06-01,University,Detroit,MI,USA,08:15,180,Virtual,Yes,190,42,SLU,50,4.04,Business,Networking-heavy
+303,Alumni Meetup Everybody,Alumni Meetup,CS Dept,2022-09-05,University,Dallas,TX,USA,18:30,90,In-Person,Yes,279,103,SLU,0,3.98,Business,Targeted to MS students
+304,Employer Info Session Process,Employer Info Session,SLU Alumni Association,2016-10-09,University,Scottsdale,AZ,USA,11:30,90,Virtual,Yes,222,174,IEEE,0,4.61,Business,Tech-focused
+305,Alumni Meetup Guess,Alumni Meetup,Employer Relations,2021-08-07,University,Peoria,IL,USA,18:00,60,Virtual,Yes,187,96,Graduate School,50,4.12,Engineering,Networking-heavy
+306,Webinar Age,Webinar,SLU Career Services,2022-06-09,Employer,Raleigh,NC,USA,13:30,90,In-Person,Yes,56,23,SLU,10,4.12,Analytics,Targeted to MS students
+307,Hackathon Get,Hackathon,Employer Relations,2023-09-28,Employer,Boulder,CO,USA,09:00,180,In-Person,Yes,135,13,Graduate School,0,4.75,Business,Tech-focused
+308,Career Fair Course,Career Fair,SLU Alumni Association,2016-04-08,University,Albany,NY,USA,09:15,60,Hybrid,Yes,78,48,Company Partner,10,4.25,Business,Networking-heavy
+309,Seminar Likely,Seminar,SLU Alumni Association,2017-08-25,Employer,Raleigh,NC,USA,15:30,60,Hybrid,Yes,345,139,Company Partner,50,5.0,Engineering,Targeted to MS students
+310,Career Fair Into,Career Fair,SLU Career Services,2025-04-14,University,Harrisburg,PA,USA,08:45,120,Hybrid,Yes,281,222,Graduate School,25,3.8,Career Services,Great turnout
+311,Webinar Administration,Webinar,SLU Career Services,2016-01-04,University,New York,NY,USA,13:30,180,Hybrid,Yes,85,63,ACM,50,3.93,Career Services,Great turnout
+312,Seminar Contain,Seminar,Employer Relations,2020-11-29,University,Cambridge,MA,USA,16:00,60,Virtual,Yes,329,183,SLU,10,4.55,Career Services,Tech-focused
+313,Webinar Anyone,Webinar,External Employer,2016-04-04,Employer,San Jose,CA,USA,17:00,90,Virtual,Yes,194,71,SLU,50,4.53,Engineering,Networking-heavy
+314,Career Fair Order,Career Fair,SLU Alumni Association,2015-06-16,University,Redmond,WA,USA,14:45,180,In-Person,Yes,368,357,Company Partner,25,4.23,Business,Targeted to MS students
+315,Alumni Meetup Bad,Alumni Meetup,Employer Relations,2024-09-06,Employer,Pittsburgh,PA,USA,15:15,180,Virtual,Yes,68,29,Graduate School,10,5.0,Analytics,Tech-focused
+316,Seminar Necessary,Seminar,CS Dept,2020-09-09,Employer,Worcester,MA,USA,10:45,120,In-Person,Yes,173,31,ACM,25,4.89,Analytics,Great turnout
+317,Workshop Adult,Workshop,Business School,2015-08-07,Employer,Worcester,MA,USA,13:30,90,Hybrid,Yes,341,232,IEEE,10,5.0,Career Services,Tech-focused
+318,Employer Info Session Score,Employer Info Session,SLU Alumni Association,2019-04-27,University,Chesterfield,MO,USA,17:30,120,Virtual,Yes,102,67,ACM,50,4.36,Analytics,Great turnout
+319,Alumni Meetup Risk,Alumni Meetup,External Employer,2018-10-22,Employer,Ann Arbor,MI,USA,17:00,60,In-Person,Yes,231,20,ACM,10,4.72,Analytics,Great turnout
+320,Employer Info Session Exactly,Employer Info Session,Employer Relations,2020-03-12,University,Columbus,OH,USA,13:15,90,Hybrid,Yes,277,27,SLU,0,4.58,Analytics,Networking-heavy
+321,Webinar May,Webinar,Employer Relations,2017-03-12,Employer,Clayton,MO,USA,11:30,90,Virtual,Yes,273,140,IEEE,10,2.85,Career Services,Networking-heavy
+322,Workshop Seem,Workshop,Business School,2020-01-04,Employer,Philadelphia,PA,USA,16:15,90,Hybrid,Yes,333,304,Company Partner,10,4.36,Business,Tech-focused
+323,Career Fair Accept,Career Fair,SLU Career Services,2015-05-08,University,San Antonio,TX,USA,11:15,120,Virtual,Yes,54,49,Graduate School,0,4.02,Career Services,Networking-heavy
+324,Alumni Meetup Herself,Alumni Meetup,SLU Alumni Association,2018-10-09,Employer,Kansas City,MO,USA,15:15,90,In-Person,Yes,309,22,Graduate School,50,4.54,Business,Tech-focused
+325,Employer Info Session Actually,Employer Info Session,SLU Career Services,2016-05-05,University,Cincinnati,OH,USA,08:00,90,In-Person,Yes,198,120,Company Partner,25,3.98,Business,Targeted to MS students
+326,Webinar Financial,Webinar,SLU Alumni Association,2019-12-14,University,Rochester,NY,USA,14:30,90,In-Person,Yes,75,71,Graduate School,50,4.3,Career Services,Targeted to MS students
+327,Webinar Shake,Webinar,Business School,2017-05-10,University,Denver,CO,USA,09:30,90,In-Person,Yes,301,10,ACM,10,5.0,Analytics,Tech-focused
+328,Seminar Our,Seminar,Employer Relations,2017-01-24,Employer,Colorado Springs,CO,USA,12:15,90,Hybrid,Yes,75,73,SLU,0,4.77,Analytics,Networking-heavy
+329,Webinar Once,Webinar,SLU Career Services,2025-08-24,Employer,Worcester,MA,USA,11:45,90,Virtual,Yes,211,144,Company Partner,0,4.68,Engineering,Tech-focused
+330,Employer Info Session Three,Employer Info Session,CS Dept,2015-08-09,University,Cincinnati,OH,USA,09:15,90,In-Person,Yes,91,80,Company Partner,0,4.39,Analytics,Tech-focused
+331,Workshop When,Workshop,SLU Alumni Association,2023-05-02,University,Dallas,TX,USA,11:30,90,Virtual,Yes,72,63,IEEE,50,3.72,Career Services,Networking-heavy
+332,Seminar Collection,Seminar,Business School,2025-10-22,Employer,Detroit,MI,USA,15:15,180,Virtual,Yes,167,91,Company Partner,10,4.26,Analytics,Great turnout
+333,Hackathon News,Hackathon,CS Dept,2017-08-11,University,Cincinnati,OH,USA,08:00,90,In-Person,Yes,148,42,Graduate School,10,4.1,Engineering,Tech-focused
+334,Career Fair Dog,Career Fair,External Employer,2021-01-31,University,Worcester,MA,USA,17:45,90,Hybrid,Yes,374,41,Company Partner,0,4.82,Analytics,Networking-heavy
+335,Employer Info Session Year,Employer Info Session,Employer Relations,2025-12-31,Employer,Buffalo,NY,USA,10:45,60,Virtual,Yes,159,103,SLU,50,3.88,Business,Tech-focused
+336,Hackathon Partner,Hackathon,Employer Relations,2015-09-05,Employer,Cleveland,OH,USA,18:45,120,Hybrid,Yes,332,105,Graduate School,10,3.81,Career Services,Tech-focused
+337,Career Fair His,Career Fair,SLU Alumni Association,2023-08-21,University,Cleveland,OH,USA,11:15,180,Hybrid,Yes,276,27,SLU,50,3.75,Engineering,Great turnout
+338,Seminar Assume,Seminar,SLU Career Services,2020-09-21,Employer,Ann Arbor,MI,USA,17:15,90,Virtual,Yes,286,255,IEEE,25,4.55,Career Services,Great turnout
+339,Seminar Yet,Seminar,SLU Career Services,2017-07-01,Employer,Grand Rapids,MI,USA,18:30,180,Virtual,Yes,376,194,Graduate School,25,4.01,Career Services,Tech-focused
+340,Workshop Off,Workshop,External Employer,2021-02-22,University,St. Louis,MO,USA,10:30,180,Hybrid,Yes,330,311,IEEE,10,5.0,Career Services,Targeted to MS students
+341,Alumni Meetup Worker,Alumni Meetup,Business School,2022-01-11,University,Cary,NC,USA,08:45,60,Virtual,Yes,324,317,Graduate School,0,4.92,Career Services,Great turnout
+342,Seminar Key,Seminar,CS Dept,2016-12-23,University,Columbia,MO,USA,14:15,60,Hybrid,Yes,41,27,SLU,50,3.75,Engineering,Networking-heavy
+343,Employer Info Session Charge,Employer Info Session,External Employer,2019-03-16,University,San Diego,CA,USA,18:30,120,Hybrid,Yes,221,35,Company Partner,25,4.06,Engineering,Tech-focused
+344,Webinar Drug,Webinar,Business School,2018-01-10,Employer,Ann Arbor,MI,USA,13:30,180,Hybrid,Yes,177,58,ACM,50,4.51,Career Services,Great turnout
+345,Employer Info Session Shake,Employer Info Session,CS Dept,2017-12-07,University,Dallas,TX,USA,09:00,90,Hybrid,Yes,388,60,Graduate School,50,4.89,Engineering,Tech-focused
+346,Alumni Meetup Employee,Alumni Meetup,External Employer,2019-09-13,Employer,Miami,FL,USA,08:45,120,Hybrid,Yes,179,19,IEEE,0,4.61,Analytics,Targeted to MS students
+347,Employer Info Session Behind,Employer Info Session,SLU Alumni Association,2017-09-25,University,Los Angeles,CA,USA,13:45,90,Hybrid,Yes,269,240,SLU,25,5.0,Business,Networking-heavy
+348,Alumni Meetup Water,Alumni Meetup,Business School,2021-02-10,Employer,Alpharetta,GA,USA,09:00,60,In-Person,Yes,313,149,SLU,10,4.09,Engineering,Great turnout
+349,Employer Info Session White,Employer Info Session,External Employer,2021-09-29,University,Colorado Springs,CO,USA,17:00,60,Virtual,Yes,208,17,Company Partner,25,4.26,Career Services,Targeted to MS students
+350,Employer Info Session Better,Employer Info Session,External Employer,2015-10-03,Employer,Atlanta,GA,USA,09:45,90,Hybrid,Yes,128,30,IEEE,0,4.71,Career Services,Targeted to MS students
+351,Seminar Sure,Seminar,External Employer,2020-06-05,University,Somerville,MA,USA,16:45,120,In-Person,Yes,58,19,IEEE,50,3.42,Career Services,Great turnout
+352,Alumni Meetup Mean,Alumni Meetup,SLU Career Services,2024-04-17,University,Worcester,MA,USA,10:45,60,In-Person,Yes,196,33,IEEE,25,3.43,Career Services,Great turnout
+353,Hackathon Center,Hackathon,Business School,2025-02-20,Employer,Springfield,IL,USA,09:00,120,Hybrid,Yes,375,236,SLU,50,3.66,Career Services,Tech-focused
+354,Seminar Article,Seminar,SLU Career Services,2023-01-10,Employer,Boston,MA,USA,14:15,90,Hybrid,Yes,87,73,IEEE,50,2.76,Career Services,Tech-focused
+355,Alumni Meetup Box,Alumni Meetup,CS Dept,2024-03-07,University,Scottsdale,AZ,USA,18:15,60,In-Person,Yes,396,66,SLU,10,4.69,Business,Targeted to MS students
+356,Career Fair Dream,Career Fair,CS Dept,2019-10-09,University,Chesterfield,MO,USA,11:45,120,In-Person,Yes,109,56,IEEE,50,4.07,Career Services,Networking-heavy
+357,Alumni Meetup Career,Alumni Meetup,Employer Relations,2025-10-08,University,Cambridge,MA,USA,16:45,90,Virtual,Yes,128,61,SLU,0,5.0,Analytics,Networking-heavy
+358,Career Fair Hospital,Career Fair,External Employer,2024-05-07,University,New York,NY,USA,09:15,120,In-Person,Yes,43,40,Company Partner,0,4.27,Career Services,Tech-focused
+359,Employer Info Session Hot,Employer Info Session,SLU Career Services,2022-01-28,Employer,Urbana,IL,USA,15:15,120,Virtual,Yes,44,35,SLU,10,4.23,Analytics,Targeted to MS students
+360,Employer Info Session Line,Employer Info Session,CS Dept,2019-05-16,Employer,Somerville,MA,USA,18:30,60,In-Person,Yes,382,180,ACM,10,4.02,Business,Targeted to MS students
+361,Employer Info Session Themselves,Employer Info Session,SLU Career Services,2019-07-05,Employer,Scottsdale,AZ,USA,15:15,120,Hybrid,Yes,86,80,ACM,0,4.45,Engineering,Networking-heavy
+362,Hackathon Business,Hackathon,Business School,2018-10-14,University,Fort Collins,CO,USA,18:45,180,In-Person,Yes,389,154,Graduate School,50,3.63,Engineering,Tech-focused
+363,Webinar Tonight,Webinar,Business School,2021-08-06,University,Atlanta,GA,USA,08:45,120,In-Person,Yes,231,43,Company Partner,50,4.29,Engineering,Networking-heavy
+364,Seminar Yard,Seminar,SLU Alumni Association,2025-01-09,University,San Antonio,TX,USA,15:45,180,Virtual,Yes,181,66,SLU,25,5.0,Business,Networking-heavy
+365,Alumni Meetup Relate,Alumni Meetup,CS Dept,2016-02-10,Employer,Springfield,IL,USA,11:00,90,Hybrid,Yes,205,27,IEEE,50,4.57,Business,Networking-heavy
+366,Career Fair Firm,Career Fair,SLU Career Services,2017-01-22,University,Tucson,AZ,USA,10:30,90,Hybrid,Yes,137,84,IEEE,25,3.62,Engineering,Targeted to MS students
+367,Employer Info Session Really,Employer Info Session,Business School,2017-05-17,University,Dallas,TX,USA,12:00,90,Virtual,Yes,205,182,Graduate School,0,4.5,Career Services,Tech-focused
+368,Employer Info Session Investment,Employer Info Session,CS Dept,2025-07-03,Employer,Cleveland,OH,USA,14:45,120,In-Person,Yes,49,28,Company Partner,50,3.95,Career Services,Great turnout
+369,Alumni Meetup Able,Alumni Meetup,External Employer,2021-03-27,Employer,Tampa,FL,USA,11:30,120,In-Person,Yes,105,59,Graduate School,10,4.55,Analytics,Networking-heavy
+370,Seminar Sell,Seminar,CS Dept,2020-01-07,University,White Plains,NY,USA,17:30,90,In-Person,Yes,227,102,Company Partner,25,3.71,Analytics,Targeted to MS students
+371,Employer Info Session Participant,Employer Info Session,SLU Alumni Association,2024-01-28,University,Pittsburgh,PA,USA,13:45,120,Hybrid,Yes,84,13,SLU,10,3.96,Business,Networking-heavy
+372,Alumni Meetup Front,Alumni Meetup,Business School,2025-02-24,Employer,Harrisburg,PA,USA,13:00,180,Hybrid,Yes,325,315,SLU,10,3.9,Business,Great turnout
+373,Employer Info Session Represent,Employer Info Session,External Employer,2023-11-27,University,Grand Rapids,MI,USA,09:45,120,Hybrid,Yes,387,281,Graduate School,25,3.95,Analytics,Networking-heavy
+374,Career Fair Production,Career Fair,External Employer,2023-08-15,University,Boulder,CO,USA,11:15,180,Virtual,Yes,41,21,Graduate School,0,5.0,Career Services,Networking-heavy
+375,Employer Info Session Finish,Employer Info Session,SLU Career Services,2021-07-14,University,Orlando,FL,USA,12:00,120,In-Person,Yes,296,42,Graduate School,10,4.29,Analytics,Great turnout
+376,Employer Info Session Serve,Employer Info Session,Business School,2022-12-04,University,San Jose,CA,USA,08:45,60,Hybrid,Yes,393,61,SLU,10,4.45,Business,Tech-focused
+377,Employer Info Session Must,Employer Info Session,External Employer,2022-08-28,University,Cleveland,OH,USA,09:30,120,Hybrid,Yes,40,11,ACM,50,4.27,Career Services,Great turnout
+378,Hackathon And,Hackathon,Employer Relations,2019-12-02,University,Irvine,CA,USA,17:45,60,In-Person,Yes,116,34,ACM,25,4.49,Career Services,Great turnout
+379,Alumni Meetup Day,Alumni Meetup,CS Dept,2024-12-06,Employer,Urbana,IL,USA,15:00,90,In-Person,Yes,40,39,SLU,10,4.18,Analytics,Great turnout
+380,Workshop Again,Workshop,CS Dept,2016-09-05,University,Peoria,IL,USA,12:30,60,Hybrid,Yes,71,48,ACM,25,3.71,Engineering,Targeted to MS students
+381,Career Fair Such,Career Fair,SLU Alumni Association,2024-09-28,University,Tucson,AZ,USA,10:15,180,Hybrid,Yes,332,297,IEEE,0,3.16,Engineering,Targeted to MS students
+382,Hackathon Ago,Hackathon,SLU Career Services,2024-12-16,University,Pittsburgh,PA,USA,09:45,60,In-Person,Yes,332,282,IEEE,0,3.78,Career Services,Tech-focused
+383,Seminar Rate,Seminar,Business School,2017-07-02,Employer,Boston,MA,USA,09:00,60,Hybrid,Yes,391,212,Company Partner,10,4.71,Business,Networking-heavy
+384,Employer Info Session Although,Employer Info Session,CS Dept,2019-11-29,Employer,San Diego,CA,USA,18:00,120,Hybrid,Yes,270,10,IEEE,10,3.79,Career Services,Tech-focused
+385,Career Fair Travel,Career Fair,Business School,2019-03-20,Employer,Denver,CO,USA,10:45,90,Virtual,Yes,62,58,Graduate School,25,3.71,Engineering,Tech-focused
+386,Workshop Marriage,Workshop,External Employer,2017-03-24,University,Tempe,AZ,USA,16:15,180,Hybrid,Yes,163,47,Graduate School,50,4.83,Business,Networking-heavy
+387,Hackathon Example,Hackathon,Business School,2019-08-08,Employer,Cincinnati,OH,USA,14:30,60,Virtual,Yes,282,282,Company Partner,0,3.9,Analytics,Networking-heavy
+388,Seminar Process,Seminar,CS Dept,2019-01-01,Employer,Cary,NC,USA,18:30,180,Virtual,Yes,99,41,SLU,25,4.13,Analytics,Tech-focused
+389,Employer Info Session Point,Employer Info Session,SLU Alumni Association,2023-07-07,University,Phoenix,AZ,USA,14:30,90,Virtual,Yes,261,144,Graduate School,50,5.0,Career Services,Great turnout
+390,Hackathon Learn,Hackathon,Employer Relations,2022-03-07,University,Tempe,AZ,USA,14:45,180,Hybrid,Yes,46,17,ACM,10,4.72,Analytics,Targeted to MS students
+391,Workshop Ago,Workshop,External Employer,2017-10-29,Employer,Irvine,CA,USA,18:00,60,In-Person,Yes,35,15,SLU,10,3.64,Engineering,Networking-heavy
+392,Seminar Smile,Seminar,Employer Relations,2022-07-23,University,Jacksonville,FL,USA,13:00,60,Virtual,Yes,348,218,Graduate School,0,4.78,Engineering,Networking-heavy
+393,Alumni Meetup Hit,Alumni Meetup,SLU Career Services,2022-11-29,Employer,Grand Rapids,MI,USA,12:45,180,Hybrid,Yes,250,17,SLU,10,4.7,Engineering,Great turnout
+394,Employer Info Session Security,Employer Info Session,SLU Alumni Association,2024-05-23,Employer,Orlando,FL,USA,18:00,90,Hybrid,Yes,383,352,ACM,10,4.31,Analytics,Great turnout
+395,Employer Info Session Film,Employer Info Session,Employer Relations,2016-01-11,University,Tucson,AZ,USA,08:45,90,In-Person,Yes,200,67,ACM,50,4.07,Engineering,Great turnout
+396,Seminar Admit,Seminar,SLU Career Services,2016-03-08,University,Rochester,NY,USA,13:15,120,In-Person,Yes,125,18,IEEE,25,4.72,Career Services,Tech-focused
+397,Employer Info Session Expert,Employer Info Session,Business School,2025-10-17,Employer,Cambridge,MA,USA,08:00,90,Virtual,Yes,30,17,SLU,10,4.6,Engineering,Targeted to MS students
+398,Workshop Remember,Workshop,SLU Career Services,2020-04-26,Employer,Philadelphia,PA,USA,11:45,120,In-Person,Yes,331,115,SLU,50,4.86,Business,Networking-heavy
+399,Seminar Again,Seminar,Employer Relations,2020-10-12,University,Kansas City,MO,USA,14:45,90,Virtual,Yes,44,43,Graduate School,10,4.92,Career Services,Great turnout
+400,Alumni Meetup Lead,Alumni Meetup,Employer Relations,2017-12-14,Employer,Atlanta,GA,USA,16:45,180,Virtual,Yes,280,158,SLU,10,3.4,Engineering,Targeted to MS students
+401,Career Fair In,Career Fair,Employer Relations,2015-04-10,University,Bellevue,WA,USA,11:30,90,Virtual,Yes,175,80,IEEE,25,4.3,Analytics,Targeted to MS students
+402,Workshop Miss,Workshop,SLU Alumni Association,2021-09-19,University,Albany,NY,USA,14:00,180,In-Person,Yes,30,20,IEEE,0,3.7,Engineering,Networking-heavy
+403,Workshop Public,Workshop,SLU Alumni Association,2021-11-23,University,Tampa,FL,USA,11:30,120,Hybrid,Yes,267,49,ACM,10,4.41,Analytics,Networking-heavy
+404,Alumni Meetup From,Alumni Meetup,CS Dept,2022-08-15,Employer,Seattle,WA,USA,08:00,180,Virtual,Yes,186,90,Company Partner,50,4.39,Engineering,Great turnout
+405,Hackathon Fill,Hackathon,SLU Alumni Association,2024-03-09,University,White Plains,NY,USA,17:15,180,In-Person,Yes,337,238,IEEE,25,3.95,Career Services,Tech-focused
+406,Employer Info Session Official,Employer Info Session,CS Dept,2018-09-11,University,Austin,TX,USA,16:15,120,In-Person,Yes,63,58,IEEE,0,3.97,Business,Targeted to MS students
+407,Webinar Drug,Webinar,SLU Career Services,2018-08-05,University,Kansas City,MO,USA,09:45,90,Virtual,Yes,122,109,SLU,25,4.29,Business,Targeted to MS students
+408,Seminar Specific,Seminar,CS Dept,2021-01-03,University,St. Louis,MO,USA,10:45,180,In-Person,Yes,212,115,ACM,10,5.0,Business,Great turnout
+409,Seminar Across,Seminar,SLU Alumni Association,2019-03-31,Employer,Miami,FL,USA,09:15,60,In-Person,Yes,141,51,ACM,10,4.74,Business,Great turnout
+410,Career Fair Energy,Career Fair,CS Dept,2018-11-29,Employer,Raleigh,NC,USA,09:00,120,Virtual,Yes,112,96,Company Partner,25,4.36,Engineering,Networking-heavy
+411,Alumni Meetup Get,Alumni Meetup,SLU Alumni Association,2021-05-03,University,Cincinnati,OH,USA,17:45,90,In-Person,Yes,94,87,SLU,50,4.44,Engineering,Great turnout
+412,Career Fair Both,Career Fair,SLU Career Services,2021-11-25,Employer,Buffalo,NY,USA,15:00,180,Virtual,Yes,178,169,Company Partner,50,5.0,Business,Networking-heavy
+413,Seminar Three,Seminar,Employer Relations,2020-11-22,Employer,Orlando,FL,USA,10:30,180,Virtual,Yes,300,168,ACM,10,4.02,Analytics,Great turnout
+414,Career Fair Public,Career Fair,SLU Career Services,2017-08-17,Employer,Alpharetta,GA,USA,10:30,90,In-Person,Yes,222,180,SLU,10,4.35,Career Services,Targeted to MS students
+415,Webinar Writer,Webinar,CS Dept,2020-01-23,University,Orlando,FL,USA,18:30,90,Virtual,Yes,103,80,IEEE,0,4.31,Business,Great turnout
+416,Hackathon News,Hackathon,External Employer,2025-03-12,University,Austin,TX,USA,15:15,180,Virtual,Yes,217,53,SLU,25,4.51,Engineering,Tech-focused
+417,Alumni Meetup Who,Alumni Meetup,Employer Relations,2022-03-14,University,Atlanta,GA,USA,16:15,90,Hybrid,Yes,373,36,Company Partner,25,4.39,Analytics,Networking-heavy
+418,Career Fair Sign,Career Fair,Employer Relations,2016-03-18,University,Denver,CO,USA,11:15,60,Virtual,Yes,273,75,SLU,50,5.0,Career Services,Great turnout
+419,Career Fair Appear,Career Fair,SLU Alumni Association,2020-02-29,University,Columbus,OH,USA,14:15,60,Hybrid,Yes,195,57,IEEE,25,5.0,Engineering,Great turnout
+420,Hackathon Case,Hackathon,SLU Alumni Association,2025-01-09,University,Boston,MA,USA,15:00,60,In-Person,Yes,394,151,Graduate School,0,3.65,Business,Great turnout
+421,Seminar Long,Seminar,SLU Alumni Association,2015-05-13,University,Pittsburgh,PA,USA,08:30,60,Virtual,Yes,98,69,IEEE,10,4.55,Engineering,Targeted to MS students
+422,Webinar Rich,Webinar,Business School,2016-08-09,Employer,Alpharetta,GA,USA,17:00,60,Hybrid,Yes,129,45,SLU,0,4.58,Business,Tech-focused
+423,Workshop Then,Workshop,SLU Career Services,2015-01-30,Employer,Redmond,WA,USA,18:45,120,Hybrid,Yes,239,65,Graduate School,50,4.29,Business,Tech-focused
+424,Workshop Capital,Workshop,Employer Relations,2020-10-04,University,Columbia,MO,USA,12:00,120,Virtual,Yes,217,97,IEEE,25,4.06,Engineering,Tech-focused
+425,Employer Info Session Study,Employer Info Session,Business School,2019-09-15,University,Durham,NC,USA,17:30,120,In-Person,Yes,119,61,Company Partner,50,3.65,Business,Great turnout
+426,Alumni Meetup Marriage,Alumni Meetup,CS Dept,2022-04-18,University,Alpharetta,GA,USA,17:15,180,Virtual,Yes,259,201,IEEE,50,3.62,Analytics,Targeted to MS students
+427,Seminar Really,Seminar,CS Dept,2017-04-05,University,Redmond,WA,USA,09:45,60,Virtual,Yes,353,109,SLU,0,3.68,Career Services,Networking-heavy
+428,Webinar Side,Webinar,Employer Relations,2023-10-27,University,White Plains,NY,USA,10:00,90,Hybrid,Yes,399,399,Graduate School,50,3.84,Engineering,Great turnout
+429,Career Fair Range,Career Fair,SLU Alumni Association,2017-03-20,Employer,Orlando,FL,USA,17:30,60,Virtual,Yes,357,189,Company Partner,10,3.24,Business,Targeted to MS students
+430,Employer Info Session Do,Employer Info Session,Employer Relations,2019-09-25,Employer,Irvine,CA,USA,13:45,120,Virtual,Yes,363,145,Company Partner,50,4.75,Analytics,Networking-heavy
+431,Seminar We,Seminar,CS Dept,2021-11-17,Employer,Cary,NC,USA,10:45,180,Virtual,Yes,388,140,ACM,10,5.0,Business,Great turnout
+432,Webinar Choice,Webinar,Business School,2018-10-11,Employer,Seattle,WA,USA,14:45,180,Hybrid,Yes,152,147,IEEE,50,4.52,Analytics,Networking-heavy
+433,Employer Info Session Factor,Employer Info Session,SLU Career Services,2022-06-26,Employer,Redmond,WA,USA,14:45,60,Hybrid,Yes,57,41,Company Partner,10,4.87,Business,Targeted to MS students
+434,Employer Info Session Might,Employer Info Session,Business School,2024-01-25,University,Bellevue,WA,USA,08:15,90,Virtual,Yes,396,379,Graduate School,50,4.86,Engineering,Tech-focused
+435,Webinar They,Webinar,External Employer,2017-06-10,University,Raleigh,NC,USA,18:30,180,Virtual,Yes,53,33,SLU,10,3.74,Engineering,Targeted to MS students
+436,Employer Info Session Half,Employer Info Session,CS Dept,2019-09-09,Employer,Tampa,FL,USA,18:45,180,Hybrid,Yes,72,36,Graduate School,50,4.96,Business,Great turnout
+437,Alumni Meetup Eat,Alumni Meetup,Employer Relations,2018-12-09,University,Bellevue,WA,USA,08:45,60,Virtual,Yes,182,26,Company Partner,25,4.29,Engineering,Networking-heavy
+438,Employer Info Session Wall,Employer Info Session,External Employer,2023-06-18,University,Atlanta,GA,USA,13:45,180,In-Person,Yes,224,76,SLU,0,5.0,Engineering,Targeted to MS students
+439,Webinar Condition,Webinar,External Employer,2017-12-08,Employer,Atlanta,GA,USA,15:45,60,Hybrid,Yes,333,212,SLU,50,4.98,Analytics,Targeted to MS students
+440,Workshop Bank,Workshop,Employer Relations,2016-06-29,University,Harrisburg,PA,USA,10:30,60,Virtual,Yes,226,104,ACM,0,4.6,Engineering,Great turnout
+441,Hackathon Officer,Hackathon,SLU Career Services,2023-09-30,Employer,San Diego,CA,USA,12:00,120,Virtual,Yes,48,30,Graduate School,10,4.57,Analytics,Great turnout
+442,Career Fair Know,Career Fair,Business School,2022-09-12,Employer,Cincinnati,OH,USA,09:00,120,Virtual,Yes,380,323,IEEE,25,4.57,Business,Networking-heavy
+443,Career Fair Base,Career Fair,SLU Career Services,2016-05-06,University,Grand Rapids,MI,USA,12:45,90,Virtual,Yes,205,39,Company Partner,50,4.3,Business,Great turnout
+444,Webinar Shoulder,Webinar,SLU Alumni Association,2025-05-29,Employer,Irvine,CA,USA,09:00,60,Hybrid,Yes,42,42,Company Partner,10,4.2,Business,Tech-focused
+445,Career Fair Effort,Career Fair,Employer Relations,2020-11-29,University,Urbana,IL,USA,09:30,120,In-Person,Yes,285,139,ACM,25,5.0,Career Services,Networking-heavy
+446,Seminar Environment,Seminar,SLU Alumni Association,2022-08-13,University,Worcester,MA,USA,18:15,90,Hybrid,Yes,257,182,ACM,50,4.39,Engineering,Networking-heavy
+447,Career Fair Particular,Career Fair,SLU Alumni Association,2022-04-08,Employer,Cleveland,OH,USA,16:15,90,In-Person,Yes,363,230,Company Partner,25,4.03,Career Services,Tech-focused
+448,Employer Info Session All,Employer Info Session,Business School,2024-04-25,University,Kansas City,MO,USA,17:30,60,In-Person,Yes,33,23,IEEE,25,4.71,Analytics,Targeted to MS students
+449,Workshop Lead,Workshop,Business School,2017-06-12,Employer,Denver,CO,USA,17:15,90,Virtual,Yes,184,13,SLU,10,4.57,Career Services,Great turnout
+450,Employer Info Session Policy,Employer Info Session,External Employer,2015-08-22,Employer,Pittsburgh,PA,USA,09:00,120,Virtual,Yes,389,155,ACM,10,3.39,Analytics,Great turnout
+451,Employer Info Session Suffer,Employer Info Session,SLU Alumni Association,2022-05-08,Employer,Phoenix,AZ,USA,16:15,120,Virtual,Yes,229,225,Graduate School,10,4.8,Engineering,Great turnout
+452,Seminar Summer,Seminar,Business School,2025-05-18,Employer,Boston,MA,USA,14:15,90,Virtual,Yes,138,66,Company Partner,0,4.25,Analytics,Networking-heavy
+453,Hackathon Money,Hackathon,SLU Alumni Association,2019-02-12,Employer,White Plains,NY,USA,12:45,120,Virtual,Yes,299,228,Company Partner,50,5.0,Engineering,Tech-focused
+454,Seminar Third,Seminar,Business School,2025-04-05,Employer,Springfield,MO,USA,10:45,180,In-Person,Yes,351,191,ACM,50,4.69,Engineering,Great turnout
+455,Seminar Question,Seminar,CS Dept,2025-01-16,Employer,Ann Arbor,MI,USA,16:15,180,Hybrid,Yes,274,258,SLU,50,4.42,Analytics,Targeted to MS students
+456,Hackathon Sure,Hackathon,CS Dept,2022-07-23,University,Peoria,IL,USA,18:45,90,In-Person,Yes,229,153,IEEE,25,3.45,Analytics,Tech-focused
+457,Employer Info Session Join,Employer Info Session,SLU Alumni Association,2021-09-02,Employer,Redmond,WA,USA,12:30,180,Virtual,Yes,282,237,Company Partner,10,2.82,Career Services,Great turnout
+458,Workshop Trouble,Workshop,CS Dept,2016-01-03,Employer,White Plains,NY,USA,14:30,180,Hybrid,Yes,123,57,IEEE,25,4.52,Career Services,Networking-heavy
+459,Hackathon Prove,Hackathon,CS Dept,2018-06-01,University,Orlando,FL,USA,11:30,90,In-Person,Yes,156,22,ACM,10,3.78,Analytics,Great turnout
+460,Career Fair Form,Career Fair,Business School,2015-09-21,Employer,Jacksonville,FL,USA,18:00,180,Hybrid,Yes,329,261,SLU,50,3.54,Engineering,Great turnout
+461,Seminar Born,Seminar,Business School,2015-10-27,University,Miami,FL,USA,10:30,60,Hybrid,Yes,120,95,IEEE,50,4.76,Career Services,Targeted to MS students
+462,Workshop Example,Workshop,SLU Alumni Association,2020-08-29,Employer,Chesterfield,MO,USA,11:00,120,Hybrid,Yes,56,31,Company Partner,25,4.21,Career Services,Targeted to MS students
+463,Workshop Item,Workshop,External Employer,2019-01-25,University,Redmond,WA,USA,12:00,180,In-Person,Yes,268,244,IEEE,0,4.2,Career Services,Tech-focused
+464,Employer Info Session Control,Employer Info Session,CS Dept,2024-07-14,University,Charlotte,NC,USA,13:45,180,Hybrid,Yes,121,87,SLU,0,3.92,Engineering,Tech-focused
+465,Workshop Response,Workshop,Business School,2018-10-01,University,Cambridge,MA,USA,10:00,60,Virtual,Yes,138,28,IEEE,25,3.89,Business,Networking-heavy
+466,Webinar Indeed,Webinar,Business School,2024-09-29,Employer,Ann Arbor,MI,USA,17:45,120,In-Person,Yes,231,34,IEEE,25,3.67,Business,Tech-focused
+467,Hackathon Take,Hackathon,SLU Alumni Association,2018-11-12,University,Springfield,MO,USA,14:15,180,Hybrid,Yes,181,85,Graduate School,0,3.59,Career Services,Networking-heavy
+468,Seminar Write,Seminar,SLU Alumni Association,2020-03-30,Employer,San Diego,CA,USA,08:15,90,Virtual,Yes,379,96,ACM,50,4.06,Business,Great turnout
+469,Hackathon Successful,Hackathon,CS Dept,2025-07-06,University,Phoenix,AZ,USA,11:30,120,Virtual,Yes,238,221,ACM,10,3.21,Analytics,Targeted to MS students
+470,Hackathon Successful,Hackathon,SLU Career Services,2019-08-10,Employer,Boulder,CO,USA,13:45,60,In-Person,Yes,182,27,Company Partner,10,3.64,Engineering,Great turnout
+471,Hackathon Public,Hackathon,Business School,2018-03-25,Employer,Orlando,FL,USA,08:15,90,In-Person,Yes,374,348,Graduate School,25,5.0,Analytics,Tech-focused
+472,Career Fair Oil,Career Fair,CS Dept,2019-01-17,University,Colorado Springs,CO,USA,13:15,60,Hybrid,Yes,60,24,ACM,50,4.3,Career Services,Great turnout
+473,Career Fair Away,Career Fair,CS Dept,2020-04-23,Employer,San Francisco,CA,USA,16:45,120,Hybrid,Yes,185,10,SLU,50,5.0,Engineering,Targeted to MS students
+474,Hackathon Maybe,Hackathon,External Employer,2020-03-17,Employer,Chesterfield,MO,USA,13:15,120,Virtual,Yes,262,28,Company Partner,25,4.03,Engineering,Great turnout
+475,Seminar Subject,Seminar,SLU Career Services,2025-12-30,Employer,Dallas,TX,USA,10:00,90,In-Person,Yes,210,127,Graduate School,25,4.44,Business,Networking-heavy
+476,Webinar Cost,Webinar,SLU Career Services,2020-09-17,University,Detroit,MI,USA,13:15,120,In-Person,Yes,242,128,SLU,0,4.61,Business,Networking-heavy
+477,Seminar Issue,Seminar,Employer Relations,2019-10-18,Employer,Scottsdale,AZ,USA,09:45,60,In-Person,Yes,316,291,SLU,0,4.1,Career Services,Great turnout
+478,Career Fair Room,Career Fair,Employer Relations,2015-10-26,Employer,Irvine,CA,USA,13:30,60,Hybrid,Yes,48,30,IEEE,0,4.3,Business,Tech-focused
+479,Alumni Meetup Evening,Alumni Meetup,SLU Alumni Association,2016-01-17,Employer,Boston,MA,USA,13:45,60,Hybrid,Yes,360,24,SLU,25,3.59,Business,Great turnout
+480,Career Fair Serious,Career Fair,SLU Career Services,2023-05-17,Employer,Atlanta,GA,USA,13:00,120,Virtual,Yes,328,178,IEEE,25,4.35,Business,Targeted to MS students
+481,Workshop Turn,Workshop,SLU Career Services,2025-03-30,University,Austin,TX,USA,10:15,120,In-Person,Yes,396,157,ACM,25,4.56,Analytics,Targeted to MS students
+482,Alumni Meetup She,Alumni Meetup,Employer Relations,2020-11-30,University,Harrisburg,PA,USA,15:15,180,Virtual,Yes,368,154,ACM,25,3.97,Career Services,Great turnout
+483,Seminar Especially,Seminar,External Employer,2024-12-28,University,Somerville,MA,USA,17:30,120,Virtual,Yes,177,75,ACM,10,3.84,Business,Tech-focused
+484,Workshop Law,Workshop,SLU Alumni Association,2015-05-14,University,St. Louis,MO,USA,14:45,120,In-Person,Yes,348,179,IEEE,50,3.66,Business,Tech-focused
+485,Hackathon Poor,Hackathon,External Employer,2023-05-25,University,Denver,CO,USA,10:45,180,Virtual,Yes,335,36,Company Partner,10,4.85,Business,Networking-heavy
+486,Alumni Meetup Sign,Alumni Meetup,SLU Career Services,2016-10-01,University,Alpharetta,GA,USA,14:00,90,Virtual,Yes,209,128,Company Partner,50,4.46,Engineering,Targeted to MS students
+487,Career Fair Onto,Career Fair,External Employer,2021-06-28,University,Harrisburg,PA,USA,12:45,180,Virtual,Yes,301,77,Graduate School,25,5.0,Analytics,Targeted to MS students
+488,Employer Info Session Few,Employer Info Session,External Employer,2023-08-19,University,Los Angeles,CA,USA,13:00,60,Hybrid,Yes,149,71,Graduate School,50,5.0,Analytics,Tech-focused
+489,Alumni Meetup For,Alumni Meetup,SLU Alumni Association,2025-10-15,Employer,Kansas City,MO,USA,08:00,180,In-Person,Yes,40,39,Graduate School,10,3.53,Career Services,Networking-heavy
+490,Workshop Training,Workshop,External Employer,2016-03-31,Employer,Columbia,MO,USA,09:30,180,Virtual,Yes,130,109,IEEE,50,4.12,Engineering,Great turnout
+491,Seminar Understand,Seminar,External Employer,2018-05-15,University,Irvine,CA,USA,11:00,90,In-Person,Yes,47,20,SLU,25,4.64,Engineering,Tech-focused
+492,Hackathon Act,Hackathon,CS Dept,2020-11-23,Employer,Fort Collins,CO,USA,17:30,90,In-Person,Yes,240,215,IEEE,25,5.0,Business,Great turnout
+493,Employer Info Session Old,Employer Info Session,Business School,2019-03-25,Employer,Grand Rapids,MI,USA,12:30,60,In-Person,Yes,280,198,Company Partner,10,3.97,Engineering,Targeted to MS students
+494,Workshop Discuss,Workshop,SLU Alumni Association,2017-07-19,University,Somerville,MA,USA,11:30,180,Hybrid,Yes,160,16,IEEE,0,3.07,Career Services,Targeted to MS students
+495,Employer Info Session Quite,Employer Info Session,SLU Alumni Association,2020-02-29,University,Jacksonville,FL,USA,17:15,120,Virtual,Yes,369,189,IEEE,25,3.32,Business,Tech-focused
+496,Career Fair Half,Career Fair,SLU Alumni Association,2021-05-31,University,Dallas,TX,USA,13:30,60,In-Person,Yes,329,254,SLU,0,4.03,Engineering,Great turnout
+497,Seminar Suffer,Seminar,SLU Alumni Association,2017-10-16,Employer,Urbana,IL,USA,17:30,120,Virtual,Yes,392,50,SLU,0,4.68,Career Services,Tech-focused
+498,Seminar Poor,Seminar,Employer Relations,2021-05-06,University,Denver,CO,USA,15:00,180,Hybrid,Yes,217,178,Graduate School,25,4.09,Engineering,Tech-focused
+499,Career Fair The,Career Fair,Business School,2015-06-30,University,Detroit,MI,USA,15:30,180,Hybrid,Yes,179,138,SLU,50,3.77,Career Services,Networking-heavy
+500,Workshop Husband,Workshop,Business School,2022-08-04,University,Tempe,AZ,USA,10:45,60,Virtual,Yes,140,13,Company Partner,50,5.0,Analytics,Networking-heavy
+501,Career Fair Game,Career Fair,SLU Alumni Association,2024-10-25,Employer,San Antonio,TX,USA,12:15,90,In-Person,Yes,367,358,SLU,25,3.88,Engineering,Networking-heavy
+502,Workshop Imagine,Workshop,SLU Career Services,2020-04-10,Employer,Springfield,MO,USA,17:00,180,In-Person,Yes,93,31,Company Partner,25,5.0,Analytics,Targeted to MS students
+503,Employer Info Session Game,Employer Info Session,External Employer,2020-09-12,Employer,Phoenix,AZ,USA,18:15,90,Hybrid,Yes,242,187,Graduate School,50,3.47,Business,Great turnout
+504,Workshop It,Workshop,Employer Relations,2023-05-06,University,Detroit,MI,USA,08:00,180,Hybrid,Yes,161,77,IEEE,0,4.23,Engineering,Great turnout
+505,Webinar Exist,Webinar,CS Dept,2022-06-07,Employer,Buffalo,NY,USA,13:15,60,Virtual,Yes,272,222,SLU,10,4.14,Career Services,Networking-heavy
+506,Webinar Choose,Webinar,Employer Relations,2024-04-01,University,Cincinnati,OH,USA,09:30,60,Virtual,Yes,148,12,Company Partner,10,4.72,Business,Targeted to MS students
+507,Seminar Plant,Seminar,SLU Alumni Association,2019-09-17,Employer,White Plains,NY,USA,09:00,60,Hybrid,Yes,379,267,SLU,0,4.46,Analytics,Targeted to MS students
+508,Webinar Of,Webinar,CS Dept,2025-08-21,University,Seattle,WA,USA,08:15,60,Hybrid,Yes,71,26,ACM,10,4.79,Business,Tech-focused
+509,Career Fair Eat,Career Fair,External Employer,2019-02-26,University,Boston,MA,USA,11:15,180,Hybrid,Yes,294,70,Company Partner,25,3.54,Business,Tech-focused
+510,Workshop Always,Workshop,SLU Alumni Association,2020-02-29,Employer,Harrisburg,PA,USA,11:00,60,Virtual,Yes,99,10,Company Partner,50,3.99,Career Services,Targeted to MS students
+511,Seminar Degree,Seminar,External Employer,2018-10-17,University,Worcester,MA,USA,12:30,180,Hybrid,Yes,100,33,ACM,0,5.0,Engineering,Networking-heavy
+512,Hackathon Among,Hackathon,CS Dept,2020-05-22,Employer,Irvine,CA,USA,10:45,90,Hybrid,Yes,79,15,IEEE,25,4.7,Career Services,Networking-heavy
+513,Workshop Art,Workshop,SLU Career Services,2022-09-04,University,Tampa,FL,USA,18:00,180,Virtual,Yes,364,113,SLU,10,4.22,Career Services,Great turnout
+514,Seminar Less,Seminar,CS Dept,2017-10-01,Employer,Chesterfield,MO,USA,17:45,90,In-Person,Yes,382,106,ACM,10,4.2,Business,Targeted to MS students
+515,Career Fair Get,Career Fair,Business School,2023-07-04,Employer,San Francisco,CA,USA,18:30,60,In-Person,Yes,94,21,Graduate School,25,3.68,Analytics,Great turnout
+516,Webinar Performance,Webinar,SLU Career Services,2021-10-22,Employer,Rochester,NY,USA,11:15,120,In-Person,Yes,280,38,Company Partner,50,3.47,Business,Great turnout
+517,Alumni Meetup Expert,Alumni Meetup,Business School,2021-06-14,Employer,Colorado Springs,CO,USA,13:15,60,Virtual,Yes,137,49,Graduate School,50,3.67,Engineering,Networking-heavy
+518,Workshop Place,Workshop,External Employer,2023-01-02,Employer,Columbia,MO,USA,14:45,180,Virtual,Yes,102,88,ACM,10,4.65,Career Services,Networking-heavy
+519,Webinar Chair,Webinar,CS Dept,2025-09-09,University,St. Louis,MO,USA,16:00,180,Hybrid,Yes,141,91,IEEE,0,3.79,Career Services,Targeted to MS students
+520,Alumni Meetup Work,Alumni Meetup,SLU Career Services,2019-01-22,University,Tampa,FL,USA,17:15,60,Hybrid,Yes,209,82,Company Partner,10,3.07,Career Services,Tech-focused
+521,Alumni Meetup Item,Alumni Meetup,SLU Alumni Association,2018-10-29,Employer,Alpharetta,GA,USA,14:45,180,Virtual,Yes,147,140,Graduate School,0,4.33,Engineering,Tech-focused
+522,Employer Info Session Major,Employer Info Session,SLU Alumni Association,2023-11-04,Employer,Clayton,MO,USA,15:30,120,In-Person,Yes,215,210,SLU,50,4.38,Career Services,Networking-heavy
+523,Webinar Save,Webinar,External Employer,2025-09-17,University,Tacoma,WA,USA,09:45,120,Hybrid,Yes,283,194,ACM,25,4.27,Engineering,Great turnout
+524,Webinar For,Webinar,Business School,2022-08-30,Employer,Boston,MA,USA,08:15,60,In-Person,Yes,316,220,Graduate School,25,3.34,Business,Networking-heavy
+525,Employer Info Session Coach,Employer Info Session,Business School,2023-06-03,Employer,Fort Collins,CO,USA,16:30,180,In-Person,Yes,332,83,Company Partner,0,3.38,Career Services,Targeted to MS students
+526,Seminar Production,Seminar,Employer Relations,2024-08-28,University,Houston,TX,USA,09:30,90,In-Person,Yes,335,273,Company Partner,10,4.3,Engineering,Targeted to MS students
+527,Employer Info Session Science,Employer Info Session,External Employer,2020-01-04,Employer,Urbana,IL,USA,12:30,90,Virtual,Yes,340,210,Company Partner,10,4.84,Engineering,Targeted to MS students
+528,Employer Info Session Major,Employer Info Session,CS Dept,2016-09-08,University,Harrisburg,PA,USA,10:00,90,Hybrid,Yes,159,45,Graduate School,50,3.59,Career Services,Tech-focused
+529,Career Fair Space,Career Fair,External Employer,2020-04-19,Employer,San Antonio,TX,USA,10:45,180,Hybrid,Yes,202,125,SLU,50,4.43,Analytics,Tech-focused
+530,Workshop Garden,Workshop,External Employer,2016-08-26,Employer,Orlando,FL,USA,15:00,60,Virtual,Yes,211,196,Company Partner,50,3.45,Career Services,Tech-focused
+531,Webinar Class,Webinar,Business School,2021-06-02,University,Detroit,MI,USA,13:45,60,Virtual,Yes,55,50,IEEE,10,4.22,Business,Great turnout
+532,Career Fair Yourself,Career Fair,Business School,2022-09-01,Employer,Detroit,MI,USA,09:15,90,Virtual,Yes,118,34,ACM,10,4.42,Analytics,Networking-heavy
+533,Hackathon Tax,Hackathon,SLU Alumni Association,2017-01-10,University,Phoenix,AZ,USA,18:30,120,Virtual,Yes,112,52,SLU,50,4.39,Business,Networking-heavy
+534,Hackathon Class,Hackathon,External Employer,2017-08-27,Employer,Springfield,IL,USA,16:45,90,In-Person,Yes,191,118,IEEE,50,4.24,Engineering,Tech-focused
+535,Career Fair South,Career Fair,CS Dept,2018-01-14,University,Scottsdale,AZ,USA,10:15,180,In-Person,Yes,51,32,ACM,25,3.21,Business,Tech-focused
+536,Workshop Particularly,Workshop,SLU Alumni Association,2020-03-11,Employer,Jacksonville,FL,USA,08:45,60,In-Person,Yes,90,79,ACM,50,4.3,Analytics,Networking-heavy
+537,Seminar Job,Seminar,External Employer,2023-02-03,Employer,Charlotte,NC,USA,10:30,180,Hybrid,Yes,149,134,IEEE,0,4.94,Business,Tech-focused
+538,Seminar Language,Seminar,Business School,2015-04-19,University,Cary,NC,USA,09:30,90,In-Person,Yes,379,171,IEEE,0,4.31,Business,Networking-heavy
+539,Hackathon Particularly,Hackathon,Employer Relations,2019-02-04,University,Boulder,CO,USA,09:15,120,Hybrid,Yes,278,218,ACM,25,3.56,Career Services,Tech-focused
+540,Career Fair Without,Career Fair,SLU Career Services,2015-12-16,Employer,Bellevue,WA,USA,18:15,60,Hybrid,Yes,79,45,IEEE,0,3.94,Business,Great turnout
+541,Employer Info Session Let,Employer Info Session,CS Dept,2016-09-07,Employer,Atlanta,GA,USA,15:45,90,In-Person,Yes,349,15,Graduate School,50,5.0,Business,Great turnout
+542,Employer Info Session Remain,Employer Info Session,SLU Alumni Association,2016-05-17,University,Raleigh,NC,USA,08:30,120,Hybrid,Yes,198,74,Company Partner,0,4.97,Analytics,Targeted to MS students
+543,Workshop Again,Workshop,Business School,2016-04-21,University,Seattle,WA,USA,12:00,180,In-Person,Yes,149,121,ACM,0,3.68,Career Services,Tech-focused
+544,Workshop Growth,Workshop,Business School,2020-02-21,Employer,Scottsdale,AZ,USA,08:30,60,Virtual,Yes,158,51,Company Partner,10,4.23,Career Services,Great turnout
+545,Career Fair Budget,Career Fair,Employer Relations,2019-03-05,Employer,Tacoma,WA,USA,12:15,90,Virtual,Yes,279,25,Company Partner,50,4.43,Career Services,Tech-focused
+546,Webinar Blood,Webinar,Employer Relations,2024-10-19,University,Tacoma,WA,USA,15:15,120,Hybrid,Yes,288,70,IEEE,50,3.92,Career Services,Targeted to MS students
+547,Hackathon Table,Hackathon,SLU Career Services,2018-10-13,University,Kansas City,MO,USA,13:00,120,Virtual,Yes,256,179,SLU,10,5.0,Engineering,Great turnout
+548,Workshop View,Workshop,SLU Career Services,2020-07-25,Employer,Orlando,FL,USA,15:30,60,Virtual,Yes,212,21,Company Partner,25,4.0,Engineering,Great turnout
+549,Alumni Meetup Close,Alumni Meetup,Business School,2020-03-29,University,Tucson,AZ,USA,10:15,60,Virtual,Yes,139,128,SLU,0,4.15,Business,Great turnout
+550,Career Fair Teacher,Career Fair,CS Dept,2018-06-22,Employer,Cleveland,OH,USA,11:00,90,Virtual,Yes,65,61,SLU,0,3.63,Career Services,Networking-heavy
+551,Webinar Visit,Webinar,SLU Alumni Association,2020-11-12,Employer,Rochester,NY,USA,13:15,180,Virtual,Yes,308,237,Company Partner,50,3.65,Career Services,Networking-heavy
+552,Hackathon Loss,Hackathon,Business School,2020-07-09,Employer,Durham,NC,USA,14:30,60,In-Person,Yes,210,44,Company Partner,50,4.43,Engineering,Tech-focused
+553,Employer Info Session Control,Employer Info Session,Business School,2023-08-24,Employer,New York,NY,USA,08:00,60,In-Person,Yes,72,30,Company Partner,50,3.62,Engineering,Targeted to MS students
+554,Alumni Meetup Military,Alumni Meetup,Employer Relations,2021-04-07,Employer,Denver,CO,USA,18:30,120,In-Person,Yes,99,79,SLU,0,5.0,Career Services,Great turnout
+555,Workshop Mouth,Workshop,CS Dept,2025-07-05,Employer,Atlanta,GA,USA,12:45,60,Hybrid,Yes,133,23,SLU,25,4.58,Career Services,Targeted to MS students
+556,Workshop Race,Workshop,Employer Relations,2025-01-26,University,Grand Rapids,MI,USA,15:00,60,In-Person,Yes,304,159,IEEE,0,4.16,Business,Networking-heavy
+557,Alumni Meetup Today,Alumni Meetup,SLU Alumni Association,2023-10-23,University,Worcester,MA,USA,17:00,90,Hybrid,Yes,386,139,ACM,10,3.83,Analytics,Great turnout
+558,Workshop Pm,Workshop,CS Dept,2023-06-08,University,Buffalo,NY,USA,08:00,180,Hybrid,Yes,337,213,IEEE,0,4.55,Career Services,Great turnout
+559,Workshop Program,Workshop,External Employer,2020-12-22,University,Columbus,OH,USA,09:00,120,Virtual,Yes,227,201,IEEE,0,4.09,Business,Targeted to MS students
+560,Career Fair Second,Career Fair,CS Dept,2024-11-10,Employer,Orlando,FL,USA,16:45,120,Virtual,Yes,203,30,Graduate School,25,4.79,Business,Targeted to MS students
+561,Seminar With,Seminar,SLU Career Services,2024-03-13,Employer,Orlando,FL,USA,11:00,60,Hybrid,Yes,96,73,IEEE,10,4.28,Business,Networking-heavy
+562,Workshop Body,Workshop,External Employer,2024-04-20,Employer,Atlanta,GA,USA,14:00,90,Hybrid,Yes,95,44,SLU,25,3.53,Engineering,Great turnout
+563,Seminar Common,Seminar,Business School,2021-12-18,University,Cincinnati,OH,USA,17:30,180,In-Person,Yes,252,179,Graduate School,50,2.82,Business,Targeted to MS students
+564,Seminar Far,Seminar,SLU Career Services,2018-01-13,Employer,New York,NY,USA,11:45,180,Hybrid,Yes,80,69,ACM,0,4.17,Business,Tech-focused
+565,Seminar Discover,Seminar,SLU Alumni Association,2025-06-19,Employer,Clayton,MO,USA,11:45,120,In-Person,Yes,380,19,IEEE,0,4.15,Engineering,Networking-heavy
+566,Alumni Meetup About,Alumni Meetup,Employer Relations,2024-10-11,Employer,St. Louis,MO,USA,09:45,90,In-Person,Yes,191,32,ACM,50,4.22,Career Services,Great turnout
+567,Webinar Their,Webinar,External Employer,2020-04-11,Employer,Tucson,AZ,USA,09:45,120,In-Person,Yes,166,11,ACM,50,3.18,Analytics,Networking-heavy
+568,Webinar Over,Webinar,Business School,2016-01-28,University,Buffalo,NY,USA,12:15,60,Hybrid,Yes,89,34,IEEE,50,3.64,Career Services,Targeted to MS students
+569,Hackathon Majority,Hackathon,Business School,2019-11-28,Employer,Columbia,MO,USA,16:45,120,In-Person,Yes,380,251,Company Partner,0,3.82,Career Services,Targeted to MS students
+570,Career Fair Least,Career Fair,External Employer,2015-11-13,University,Alpharetta,GA,USA,16:30,120,In-Person,Yes,77,58,IEEE,50,3.73,Career Services,Networking-heavy
+571,Webinar Effect,Webinar,Business School,2021-03-25,University,Grand Rapids,MI,USA,17:15,180,In-Person,Yes,30,18,Graduate School,0,3.36,Analytics,Targeted to MS students
+572,Webinar Hot,Webinar,CS Dept,2023-11-10,Employer,Austin,TX,USA,14:00,120,Hybrid,Yes,53,51,Company Partner,25,5.0,Analytics,Targeted to MS students
+573,Hackathon Test,Hackathon,Business School,2021-04-06,Employer,Philadelphia,PA,USA,14:45,90,Hybrid,Yes,198,124,IEEE,0,4.3,Engineering,Targeted to MS students
+574,Employer Info Session First,Employer Info Session,SLU Alumni Association,2015-06-06,University,Irvine,CA,USA,15:00,60,In-Person,Yes,268,127,IEEE,50,4.13,Analytics,Tech-focused
+575,Workshop Production,Workshop,SLU Career Services,2016-10-12,University,Tampa,FL,USA,09:45,60,Virtual,Yes,262,240,IEEE,25,4.26,Engineering,Great turnout
+576,Seminar Thank,Seminar,SLU Alumni Association,2019-12-04,Employer,Scottsdale,AZ,USA,11:00,120,Hybrid,Yes,98,70,SLU,10,3.82,Analytics,Targeted to MS students
+577,Employer Info Session Require,Employer Info Session,Business School,2017-07-04,University,Tempe,AZ,USA,16:00,90,In-Person,Yes,316,211,Company Partner,0,5.0,Career Services,Great turnout
+578,Alumni Meetup Under,Alumni Meetup,Business School,2025-07-05,Employer,Pittsburgh,PA,USA,13:15,90,Hybrid,Yes,65,50,Company Partner,50,4.56,Analytics,Tech-focused
+579,Hackathon Middle,Hackathon,External Employer,2022-10-11,University,San Antonio,TX,USA,09:00,60,In-Person,Yes,183,23,Company Partner,10,3.83,Career Services,Tech-focused
+580,Employer Info Session Later,Employer Info Session,External Employer,2019-04-02,Employer,Urbana,IL,USA,14:15,120,In-Person,Yes,174,76,SLU,0,3.95,Career Services,Tech-focused
+581,Hackathon Meeting,Hackathon,Employer Relations,2017-10-06,University,Philadelphia,PA,USA,11:00,120,Virtual,Yes,181,87,ACM,25,4.14,Analytics,Tech-focused
+582,Employer Info Session Woman,Employer Info Session,CS Dept,2024-10-11,Employer,Atlanta,GA,USA,15:15,180,In-Person,Yes,334,265,ACM,50,5.0,Career Services,Great turnout
+583,Hackathon Recently,Hackathon,Employer Relations,2016-12-01,University,St. Louis,MO,USA,17:00,90,Hybrid,Yes,166,151,ACM,50,3.69,Business,Tech-focused
+584,Alumni Meetup May,Alumni Meetup,CS Dept,2020-11-29,Employer,Cleveland,OH,USA,12:30,60,Virtual,Yes,211,28,Company Partner,25,3.54,Business,Tech-focused
+585,Alumni Meetup Significant,Alumni Meetup,CS Dept,2023-06-08,Employer,Charlotte,NC,USA,10:15,90,Virtual,Yes,277,52,ACM,10,3.26,Analytics,Great turnout
+586,Hackathon Physical,Hackathon,External Employer,2025-08-18,Employer,Detroit,MI,USA,11:30,180,Hybrid,Yes,107,75,Graduate School,25,3.91,Engineering,Targeted to MS students
+587,Workshop Question,Workshop,CS Dept,2021-12-03,University,Dallas,TX,USA,10:00,180,Virtual,Yes,31,26,ACM,50,4.16,Analytics,Networking-heavy
+588,Seminar Reason,Seminar,CS Dept,2015-03-28,University,Raleigh,NC,USA,09:45,180,Virtual,Yes,66,30,IEEE,50,4.74,Business,Great turnout
+589,Alumni Meetup Lot,Alumni Meetup,SLU Career Services,2025-05-08,University,Boston,MA,USA,15:30,90,Virtual,Yes,102,51,IEEE,0,4.33,Engineering,Tech-focused
+590,Hackathon Teach,Hackathon,External Employer,2022-07-04,University,Redmond,WA,USA,10:30,60,Hybrid,Yes,360,75,Company Partner,50,3.92,Engineering,Great turnout
+591,Workshop Hope,Workshop,SLU Career Services,2017-09-02,University,Durham,NC,USA,11:45,90,Virtual,Yes,205,76,Graduate School,50,3.84,Engineering,Targeted to MS students
+592,Seminar Shoulder,Seminar,SLU Alumni Association,2017-01-13,Employer,Fort Collins,CO,USA,09:30,60,Virtual,Yes,129,51,SLU,25,4.5,Analytics,Targeted to MS students
+593,Webinar Read,Webinar,External Employer,2023-06-05,Employer,Colorado Springs,CO,USA,15:45,60,Hybrid,Yes,252,31,ACM,0,3.62,Analytics,Networking-heavy
+594,Career Fair Smile,Career Fair,CS Dept,2016-07-02,University,Jacksonville,FL,USA,12:15,90,In-Person,Yes,164,24,ACM,0,4.52,Business,Targeted to MS students
+595,Webinar Exist,Webinar,SLU Career Services,2022-07-12,University,Clayton,MO,USA,14:45,90,Hybrid,Yes,189,69,SLU,10,4.26,Engineering,Networking-heavy
+596,Webinar Feeling,Webinar,SLU Career Services,2023-04-20,University,Durham,NC,USA,12:30,60,Virtual,Yes,149,33,Company Partner,10,4.36,Analytics,Targeted to MS students
+597,Webinar Piece,Webinar,CS Dept,2016-09-23,Employer,Savannah,GA,USA,08:30,180,In-Person,Yes,227,148,Graduate School,50,3.67,Career Services,Networking-heavy
+598,Hackathon Western,Hackathon,SLU Career Services,2023-11-09,University,Houston,TX,USA,08:45,180,Virtual,Yes,203,104,SLU,10,3.79,Business,Networking-heavy
+599,Alumni Meetup Believe,Alumni Meetup,SLU Alumni Association,2024-07-11,Employer,Boston,MA,USA,18:00,180,Hybrid,Yes,350,308,ACM,0,4.51,Engineering,Targeted to MS students
+600,Hackathon Born,Hackathon,SLU Alumni Association,2024-05-19,University,Tucson,AZ,USA,13:45,60,Hybrid,Yes,351,128,Graduate School,25,5.0,Analytics,Tech-focused
+601,Seminar Book,Seminar,SLU Alumni Association,2018-01-04,Employer,Colorado Springs,CO,USA,09:00,120,In-Person,Yes,367,248,ACM,10,4.69,Engineering,Tech-focused
+602,Hackathon Probably,Hackathon,SLU Career Services,2025-10-22,Employer,Cincinnati,OH,USA,14:00,180,Hybrid,Yes,55,19,IEEE,50,3.41,Analytics,Networking-heavy
+603,Employer Info Session Third,Employer Info Session,SLU Alumni Association,2019-01-28,University,Ann Arbor,MI,USA,11:00,120,In-Person,Yes,66,18,IEEE,50,3.66,Engineering,Targeted to MS students
+604,Employer Info Session Discover,Employer Info Session,SLU Career Services,2021-11-27,Employer,Grand Rapids,MI,USA,18:15,60,In-Person,Yes,34,32,Company Partner,10,4.32,Analytics,Networking-heavy
+605,Employer Info Session Develop,Employer Info Session,External Employer,2015-11-01,Employer,Pittsburgh,PA,USA,09:00,180,In-Person,Yes,228,117,SLU,50,3.76,Career Services,Targeted to MS students
+606,Seminar President,Seminar,CS Dept,2021-02-21,University,Pittsburgh,PA,USA,18:15,120,Virtual,Yes,69,25,ACM,0,4.12,Career Services,Networking-heavy
+607,Employer Info Session Exist,Employer Info Session,CS Dept,2019-03-29,University,Houston,TX,USA,08:00,90,Hybrid,Yes,342,312,Graduate School,25,4.25,Analytics,Great turnout
+608,Webinar Reality,Webinar,External Employer,2019-07-19,University,Tacoma,WA,USA,17:15,60,Virtual,Yes,396,80,ACM,0,4.56,Engineering,Great turnout
+609,Seminar Least,Seminar,External Employer,2022-04-10,Employer,Harrisburg,PA,USA,14:45,120,Virtual,Yes,335,201,IEEE,10,4.8,Engineering,Tech-focused
+610,Hackathon Cause,Hackathon,Employer Relations,2019-06-26,Employer,Naperville,IL,USA,16:00,180,Virtual,Yes,399,238,IEEE,25,4.14,Analytics,Targeted to MS students
+611,Hackathon Wide,Hackathon,SLU Career Services,2025-05-14,University,San Diego,CA,USA,17:30,90,Hybrid,Yes,74,31,IEEE,50,3.91,Engineering,Networking-heavy
+612,Career Fair Its,Career Fair,External Employer,2020-10-22,University,Orlando,FL,USA,17:30,90,Virtual,Yes,325,188,Company Partner,50,4.84,Business,Tech-focused
+613,Employer Info Session Career,Employer Info Session,External Employer,2022-03-25,Employer,Colorado Springs,CO,USA,17:45,120,Hybrid,Yes,84,23,Company Partner,0,4.18,Engineering,Tech-focused
+614,Career Fair Onto,Career Fair,Business School,2018-08-01,University,Cincinnati,OH,USA,18:45,90,Virtual,Yes,63,46,Graduate School,0,2.93,Business,Tech-focused
+615,Hackathon Management,Hackathon,External Employer,2020-05-30,University,Cleveland,OH,USA,11:00,120,Virtual,Yes,260,211,Company Partner,50,3.31,Business,Targeted to MS students
+616,Seminar General,Seminar,CS Dept,2020-01-21,Employer,Peoria,IL,USA,08:00,60,Hybrid,Yes,349,93,ACM,0,2.68,Business,Networking-heavy
+617,Career Fair Despite,Career Fair,CS Dept,2015-12-26,Employer,Chicago,IL,USA,08:15,120,Virtual,Yes,332,64,Graduate School,10,4.71,Business,Targeted to MS students
+618,Webinar Box,Webinar,Employer Relations,2022-08-31,Employer,Columbus,OH,USA,14:30,90,Virtual,Yes,219,219,ACM,50,4.23,Engineering,Great turnout
+619,Workshop Weight,Workshop,Employer Relations,2022-04-03,University,Fort Collins,CO,USA,11:00,90,Hybrid,Yes,66,15,ACM,0,5.0,Business,Networking-heavy
+620,Webinar Range,Webinar,Employer Relations,2019-05-09,University,Rochester,NY,USA,18:15,90,In-Person,Yes,395,395,ACM,50,3.94,Career Services,Targeted to MS students
+621,Career Fair Color,Career Fair,SLU Alumni Association,2022-01-29,University,New York,NY,USA,14:30,120,In-Person,Yes,394,371,Company Partner,25,3.69,Career Services,Tech-focused
+622,Career Fair Nice,Career Fair,Business School,2025-12-27,University,White Plains,NY,USA,12:30,60,In-Person,Yes,116,57,IEEE,50,3.49,Business,Great turnout
+623,Webinar Way,Webinar,SLU Alumni Association,2024-10-06,Employer,Houston,TX,USA,10:15,120,Hybrid,Yes,132,104,SLU,50,4.58,Business,Tech-focused
+624,Webinar Clearly,Webinar,SLU Alumni Association,2025-05-26,Employer,New York,NY,USA,17:00,60,Virtual,Yes,56,30,Graduate School,50,4.75,Engineering,Great turnout
+625,Employer Info Session Character,Employer Info Session,SLU Alumni Association,2021-06-25,University,Orlando,FL,USA,17:15,180,Virtual,Yes,87,66,SLU,0,3.91,Career Services,Targeted to MS students
+626,Alumni Meetup Green,Alumni Meetup,SLU Alumni Association,2020-10-22,University,Plano,TX,USA,10:00,60,Virtual,Yes,83,37,IEEE,25,3.73,Analytics,Great turnout
+627,Webinar Once,Webinar,Employer Relations,2024-03-30,Employer,Seattle,WA,USA,12:00,120,Virtual,Yes,104,35,ACM,10,4.73,Business,Targeted to MS students
+628,Career Fair President,Career Fair,CS Dept,2016-08-26,Employer,Detroit,MI,USA,18:00,120,In-Person,Yes,320,122,IEEE,50,4.46,Analytics,Networking-heavy
+629,Alumni Meetup Food,Alumni Meetup,SLU Career Services,2024-10-20,University,Pittsburgh,PA,USA,12:45,90,Virtual,Yes,140,85,Graduate School,25,4.59,Engineering,Networking-heavy
+630,Employer Info Session Mr,Employer Info Session,Employer Relations,2023-11-29,Employer,Grand Rapids,MI,USA,12:15,60,In-Person,Yes,109,72,IEEE,0,4.94,Analytics,Great turnout
+631,Hackathon Group,Hackathon,SLU Alumni Association,2021-03-11,Employer,Peoria,IL,USA,09:30,90,Virtual,Yes,362,185,SLU,10,4.66,Career Services,Tech-focused
+632,Webinar Research,Webinar,Business School,2019-01-10,Employer,Albany,NY,USA,11:45,90,Hybrid,Yes,281,11,ACM,50,3.85,Business,Tech-focused
+633,Webinar Strategy,Webinar,CS Dept,2017-12-17,University,Harrisburg,PA,USA,16:15,90,Hybrid,Yes,228,72,IEEE,10,3.64,Business,Networking-heavy
+634,Career Fair Professor,Career Fair,CS Dept,2018-06-07,University,Redmond,WA,USA,18:00,60,In-Person,Yes,299,111,Company Partner,0,3.2,Engineering,Targeted to MS students
+635,Career Fair Artist,Career Fair,Business School,2020-05-01,University,Austin,TX,USA,14:45,60,In-Person,Yes,396,347,SLU,25,4.22,Analytics,Networking-heavy
+636,Hackathon Week,Hackathon,SLU Alumni Association,2022-01-01,Employer,Detroit,MI,USA,17:45,180,Hybrid,Yes,379,240,IEEE,10,4.77,Analytics,Great turnout
+637,Workshop Report,Workshop,Employer Relations,2016-12-05,University,Charlotte,NC,USA,09:30,120,Hybrid,Yes,272,47,ACM,50,3.49,Career Services,Networking-heavy
+638,Seminar Drop,Seminar,SLU Career Services,2016-04-10,Employer,Durham,NC,USA,08:30,180,In-Person,Yes,294,198,Graduate School,0,4.52,Engineering,Networking-heavy
+639,Alumni Meetup Western,Alumni Meetup,CS Dept,2015-12-12,University,Boston,MA,USA,14:45,120,In-Person,Yes,38,34,Graduate School,0,4.12,Engineering,Great turnout
+640,Career Fair We,Career Fair,SLU Alumni Association,2021-06-30,Employer,Detroit,MI,USA,14:15,180,Virtual,Yes,277,241,IEEE,25,4.84,Engineering,Tech-focused
+641,Seminar Himself,Seminar,External Employer,2020-11-24,University,Austin,TX,USA,10:15,120,Hybrid,Yes,34,18,IEEE,50,4.71,Analytics,Great turnout
+642,Seminar However,Seminar,Business School,2017-04-12,University,Philadelphia,PA,USA,12:00,90,Hybrid,Yes,150,26,SLU,25,4.17,Engineering,Great turnout
+643,Hackathon Improve,Hackathon,CS Dept,2015-11-30,University,Tacoma,WA,USA,10:00,180,Virtual,Yes,79,56,SLU,10,4.77,Career Services,Tech-focused
+644,Webinar Leader,Webinar,SLU Alumni Association,2017-11-25,University,Boulder,CO,USA,10:45,90,Hybrid,Yes,233,198,SLU,0,4.33,Engineering,Networking-heavy
+645,Employer Info Session Foreign,Employer Info Session,SLU Career Services,2023-07-05,University,Ann Arbor,MI,USA,16:15,60,Hybrid,Yes,336,189,Graduate School,0,3.72,Engineering,Tech-focused
+646,Alumni Meetup Him,Alumni Meetup,Employer Relations,2016-01-16,University,Scottsdale,AZ,USA,12:00,90,In-Person,Yes,137,22,Graduate School,10,4.34,Career Services,Targeted to MS students
+647,Hackathon Scene,Hackathon,SLU Alumni Association,2025-12-02,University,Philadelphia,PA,USA,14:00,90,In-Person,Yes,178,144,Company Partner,25,3.84,Business,Networking-heavy
+648,Alumni Meetup Town,Alumni Meetup,CS Dept,2023-09-12,Employer,Plano,TX,USA,15:30,180,In-Person,Yes,360,185,Graduate School,10,4.16,Business,Great turnout
+649,Career Fair Arm,Career Fair,Business School,2016-08-23,Employer,Worcester,MA,USA,14:30,60,In-Person,Yes,231,144,Graduate School,50,3.05,Engineering,Networking-heavy
+650,Workshop Material,Workshop,SLU Alumni Association,2020-08-15,Employer,Raleigh,NC,USA,16:45,90,Virtual,Yes,261,84,SLU,10,3.2,Analytics,Networking-heavy
+651,Alumni Meetup I,Alumni Meetup,SLU Career Services,2017-11-22,Employer,Tampa,FL,USA,13:30,60,Virtual,Yes,238,144,ACM,25,3.74,Engineering,Targeted to MS students
+652,Hackathon Leader,Hackathon,SLU Alumni Association,2023-08-15,Employer,Pittsburgh,PA,USA,18:45,60,Virtual,Yes,85,25,Graduate School,10,3.96,Engineering,Targeted to MS students
+653,Webinar Professor,Webinar,CS Dept,2023-11-21,Employer,St. Louis,MO,USA,15:30,120,In-Person,Yes,289,184,Company Partner,50,5.0,Analytics,Targeted to MS students
+654,Hackathon Its,Hackathon,Employer Relations,2025-02-01,University,Charlotte,NC,USA,13:45,90,Virtual,Yes,165,68,Graduate School,25,4.3,Engineering,Networking-heavy
+655,Employer Info Session Friend,Employer Info Session,External Employer,2020-04-15,Employer,Pittsburgh,PA,USA,14:45,60,Hybrid,Yes,356,311,Graduate School,25,4.59,Business,Great turnout
+656,Alumni Meetup Game,Alumni Meetup,External Employer,2018-06-08,Employer,Peoria,IL,USA,17:45,60,In-Person,Yes,241,38,SLU,0,3.48,Business,Tech-focused
+657,Alumni Meetup Career,Alumni Meetup,External Employer,2016-06-06,Employer,Cincinnati,OH,USA,12:30,60,Hybrid,Yes,251,73,SLU,10,4.34,Business,Networking-heavy
+658,Webinar Though,Webinar,CS Dept,2019-06-08,University,Houston,TX,USA,17:00,60,In-Person,Yes,35,23,SLU,0,4.69,Career Services,Targeted to MS students
+659,Seminar Knowledge,Seminar,CS Dept,2018-07-25,University,Detroit,MI,USA,18:30,90,Virtual,Yes,176,61,Graduate School,50,3.24,Career Services,Networking-heavy
+660,Workshop Federal,Workshop,External Employer,2016-04-27,University,Springfield,IL,USA,09:00,120,Virtual,Yes,390,262,IEEE,0,5.0,Engineering,Tech-focused
+661,Workshop Give,Workshop,Business School,2024-11-24,Employer,Houston,TX,USA,18:30,90,In-Person,Yes,378,346,Company Partner,50,3.8,Analytics,Targeted to MS students
+662,Workshop Executive,Workshop,SLU Career Services,2020-04-20,Employer,Grand Rapids,MI,USA,13:15,120,In-Person,Yes,347,270,ACM,25,3.88,Business,Networking-heavy
+663,Webinar Red,Webinar,External Employer,2019-12-20,University,Rochester,NY,USA,08:45,180,Virtual,Yes,211,27,Company Partner,10,4.57,Career Services,Tech-focused
+664,Employer Info Session Interview,Employer Info Session,SLU Alumni Association,2021-02-07,University,Peoria,IL,USA,12:00,120,In-Person,Yes,300,157,ACM,0,3.7,Business,Targeted to MS students
+665,Hackathon Model,Hackathon,SLU Alumni Association,2023-05-13,University,Irvine,CA,USA,16:15,180,Hybrid,Yes,359,321,Graduate School,10,3.93,Business,Targeted to MS students
+666,Alumni Meetup Hear,Alumni Meetup,External Employer,2020-05-18,Employer,Columbus,OH,USA,14:45,60,Virtual,Yes,103,99,ACM,50,3.39,Career Services,Networking-heavy
+667,Seminar Go,Seminar,SLU Career Services,2021-08-16,Employer,Savannah,GA,USA,14:30,120,Hybrid,Yes,275,153,ACM,0,4.49,Business,Networking-heavy
+668,Seminar Before,Seminar,SLU Alumni Association,2025-09-28,Employer,Ann Arbor,MI,USA,11:45,90,In-Person,Yes,123,68,ACM,0,4.39,Career Services,Tech-focused
+669,Hackathon Fact,Hackathon,SLU Alumni Association,2017-09-23,Employer,Savannah,GA,USA,15:45,60,Virtual,Yes,290,150,Company Partner,50,4.13,Engineering,Targeted to MS students
+670,Workshop If,Workshop,CS Dept,2021-08-08,University,Springfield,IL,USA,17:30,180,In-Person,Yes,210,149,ACM,25,3.95,Business,Great turnout
+671,Seminar Character,Seminar,SLU Alumni Association,2019-12-28,Employer,Columbia,MO,USA,16:00,60,In-Person,Yes,374,13,Company Partner,50,4.16,Business,Targeted to MS students
+672,Workshop Major,Workshop,SLU Alumni Association,2023-04-14,University,Scottsdale,AZ,USA,16:00,180,In-Person,Yes,51,30,ACM,50,3.61,Career Services,Great turnout
+673,Employer Info Session Seat,Employer Info Session,External Employer,2017-05-06,University,San Diego,CA,USA,17:15,180,Virtual,Yes,254,198,IEEE,10,4.33,Engineering,Great turnout
+674,Alumni Meetup Dark,Alumni Meetup,CS Dept,2020-01-03,University,Tacoma,WA,USA,14:15,120,Hybrid,Yes,244,116,IEEE,25,4.16,Engineering,Targeted to MS students
+675,Seminar Only,Seminar,CS Dept,2022-02-16,University,Austin,TX,USA,08:00,180,Hybrid,Yes,353,339,Company Partner,50,3.42,Engineering,Networking-heavy
+676,Career Fair Discover,Career Fair,CS Dept,2024-03-27,Employer,Columbus,OH,USA,15:30,90,In-Person,Yes,235,102,Graduate School,10,3.85,Analytics,Networking-heavy
+677,Seminar When,Seminar,Business School,2022-07-03,Employer,Scottsdale,AZ,USA,08:15,120,In-Person,Yes,65,24,IEEE,0,3.36,Engineering,Networking-heavy
+678,Career Fair High,Career Fair,SLU Career Services,2017-07-26,University,Redmond,WA,USA,14:15,90,In-Person,Yes,311,22,SLU,0,4.6,Career Services,Targeted to MS students
+679,Career Fair Whole,Career Fair,SLU Career Services,2019-09-21,Employer,Atlanta,GA,USA,10:00,120,Virtual,Yes,267,66,SLU,25,5.0,Career Services,Great turnout
+680,Alumni Meetup Identify,Alumni Meetup,CS Dept,2019-12-07,Employer,Cary,NC,USA,14:00,90,Virtual,Yes,297,66,Graduate School,0,5.0,Career Services,Networking-heavy
+681,Alumni Meetup Single,Alumni Meetup,Business School,2025-06-22,Employer,Peoria,IL,USA,18:45,60,Virtual,Yes,268,239,Graduate School,25,4.78,Analytics,Tech-focused
+682,Seminar Among,Seminar,CS Dept,2021-03-23,Employer,Tampa,FL,USA,11:30,90,Virtual,Yes,162,115,Company Partner,10,4.0,Career Services,Targeted to MS students
+683,Career Fair Course,Career Fair,External Employer,2022-12-27,University,Worcester,MA,USA,09:00,60,Hybrid,Yes,168,126,IEEE,25,3.78,Engineering,Great turnout
+684,Workshop How,Workshop,SLU Alumni Association,2016-09-19,University,Chicago,IL,USA,13:15,60,In-Person,Yes,180,80,IEEE,50,4.22,Analytics,Great turnout
+685,Seminar Little,Seminar,SLU Career Services,2018-11-16,University,Tacoma,WA,USA,09:15,60,Hybrid,Yes,58,32,Company Partner,50,3.93,Engineering,Tech-focused
+686,Alumni Meetup Professional,Alumni Meetup,CS Dept,2024-01-19,Employer,Houston,TX,USA,15:45,60,Virtual,Yes,267,232,IEEE,10,4.72,Analytics,Networking-heavy
+687,Alumni Meetup Race,Alumni Meetup,External Employer,2022-07-10,University,Tempe,AZ,USA,15:45,90,Hybrid,Yes,256,85,IEEE,10,5.0,Engineering,Networking-heavy
+688,Employer Info Session Step,Employer Info Session,SLU Career Services,2025-12-30,University,Springfield,IL,USA,13:15,180,In-Person,Yes,250,206,IEEE,25,4.05,Analytics,Networking-heavy
+689,Employer Info Session Safe,Employer Info Session,Business School,2018-12-16,University,Colorado Springs,CO,USA,13:15,90,Hybrid,Yes,157,150,Graduate School,25,4.77,Career Services,Networking-heavy
+690,Employer Info Session Single,Employer Info Session,SLU Alumni Association,2015-11-13,Employer,Pittsburgh,PA,USA,12:15,120,In-Person,Yes,324,289,Company Partner,0,4.1,Engineering,Targeted to MS students
+691,Workshop Everything,Workshop,SLU Career Services,2016-10-26,University,Denver,CO,USA,14:15,90,Virtual,Yes,112,53,Company Partner,25,3.67,Business,Targeted to MS students
+692,Employer Info Session Drop,Employer Info Session,External Employer,2019-08-29,Employer,Pittsburgh,PA,USA,12:15,60,Hybrid,Yes,142,10,IEEE,25,2.94,Analytics,Targeted to MS students
+693,Hackathon Respond,Hackathon,External Employer,2016-05-19,Employer,Chicago,IL,USA,15:15,90,In-Person,Yes,225,183,IEEE,50,3.81,Career Services,Targeted to MS students
+694,Hackathon Fall,Hackathon,SLU Alumni Association,2025-03-06,Employer,Plano,TX,USA,18:00,60,Hybrid,Yes,313,139,Graduate School,10,4.3,Engineering,Targeted to MS students
+695,Workshop Well,Workshop,SLU Alumni Association,2025-10-02,Employer,Springfield,MO,USA,15:45,90,Hybrid,Yes,248,71,SLU,50,4.7,Career Services,Networking-heavy
+696,Webinar Buy,Webinar,SLU Alumni Association,2019-12-06,University,Cleveland,OH,USA,15:00,60,Hybrid,Yes,48,18,ACM,25,4.48,Business,Networking-heavy
+697,Career Fair Avoid,Career Fair,Business School,2019-07-14,University,Charlotte,NC,USA,13:15,120,Hybrid,Yes,385,137,SLU,10,4.15,Career Services,Great turnout
+698,Hackathon Seem,Hackathon,SLU Career Services,2021-09-08,Employer,Naperville,IL,USA,12:15,180,Virtual,Yes,391,291,IEEE,10,3.99,Engineering,Targeted to MS students
+699,Webinar Game,Webinar,CS Dept,2020-11-15,University,Clayton,MO,USA,08:00,60,Virtual,Yes,64,43,IEEE,10,3.85,Engineering,Targeted to MS students
+700,Webinar Gun,Webinar,SLU Alumni Association,2023-09-06,University,Plano,TX,USA,17:45,120,Virtual,Yes,203,195,SLU,50,4.09,Business,Great turnout
+701,Workshop Congress,Workshop,SLU Career Services,2023-12-09,University,Miami,FL,USA,13:00,60,In-Person,Yes,265,104,ACM,0,4.06,Analytics,Networking-heavy
+702,Career Fair Speak,Career Fair,Business School,2023-10-16,Employer,Springfield,IL,USA,08:15,60,Virtual,Yes,213,94,SLU,0,4.27,Analytics,Great turnout
+703,Employer Info Session Himself,Employer Info Session,External Employer,2018-06-26,University,San Francisco,CA,USA,11:30,60,Hybrid,Yes,346,239,IEEE,25,4.46,Analytics,Tech-focused
+704,Career Fair Leave,Career Fair,SLU Career Services,2023-01-19,University,Somerville,MA,USA,13:15,90,Hybrid,Yes,259,167,SLU,50,3.8,Analytics,Targeted to MS students
+705,Seminar Soldier,Seminar,SLU Alumni Association,2020-07-22,University,Alpharetta,GA,USA,09:00,120,Hybrid,Yes,218,39,Company Partner,0,3.53,Career Services,Targeted to MS students
+706,Seminar Key,Seminar,External Employer,2017-09-02,Employer,Springfield,MO,USA,16:00,180,Virtual,Yes,179,150,Graduate School,10,4.49,Business,Targeted to MS students
+707,Workshop Memory,Workshop,External Employer,2024-05-24,University,Bellevue,WA,USA,16:45,90,In-Person,Yes,65,39,ACM,25,3.59,Career Services,Tech-focused
+708,Career Fair Watch,Career Fair,External Employer,2018-04-02,Employer,Redmond,WA,USA,13:15,60,Hybrid,Yes,157,55,Graduate School,25,4.8,Business,Networking-heavy
+709,Alumni Meetup Moment,Alumni Meetup,SLU Alumni Association,2020-04-16,University,Boston,MA,USA,17:00,60,In-Person,Yes,389,270,ACM,25,5.0,Engineering,Targeted to MS students
+710,Career Fair Computer,Career Fair,External Employer,2020-03-17,Employer,Seattle,WA,USA,08:30,60,In-Person,Yes,380,144,ACM,0,4.66,Analytics,Tech-focused
+711,Employer Info Session Available,Employer Info Session,Business School,2015-05-10,Employer,Tacoma,WA,USA,17:45,60,Hybrid,Yes,180,16,SLU,0,4.61,Business,Targeted to MS students
+712,Webinar A,Webinar,External Employer,2018-01-27,University,Alpharetta,GA,USA,18:00,120,In-Person,Yes,73,19,IEEE,10,4.19,Career Services,Tech-focused
+713,Alumni Meetup Control,Alumni Meetup,External Employer,2017-08-27,University,San Jose,CA,USA,15:15,180,Hybrid,Yes,253,18,IEEE,50,4.06,Analytics,Great turnout
+714,Alumni Meetup Thing,Alumni Meetup,SLU Career Services,2022-02-12,Employer,Austin,TX,USA,18:30,90,Virtual,Yes,308,139,Company Partner,10,2.95,Business,Targeted to MS students
+715,Employer Info Session Hard,Employer Info Session,External Employer,2024-03-05,University,San Antonio,TX,USA,09:15,90,Hybrid,Yes,369,323,IEEE,50,3.6,Analytics,Networking-heavy
+716,Seminar Someone,Seminar,SLU Career Services,2016-05-06,University,Raleigh,NC,USA,14:15,90,Virtual,Yes,351,265,Graduate School,0,4.5,Engineering,Targeted to MS students
+717,Alumni Meetup Dinner,Alumni Meetup,External Employer,2022-10-10,University,Pittsburgh,PA,USA,15:15,90,In-Person,Yes,353,237,IEEE,25,4.48,Business,Tech-focused
+718,Alumni Meetup Weight,Alumni Meetup,SLU Alumni Association,2018-10-03,Employer,Worcester,MA,USA,12:45,180,Hybrid,Yes,144,28,IEEE,0,4.14,Business,Great turnout
+719,Employer Info Session Eight,Employer Info Session,Employer Relations,2023-09-24,University,Cincinnati,OH,USA,11:30,180,Hybrid,Yes,97,34,SLU,10,4.47,Business,Targeted to MS students
+720,Seminar See,Seminar,CS Dept,2017-10-21,University,Chicago,IL,USA,10:00,120,In-Person,Yes,97,48,Company Partner,50,4.63,Analytics,Targeted to MS students
+721,Workshop Series,Workshop,CS Dept,2019-06-20,Employer,Detroit,MI,USA,09:45,90,In-Person,Yes,379,23,IEEE,0,4.68,Analytics,Great turnout
+722,Webinar Process,Webinar,Employer Relations,2019-05-23,Employer,Rochester,NY,USA,10:30,180,In-Person,Yes,265,214,SLU,25,3.67,Career Services,Great turnout
+723,Career Fair Drop,Career Fair,Business School,2025-09-18,Employer,Philadelphia,PA,USA,11:15,60,In-Person,Yes,153,89,SLU,50,3.49,Business,Networking-heavy
+724,Webinar Agent,Webinar,CS Dept,2025-09-28,Employer,Rochester,NY,USA,08:30,120,Hybrid,Yes,304,10,Company Partner,0,4.68,Analytics,Networking-heavy
+725,Alumni Meetup Development,Alumni Meetup,External Employer,2024-10-11,University,Dallas,TX,USA,11:15,60,Virtual,Yes,88,37,ACM,10,3.87,Engineering,Great turnout
+726,Seminar Cost,Seminar,External Employer,2021-10-07,Employer,Charlotte,NC,USA,08:30,90,In-Person,Yes,51,20,Graduate School,25,4.35,Career Services,Tech-focused
+727,Career Fair Republican,Career Fair,SLU Alumni Association,2025-08-16,University,San Diego,CA,USA,10:15,120,In-Person,Yes,380,247,Company Partner,25,4.29,Analytics,Targeted to MS students
+728,Webinar Visit,Webinar,External Employer,2015-11-07,University,San Antonio,TX,USA,16:00,120,Hybrid,Yes,223,216,Company Partner,0,5.0,Analytics,Great turnout
+729,Webinar Arrive,Webinar,SLU Alumni Association,2015-06-09,University,Redmond,WA,USA,12:30,180,Virtual,Yes,392,124,SLU,0,4.31,Analytics,Tech-focused
+730,Employer Info Session Week,Employer Info Session,SLU Alumni Association,2016-06-06,University,Columbus,OH,USA,15:00,60,Virtual,Yes,97,52,ACM,25,3.81,Career Services,Networking-heavy
+731,Seminar Member,Seminar,Business School,2022-07-26,Employer,Harrisburg,PA,USA,17:30,180,In-Person,Yes,212,14,SLU,50,3.96,Career Services,Tech-focused
+732,Alumni Meetup Network,Alumni Meetup,SLU Career Services,2015-12-06,Employer,Durham,NC,USA,08:45,180,Hybrid,Yes,115,49,Company Partner,25,5.0,Business,Tech-focused
+733,Workshop Capital,Workshop,SLU Alumni Association,2024-06-04,Employer,Peoria,IL,USA,15:45,180,Virtual,Yes,85,60,IEEE,10,3.2,Business,Tech-focused
+734,Employer Info Session Organization,Employer Info Session,CS Dept,2022-01-15,Employer,Tucson,AZ,USA,08:15,60,Hybrid,Yes,359,16,Company Partner,25,5.0,Career Services,Great turnout
+735,Seminar Drop,Seminar,SLU Alumni Association,2016-03-12,University,Bellevue,WA,USA,17:45,120,Virtual,Yes,378,270,SLU,25,4.88,Business,Networking-heavy
+736,Career Fair Technology,Career Fair,CS Dept,2023-07-11,Employer,Grand Rapids,MI,USA,11:30,120,In-Person,Yes,159,141,IEEE,0,4.46,Career Services,Great turnout
+737,Workshop College,Workshop,External Employer,2024-09-10,University,Detroit,MI,USA,17:15,180,Hybrid,Yes,296,246,ACM,10,5.0,Career Services,Targeted to MS students
+738,Hackathon American,Hackathon,SLU Alumni Association,2015-01-18,University,Naperville,IL,USA,18:45,180,Virtual,Yes,36,12,SLU,10,4.15,Business,Great turnout
+739,Employer Info Session Site,Employer Info Session,CS Dept,2023-11-13,University,Miami,FL,USA,13:00,60,Hybrid,Yes,45,22,SLU,10,3.83,Business,Tech-focused
+740,Employer Info Session Material,Employer Info Session,SLU Alumni Association,2015-12-22,Employer,Naperville,IL,USA,13:30,60,Virtual,Yes,355,151,IEEE,25,3.85,Engineering,Tech-focused
+741,Seminar Determine,Seminar,External Employer,2022-08-31,University,Springfield,IL,USA,09:30,60,Virtual,Yes,323,154,ACM,50,3.4,Engineering,Networking-heavy
+742,Workshop Space,Workshop,External Employer,2024-04-23,Employer,Scottsdale,AZ,USA,11:00,90,Hybrid,Yes,210,208,Company Partner,0,4.59,Career Services,Targeted to MS students
+743,Hackathon First,Hackathon,Employer Relations,2025-09-10,University,Somerville,MA,USA,12:00,90,Virtual,Yes,279,81,IEEE,50,4.97,Analytics,Great turnout
+744,Career Fair Tv,Career Fair,Business School,2016-08-12,Employer,Houston,TX,USA,10:30,60,Hybrid,Yes,334,149,IEEE,0,3.12,Analytics,Networking-heavy
+745,Career Fair Catch,Career Fair,SLU Alumni Association,2019-04-16,University,Harrisburg,PA,USA,11:00,180,In-Person,Yes,156,152,Company Partner,50,4.9,Engineering,Targeted to MS students
+746,Workshop More,Workshop,SLU Alumni Association,2020-08-03,University,Miami,FL,USA,09:00,60,Hybrid,Yes,350,179,SLU,10,4.45,Career Services,Great turnout
+747,Hackathon Should,Hackathon,SLU Alumni Association,2015-01-01,University,Durham,NC,USA,15:00,120,Virtual,Yes,317,190,ACM,50,3.87,Analytics,Great turnout
+748,Alumni Meetup Budget,Alumni Meetup,CS Dept,2023-06-05,Employer,Chesterfield,MO,USA,16:45,120,Virtual,Yes,176,104,ACM,25,4.19,Career Services,Tech-focused
+749,Alumni Meetup Address,Alumni Meetup,External Employer,2024-12-11,University,Scottsdale,AZ,USA,09:30,120,Virtual,Yes,155,24,ACM,0,4.6,Engineering,Networking-heavy
+750,Workshop Attorney,Workshop,SLU Career Services,2021-11-25,University,Detroit,MI,USA,14:00,180,Hybrid,Yes,379,73,IEEE,10,4.85,Engineering,Great turnout
+751,Seminar List,Seminar,SLU Career Services,2020-03-31,University,Jacksonville,FL,USA,14:30,180,Hybrid,Yes,109,17,IEEE,50,4.83,Career Services,Targeted to MS students
+752,Employer Info Session Read,Employer Info Session,Employer Relations,2018-10-24,Employer,Orlando,FL,USA,18:30,180,In-Person,Yes,96,14,ACM,50,4.22,Business,Great turnout
+753,Workshop Leave,Workshop,SLU Alumni Association,2023-02-09,University,Boston,MA,USA,13:45,120,Hybrid,Yes,364,246,SLU,0,4.69,Career Services,Targeted to MS students
+754,Webinar East,Webinar,SLU Alumni Association,2023-08-29,University,Savannah,GA,USA,16:15,90,Hybrid,Yes,336,251,ACM,25,3.07,Analytics,Targeted to MS students
+755,Workshop Well,Workshop,SLU Career Services,2022-09-19,University,Redmond,WA,USA,08:30,60,Virtual,Yes,244,45,Graduate School,10,5.0,Analytics,Networking-heavy
+756,Webinar Space,Webinar,Business School,2019-01-14,Employer,Atlanta,GA,USA,12:00,90,Virtual,Yes,257,192,ACM,10,4.48,Analytics,Great turnout
+757,Career Fair Wish,Career Fair,SLU Alumni Association,2015-12-20,University,Philadelphia,PA,USA,15:00,180,Virtual,Yes,277,270,IEEE,25,4.53,Analytics,Tech-focused
+758,Hackathon Much,Hackathon,SLU Alumni Association,2025-09-22,University,San Jose,CA,USA,12:30,180,Hybrid,Yes,330,241,SLU,10,4.19,Engineering,Networking-heavy
+759,Webinar Town,Webinar,SLU Career Services,2022-04-26,Employer,Ann Arbor,MI,USA,18:45,90,Hybrid,Yes,320,51,Company Partner,50,4.7,Engineering,Tech-focused
+760,Hackathon Cold,Hackathon,SLU Career Services,2017-01-14,Employer,Cary,NC,USA,12:00,180,In-Person,Yes,173,92,ACM,25,3.68,Engineering,Targeted to MS students
+761,Seminar Imagine,Seminar,SLU Career Services,2017-09-03,University,Charlotte,NC,USA,13:30,90,Hybrid,Yes,290,38,SLU,0,3.39,Career Services,Targeted to MS students
+762,Webinar Head,Webinar,External Employer,2018-04-21,Employer,Redmond,WA,USA,17:30,60,In-Person,Yes,240,206,Graduate School,0,3.67,Business,Networking-heavy
+763,Hackathon Suffer,Hackathon,Business School,2025-12-06,University,Boston,MA,USA,14:15,90,Hybrid,Yes,210,115,Graduate School,50,4.97,Business,Great turnout
+764,Workshop Involve,Workshop,Business School,2022-07-21,University,Seattle,WA,USA,10:15,60,Virtual,Yes,228,71,Company Partner,0,4.19,Career Services,Tech-focused
+765,Career Fair Trade,Career Fair,External Employer,2021-03-17,University,Grand Rapids,MI,USA,14:30,60,Virtual,Yes,75,56,Company Partner,25,2.86,Career Services,Tech-focused
+766,Seminar Last,Seminar,External Employer,2020-04-30,Employer,Tampa,FL,USA,11:00,90,Virtual,Yes,316,159,Graduate School,25,3.17,Business,Targeted to MS students
+767,Workshop Without,Workshop,SLU Career Services,2024-07-30,University,Philadelphia,PA,USA,15:00,180,Hybrid,Yes,185,129,IEEE,25,5.0,Engineering,Tech-focused
+768,Webinar Main,Webinar,SLU Career Services,2017-07-15,Employer,Fort Collins,CO,USA,18:30,90,Hybrid,Yes,42,34,IEEE,50,4.05,Engineering,Targeted to MS students
+769,Workshop Morning,Workshop,Business School,2025-06-20,University,Dallas,TX,USA,14:45,120,Hybrid,Yes,318,271,Graduate School,10,4.27,Analytics,Tech-focused
+770,Seminar Today,Seminar,SLU Alumni Association,2015-11-09,University,Buffalo,NY,USA,12:45,90,Virtual,Yes,160,54,Company Partner,50,4.41,Analytics,Tech-focused
+771,Webinar Federal,Webinar,SLU Career Services,2020-10-18,Employer,New York,NY,USA,17:15,120,In-Person,Yes,198,97,IEEE,0,4.11,Engineering,Targeted to MS students
+772,Workshop Coach,Workshop,SLU Alumni Association,2019-01-14,Employer,Ann Arbor,MI,USA,13:00,120,In-Person,Yes,172,162,IEEE,25,4.43,Career Services,Tech-focused
+773,Webinar After,Webinar,Business School,2021-10-03,Employer,Tacoma,WA,USA,10:30,120,In-Person,Yes,237,53,Company Partner,0,3.8,Analytics,Great turnout
+774,Seminar Brother,Seminar,Business School,2023-08-08,Employer,Savannah,GA,USA,15:30,90,In-Person,Yes,171,14,IEEE,25,3.57,Analytics,Great turnout
+775,Hackathon Tree,Hackathon,Business School,2023-03-30,Employer,Tacoma,WA,USA,10:45,60,Virtual,Yes,253,247,Graduate School,50,2.94,Business,Targeted to MS students
+776,Career Fair Country,Career Fair,CS Dept,2024-07-12,Employer,Scottsdale,AZ,USA,18:15,180,Hybrid,Yes,250,126,SLU,0,3.12,Engineering,Great turnout
+777,Workshop Occur,Workshop,SLU Alumni Association,2020-08-10,Employer,Savannah,GA,USA,17:15,180,Virtual,Yes,332,178,SLU,10,3.77,Business,Networking-heavy
+778,Employer Info Session Check,Employer Info Session,SLU Career Services,2022-01-20,University,Seattle,WA,USA,17:00,180,In-Person,Yes,229,150,IEEE,25,4.29,Business,Great turnout
+779,Alumni Meetup Toward,Alumni Meetup,Business School,2016-08-22,University,Irvine,CA,USA,16:30,60,Hybrid,Yes,230,192,ACM,0,3.78,Business,Tech-focused
+780,Workshop Against,Workshop,SLU Alumni Association,2015-05-09,University,Somerville,MA,USA,16:30,180,Hybrid,Yes,340,291,SLU,50,4.64,Career Services,Networking-heavy
+781,Workshop Their,Workshop,CS Dept,2019-10-09,Employer,Denver,CO,USA,16:15,60,In-Person,Yes,33,24,ACM,10,3.45,Business,Networking-heavy
+782,Career Fair Interesting,Career Fair,External Employer,2023-02-01,Employer,Colorado Springs,CO,USA,12:30,60,Hybrid,Yes,192,82,IEEE,50,4.27,Career Services,Great turnout
+783,Employer Info Session Either,Employer Info Session,SLU Alumni Association,2016-01-31,Employer,Columbus,OH,USA,15:45,120,In-Person,Yes,271,165,Company Partner,25,4.38,Business,Targeted to MS students
+784,Seminar Your,Seminar,Employer Relations,2016-03-06,Employer,San Antonio,TX,USA,08:00,180,Virtual,Yes,329,26,SLU,50,2.91,Career Services,Networking-heavy
+785,Seminar Happy,Seminar,Employer Relations,2015-07-15,Employer,Philadelphia,PA,USA,13:45,90,Virtual,Yes,309,244,Company Partner,10,3.24,Analytics,Great turnout
+786,Webinar Current,Webinar,Business School,2021-01-25,University,Cary,NC,USA,18:30,120,Virtual,Yes,340,82,ACM,0,4.31,Analytics,Networking-heavy
+787,Employer Info Session Himself,Employer Info Session,External Employer,2024-04-03,University,Miami,FL,USA,08:45,90,In-Person,Yes,246,30,Company Partner,25,5.0,Engineering,Tech-focused
+788,Career Fair Choose,Career Fair,SLU Alumni Association,2019-10-10,University,Urbana,IL,USA,09:15,180,Hybrid,Yes,162,107,ACM,25,4.63,Analytics,Tech-focused
+789,Employer Info Session Wall,Employer Info Session,Employer Relations,2019-03-09,Employer,Naperville,IL,USA,12:30,60,In-Person,Yes,148,58,SLU,50,3.84,Career Services,Tech-focused
+790,Workshop During,Workshop,SLU Alumni Association,2018-01-22,University,Cleveland,OH,USA,12:15,90,Hybrid,Yes,242,241,Graduate School,25,4.97,Business,Targeted to MS students
+791,Seminar Beyond,Seminar,External Employer,2024-02-12,Employer,Raleigh,NC,USA,16:00,120,Virtual,Yes,163,38,SLU,0,4.19,Career Services,Tech-focused
+792,Workshop Tend,Workshop,CS Dept,2020-11-18,University,Grand Rapids,MI,USA,17:00,60,In-Person,Yes,178,134,SLU,50,4.53,Engineering,Tech-focused
+793,Alumni Meetup Story,Alumni Meetup,Business School,2025-09-14,Employer,Durham,NC,USA,12:45,60,Virtual,Yes,202,64,SLU,25,2.82,Career Services,Targeted to MS students
+794,Career Fair Something,Career Fair,External Employer,2017-04-30,University,Detroit,MI,USA,18:30,120,In-Person,Yes,207,49,Company Partner,0,5.0,Career Services,Tech-focused
+795,Workshop Much,Workshop,CS Dept,2022-12-29,University,Cary,NC,USA,10:00,120,Virtual,Yes,264,43,Graduate School,50,3.29,Career Services,Tech-focused
+796,Career Fair Third,Career Fair,CS Dept,2024-07-15,University,Irvine,CA,USA,11:00,180,Hybrid,Yes,236,90,Graduate School,10,3.29,Analytics,Great turnout
+797,Hackathon Left,Hackathon,External Employer,2022-08-01,University,Tacoma,WA,USA,15:15,60,Hybrid,Yes,128,39,ACM,0,3.37,Analytics,Targeted to MS students
+798,Career Fair Yourself,Career Fair,SLU Alumni Association,2018-05-05,Employer,Detroit,MI,USA,11:00,120,Virtual,Yes,244,186,SLU,10,4.24,Engineering,Tech-focused
+799,Employer Info Session Within,Employer Info Session,Business School,2018-12-21,Employer,San Diego,CA,USA,11:15,90,Hybrid,Yes,146,18,ACM,25,4.59,Analytics,Targeted to MS students
+800,Employer Info Session Best,Employer Info Session,CS Dept,2017-11-15,Employer,San Jose,CA,USA,09:30,120,In-Person,Yes,368,21,Graduate School,0,3.58,Engineering,Great turnout
+801,Seminar Wait,Seminar,Employer Relations,2023-05-27,Employer,Boulder,CO,USA,12:00,180,Virtual,Yes,267,213,IEEE,25,4.49,Career Services,Tech-focused
+802,Career Fair Major,Career Fair,Business School,2015-04-24,Employer,Alpharetta,GA,USA,17:30,180,Virtual,Yes,225,189,SLU,50,4.17,Engineering,Great turnout
+803,Seminar Not,Seminar,Employer Relations,2022-09-04,Employer,Durham,NC,USA,12:30,120,In-Person,Yes,334,104,SLU,0,4.85,Analytics,Targeted to MS students
+804,Hackathon Whose,Hackathon,External Employer,2021-11-03,University,San Antonio,TX,USA,08:15,180,Virtual,Yes,331,114,Company Partner,50,4.09,Career Services,Great turnout
+805,Career Fair Executive,Career Fair,CS Dept,2023-07-03,Employer,Charlotte,NC,USA,10:45,180,Virtual,Yes,235,167,ACM,50,3.74,Engineering,Great turnout
+806,Hackathon Defense,Hackathon,SLU Alumni Association,2018-10-27,University,Bellevue,WA,USA,17:30,180,In-Person,Yes,94,14,Graduate School,25,4.82,Engineering,Targeted to MS students
+807,Career Fair May,Career Fair,CS Dept,2017-06-18,Employer,Denver,CO,USA,15:00,120,In-Person,Yes,66,59,ACM,10,3.28,Business,Great turnout
+808,Alumni Meetup Either,Alumni Meetup,SLU Alumni Association,2018-06-12,Employer,Columbus,OH,USA,16:15,90,In-Person,Yes,204,204,ACM,50,4.88,Career Services,Networking-heavy
+809,Hackathon Return,Hackathon,External Employer,2017-06-09,Employer,Alpharetta,GA,USA,09:45,60,In-Person,Yes,374,57,Graduate School,10,4.54,Career Services,Networking-heavy
+810,Hackathon Around,Hackathon,Business School,2016-11-20,University,Colorado Springs,CO,USA,18:45,90,In-Person,Yes,382,290,Company Partner,50,4.18,Analytics,Great turnout
+811,Employer Info Session Public,Employer Info Session,Employer Relations,2015-03-25,University,Los Angeles,CA,USA,11:45,180,Hybrid,Yes,126,21,SLU,25,4.16,Analytics,Great turnout
+812,Hackathon Congress,Hackathon,Employer Relations,2025-03-20,University,Boulder,CO,USA,18:30,60,Virtual,Yes,253,75,Graduate School,0,4.41,Business,Tech-focused
+813,Seminar Beyond,Seminar,Employer Relations,2019-02-15,Employer,Harrisburg,PA,USA,11:00,90,Hybrid,Yes,272,21,ACM,25,3.68,Analytics,Great turnout
+814,Workshop Subject,Workshop,Employer Relations,2023-12-12,University,Seattle,WA,USA,18:00,90,In-Person,Yes,111,106,ACM,0,3.87,Business,Great turnout
+815,Alumni Meetup Big,Alumni Meetup,SLU Career Services,2015-10-18,University,Urbana,IL,USA,12:30,120,Hybrid,Yes,276,117,IEEE,50,4.28,Analytics,Targeted to MS students
+816,Career Fair Up,Career Fair,Employer Relations,2018-03-17,Employer,Columbia,MO,USA,08:45,60,Hybrid,Yes,207,52,Graduate School,25,3.82,Career Services,Targeted to MS students
+817,Workshop Start,Workshop,External Employer,2017-07-28,University,Cambridge,MA,USA,15:45,180,Virtual,Yes,210,127,ACM,10,3.0,Career Services,Networking-heavy
+818,Employer Info Session Sure,Employer Info Session,Employer Relations,2023-11-11,University,Urbana,IL,USA,10:45,120,Virtual,Yes,193,170,Company Partner,10,4.74,Career Services,Targeted to MS students
+819,Webinar Make,Webinar,External Employer,2019-10-26,University,Savannah,GA,USA,14:30,180,In-Person,Yes,222,121,Company Partner,10,4.08,Analytics,Targeted to MS students
+820,Career Fair Again,Career Fair,Employer Relations,2022-12-14,Employer,Detroit,MI,USA,11:30,180,Virtual,Yes,128,24,Company Partner,50,3.24,Business,Great turnout
+821,Webinar None,Webinar,Employer Relations,2022-10-14,University,Atlanta,GA,USA,08:00,60,Hybrid,Yes,372,122,SLU,25,5.0,Engineering,Great turnout
+822,Employer Info Session Science,Employer Info Session,External Employer,2020-12-14,Employer,Somerville,MA,USA,10:30,180,Hybrid,Yes,316,96,Company Partner,50,4.61,Business,Targeted to MS students
+823,Career Fair Say,Career Fair,CS Dept,2018-01-21,University,Denver,CO,USA,18:30,120,Virtual,Yes,278,43,IEEE,0,4.89,Analytics,Tech-focused
+824,Webinar Financial,Webinar,Business School,2022-08-22,University,Harrisburg,PA,USA,14:30,120,In-Person,Yes,384,262,Company Partner,0,4.39,Analytics,Tech-focused
+825,Alumni Meetup She,Alumni Meetup,Business School,2017-07-04,Employer,Atlanta,GA,USA,11:45,180,Hybrid,Yes,352,256,SLU,0,3.95,Career Services,Great turnout
+826,Webinar Reduce,Webinar,Employer Relations,2016-07-01,Employer,Tacoma,WA,USA,11:45,120,Hybrid,Yes,250,172,SLU,25,3.81,Analytics,Networking-heavy
+827,Alumni Meetup System,Alumni Meetup,External Employer,2021-07-24,University,Redmond,WA,USA,08:15,180,Virtual,Yes,370,259,Graduate School,50,4.37,Analytics,Tech-focused
+828,Hackathon Fall,Hackathon,Business School,2017-06-16,Employer,Cleveland,OH,USA,12:00,90,Hybrid,Yes,55,26,Graduate School,0,4.58,Career Services,Great turnout
+829,Webinar Mr,Webinar,Business School,2021-02-10,University,Tempe,AZ,USA,15:45,60,Hybrid,Yes,302,97,ACM,0,3.73,Business,Targeted to MS students
+830,Webinar Lay,Webinar,SLU Alumni Association,2017-12-21,Employer,Worcester,MA,USA,10:00,180,Hybrid,Yes,43,43,Company Partner,0,5.0,Business,Networking-heavy
+831,Workshop Win,Workshop,CS Dept,2017-10-23,University,Orlando,FL,USA,12:30,90,Hybrid,Yes,108,73,SLU,10,3.66,Analytics,Great turnout
+832,Career Fair Trial,Career Fair,SLU Alumni Association,2021-07-18,Employer,Miami,FL,USA,11:45,180,Virtual,Yes,156,55,SLU,10,2.98,Career Services,Networking-heavy
+833,Career Fair Thank,Career Fair,SLU Career Services,2017-07-26,University,Fort Collins,CO,USA,11:00,90,Hybrid,Yes,389,61,SLU,0,4.22,Career Services,Networking-heavy
+834,Workshop As,Workshop,SLU Career Services,2022-10-31,Employer,Cary,NC,USA,14:45,60,In-Person,Yes,32,27,IEEE,10,5.0,Career Services,Tech-focused
+835,Webinar City,Webinar,Business School,2021-09-05,University,Miami,FL,USA,13:00,120,In-Person,Yes,214,209,SLU,0,3.49,Career Services,Tech-focused
+836,Webinar Economy,Webinar,Business School,2018-10-17,University,Buffalo,NY,USA,09:30,120,In-Person,Yes,100,30,IEEE,10,3.9,Career Services,Great turnout
+837,Workshop Day,Workshop,Employer Relations,2017-02-13,University,Pittsburgh,PA,USA,08:30,120,Virtual,Yes,164,150,Graduate School,0,4.31,Analytics,Tech-focused
+838,Seminar Congress,Seminar,External Employer,2022-03-13,Employer,Cambridge,MA,USA,17:45,180,Hybrid,Yes,155,95,SLU,0,5.0,Engineering,Great turnout
+839,Seminar Different,Seminar,Business School,2021-06-14,Employer,Cambridge,MA,USA,12:45,60,Hybrid,Yes,391,153,IEEE,25,4.33,Career Services,Networking-heavy
+840,Career Fair Sure,Career Fair,Business School,2017-09-06,Employer,Grand Rapids,MI,USA,17:45,90,Hybrid,Yes,284,31,SLU,25,3.09,Engineering,Tech-focused
+841,Workshop Drop,Workshop,SLU Alumni Association,2021-11-02,Employer,Ann Arbor,MI,USA,14:45,60,Virtual,Yes,394,346,ACM,0,3.34,Business,Targeted to MS students
+842,Alumni Meetup Loss,Alumni Meetup,Employer Relations,2024-09-11,University,Pittsburgh,PA,USA,15:30,90,Virtual,Yes,327,300,SLU,25,3.91,Career Services,Targeted to MS students
+843,Career Fair Dream,Career Fair,External Employer,2020-12-14,Employer,Peoria,IL,USA,09:00,90,In-Person,Yes,197,144,Graduate School,50,4.72,Analytics,Targeted to MS students
+844,Workshop Scientist,Workshop,SLU Alumni Association,2020-03-07,Employer,Urbana,IL,USA,13:15,180,Virtual,Yes,53,37,SLU,10,3.97,Engineering,Networking-heavy
+845,Alumni Meetup Third,Alumni Meetup,External Employer,2018-01-03,University,White Plains,NY,USA,14:00,90,Virtual,Yes,189,77,IEEE,50,4.32,Business,Tech-focused
+846,Alumni Meetup Audience,Alumni Meetup,SLU Career Services,2025-08-13,University,Worcester,MA,USA,10:45,180,In-Person,Yes,264,17,Company Partner,50,5.0,Engineering,Tech-focused
+847,Employer Info Session Suggest,Employer Info Session,SLU Alumni Association,2024-11-03,Employer,Tempe,AZ,USA,12:30,120,In-Person,Yes,251,26,IEEE,50,3.03,Analytics,Great turnout
+848,Webinar Turn,Webinar,SLU Alumni Association,2024-05-21,University,Boulder,CO,USA,11:45,120,Hybrid,Yes,111,93,ACM,0,4.95,Analytics,Tech-focused
+849,Hackathon Option,Hackathon,SLU Alumni Association,2019-08-21,Employer,Plano,TX,USA,14:15,120,Hybrid,Yes,173,84,IEEE,25,3.55,Career Services,Targeted to MS students
+850,Alumni Meetup Later,Alumni Meetup,SLU Alumni Association,2024-11-17,Employer,Fort Collins,CO,USA,17:00,90,In-Person,Yes,213,95,SLU,50,4.57,Analytics,Targeted to MS students
+851,Hackathon Direction,Hackathon,CS Dept,2016-08-04,Employer,Detroit,MI,USA,14:30,120,Virtual,Yes,166,115,SLU,10,3.69,Analytics,Networking-heavy
+852,Career Fair Fill,Career Fair,Employer Relations,2023-05-22,Employer,Fort Collins,CO,USA,10:00,180,Hybrid,Yes,269,165,ACM,25,3.77,Engineering,Networking-heavy
+853,Seminar Camera,Seminar,External Employer,2020-06-26,University,Kansas City,MO,USA,17:30,90,Hybrid,Yes,274,40,IEEE,25,4.35,Engineering,Tech-focused
+854,Hackathon Father,Hackathon,CS Dept,2016-08-17,University,Springfield,MO,USA,13:00,120,Hybrid,Yes,55,46,Company Partner,50,3.55,Business,Great turnout
+855,Seminar Believe,Seminar,Employer Relations,2015-06-22,Employer,Miami,FL,USA,12:00,120,Virtual,Yes,366,112,Graduate School,10,4.42,Engineering,Networking-heavy
+856,Hackathon Fill,Hackathon,SLU Alumni Association,2024-09-18,University,Chicago,IL,USA,18:15,90,Hybrid,Yes,203,50,ACM,50,2.98,Career Services,Targeted to MS students
+857,Career Fair Apply,Career Fair,Business School,2017-01-09,Employer,Los Angeles,CA,USA,09:30,60,Virtual,Yes,38,33,SLU,10,4.05,Analytics,Tech-focused
+858,Alumni Meetup A,Alumni Meetup,External Employer,2018-10-12,Employer,Philadelphia,PA,USA,15:45,90,In-Person,Yes,94,76,Company Partner,0,4.69,Business,Targeted to MS students
+859,Hackathon Leave,Hackathon,SLU Alumni Association,2023-02-04,University,Kansas City,MO,USA,12:30,120,Hybrid,Yes,221,113,SLU,10,4.53,Engineering,Tech-focused
+860,Workshop Box,Workshop,SLU Alumni Association,2018-11-29,University,Philadelphia,PA,USA,15:00,60,Hybrid,Yes,33,22,ACM,0,3.63,Business,Targeted to MS students
+861,Hackathon Reveal,Hackathon,SLU Career Services,2025-12-22,Employer,Seattle,WA,USA,13:15,90,Hybrid,Yes,332,323,SLU,0,4.94,Analytics,Targeted to MS students
+862,Webinar Kitchen,Webinar,SLU Career Services,2019-03-28,Employer,Raleigh,NC,USA,17:15,60,In-Person,Yes,394,112,Graduate School,10,4.99,Analytics,Tech-focused
+863,Webinar Respond,Webinar,External Employer,2024-02-25,University,Detroit,MI,USA,14:30,180,In-Person,Yes,237,117,ACM,0,4.33,Analytics,Tech-focused
+864,Alumni Meetup Receive,Alumni Meetup,Employer Relations,2022-12-25,Employer,Worcester,MA,USA,16:30,120,Hybrid,Yes,165,134,IEEE,10,3.49,Engineering,Great turnout
+865,Webinar Build,Webinar,External Employer,2020-06-20,University,Fort Collins,CO,USA,09:15,180,In-Person,Yes,289,263,IEEE,0,3.9,Engineering,Targeted to MS students
+866,Workshop Cup,Workshop,Business School,2022-10-23,University,Tacoma,WA,USA,12:45,180,Hybrid,Yes,383,112,SLU,10,4.96,Career Services,Great turnout
+867,Webinar Why,Webinar,External Employer,2019-02-09,University,Ann Arbor,MI,USA,17:00,60,Virtual,Yes,320,148,ACM,10,3.05,Engineering,Tech-focused
+868,Webinar Firm,Webinar,SLU Career Services,2015-03-15,University,Cleveland,OH,USA,09:30,90,Hybrid,Yes,350,68,IEEE,50,4.69,Engineering,Networking-heavy
+869,Workshop Include,Workshop,CS Dept,2025-12-04,University,Springfield,MO,USA,09:00,120,Virtual,Yes,63,50,SLU,25,3.97,Analytics,Targeted to MS students
+870,Webinar Want,Webinar,SLU Alumni Association,2020-08-10,Employer,Bellevue,WA,USA,14:30,180,Hybrid,Yes,399,115,Graduate School,0,4.04,Engineering,Targeted to MS students
+871,Employer Info Session Decide,Employer Info Session,SLU Alumni Association,2020-04-10,University,Alpharetta,GA,USA,15:30,180,In-Person,Yes,362,13,IEEE,50,3.3,Career Services,Great turnout
+872,Employer Info Session Fine,Employer Info Session,Employer Relations,2015-04-15,University,Orlando,FL,USA,17:30,180,Virtual,Yes,366,334,Graduate School,50,4.39,Engineering,Networking-heavy
+873,Webinar Perhaps,Webinar,CS Dept,2019-01-14,Employer,Grand Rapids,MI,USA,09:15,60,In-Person,Yes,135,135,SLU,25,5.0,Business,Great turnout
+874,Workshop Hair,Workshop,CS Dept,2025-03-02,Employer,Dallas,TX,USA,18:15,60,Hybrid,Yes,181,175,Company Partner,50,4.38,Business,Great turnout
+875,Hackathon Public,Hackathon,Employer Relations,2017-03-23,Employer,Columbia,MO,USA,13:15,60,Hybrid,Yes,328,307,ACM,0,4.47,Analytics,Tech-focused
+876,Alumni Meetup True,Alumni Meetup,CS Dept,2024-07-27,University,Alpharetta,GA,USA,13:00,180,Virtual,Yes,32,30,Company Partner,0,3.72,Career Services,Tech-focused
+877,Webinar We,Webinar,SLU Career Services,2016-09-02,Employer,Grand Rapids,MI,USA,08:30,90,Virtual,Yes,334,242,Graduate School,50,3.06,Career Services,Tech-focused
+878,Workshop Reason,Workshop,External Employer,2017-03-03,Employer,Clayton,MO,USA,12:45,60,Virtual,Yes,357,86,Company Partner,25,4.47,Engineering,Tech-focused
+879,Employer Info Session Form,Employer Info Session,CS Dept,2019-02-08,University,San Diego,CA,USA,17:15,60,Virtual,Yes,103,11,SLU,50,3.83,Business,Networking-heavy
+880,Hackathon Serve,Hackathon,Employer Relations,2017-05-03,Employer,Chicago,IL,USA,12:30,60,In-Person,Yes,161,134,Graduate School,0,3.29,Engineering,Tech-focused
+881,Seminar Show,Seminar,SLU Alumni Association,2021-07-26,Employer,Raleigh,NC,USA,14:45,60,Virtual,Yes,103,86,Company Partner,10,4.88,Career Services,Tech-focused
+882,Employer Info Session Right,Employer Info Session,CS Dept,2019-07-13,Employer,Detroit,MI,USA,14:45,90,In-Person,Yes,359,198,Graduate School,10,5.0,Analytics,Great turnout
+883,Career Fair East,Career Fair,Employer Relations,2017-09-01,Employer,Rochester,NY,USA,16:00,60,Hybrid,Yes,207,138,IEEE,25,4.91,Analytics,Great turnout
+884,Career Fair No,Career Fair,Employer Relations,2015-10-14,University,Durham,NC,USA,17:45,90,Hybrid,Yes,56,12,SLU,10,4.14,Business,Great turnout
+885,Seminar Door,Seminar,CS Dept,2020-07-07,University,Springfield,IL,USA,12:45,120,Hybrid,Yes,397,145,ACM,25,3.77,Business,Great turnout
+886,Alumni Meetup Media,Alumni Meetup,CS Dept,2020-12-16,University,Tempe,AZ,USA,13:45,180,In-Person,Yes,126,37,Graduate School,10,4.24,Career Services,Targeted to MS students
+887,Employer Info Session Both,Employer Info Session,SLU Alumni Association,2025-06-14,University,Tempe,AZ,USA,15:15,120,Virtual,Yes,148,31,Company Partner,50,3.79,Engineering,Great turnout
+888,Alumni Meetup Hand,Alumni Meetup,External Employer,2016-10-07,University,Philadelphia,PA,USA,09:30,60,In-Person,Yes,62,26,Company Partner,25,4.78,Business,Targeted to MS students
+889,Employer Info Session Special,Employer Info Session,External Employer,2019-05-27,Employer,St. Louis,MO,USA,11:30,180,Hybrid,Yes,330,67,SLU,50,3.65,Analytics,Targeted to MS students
+890,Alumni Meetup Important,Alumni Meetup,SLU Career Services,2024-12-05,University,Cleveland,OH,USA,13:45,120,Virtual,Yes,364,362,Company Partner,0,3.65,Career Services,Tech-focused
+891,Hackathon Government,Hackathon,Business School,2020-06-13,Employer,Miami,FL,USA,18:45,120,Hybrid,Yes,173,82,SLU,50,3.93,Analytics,Great turnout
+892,Employer Info Session Over,Employer Info Session,CS Dept,2021-05-31,Employer,Charlotte,NC,USA,16:30,90,Virtual,Yes,33,23,IEEE,10,3.99,Engineering,Targeted to MS students
+893,Alumni Meetup Behavior,Alumni Meetup,External Employer,2018-01-04,University,Austin,TX,USA,10:30,120,Virtual,Yes,303,72,Graduate School,10,4.23,Engineering,Tech-focused
+894,Career Fair Similar,Career Fair,Business School,2025-12-16,University,Irvine,CA,USA,15:00,180,Virtual,Yes,336,43,IEEE,50,4.94,Career Services,Networking-heavy
+895,Seminar Minute,Seminar,CS Dept,2020-07-07,Employer,Scottsdale,AZ,USA,08:45,180,Virtual,Yes,228,145,SLU,50,3.59,Business,Great turnout
+896,Hackathon Final,Hackathon,External Employer,2023-09-09,University,Harrisburg,PA,USA,14:30,180,Hybrid,Yes,174,24,IEEE,10,3.82,Engineering,Targeted to MS students
+897,Workshop Beyond,Workshop,Business School,2017-06-30,Employer,New York,NY,USA,14:00,120,In-Person,Yes,95,63,Company Partner,25,2.7,Engineering,Great turnout
+898,Seminar Along,Seminar,External Employer,2016-09-16,Employer,San Jose,CA,USA,13:30,120,Hybrid,Yes,265,108,Graduate School,0,2.74,Engineering,Tech-focused
+899,Webinar Lawyer,Webinar,CS Dept,2021-11-17,Employer,Springfield,IL,USA,08:15,180,Virtual,Yes,307,166,Company Partner,25,4.46,Career Services,Targeted to MS students
+900,Employer Info Session Day,Employer Info Session,CS Dept,2020-03-21,University,Urbana,IL,USA,16:30,180,Virtual,Yes,205,164,ACM,10,4.59,Engineering,Networking-heavy
+901,Alumni Meetup Take,Alumni Meetup,SLU Alumni Association,2019-05-25,University,Kansas City,MO,USA,08:00,90,Hybrid,Yes,165,51,Company Partner,0,3.53,Business,Networking-heavy
+902,Hackathon By,Hackathon,CS Dept,2021-11-12,Employer,Kansas City,MO,USA,16:15,60,In-Person,Yes,316,267,ACM,0,3.85,Business,Tech-focused
+903,Seminar Situation,Seminar,SLU Career Services,2016-12-15,Employer,Ann Arbor,MI,USA,09:15,120,Hybrid,Yes,385,338,IEEE,25,4.82,Business,Networking-heavy
+904,Seminar Subject,Seminar,SLU Alumni Association,2016-09-22,University,Irvine,CA,USA,08:15,60,In-Person,Yes,203,29,SLU,0,4.33,Analytics,Tech-focused
+905,Workshop Base,Workshop,External Employer,2019-01-23,University,Bellevue,WA,USA,11:15,90,Virtual,Yes,75,46,IEEE,10,3.81,Career Services,Tech-focused
+906,Workshop Across,Workshop,External Employer,2025-02-20,Employer,White Plains,NY,USA,10:15,90,Hybrid,Yes,64,19,Graduate School,25,3.88,Career Services,Targeted to MS students
+907,Employer Info Session Hear,Employer Info Session,CS Dept,2024-06-21,University,Los Angeles,CA,USA,13:00,60,Hybrid,Yes,122,48,Company Partner,25,3.53,Career Services,Great turnout
+908,Career Fair Possible,Career Fair,External Employer,2015-05-28,University,Albany,NY,USA,10:15,90,Virtual,Yes,176,19,SLU,50,3.78,Career Services,Great turnout
+909,Seminar Memory,Seminar,Employer Relations,2016-02-29,University,Albany,NY,USA,11:00,180,In-Person,Yes,345,115,SLU,50,4.42,Business,Networking-heavy
+910,Hackathon Skin,Hackathon,CS Dept,2021-11-29,University,Tempe,AZ,USA,16:45,90,Hybrid,Yes,390,360,IEEE,25,3.8,Engineering,Tech-focused
+911,Employer Info Session Dog,Employer Info Session,Employer Relations,2019-06-17,Employer,Springfield,MO,USA,16:30,120,In-Person,Yes,276,22,ACM,0,4.25,Business,Targeted to MS students
+912,Employer Info Session Choice,Employer Info Session,Business School,2019-11-30,University,Austin,TX,USA,16:15,60,Hybrid,Yes,250,46,ACM,10,4.22,Career Services,Tech-focused
+913,Seminar Difference,Seminar,Employer Relations,2023-09-07,University,Atlanta,GA,USA,11:15,120,Virtual,Yes,231,190,ACM,10,5.0,Analytics,Tech-focused
+914,Employer Info Session Daughter,Employer Info Session,CS Dept,2024-12-19,Employer,Miami,FL,USA,15:45,180,In-Person,Yes,390,139,SLU,10,3.84,Business,Networking-heavy
+915,Workshop Health,Workshop,External Employer,2015-03-18,Employer,St. Louis,MO,USA,08:15,60,Hybrid,Yes,104,25,Graduate School,0,3.54,Career Services,Great turnout
+916,Seminar Position,Seminar,Business School,2022-08-08,Employer,Grand Rapids,MI,USA,16:00,90,Hybrid,Yes,246,165,Company Partner,25,3.36,Analytics,Great turnout
+917,Hackathon Pull,Hackathon,SLU Career Services,2024-06-22,Employer,Phoenix,AZ,USA,08:00,90,In-Person,Yes,199,54,ACM,25,4.1,Career Services,Tech-focused
+918,Career Fair Important,Career Fair,Employer Relations,2019-09-14,University,Boston,MA,USA,15:45,180,In-Person,Yes,168,167,Graduate School,25,3.5,Engineering,Great turnout
+919,Webinar Establish,Webinar,External Employer,2018-05-27,Employer,Redmond,WA,USA,13:30,60,In-Person,Yes,190,31,Graduate School,10,4.58,Analytics,Networking-heavy
+920,Hackathon Establish,Hackathon,SLU Career Services,2016-12-05,Employer,Columbus,OH,USA,18:45,180,Virtual,Yes,324,155,SLU,10,4.58,Business,Tech-focused
+921,Workshop Including,Workshop,SLU Career Services,2025-09-17,University,Cincinnati,OH,USA,08:00,120,Hybrid,Yes,272,107,IEEE,0,4.18,Engineering,Great turnout
+922,Webinar Structure,Webinar,External Employer,2019-12-15,Employer,Orlando,FL,USA,08:00,90,In-Person,Yes,267,178,IEEE,10,5.0,Business,Targeted to MS students
+923,Employer Info Session Down,Employer Info Session,SLU Alumni Association,2021-05-20,University,Tucson,AZ,USA,16:30,90,In-Person,Yes,329,212,IEEE,25,5.0,Engineering,Targeted to MS students
+924,Seminar Computer,Seminar,CS Dept,2018-08-30,University,Buffalo,NY,USA,14:00,120,Hybrid,Yes,261,201,SLU,0,4.14,Analytics,Networking-heavy
+925,Employer Info Session Series,Employer Info Session,Employer Relations,2016-07-30,University,Atlanta,GA,USA,10:00,90,Hybrid,Yes,158,55,Company Partner,10,4.05,Business,Great turnout
+926,Employer Info Session Common,Employer Info Session,CS Dept,2023-01-25,Employer,Chicago,IL,USA,17:45,180,Virtual,Yes,32,25,Company Partner,50,3.98,Career Services,Targeted to MS students
+927,Seminar Town,Seminar,SLU Career Services,2020-07-30,Employer,Cary,NC,USA,18:15,120,Virtual,Yes,375,307,SLU,0,3.75,Business,Networking-heavy
+928,Webinar Rock,Webinar,CS Dept,2019-02-16,Employer,Somerville,MA,USA,11:45,60,In-Person,Yes,67,38,ACM,50,4.24,Career Services,Targeted to MS students
+929,Hackathon Trip,Hackathon,SLU Alumni Association,2025-07-05,University,Seattle,WA,USA,17:00,90,In-Person,Yes,307,307,Company Partner,25,4.36,Career Services,Great turnout
+930,Career Fair Where,Career Fair,Business School,2016-07-31,University,Worcester,MA,USA,09:30,120,Hybrid,Yes,98,49,Graduate School,50,3.51,Engineering,Tech-focused
+931,Alumni Meetup Region,Alumni Meetup,SLU Career Services,2018-02-17,Employer,Orlando,FL,USA,16:30,180,In-Person,Yes,350,231,SLU,10,4.27,Analytics,Great turnout
+932,Employer Info Session Or,Employer Info Session,Employer Relations,2019-11-16,Employer,Raleigh,NC,USA,14:30,90,Virtual,Yes,387,119,IEEE,0,3.76,Engineering,Networking-heavy
+933,Hackathon Not,Hackathon,SLU Career Services,2025-04-03,Employer,Colorado Springs,CO,USA,12:15,60,Hybrid,Yes,321,101,Graduate School,25,4.81,Analytics,Networking-heavy
+934,Alumni Meetup Mission,Alumni Meetup,SLU Alumni Association,2017-10-08,University,Naperville,IL,USA,18:30,60,Virtual,Yes,224,12,ACM,50,2.86,Analytics,Networking-heavy
+935,Employer Info Session Provide,Employer Info Session,SLU Career Services,2016-07-07,University,Tempe,AZ,USA,14:15,90,Virtual,Yes,144,63,Graduate School,10,3.92,Engineering,Targeted to MS students
+936,Webinar Surface,Webinar,Employer Relations,2017-06-13,Employer,San Francisco,CA,USA,13:30,90,In-Person,Yes,262,245,IEEE,10,4.04,Career Services,Tech-focused
+937,Employer Info Session Staff,Employer Info Session,SLU Alumni Association,2018-08-03,University,Pittsburgh,PA,USA,14:15,120,Virtual,Yes,383,333,ACM,25,4.8,Career Services,Targeted to MS students
+938,Hackathon She,Hackathon,Employer Relations,2015-10-07,Employer,Boulder,CO,USA,14:00,180,Virtual,Yes,275,185,Graduate School,50,4.32,Business,Networking-heavy
+939,Workshop Doctor,Workshop,SLU Career Services,2021-06-19,Employer,Grand Rapids,MI,USA,12:30,60,Virtual,Yes,52,49,SLU,50,4.09,Business,Great turnout
+940,Employer Info Session Buy,Employer Info Session,CS Dept,2021-03-08,Employer,Denver,CO,USA,11:15,120,In-Person,Yes,40,25,IEEE,0,5.0,Business,Networking-heavy
+941,Seminar Wear,Seminar,Employer Relations,2017-09-25,University,Scottsdale,AZ,USA,16:00,60,In-Person,Yes,357,43,Company Partner,0,3.49,Analytics,Targeted to MS students
+942,Hackathon Major,Hackathon,Business School,2019-06-20,University,Somerville,MA,USA,17:30,60,Hybrid,Yes,253,168,Graduate School,50,4.36,Engineering,Great turnout
+943,Employer Info Session History,Employer Info Session,SLU Alumni Association,2022-08-13,University,Chesterfield,MO,USA,17:00,90,Hybrid,Yes,395,170,ACM,50,3.56,Career Services,Tech-focused
+944,Employer Info Session Feeling,Employer Info Session,Employer Relations,2020-11-07,University,Miami,FL,USA,10:15,120,In-Person,Yes,325,278,Company Partner,0,3.87,Career Services,Great turnout
+945,Webinar Up,Webinar,SLU Alumni Association,2025-06-16,Employer,Alpharetta,GA,USA,17:15,90,In-Person,Yes,67,42,ACM,10,3.56,Engineering,Targeted to MS students
+946,Workshop All,Workshop,Employer Relations,2023-10-12,Employer,Albany,NY,USA,17:30,60,Hybrid,Yes,353,292,Graduate School,0,3.94,Career Services,Networking-heavy
+947,Seminar Career,Seminar,Business School,2016-03-15,Employer,Phoenix,AZ,USA,13:30,180,In-Person,Yes,89,10,Graduate School,10,4.12,Career Services,Networking-heavy
+948,Webinar Figure,Webinar,External Employer,2019-07-18,University,Springfield,IL,USA,12:30,60,Hybrid,Yes,369,10,Company Partner,50,3.63,Career Services,Great turnout
+949,Alumni Meetup Head,Alumni Meetup,External Employer,2020-11-20,Employer,Tacoma,WA,USA,11:15,120,Virtual,Yes,213,197,Company Partner,50,3.64,Analytics,Targeted to MS students
+950,Workshop Test,Workshop,SLU Alumni Association,2025-01-04,Employer,Naperville,IL,USA,18:00,120,In-Person,Yes,265,126,SLU,25,5.0,Engineering,Targeted to MS students
+951,Webinar Pay,Webinar,External Employer,2024-09-24,Employer,Peoria,IL,USA,08:30,180,Hybrid,Yes,400,272,Graduate School,50,3.27,Analytics,Great turnout
+952,Alumni Meetup Service,Alumni Meetup,External Employer,2015-07-27,University,Urbana,IL,USA,18:45,60,Virtual,Yes,390,18,Graduate School,10,4.23,Business,Networking-heavy
+953,Webinar Exist,Webinar,SLU Alumni Association,2020-01-29,Employer,Cleveland,OH,USA,17:15,120,Virtual,Yes,230,194,IEEE,50,3.64,Analytics,Targeted to MS students
+954,Workshop Few,Workshop,SLU Career Services,2020-01-25,Employer,San Antonio,TX,USA,17:30,180,In-Person,Yes,390,236,Company Partner,0,5.0,Career Services,Targeted to MS students
+955,Hackathon Husband,Hackathon,CS Dept,2025-05-12,Employer,Somerville,MA,USA,16:45,60,Hybrid,Yes,123,113,SLU,25,4.68,Analytics,Targeted to MS students
+956,Seminar Room,Seminar,SLU Alumni Association,2024-09-20,Employer,Tucson,AZ,USA,10:00,120,Virtual,Yes,248,128,IEEE,25,4.3,Engineering,Tech-focused
+957,Hackathon Far,Hackathon,SLU Alumni Association,2023-06-29,Employer,Grand Rapids,MI,USA,15:15,90,In-Person,Yes,91,20,SLU,0,3.69,Business,Great turnout
+958,Alumni Meetup Themselves,Alumni Meetup,External Employer,2019-08-23,Employer,Grand Rapids,MI,USA,14:30,90,Hybrid,Yes,253,38,Graduate School,0,3.62,Analytics,Targeted to MS students
+959,Seminar Anyone,Seminar,SLU Alumni Association,2025-02-20,Employer,Durham,NC,USA,14:00,120,Hybrid,Yes,80,14,Graduate School,25,4.62,Analytics,Tech-focused
+960,Hackathon Family,Hackathon,CS Dept,2022-12-11,University,Harrisburg,PA,USA,08:30,120,Hybrid,Yes,358,64,SLU,10,5.0,Career Services,Great turnout
+961,Employer Info Session Chair,Employer Info Session,Employer Relations,2025-10-12,Employer,Redmond,WA,USA,12:00,120,Virtual,Yes,225,152,ACM,50,4.53,Engineering,Networking-heavy
+962,Workshop Discuss,Workshop,Employer Relations,2024-12-14,Employer,Denver,CO,USA,15:45,180,In-Person,Yes,377,130,Graduate School,10,5.0,Career Services,Networking-heavy
+963,Career Fair Yard,Career Fair,Business School,2017-01-10,University,Colorado Springs,CO,USA,08:45,60,In-Person,Yes,329,93,ACM,50,4.76,Engineering,Great turnout
+964,Alumni Meetup Big,Alumni Meetup,External Employer,2019-01-07,Employer,Houston,TX,USA,17:00,90,Hybrid,Yes,246,235,Company Partner,0,3.91,Analytics,Great turnout
+965,Employer Info Session Street,Employer Info Session,CS Dept,2024-02-25,University,Dallas,TX,USA,14:30,120,Virtual,Yes,331,44,ACM,25,3.85,Analytics,Great turnout
+966,Hackathon Laugh,Hackathon,Business School,2022-11-25,Employer,New York,NY,USA,17:00,60,Virtual,Yes,389,219,SLU,50,4.2,Analytics,Tech-focused
+967,Webinar Agreement,Webinar,Employer Relations,2018-04-06,Employer,Atlanta,GA,USA,12:15,60,Hybrid,Yes,101,100,Company Partner,50,5.0,Analytics,Tech-focused
+968,Alumni Meetup Charge,Alumni Meetup,External Employer,2017-07-09,University,Cincinnati,OH,USA,11:45,60,Hybrid,Yes,87,25,Graduate School,50,4.72,Business,Tech-focused
+969,Seminar Responsibility,Seminar,SLU Career Services,2018-07-18,Employer,Chicago,IL,USA,10:45,90,Virtual,Yes,308,131,IEEE,10,3.62,Analytics,Targeted to MS students
+970,Seminar Stop,Seminar,Business School,2017-04-12,University,Irvine,CA,USA,17:00,180,In-Person,Yes,313,232,IEEE,25,4.46,Engineering,Tech-focused
+971,Career Fair How,Career Fair,CS Dept,2024-08-20,University,Plano,TX,USA,17:45,90,Hybrid,Yes,164,64,SLU,50,4.41,Career Services,Targeted to MS students
+972,Employer Info Session Usually,Employer Info Session,Business School,2016-09-30,Employer,Detroit,MI,USA,16:45,180,Virtual,Yes,105,43,Graduate School,25,5.0,Career Services,Networking-heavy
+973,Alumni Meetup Personal,Alumni Meetup,Employer Relations,2024-11-28,University,Springfield,MO,USA,15:00,180,In-Person,Yes,49,22,IEEE,0,3.6,Engineering,Targeted to MS students
+974,Alumni Meetup Civil,Alumni Meetup,External Employer,2021-04-07,Employer,Colorado Springs,CO,USA,09:15,90,Virtual,Yes,201,181,IEEE,0,3.84,Analytics,Tech-focused
+975,Webinar He,Webinar,Business School,2019-09-01,University,Durham,NC,USA,13:15,120,In-Person,Yes,181,10,Company Partner,25,5.0,Business,Great turnout
+976,Workshop Computer,Workshop,External Employer,2025-03-30,Employer,White Plains,NY,USA,08:00,90,Virtual,Yes,164,158,IEEE,0,3.63,Analytics,Great turnout
+977,Alumni Meetup Across,Alumni Meetup,SLU Alumni Association,2023-03-13,Employer,Atlanta,GA,USA,14:00,180,In-Person,Yes,219,206,SLU,0,4.43,Business,Tech-focused
+978,Career Fair Second,Career Fair,SLU Career Services,2015-01-10,Employer,Detroit,MI,USA,15:00,120,Hybrid,Yes,140,19,SLU,10,3.24,Business,Great turnout
+979,Hackathon Compare,Hackathon,SLU Career Services,2019-04-18,Employer,Los Angeles,CA,USA,18:30,180,Hybrid,Yes,320,152,SLU,0,4.31,Analytics,Targeted to MS students
+980,Workshop Sit,Workshop,External Employer,2025-03-25,Employer,Detroit,MI,USA,18:15,60,In-Person,Yes,375,56,Company Partner,0,4.34,Business,Great turnout
+981,Seminar Age,Seminar,Business School,2019-06-05,Employer,Miami,FL,USA,14:15,120,In-Person,Yes,232,175,ACM,25,4.02,Engineering,Networking-heavy
+982,Webinar Since,Webinar,CS Dept,2023-01-11,Employer,Redmond,WA,USA,17:00,180,Virtual,Yes,30,17,ACM,50,3.38,Business,Networking-heavy
+983,Hackathon When,Hackathon,SLU Career Services,2017-03-29,University,Boston,MA,USA,17:45,120,In-Person,Yes,163,46,Company Partner,0,4.22,Business,Great turnout
+984,Career Fair Cover,Career Fair,SLU Alumni Association,2021-09-26,University,Dallas,TX,USA,18:30,120,In-Person,Yes,64,31,IEEE,0,4.18,Career Services,Tech-focused
+985,Seminar Such,Seminar,Business School,2025-07-26,University,Houston,TX,USA,18:15,180,Virtual,Yes,319,268,SLU,50,3.9,Engineering,Tech-focused
+986,Seminar Class,Seminar,SLU Career Services,2017-07-01,University,Orlando,FL,USA,10:15,180,In-Person,Yes,321,197,Company Partner,10,3.9,Career Services,Networking-heavy
+987,Seminar Fund,Seminar,Employer Relations,2025-03-01,University,Grand Rapids,MI,USA,14:45,180,Hybrid,Yes,301,106,ACM,10,3.98,Career Services,Networking-heavy
+988,Employer Info Session Feel,Employer Info Session,SLU Alumni Association,2024-07-09,Employer,Scottsdale,AZ,USA,09:00,90,Hybrid,Yes,251,212,SLU,0,4.11,Analytics,Networking-heavy
+989,Seminar Commercial,Seminar,Business School,2022-03-18,Employer,Bellevue,WA,USA,09:15,60,Hybrid,Yes,382,66,SLU,10,4.31,Engineering,Great turnout
+990,Hackathon Get,Hackathon,Employer Relations,2021-09-01,University,Fort Collins,CO,USA,16:15,180,Virtual,Yes,102,17,Graduate School,25,5.0,Career Services,Networking-heavy
+991,Seminar Defense,Seminar,SLU Alumni Association,2021-02-05,University,Columbus,OH,USA,18:30,120,In-Person,Yes,370,311,IEEE,0,4.04,Business,Tech-focused
+992,Workshop Price,Workshop,SLU Alumni Association,2020-01-19,University,Naperville,IL,USA,14:30,90,In-Person,Yes,167,44,SLU,10,2.73,Career Services,Networking-heavy
+993,Alumni Meetup Hard,Alumni Meetup,SLU Career Services,2023-04-13,University,Springfield,IL,USA,08:00,60,Hybrid,Yes,289,109,IEEE,0,3.48,Career Services,Great turnout
+994,Hackathon Take,Hackathon,CS Dept,2015-03-30,Employer,Colorado Springs,CO,USA,14:30,180,In-Person,Yes,217,123,IEEE,25,4.68,Analytics,Networking-heavy
+995,Workshop Painting,Workshop,Employer Relations,2015-03-28,University,San Jose,CA,USA,10:45,180,In-Person,Yes,390,184,Graduate School,50,4.05,Career Services,Targeted to MS students
+996,Webinar Approach,Webinar,Business School,2015-04-10,University,Miami,FL,USA,08:45,60,Virtual,Yes,34,28,ACM,50,4.51,Analytics,Targeted to MS students
+997,Employer Info Session Nearly,Employer Info Session,CS Dept,2021-02-16,Employer,Tempe,AZ,USA,08:30,120,Hybrid,Yes,263,161,Graduate School,0,3.97,Analytics,Networking-heavy
+998,Alumni Meetup Huge,Alumni Meetup,Business School,2018-03-18,Employer,Atlanta,GA,USA,09:15,90,Hybrid,Yes,157,103,Graduate School,0,4.99,Business,Tech-focused
+999,Career Fair Model,Career Fair,SLU Alumni Association,2018-09-16,University,Austin,TX,USA,08:15,90,Hybrid,Yes,162,110,ACM,50,3.26,Career Services,Tech-focused
+1000,Employer Info Session About,Employer Info Session,CS Dept,2022-02-26,University,Philadelphia,PA,USA,11:45,120,Virtual,Yes,286,271,SLU,50,4.46,Engineering,Networking-heavy
